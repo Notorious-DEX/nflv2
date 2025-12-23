@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-23T17:22:51.185Z",
+  "lastUpdated": "2025-12-23T18:34:58.277Z",
   "season": 2025,
   "gameStats": [
     {
@@ -20006,6 +20006,16 @@
         "injuryNotes": null
       },
       {
+        "id": "11320",
+        "name": "Nikko Remigio",
+        "team": "KC",
+        "position": "WR",
+        "depthChartPosition": "SWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "11823",
         "name": "C.J. Hanson",
         "team": "KC",
@@ -23229,7 +23239,7 @@
   "summary": {
     "totalGames": 240,
     "upcomingGames": 0,
-    "injuredPlayers": 1237,
-    "lastUpdate": "2025-12-23T17:22:51.185Z"
+    "injuredPlayers": 1238,
+    "lastUpdate": "2025-12-23T18:34:58.277Z"
   }
 }
