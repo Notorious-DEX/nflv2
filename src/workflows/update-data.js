@@ -94,13 +94,20 @@ async function updateData() {
       logger.debug('No manual injuries file found');
     }
 
-    // Merge manual injuries
+      // Merge manual injuries
     Object.entries(manualInjuries).forEach(([team, teamInjuries]) => {
+      // Skip metadata fields (starting with _)
+      if (team.startsWith('_')) return;
+
+      // Only process if teamInjuries is an array
+      if (!Array.isArray(teamInjuries)) return;
+
       if (!injuriesByTeam[team]) {
         injuriesByTeam[team] = [];
       }
       injuriesByTeam[team].push(...teamInjuries);
     });
+
 
     // Step 7: Get current week's games (upcoming)
     logger.info('Fetching current week games...');
