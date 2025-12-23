@@ -2,7 +2,7 @@
   "startWeek": 1,
   "endWeek": 16,
   "season": 2025,
-  "lastUpdated": "2025-12-23T08:45:09.599Z",
+  "lastUpdated": "2025-12-23T08:57:07.591Z",
   "predictions": [
     {
       "id": "401772510",
@@ -13,7 +13,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.983Z",
+      "timestamp": "2025-12-23T08:56:32.254Z",
       "checked": false,
       "models": {
         "elo": {
@@ -39,7 +39,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.983Z",
+      "timestamp": "2025-12-23T08:56:32.254Z",
       "checked": false,
       "models": {
         "elo": {
@@ -65,7 +65,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.983Z",
+      "timestamp": "2025-12-23T08:56:32.254Z",
       "checked": false,
       "models": {
         "elo": {
@@ -91,7 +91,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.983Z",
+      "timestamp": "2025-12-23T08:56:32.254Z",
       "checked": false,
       "models": {
         "elo": {
@@ -117,7 +117,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.983Z",
+      "timestamp": "2025-12-23T08:56:32.254Z",
       "checked": false,
       "models": {
         "elo": {
@@ -143,7 +143,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.983Z",
+      "timestamp": "2025-12-23T08:56:32.255Z",
       "checked": false,
       "models": {
         "elo": {
@@ -169,7 +169,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.983Z",
+      "timestamp": "2025-12-23T08:56:32.255Z",
       "checked": false,
       "models": {
         "elo": {
@@ -195,7 +195,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.983Z",
+      "timestamp": "2025-12-23T08:56:32.255Z",
       "checked": false,
       "models": {
         "elo": {
@@ -221,7 +221,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.983Z",
+      "timestamp": "2025-12-23T08:56:32.255Z",
       "checked": false,
       "models": {
         "elo": {
@@ -247,7 +247,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.983Z",
+      "timestamp": "2025-12-23T08:56:32.255Z",
       "checked": false,
       "models": {
         "elo": {
@@ -273,7 +273,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.983Z",
+      "timestamp": "2025-12-23T08:56:32.255Z",
       "checked": false,
       "models": {
         "elo": {
@@ -299,7 +299,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.983Z",
+      "timestamp": "2025-12-23T08:56:32.255Z",
       "checked": false,
       "models": {
         "elo": {
@@ -325,7 +325,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.983Z",
+      "timestamp": "2025-12-23T08:56:32.255Z",
       "checked": false,
       "models": {
         "elo": {
@@ -351,7 +351,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.984Z",
+      "timestamp": "2025-12-23T08:56:32.255Z",
       "checked": false,
       "models": {
         "elo": {
@@ -377,7 +377,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.984Z",
+      "timestamp": "2025-12-23T08:56:32.255Z",
       "checked": false,
       "models": {
         "elo": {
@@ -403,7 +403,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.984Z",
+      "timestamp": "2025-12-23T08:56:32.255Z",
       "checked": false,
       "models": {
         "elo": {
@@ -429,7 +429,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.515Z",
       "checked": false,
       "models": {
         "elo": {
@@ -455,7 +455,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.515Z",
       "checked": false,
       "models": {
         "elo": {
@@ -481,7 +481,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.515Z",
       "checked": false,
       "models": {
         "elo": {
@@ -507,7 +507,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.515Z",
       "checked": false,
       "models": {
         "elo": {
@@ -533,7 +533,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.515Z",
       "checked": false,
       "models": {
         "elo": {
@@ -559,7 +559,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.515Z",
       "checked": false,
       "models": {
         "elo": {
@@ -585,7 +585,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.515Z",
       "checked": false,
       "models": {
         "elo": {
@@ -611,7 +611,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.515Z",
       "checked": false,
       "models": {
         "elo": {
@@ -637,7 +637,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.515Z",
       "checked": false,
       "models": {
         "elo": {
@@ -663,7 +663,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.516Z",
       "checked": false,
       "models": {
         "elo": {
@@ -689,7 +689,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.516Z",
       "checked": false,
       "models": {
         "elo": {
@@ -715,7 +715,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.516Z",
       "checked": false,
       "models": {
         "elo": {
@@ -741,7 +741,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.516Z",
       "checked": false,
       "models": {
         "elo": {
@@ -767,7 +767,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.516Z",
       "checked": false,
       "models": {
         "elo": {
@@ -793,7 +793,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.516Z",
       "checked": false,
       "models": {
         "elo": {
@@ -819,7 +819,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.516Z",
       "checked": false,
       "models": {
         "elo": {
@@ -845,7 +845,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": false,
       "models": {
         "elo": {
@@ -871,7 +871,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": false,
       "models": {
         "elo": {
@@ -897,7 +897,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": false,
       "models": {
         "elo": {
@@ -923,7 +923,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": false,
       "models": {
         "elo": {
@@ -949,7 +949,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": false,
       "models": {
         "elo": {
@@ -975,7 +975,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1001,7 +1001,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1027,7 +1027,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1053,7 +1053,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1079,7 +1079,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1105,7 +1105,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1131,7 +1131,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1157,7 +1157,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1183,7 +1183,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1209,7 +1209,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1235,7 +1235,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1261,7 +1261,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1287,7 +1287,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1313,7 +1313,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1339,7 +1339,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1365,7 +1365,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1391,7 +1391,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1417,7 +1417,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1443,7 +1443,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1469,7 +1469,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1495,7 +1495,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1521,7 +1521,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1547,7 +1547,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1573,7 +1573,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1599,7 +1599,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1625,7 +1625,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1651,7 +1651,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1677,7 +1677,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:43.456Z",
+      "timestamp": "2025-12-23T08:56:38.319Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1703,7 +1703,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:43.456Z",
+      "timestamp": "2025-12-23T08:56:38.319Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1729,7 +1729,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:43.456Z",
+      "timestamp": "2025-12-23T08:56:38.319Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1755,7 +1755,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:43.456Z",
+      "timestamp": "2025-12-23T08:56:38.319Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1781,7 +1781,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:43.456Z",
+      "timestamp": "2025-12-23T08:56:38.319Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1807,7 +1807,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:43.456Z",
+      "timestamp": "2025-12-23T08:56:38.319Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1833,7 +1833,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:43.456Z",
+      "timestamp": "2025-12-23T08:56:38.319Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1859,7 +1859,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:43.456Z",
+      "timestamp": "2025-12-23T08:56:38.319Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1885,7 +1885,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:43.456Z",
+      "timestamp": "2025-12-23T08:56:38.319Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1911,7 +1911,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:43.456Z",
+      "timestamp": "2025-12-23T08:56:38.319Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1937,7 +1937,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:43.456Z",
+      "timestamp": "2025-12-23T08:56:38.319Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1963,7 +1963,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:43.456Z",
+      "timestamp": "2025-12-23T08:56:38.319Z",
       "checked": false,
       "models": {
         "elo": {
@@ -1989,7 +1989,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:43.456Z",
+      "timestamp": "2025-12-23T08:56:38.319Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2015,7 +2015,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:43.456Z",
+      "timestamp": "2025-12-23T08:56:38.319Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2041,7 +2041,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2067,7 +2067,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2093,7 +2093,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2119,7 +2119,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2145,7 +2145,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2171,7 +2171,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2197,7 +2197,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2223,7 +2223,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2249,7 +2249,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2275,7 +2275,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2301,7 +2301,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2327,7 +2327,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2353,7 +2353,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2379,7 +2379,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2405,7 +2405,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2431,7 +2431,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2457,7 +2457,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2483,7 +2483,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2509,7 +2509,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2535,7 +2535,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2561,7 +2561,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2587,7 +2587,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2613,7 +2613,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2639,7 +2639,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2665,7 +2665,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2691,7 +2691,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2717,7 +2717,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2743,7 +2743,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2769,7 +2769,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2795,7 +2795,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2821,7 +2821,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:49.091Z",
+      "timestamp": "2025-12-23T08:56:43.748Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2847,7 +2847,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:49.091Z",
+      "timestamp": "2025-12-23T08:56:43.748Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2873,7 +2873,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:49.091Z",
+      "timestamp": "2025-12-23T08:56:43.748Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2899,7 +2899,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:49.091Z",
+      "timestamp": "2025-12-23T08:56:43.748Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2925,7 +2925,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:49.091Z",
+      "timestamp": "2025-12-23T08:56:43.748Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2951,7 +2951,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:49.091Z",
+      "timestamp": "2025-12-23T08:56:43.748Z",
       "checked": false,
       "models": {
         "elo": {
@@ -2977,7 +2977,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:49.091Z",
+      "timestamp": "2025-12-23T08:56:43.748Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3003,7 +3003,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:49.091Z",
+      "timestamp": "2025-12-23T08:56:43.748Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3029,7 +3029,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:49.091Z",
+      "timestamp": "2025-12-23T08:56:43.748Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3055,7 +3055,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:49.091Z",
+      "timestamp": "2025-12-23T08:56:43.748Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3081,7 +3081,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:49.091Z",
+      "timestamp": "2025-12-23T08:56:43.748Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3107,7 +3107,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:49.091Z",
+      "timestamp": "2025-12-23T08:56:43.748Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3133,7 +3133,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:49.091Z",
+      "timestamp": "2025-12-23T08:56:43.748Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3159,7 +3159,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:50.922Z",
+      "timestamp": "2025-12-23T08:56:46.107Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3185,7 +3185,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:50.922Z",
+      "timestamp": "2025-12-23T08:56:46.107Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3211,7 +3211,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:50.922Z",
+      "timestamp": "2025-12-23T08:56:46.107Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3237,7 +3237,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:50.922Z",
+      "timestamp": "2025-12-23T08:56:46.107Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3263,7 +3263,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:50.922Z",
+      "timestamp": "2025-12-23T08:56:46.107Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3289,7 +3289,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:50.922Z",
+      "timestamp": "2025-12-23T08:56:46.107Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3315,7 +3315,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:50.922Z",
+      "timestamp": "2025-12-23T08:56:46.107Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3341,7 +3341,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:50.922Z",
+      "timestamp": "2025-12-23T08:56:46.107Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3367,7 +3367,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:50.922Z",
+      "timestamp": "2025-12-23T08:56:46.107Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3393,7 +3393,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:50.922Z",
+      "timestamp": "2025-12-23T08:56:46.107Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3419,7 +3419,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:50.922Z",
+      "timestamp": "2025-12-23T08:56:46.107Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3445,7 +3445,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:50.922Z",
+      "timestamp": "2025-12-23T08:56:46.107Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3471,7 +3471,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:50.922Z",
+      "timestamp": "2025-12-23T08:56:46.107Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3497,7 +3497,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:50.922Z",
+      "timestamp": "2025-12-23T08:56:46.107Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3523,7 +3523,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:53.245Z",
+      "timestamp": "2025-12-23T08:56:48.258Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3549,7 +3549,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:53.245Z",
+      "timestamp": "2025-12-23T08:56:48.258Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3575,7 +3575,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:53.245Z",
+      "timestamp": "2025-12-23T08:56:48.258Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3601,7 +3601,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:53.245Z",
+      "timestamp": "2025-12-23T08:56:48.258Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3627,7 +3627,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:53.245Z",
+      "timestamp": "2025-12-23T08:56:48.258Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3653,7 +3653,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:53.245Z",
+      "timestamp": "2025-12-23T08:56:48.258Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3679,7 +3679,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:53.245Z",
+      "timestamp": "2025-12-23T08:56:48.258Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3705,7 +3705,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:53.245Z",
+      "timestamp": "2025-12-23T08:56:48.258Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3731,7 +3731,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:53.245Z",
+      "timestamp": "2025-12-23T08:56:48.258Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3757,7 +3757,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:53.245Z",
+      "timestamp": "2025-12-23T08:56:48.258Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3783,7 +3783,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:53.245Z",
+      "timestamp": "2025-12-23T08:56:48.258Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3809,7 +3809,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:53.245Z",
+      "timestamp": "2025-12-23T08:56:48.258Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3835,7 +3835,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:53.245Z",
+      "timestamp": "2025-12-23T08:56:48.258Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3861,7 +3861,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:53.245Z",
+      "timestamp": "2025-12-23T08:56:48.258Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3887,7 +3887,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.777Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3913,7 +3913,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.777Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3939,7 +3939,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.777Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3965,7 +3965,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.777Z",
       "checked": false,
       "models": {
         "elo": {
@@ -3991,7 +3991,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.778Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4017,7 +4017,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.778Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4043,7 +4043,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.778Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4069,7 +4069,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.778Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4095,7 +4095,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.778Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4121,7 +4121,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.778Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4147,7 +4147,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.778Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4173,7 +4173,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.778Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4199,7 +4199,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.778Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4225,7 +4225,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.778Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4251,7 +4251,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.778Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4277,7 +4277,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:57.945Z",
+      "timestamp": "2025-12-23T08:56:53.778Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4303,7 +4303,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:57.945Z",
+      "timestamp": "2025-12-23T08:56:53.778Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4329,7 +4329,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:57.945Z",
+      "timestamp": "2025-12-23T08:56:53.778Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4355,7 +4355,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:57.945Z",
+      "timestamp": "2025-12-23T08:56:53.778Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4381,7 +4381,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:57.945Z",
+      "timestamp": "2025-12-23T08:56:53.778Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4407,7 +4407,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:57.945Z",
+      "timestamp": "2025-12-23T08:56:53.778Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4433,7 +4433,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:57.945Z",
+      "timestamp": "2025-12-23T08:56:53.778Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4459,7 +4459,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:57.945Z",
+      "timestamp": "2025-12-23T08:56:53.778Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4485,7 +4485,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:57.945Z",
+      "timestamp": "2025-12-23T08:56:53.778Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4511,7 +4511,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:57.945Z",
+      "timestamp": "2025-12-23T08:56:53.778Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4537,7 +4537,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:57.945Z",
+      "timestamp": "2025-12-23T08:56:53.778Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4563,7 +4563,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:57.945Z",
+      "timestamp": "2025-12-23T08:56:53.778Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4589,7 +4589,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:57.945Z",
+      "timestamp": "2025-12-23T08:56:53.778Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4615,7 +4615,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:57.945Z",
+      "timestamp": "2025-12-23T08:56:53.778Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4641,7 +4641,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.750Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4667,7 +4667,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.750Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4693,7 +4693,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.751Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4719,7 +4719,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.751Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4745,7 +4745,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.751Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4771,7 +4771,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.751Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4797,7 +4797,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.751Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4823,7 +4823,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.751Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4849,7 +4849,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.751Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4875,7 +4875,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.751Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4901,7 +4901,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.751Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4927,7 +4927,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.751Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4953,7 +4953,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.751Z",
       "checked": false,
       "models": {
         "elo": {
@@ -4979,7 +4979,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.751Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5005,7 +5005,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.751Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5031,7 +5031,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.751Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5057,7 +5057,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:03.740Z",
+      "timestamp": "2025-12-23T08:57:01.811Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5083,7 +5083,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:03.740Z",
+      "timestamp": "2025-12-23T08:57:01.811Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5109,7 +5109,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:03.740Z",
+      "timestamp": "2025-12-23T08:57:01.811Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5135,7 +5135,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:03.740Z",
+      "timestamp": "2025-12-23T08:57:01.811Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5161,7 +5161,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:03.740Z",
+      "timestamp": "2025-12-23T08:57:01.811Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5187,7 +5187,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:03.740Z",
+      "timestamp": "2025-12-23T08:57:01.811Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5213,7 +5213,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:03.740Z",
+      "timestamp": "2025-12-23T08:57:01.811Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5239,7 +5239,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:03.740Z",
+      "timestamp": "2025-12-23T08:57:01.811Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5265,7 +5265,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:03.740Z",
+      "timestamp": "2025-12-23T08:57:01.811Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5291,7 +5291,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:03.740Z",
+      "timestamp": "2025-12-23T08:57:01.811Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5317,7 +5317,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:03.740Z",
+      "timestamp": "2025-12-23T08:57:01.812Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5343,7 +5343,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:03.740Z",
+      "timestamp": "2025-12-23T08:57:01.812Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5369,7 +5369,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:03.740Z",
+      "timestamp": "2025-12-23T08:57:01.812Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5395,7 +5395,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:03.740Z",
+      "timestamp": "2025-12-23T08:57:01.812Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5421,7 +5421,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.396Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5447,7 +5447,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.396Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5473,7 +5473,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.396Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5499,7 +5499,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.396Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5525,7 +5525,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.396Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5551,7 +5551,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.396Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5577,7 +5577,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.396Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5603,7 +5603,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.396Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5629,7 +5629,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.396Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5655,7 +5655,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.396Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5681,7 +5681,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.396Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5707,7 +5707,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.397Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5733,7 +5733,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.397Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5759,7 +5759,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.397Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5785,7 +5785,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.397Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5811,7 +5811,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.397Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5837,7 +5837,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5863,7 +5863,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5889,7 +5889,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5915,7 +5915,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5941,7 +5941,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5967,7 +5967,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": false,
       "models": {
         "elo": {
@@ -5993,7 +5993,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": false,
       "models": {
         "elo": {
@@ -6019,7 +6019,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": false,
       "models": {
         "elo": {
@@ -6045,7 +6045,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": false,
       "models": {
         "elo": {
@@ -6071,7 +6071,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": false,
       "models": {
         "elo": {
@@ -6097,7 +6097,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": false,
       "models": {
         "elo": {
@@ -6123,7 +6123,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": false,
       "models": {
         "elo": {
@@ -6149,7 +6149,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": false,
       "models": {
         "elo": {
@@ -6175,7 +6175,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": false,
       "models": {
         "elo": {
@@ -6201,7 +6201,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": false,
       "models": {
         "elo": {
@@ -6227,7 +6227,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": false,
       "models": {
         "elo": {
@@ -6255,7 +6255,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.983Z",
+      "timestamp": "2025-12-23T08:56:32.254Z",
       "checked": true,
       "models": {
         "elo": {
@@ -6285,7 +6285,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.983Z",
+      "timestamp": "2025-12-23T08:56:32.254Z",
       "checked": true,
       "models": {
         "elo": {
@@ -6315,7 +6315,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.983Z",
+      "timestamp": "2025-12-23T08:56:32.254Z",
       "checked": true,
       "models": {
         "elo": {
@@ -6345,7 +6345,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.983Z",
+      "timestamp": "2025-12-23T08:56:32.254Z",
       "checked": true,
       "models": {
         "elo": {
@@ -6375,7 +6375,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.983Z",
+      "timestamp": "2025-12-23T08:56:32.254Z",
       "checked": true,
       "models": {
         "elo": {
@@ -6405,7 +6405,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.983Z",
+      "timestamp": "2025-12-23T08:56:32.255Z",
       "checked": true,
       "models": {
         "elo": {
@@ -6435,7 +6435,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.983Z",
+      "timestamp": "2025-12-23T08:56:32.255Z",
       "checked": true,
       "models": {
         "elo": {
@@ -6465,7 +6465,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.983Z",
+      "timestamp": "2025-12-23T08:56:32.255Z",
       "checked": true,
       "models": {
         "elo": {
@@ -6495,7 +6495,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.983Z",
+      "timestamp": "2025-12-23T08:56:32.255Z",
       "checked": true,
       "models": {
         "elo": {
@@ -6525,7 +6525,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.983Z",
+      "timestamp": "2025-12-23T08:56:32.255Z",
       "checked": true,
       "models": {
         "elo": {
@@ -6555,7 +6555,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.983Z",
+      "timestamp": "2025-12-23T08:56:32.255Z",
       "checked": true,
       "models": {
         "elo": {
@@ -6585,7 +6585,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.983Z",
+      "timestamp": "2025-12-23T08:56:32.255Z",
       "checked": true,
       "models": {
         "elo": {
@@ -6615,7 +6615,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.983Z",
+      "timestamp": "2025-12-23T08:56:32.255Z",
       "checked": true,
       "models": {
         "elo": {
@@ -6645,7 +6645,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.984Z",
+      "timestamp": "2025-12-23T08:56:32.255Z",
       "checked": true,
       "models": {
         "elo": {
@@ -6675,7 +6675,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.984Z",
+      "timestamp": "2025-12-23T08:56:32.255Z",
       "checked": true,
       "models": {
         "elo": {
@@ -6705,7 +6705,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:37.984Z",
+      "timestamp": "2025-12-23T08:56:32.255Z",
       "checked": true,
       "models": {
         "elo": {
@@ -6735,7 +6735,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.515Z",
       "checked": true,
       "models": {
         "elo": {
@@ -6765,7 +6765,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.515Z",
       "checked": true,
       "models": {
         "elo": {
@@ -6795,7 +6795,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.515Z",
       "checked": true,
       "models": {
         "elo": {
@@ -6825,7 +6825,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.515Z",
       "checked": true,
       "models": {
         "elo": {
@@ -6855,7 +6855,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.515Z",
       "checked": true,
       "models": {
         "elo": {
@@ -6885,7 +6885,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.515Z",
       "checked": true,
       "models": {
         "elo": {
@@ -6915,7 +6915,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.515Z",
       "checked": true,
       "models": {
         "elo": {
@@ -6945,7 +6945,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.515Z",
       "checked": true,
       "models": {
         "elo": {
@@ -6975,7 +6975,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.515Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7005,7 +7005,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.516Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7035,7 +7035,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.516Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7065,7 +7065,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.516Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7095,7 +7095,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.516Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7125,7 +7125,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.516Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7155,7 +7155,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.516Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7185,7 +7185,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:39.245Z",
+      "timestamp": "2025-12-23T08:56:33.516Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7215,7 +7215,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7245,7 +7245,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7275,7 +7275,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7305,7 +7305,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7335,7 +7335,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7365,7 +7365,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7395,7 +7395,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7425,7 +7425,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7455,7 +7455,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7485,7 +7485,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7515,7 +7515,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7545,7 +7545,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7575,7 +7575,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7605,7 +7605,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7635,7 +7635,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7665,7 +7665,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:40.453Z",
+      "timestamp": "2025-12-23T08:56:34.985Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7695,7 +7695,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7725,7 +7725,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7755,7 +7755,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7785,7 +7785,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7815,7 +7815,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7845,7 +7845,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7875,7 +7875,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7905,7 +7905,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7935,7 +7935,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7965,7 +7965,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": true,
       "models": {
         "elo": {
@@ -7995,7 +7995,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8025,7 +8025,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8055,7 +8055,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8085,7 +8085,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8115,7 +8115,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8145,7 +8145,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:41.794Z",
+      "timestamp": "2025-12-23T08:56:36.595Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8175,7 +8175,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:43.456Z",
+      "timestamp": "2025-12-23T08:56:38.319Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8205,7 +8205,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:43.456Z",
+      "timestamp": "2025-12-23T08:56:38.319Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8235,7 +8235,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:43.456Z",
+      "timestamp": "2025-12-23T08:56:38.319Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8265,7 +8265,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:43.456Z",
+      "timestamp": "2025-12-23T08:56:38.319Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8295,7 +8295,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:43.456Z",
+      "timestamp": "2025-12-23T08:56:38.319Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8325,7 +8325,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:43.456Z",
+      "timestamp": "2025-12-23T08:56:38.319Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8355,7 +8355,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:43.456Z",
+      "timestamp": "2025-12-23T08:56:38.319Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8385,7 +8385,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:43.456Z",
+      "timestamp": "2025-12-23T08:56:38.319Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8415,7 +8415,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:43.456Z",
+      "timestamp": "2025-12-23T08:56:38.319Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8445,7 +8445,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:43.456Z",
+      "timestamp": "2025-12-23T08:56:38.319Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8475,7 +8475,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:43.456Z",
+      "timestamp": "2025-12-23T08:56:38.319Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8505,7 +8505,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:43.456Z",
+      "timestamp": "2025-12-23T08:56:38.319Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8535,7 +8535,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:43.456Z",
+      "timestamp": "2025-12-23T08:56:38.319Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8565,7 +8565,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:43.456Z",
+      "timestamp": "2025-12-23T08:56:38.319Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8595,7 +8595,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8625,7 +8625,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8655,7 +8655,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8685,7 +8685,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8715,7 +8715,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8745,7 +8745,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8775,7 +8775,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8805,7 +8805,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8835,7 +8835,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8865,7 +8865,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8895,7 +8895,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8925,7 +8925,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8955,7 +8955,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": true,
       "models": {
         "elo": {
@@ -8985,7 +8985,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9015,7 +9015,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:44.971Z",
+      "timestamp": "2025-12-23T08:56:39.935Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9045,7 +9045,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9075,7 +9075,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9105,7 +9105,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9135,7 +9135,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9165,7 +9165,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9195,7 +9195,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9225,7 +9225,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9255,7 +9255,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9285,7 +9285,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9315,7 +9315,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9345,7 +9345,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9375,7 +9375,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9405,7 +9405,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9435,7 +9435,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9465,7 +9465,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:47.094Z",
+      "timestamp": "2025-12-23T08:56:41.875Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9495,7 +9495,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:49.091Z",
+      "timestamp": "2025-12-23T08:56:43.748Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9525,7 +9525,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:49.091Z",
+      "timestamp": "2025-12-23T08:56:43.748Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9555,7 +9555,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:49.091Z",
+      "timestamp": "2025-12-23T08:56:43.748Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9585,7 +9585,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:49.091Z",
+      "timestamp": "2025-12-23T08:56:43.748Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9615,7 +9615,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:49.091Z",
+      "timestamp": "2025-12-23T08:56:43.748Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9645,7 +9645,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:49.091Z",
+      "timestamp": "2025-12-23T08:56:43.748Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9675,7 +9675,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:49.091Z",
+      "timestamp": "2025-12-23T08:56:43.748Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9705,7 +9705,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:49.091Z",
+      "timestamp": "2025-12-23T08:56:43.748Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9735,7 +9735,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:49.091Z",
+      "timestamp": "2025-12-23T08:56:43.748Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9765,7 +9765,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:49.091Z",
+      "timestamp": "2025-12-23T08:56:43.748Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9795,7 +9795,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:49.091Z",
+      "timestamp": "2025-12-23T08:56:43.748Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9825,7 +9825,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:49.091Z",
+      "timestamp": "2025-12-23T08:56:43.748Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9855,7 +9855,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:49.091Z",
+      "timestamp": "2025-12-23T08:56:43.748Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9885,7 +9885,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:50.922Z",
+      "timestamp": "2025-12-23T08:56:46.107Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9915,7 +9915,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:50.922Z",
+      "timestamp": "2025-12-23T08:56:46.107Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9945,7 +9945,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:50.922Z",
+      "timestamp": "2025-12-23T08:56:46.107Z",
       "checked": true,
       "models": {
         "elo": {
@@ -9975,7 +9975,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:50.922Z",
+      "timestamp": "2025-12-23T08:56:46.107Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10005,7 +10005,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:50.922Z",
+      "timestamp": "2025-12-23T08:56:46.107Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10035,7 +10035,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:50.922Z",
+      "timestamp": "2025-12-23T08:56:46.107Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10065,7 +10065,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:50.922Z",
+      "timestamp": "2025-12-23T08:56:46.107Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10095,7 +10095,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:50.922Z",
+      "timestamp": "2025-12-23T08:56:46.107Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10125,7 +10125,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:50.922Z",
+      "timestamp": "2025-12-23T08:56:46.107Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10155,7 +10155,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:50.922Z",
+      "timestamp": "2025-12-23T08:56:46.107Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10185,7 +10185,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:50.922Z",
+      "timestamp": "2025-12-23T08:56:46.107Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10215,7 +10215,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:50.922Z",
+      "timestamp": "2025-12-23T08:56:46.107Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10245,7 +10245,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:50.922Z",
+      "timestamp": "2025-12-23T08:56:46.107Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10275,7 +10275,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:50.922Z",
+      "timestamp": "2025-12-23T08:56:46.107Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10305,7 +10305,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:53.245Z",
+      "timestamp": "2025-12-23T08:56:48.258Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10335,7 +10335,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:53.245Z",
+      "timestamp": "2025-12-23T08:56:48.258Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10365,7 +10365,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:53.245Z",
+      "timestamp": "2025-12-23T08:56:48.258Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10395,7 +10395,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:53.245Z",
+      "timestamp": "2025-12-23T08:56:48.258Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10425,7 +10425,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:53.245Z",
+      "timestamp": "2025-12-23T08:56:48.258Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10455,7 +10455,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:53.245Z",
+      "timestamp": "2025-12-23T08:56:48.258Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10485,7 +10485,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:53.245Z",
+      "timestamp": "2025-12-23T08:56:48.258Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10515,7 +10515,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:53.245Z",
+      "timestamp": "2025-12-23T08:56:48.258Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10545,7 +10545,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:53.245Z",
+      "timestamp": "2025-12-23T08:56:48.258Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10575,7 +10575,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:53.245Z",
+      "timestamp": "2025-12-23T08:56:48.258Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10605,7 +10605,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:53.245Z",
+      "timestamp": "2025-12-23T08:56:48.258Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10635,7 +10635,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:53.245Z",
+      "timestamp": "2025-12-23T08:56:48.258Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10665,7 +10665,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:53.245Z",
+      "timestamp": "2025-12-23T08:56:48.258Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10695,7 +10695,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:53.245Z",
+      "timestamp": "2025-12-23T08:56:48.258Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10725,7 +10725,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.777Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10755,7 +10755,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.777Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10785,7 +10785,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.777Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10815,7 +10815,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.777Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10845,7 +10845,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.778Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10875,7 +10875,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.778Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10905,7 +10905,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.778Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10935,7 +10935,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.778Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10965,7 +10965,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.778Z",
       "checked": true,
       "models": {
         "elo": {
@@ -10995,7 +10995,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.778Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11025,7 +11025,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.778Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11055,7 +11055,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.778Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11085,7 +11085,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.778Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11115,7 +11115,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.778Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11145,7 +11145,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:55.347Z",
+      "timestamp": "2025-12-23T08:56:50.778Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11175,7 +11175,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:57.945Z",
+      "timestamp": "2025-12-23T08:56:53.778Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11205,7 +11205,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:57.945Z",
+      "timestamp": "2025-12-23T08:56:53.778Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11235,7 +11235,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:57.945Z",
+      "timestamp": "2025-12-23T08:56:53.778Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11265,7 +11265,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:57.945Z",
+      "timestamp": "2025-12-23T08:56:53.778Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11295,7 +11295,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:57.945Z",
+      "timestamp": "2025-12-23T08:56:53.778Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11325,7 +11325,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:57.945Z",
+      "timestamp": "2025-12-23T08:56:53.778Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11355,7 +11355,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:57.945Z",
+      "timestamp": "2025-12-23T08:56:53.778Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11385,7 +11385,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:57.945Z",
+      "timestamp": "2025-12-23T08:56:53.778Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11415,7 +11415,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:57.945Z",
+      "timestamp": "2025-12-23T08:56:53.778Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11445,7 +11445,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:57.945Z",
+      "timestamp": "2025-12-23T08:56:53.778Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11475,7 +11475,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:57.945Z",
+      "timestamp": "2025-12-23T08:56:53.778Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11505,7 +11505,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:57.945Z",
+      "timestamp": "2025-12-23T08:56:53.778Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11535,7 +11535,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:57.945Z",
+      "timestamp": "2025-12-23T08:56:53.778Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11565,7 +11565,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:44:57.945Z",
+      "timestamp": "2025-12-23T08:56:53.778Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11595,7 +11595,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.750Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11625,7 +11625,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.750Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11655,7 +11655,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.751Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11685,7 +11685,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.751Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11715,7 +11715,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.751Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11745,7 +11745,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.751Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11775,7 +11775,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.751Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11805,7 +11805,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.751Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11835,7 +11835,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.751Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11865,7 +11865,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.751Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11895,7 +11895,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.751Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11925,7 +11925,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.751Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11955,7 +11955,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.751Z",
       "checked": true,
       "models": {
         "elo": {
@@ -11985,7 +11985,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.751Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12015,7 +12015,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.751Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12045,7 +12045,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:00.534Z",
+      "timestamp": "2025-12-23T08:56:56.751Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12075,7 +12075,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:03.740Z",
+      "timestamp": "2025-12-23T08:57:01.811Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12105,7 +12105,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:03.740Z",
+      "timestamp": "2025-12-23T08:57:01.811Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12135,7 +12135,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:03.740Z",
+      "timestamp": "2025-12-23T08:57:01.811Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12165,7 +12165,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:03.740Z",
+      "timestamp": "2025-12-23T08:57:01.811Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12195,7 +12195,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:03.740Z",
+      "timestamp": "2025-12-23T08:57:01.811Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12225,7 +12225,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:03.740Z",
+      "timestamp": "2025-12-23T08:57:01.811Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12255,7 +12255,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:03.740Z",
+      "timestamp": "2025-12-23T08:57:01.811Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12285,7 +12285,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:03.740Z",
+      "timestamp": "2025-12-23T08:57:01.811Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12315,7 +12315,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:03.740Z",
+      "timestamp": "2025-12-23T08:57:01.811Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12345,7 +12345,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:03.740Z",
+      "timestamp": "2025-12-23T08:57:01.811Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12375,7 +12375,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:03.740Z",
+      "timestamp": "2025-12-23T08:57:01.812Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12405,7 +12405,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:03.740Z",
+      "timestamp": "2025-12-23T08:57:01.812Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12435,7 +12435,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:03.740Z",
+      "timestamp": "2025-12-23T08:57:01.812Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12465,7 +12465,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:03.740Z",
+      "timestamp": "2025-12-23T08:57:01.812Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12495,7 +12495,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.396Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12525,7 +12525,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.396Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12555,7 +12555,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.396Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12585,7 +12585,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.396Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12615,7 +12615,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.396Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12645,7 +12645,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.396Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12675,7 +12675,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.396Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12705,7 +12705,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.396Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12735,7 +12735,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.396Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12765,7 +12765,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.396Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12795,7 +12795,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.396Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12825,7 +12825,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.397Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12855,7 +12855,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.397Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12885,7 +12885,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.397Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12915,7 +12915,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.397Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12945,7 +12945,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:06.397Z",
+      "timestamp": "2025-12-23T08:57:04.889Z",
       "checked": true,
       "models": {
         "elo": {
@@ -12975,7 +12975,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": true,
       "models": {
         "elo": {
@@ -13005,7 +13005,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": true,
       "models": {
         "elo": {
@@ -13035,7 +13035,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": true,
       "models": {
         "elo": {
@@ -13065,7 +13065,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": true,
       "models": {
         "elo": {
@@ -13095,7 +13095,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": true,
       "models": {
         "elo": {
@@ -13125,7 +13125,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": true,
       "models": {
         "elo": {
@@ -13155,7 +13155,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": true,
       "models": {
         "elo": {
@@ -13185,7 +13185,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": true,
       "models": {
         "elo": {
@@ -13215,7 +13215,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": true,
       "models": {
         "elo": {
@@ -13245,7 +13245,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": true,
       "models": {
         "elo": {
@@ -13275,7 +13275,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": true,
       "models": {
         "elo": {
@@ -13305,7 +13305,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": true,
       "models": {
         "elo": {
@@ -13335,7 +13335,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": true,
       "models": {
         "elo": {
@@ -13365,7 +13365,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": true,
       "models": {
         "elo": {
@@ -13395,7 +13395,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": true,
       "models": {
         "elo": {
@@ -13425,7 +13425,7 @@
       "predictedScore": "NaN-NaN",
       "spread": null,
       "confidence": "low",
-      "timestamp": "2025-12-23T08:45:09.598Z",
+      "timestamp": "2025-12-23T08:57:07.590Z",
       "checked": true,
       "models": {
         "elo": {
