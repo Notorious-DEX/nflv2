@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-23T18:34:58.277Z",
+  "lastUpdated": "2025-12-23T19:19:26.990Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18579,9 +18579,9 @@
         "team": "CLE",
         "position": "RB",
         "depthChartPosition": "RB",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Leg",
-        "injuryNotes": null
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Lower Leg",
+        "injuryNotes": "Surgery"
       },
       {
         "id": "12785",
@@ -23240,6 +23240,6 @@
     "totalGames": 240,
     "upcomingGames": 0,
     "injuredPlayers": 1238,
-    "lastUpdate": "2025-12-23T18:34:58.277Z"
+    "lastUpdate": "2025-12-23T19:19:26.990Z"
   }
 }
