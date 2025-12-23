@@ -60,21 +60,21 @@ export function parseStatValue(value) {
  * Parse boxscore statistics from ESPN API response
  */
 export function parseBoxscoreStats(boxscore) {
-  if (!boxscore || !boxscore.statistics) {
+  if (!boxscore || !boxscore.teams) {
     return null;
   }
 
   const stats = {};
 
-  // ESPN returns stats as array of team stats
-  boxscore.statistics.forEach((teamStats, index) => {
-    const teamName = boxscore.boxscore?.teams?.[index]?.team?.displayName;
-    if (!teamName) return;
+  // ESPN returns teams array with statistics
+  boxscore.teams.forEach((team) => {
+    const teamName = team.team?.displayName;
+    if (!teamName || !team.statistics) return;
 
     const teamData = {};
 
     // Parse all stats
-    teamStats.stats?.forEach(stat => {
+    team.statistics.forEach(stat => {
       const normalizedName = normalizeStatName(stat.name || stat.label || '');
       const value = parseStatValue(stat.displayValue || stat.value);
 
@@ -86,6 +86,7 @@ export function parseBoxscoreStats(boxscore) {
 
   return stats;
 }
+
 
 /**
  * Extract team statistics from game summary
