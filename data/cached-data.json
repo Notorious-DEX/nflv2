@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-23T15:25:24.211Z",
+  "lastUpdated": "2025-12-23T16:30:54.695Z",
   "season": 2025,
   "gameStats": [
     {
@@ -20590,6 +20590,16 @@
         "injuryNotes": null
       },
       {
+        "id": "12592",
+        "name": "Jared Wilson",
+        "team": "NE",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Concussion",
+        "injuryNotes": null
+      },
+      {
         "id": "12728",
         "name": "Marcus Bryant",
         "team": "NE",
@@ -21028,7 +21038,7 @@
         "name": "Andre Baccellia",
         "team": "ARI",
         "position": "WR",
-        "depthChartPosition": "KR",
+        "depthChartPosition": null,
         "injuryStatus": "IR",
         "injuryBodyPart": "Neck",
         "injuryNotes": null
@@ -23219,7 +23229,7 @@
   "summary": {
     "totalGames": 240,
     "upcomingGames": 0,
-    "injuredPlayers": 1236,
-    "lastUpdate": "2025-12-23T15:25:24.211Z"
+    "injuredPlayers": 1237,
+    "lastUpdate": "2025-12-23T16:30:54.695Z"
   }
 }
