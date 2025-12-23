@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-23T21:21:24.948Z",
+  "lastUpdated": "2025-12-23T22:21:54.448Z",
   "season": 2025,
   "gameStats": [
     {
@@ -15592,16 +15592,6 @@
         "injuryNotes": null
       },
       {
-        "id": "11561",
-        "name": "Michael Pratt",
-        "team": null,
-        "position": "QB",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Back",
-        "injuryNotes": null
-      },
-      {
         "id": "11567",
         "name": "Jordan Travis",
         "team": null,
@@ -16583,6 +16573,16 @@
         "depthChartPosition": "DL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Quadriceps",
+        "injuryNotes": null
+      },
+      {
+        "id": "4198",
+        "name": "Jamal Agnew",
+        "team": "WAS",
+        "position": "WR",
+        "depthChartPosition": "SWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
       },
       {
@@ -20595,7 +20595,7 @@
         "team": "NE",
         "position": "DL",
         "depthChartPosition": "NT",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
@@ -21129,7 +21129,7 @@
         "team": "ARI",
         "position": "DB",
         "depthChartPosition": "DB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Achilles",
         "injuryNotes": null
       },
@@ -21199,7 +21199,7 @@
         "team": "ARI",
         "position": "DL",
         "depthChartPosition": "DL",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -23240,6 +23240,6 @@
     "totalGames": 240,
     "upcomingGames": 0,
     "injuredPlayers": 1238,
-    "lastUpdate": "2025-12-23T21:21:24.948Z"
+    "lastUpdate": "2025-12-23T22:21:54.448Z"
   }
 }
