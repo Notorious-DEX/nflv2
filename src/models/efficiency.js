@@ -120,11 +120,12 @@ export function predictGame(homeTeamStats, awayTeamStats, leagueAverage, ranking
   const predictedWinner = homeScore > awayScore ? homeTeamStats.teamName : awayTeamStats.teamName;
 
   let confidence = 'low';
-  if (scoreDiff >= 10) {
-    confidence = 'high';
-  } else if (scoreDiff >= 6) {
-    confidence = 'medium';
+  if (scoreDiff >= 7) {      // Was 10 - now 1 TD
+  confidence = 'high';
+  } else if (scoreDiff >= 4) { // Was 6 - now 1 FG+
+  confidence = 'medium';
   }
+
 
   return {
     homeTeam: homeTeamStats.teamName,
