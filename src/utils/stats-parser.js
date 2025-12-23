@@ -96,7 +96,7 @@ export function extractTeamStats(gameSummary) {
 
   try {
     const boxscore = gameSummary.boxscore;
-    const stats = parseBoxscoreStats(gameSummary);
+    const stats = parseBoxscoreStats(boxscore);
 
     if (!stats) {
       return null;
