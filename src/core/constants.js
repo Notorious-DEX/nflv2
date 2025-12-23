@@ -63,8 +63,9 @@ export const MODEL_CONSTANTS = {
   ELO_REGRESSION: 1/3,                  // Season start regression to mean (1500)
   ELO_BASE_RATING: 1500,                // Starting Elo rating
   ELO_MOV_MULTIPLIER: 1,                // Margin of victory adjustment
-  CONFIDENCE_HIGH_THRESHOLD: 100,       // Elo difference for high confidence
-  CONFIDENCE_MEDIUM_THRESHOLD: 50       // Elo difference for medium confidence
+  CONFIDENCE_HIGH_THRESHOLD: 50,        // Was 100 - now more realistic
+  CONFIDENCE_MEDIUM_THRESHOLD: 25       // Was 50
+
 };
 
 // API endpoints
