@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-23T19:19:26.990Z",
+  "lastUpdated": "2025-12-23T20:25:59.608Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18893,9 +18893,9 @@
         "team": "MIN",
         "position": "C",
         "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Head",
-        "injuryNotes": "Concussion"
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Concussion",
+        "injuryNotes": null
       },
       {
         "id": "3256",
@@ -23240,6 +23240,6 @@
     "totalGames": 240,
     "upcomingGames": 0,
     "injuredPlayers": 1238,
-    "lastUpdate": "2025-12-23T19:19:26.990Z"
+    "lastUpdate": "2025-12-23T20:25:59.608Z"
   }
 }
