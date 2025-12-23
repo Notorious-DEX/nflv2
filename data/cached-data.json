@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-23T20:25:59.608Z",
+  "lastUpdated": "2025-12-23T21:21:24.948Z",
   "season": 2025,
   "gameStats": [
     {
@@ -10834,7 +10834,7 @@
         "name": "Shaq Thompson",
         "team": "BUF",
         "position": "LB",
-        "depthChartPosition": "LOLB",
+        "depthChartPosition": "ROLB",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Neck",
         "injuryNotes": null
@@ -17792,7 +17792,7 @@
         "name": "Donte Jackson",
         "team": "LAC",
         "position": "CB",
-        "depthChartPosition": "RCB",
+        "depthChartPosition": "LCB",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Groin",
         "injuryNotes": null
@@ -17842,7 +17842,7 @@
         "name": "Benjamin St-Juste",
         "team": "LAC",
         "position": "DB",
-        "depthChartPosition": "LCB",
+        "depthChartPosition": "RCB",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Shoulder",
         "injuryNotes": null
@@ -18760,7 +18760,7 @@
         "name": "Matthew Butler",
         "team": "MIA",
         "position": "DL",
-        "depthChartPosition": "LDE",
+        "depthChartPosition": "RDE",
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
@@ -19194,7 +19194,7 @@
         "name": "Tom Kennedy",
         "team": "DET",
         "position": "WR",
-        "depthChartPosition": "RWR",
+        "depthChartPosition": "SWR",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Abdomen",
         "injuryNotes": null
@@ -19394,7 +19394,7 @@
         "name": "Dominic Lovett",
         "team": "DET",
         "position": "WR",
-        "depthChartPosition": "SWR",
+        "depthChartPosition": "RWR",
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
@@ -23240,6 +23240,6 @@
     "totalGames": 240,
     "upcomingGames": 0,
     "injuredPlayers": 1238,
-    "lastUpdate": "2025-12-23T20:25:59.608Z"
+    "lastUpdate": "2025-12-23T21:21:24.948Z"
   }
 }
