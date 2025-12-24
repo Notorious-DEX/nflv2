@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-24T16:28:52.945Z",
+  "lastUpdated": "2025-12-24T17:19:43.506Z",
   "season": 2025,
   "gameStats": [
     {
@@ -12132,6 +12132,16 @@
         "injuryNotes": null
       },
       {
+        "id": "4198",
+        "name": "Jamal Agnew",
+        "team": null,
+        "position": "WR",
+        "depthChartPosition": null,
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
         "id": "4220",
         "name": "Jayon Brown",
         "team": null,
@@ -16466,16 +16476,6 @@
         "injuryNotes": null
       },
       {
-        "id": "4198",
-        "name": "Jamal Agnew",
-        "team": "WAS",
-        "position": "WR",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
         "id": "4234",
         "name": "Noah Brown",
         "team": "WAS",
@@ -17458,6 +17458,16 @@
         "injuryNotes": "Sprain"
       },
       {
+        "id": "7016",
+        "name": "Jeremy Chinn",
+        "team": "LV",
+        "position": "DB",
+        "depthChartPosition": "NB",
+        "injuryStatus": "Doubtful",
+        "injuryBodyPart": "Back",
+        "injuryNotes": null
+      },
+      {
         "id": "7873",
         "name": "Jordan Meredith",
         "team": "LV",
@@ -17476,6 +17486,16 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": "Ruptured"
+      },
+      {
+        "id": "11604",
+        "name": "Brock Bowers",
+        "team": "LV",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Doubtful",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
       },
       {
         "id": "11683",
@@ -19730,6 +19750,16 @@
         "injuryNotes": "Surgery"
       },
       {
+        "id": "4081",
+        "name": "Budda Baker",
+        "team": "ARI",
+        "position": "DB",
+        "depthChartPosition": "FS",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Concussion",
+        "injuryNotes": null
+      },
+      {
         "id": "4137",
         "name": "James Conner",
         "team": "ARI",
@@ -20693,7 +20723,7 @@
         "team": "TEN",
         "position": "DB",
         "depthChartPosition": "NB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       }
@@ -20847,7 +20877,7 @@
         "team": "ATL",
         "position": "CB",
         "depthChartPosition": "LCB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Doubtful",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -21999,7 +22029,7 @@
   "summary": {
     "totalGames": 240,
     "upcomingGames": 0,
-    "injuredPlayers": 1114,
-    "lastUpdate": "2025-12-24T16:28:52.945Z"
+    "injuredPlayers": 1117,
+    "lastUpdate": "2025-12-24T17:19:43.506Z"
   }
 }
