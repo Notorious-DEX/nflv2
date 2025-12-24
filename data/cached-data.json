@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-24T18:33:40.333Z",
+  "lastUpdated": "2025-12-24T19:17:54.342Z",
   "season": 2025,
   "gameStats": [
     {
@@ -10850,6 +10850,16 @@
         "injuryNotes": null
       },
       {
+        "id": "3156",
+        "name": "Joey Bosa",
+        "team": "BUF",
+        "position": "LB",
+        "depthChartPosition": "RDE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
         "id": "4082",
         "name": "Curtis Samuel",
         "team": "BUF",
@@ -10870,6 +10880,16 @@
         "injuryNotes": "Soreness"
       },
       {
+        "id": "5341",
+        "name": "Taron Johnson",
+        "team": "BUF",
+        "position": "CB",
+        "depthChartPosition": "NB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Quadriceps",
+        "injuryNotes": null
+      },
+      {
         "id": "5841",
         "name": "Ed Oliver",
         "team": "BUF",
@@ -10887,6 +10907,26 @@
         "depthChartPosition": "FS",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "5906",
+        "name": "Dawson Knox",
+        "team": "BUF",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "6314",
+        "name": "Cam Lewis",
+        "team": "BUF",
+        "position": "CB",
+        "depthChartPosition": "NB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
       {
@@ -10917,6 +10957,16 @@
         "depthChartPosition": "SS",
         "injuryStatus": "IR",
         "injuryBodyPart": "Pectoral",
+        "injuryNotes": null
+      },
+      {
+        "id": "10236",
+        "name": "Dalton Kincaid",
+        "team": "BUF",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
       {
@@ -17463,7 +17513,7 @@
         "team": "LV",
         "position": "DB",
         "depthChartPosition": "NB",
-        "injuryStatus": "Doubtful",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Back",
         "injuryNotes": null
       },
@@ -17493,7 +17543,7 @@
         "team": "LV",
         "position": "TE",
         "depthChartPosition": "TE",
-        "injuryStatus": "Doubtful",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -22019,7 +22069,7 @@
   "summary": {
     "totalGames": 240,
     "upcomingGames": 0,
-    "injuredPlayers": 1116,
-    "lastUpdate": "2025-12-24T18:33:40.333Z"
+    "injuredPlayers": 1121,
+    "lastUpdate": "2025-12-24T19:17:54.342Z"
   }
 }
