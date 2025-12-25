@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T20:58:33.225Z",
+  "lastUpdated": "2025-12-25T21:15:49.091Z",
   "season": 2025,
   "gameStats": [
     {
@@ -9845,6 +9845,47 @@
           "sacks": 0
         }
       }
+    },
+    {
+      "id": "401772710",
+      "date": "2025-12-25T18:00Z",
+      "week": 17,
+      "homeTeam": "Washington Commanders",
+      "awayTeam": "Dallas Cowboys",
+      "scores": {
+        "Washington Commanders": 23,
+        "Dallas Cowboys": 30
+      },
+      "stats": {
+        "Dallas Cowboys": {
+          "passingYards": 269,
+          "rushingYards": 211,
+          "totalYards": 480,
+          "turnovers": 0,
+          "thirdDownEff": {
+            "made": 8,
+            "attempts": 20,
+            "percentage": 40
+          },
+          "redZoneEff": null,
+          "possessionTime": 2324,
+          "sacks": 0
+        },
+        "Washington Commanders": {
+          "passingYards": 190,
+          "rushingYards": 138,
+          "totalYards": 328,
+          "turnovers": 0,
+          "thirdDownEff": {
+            "made": 1,
+            "attempts": 6,
+            "percentage": 16.666666666666664
+          },
+          "redZoneEff": null,
+          "possessionTime": 1276,
+          "sacks": 0
+        }
+      }
     }
   ],
   "teamStats": {
@@ -10049,29 +10090,29 @@
       "record": "3-12"
     },
     "Dallas Cowboys": {
-      "games": 15,
-      "passingYards": 4115,
-      "rushingYards": 1782,
-      "totalYards": 5897,
+      "games": 16,
+      "passingYards": 4384,
+      "rushingYards": 1993,
+      "totalYards": 6377,
       "turnovers": 19,
-      "thirdDownAttempts": 181,
-      "thirdDownConversions": 76,
+      "thirdDownAttempts": 201,
+      "thirdDownConversions": 84,
       "redZoneAttempts": 0,
       "redZoneScores": 0,
-      "possessionTime": 27473,
+      "possessionTime": 29797,
       "sacks": 0,
-      "pointsFor": 424,
-      "pointsAgainst": 454,
-      "wins": 6,
+      "pointsFor": 454,
+      "pointsAgainst": 477,
+      "wins": 7,
       "losses": 8,
-      "avgPassingYards": 274.3333333333333,
-      "avgRushingYards": 118.8,
-      "avgTotalYards": 393.1333333333333,
-      "avgPointsFor": 28.266666666666666,
-      "avgPointsAgainst": 30.266666666666666,
-      "thirdDownPct": 41.988950276243095,
+      "avgPassingYards": 274,
+      "avgRushingYards": 124.5625,
+      "avgTotalYards": 398.5625,
+      "avgPointsFor": 28.375,
+      "avgPointsAgainst": 29.8125,
+      "thirdDownPct": 41.7910447761194,
       "redZonePct": 0,
-      "record": "6-8"
+      "record": "7-8"
     },
     "Denver Broncos": {
       "games": 15,
@@ -10624,35 +10665,35 @@
       "record": "3-12"
     },
     "Washington Commanders": {
-      "games": 15,
-      "passingYards": 2808,
-      "rushingYards": 2009,
-      "totalYards": 4817,
+      "games": 16,
+      "passingYards": 2998,
+      "rushingYards": 2147,
+      "totalYards": 5145,
       "turnovers": 21,
-      "thirdDownAttempts": 172,
-      "thirdDownConversions": 64,
+      "thirdDownAttempts": 178,
+      "thirdDownConversions": 65,
       "redZoneAttempts": 0,
       "redZoneScores": 0,
-      "possessionTime": 25936,
+      "possessionTime": 27212,
       "sacks": 0,
-      "pointsFor": 309,
-      "pointsAgainst": 404,
+      "pointsFor": 332,
+      "pointsAgainst": 434,
       "wins": 4,
-      "losses": 11,
-      "avgPassingYards": 187.2,
-      "avgRushingYards": 133.93333333333334,
-      "avgTotalYards": 321.1333333333333,
-      "avgPointsFor": 20.6,
-      "avgPointsAgainst": 26.933333333333334,
-      "thirdDownPct": 37.2093023255814,
+      "losses": 12,
+      "avgPassingYards": 187.375,
+      "avgRushingYards": 134.1875,
+      "avgTotalYards": 321.5625,
+      "avgPointsFor": 20.75,
+      "avgPointsAgainst": 27.125,
+      "thirdDownPct": 36.51685393258427,
       "redZonePct": 0,
-      "record": "4-11"
+      "record": "4-12"
     }
   },
   "rankings": {
     "offensive": {
-      "Los Angeles Rams": 1,
-      "Dallas Cowboys": 2,
+      "Dallas Cowboys": 1,
+      "Los Angeles Rams": 2,
       "Detroit Lions": 3,
       "Buffalo Bills": 4,
       "Chicago Bears": 5,
@@ -10727,15 +10768,15 @@
       "Los Angeles Chargers": 6,
       "New York Giants": 7,
       "Atlanta Falcons": 8,
-      "New York Jets": 9,
-      "Indianapolis Colts": 10,
-      "Carolina Panthers": 11,
-      "Detroit Lions": 12,
-      "Miami Dolphins": 13,
-      "Green Bay Packers": 14,
-      "Philadelphia Eagles": 15,
-      "New England Patriots": 16,
-      "Dallas Cowboys": 17,
+      "Dallas Cowboys": 9,
+      "New York Jets": 10,
+      "Indianapolis Colts": 11,
+      "Carolina Panthers": 12,
+      "Detroit Lions": 13,
+      "Miami Dolphins": 14,
+      "Green Bay Packers": 15,
+      "Philadelphia Eagles": 16,
+      "New England Patriots": 17,
       "Denver Broncos": 18,
       "Jacksonville Jaguars": 19,
       "Tampa Bay Buccaneers": 20,
@@ -17611,7 +17652,7 @@
         "team": "HOU",
         "position": "LB",
         "depthChartPosition": "MLB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Chest",
         "injuryNotes": null
       },
@@ -22492,7 +22533,7 @@
       "status": "in",
       "homeTeam": "Washington Commanders",
       "awayTeam": "Dallas Cowboys",
-      "homeScore": 20,
+      "homeScore": 23,
       "awayScore": 30
     },
     {
@@ -22515,9 +22556,9 @@
     }
   ],
   "summary": {
-    "totalGames": 240,
+    "totalGames": 241,
     "upcomingGames": 3,
     "injuredPlayers": 1163,
-    "lastUpdate": "2025-12-25T20:58:33.225Z"
+    "lastUpdate": "2025-12-25T21:15:49.091Z"
   }
 }
