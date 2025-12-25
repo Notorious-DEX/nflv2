@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T01:52:19.150Z",
+  "lastUpdated": "2025-12-25T03:38:07.727Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17127,7 +17127,7 @@
         "team": "TEN",
         "position": "DT",
         "depthChartPosition": "LDE",
-        "injuryStatus": "Doubtful",
+        "injuryStatus": "Questionable",
         "injuryBodyPart": "Calf",
         "injuryNotes": null
       },
@@ -22480,6 +22480,6 @@
     "totalGames": 240,
     "upcomingGames": 0,
     "injuredPlayers": 1162,
-    "lastUpdate": "2025-12-25T01:52:19.150Z"
+    "lastUpdate": "2025-12-25T03:38:07.727Z"
   }
 }
