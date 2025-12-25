@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T19:36:09.440Z",
+  "lastUpdated": "2025-12-25T19:43:47.789Z",
   "season": 2025,
   "gameStats": [
     {
@@ -16596,6 +16596,16 @@
         "injuryNotes": null
       },
       {
+        "id": "6835",
+        "name": "Tyler Biadasz",
+        "team": "WAS",
+        "position": "C",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "6883",
         "name": "Lucas Niang",
         "team": "WAS",
@@ -20846,16 +20856,6 @@
         "injuryNotes": null
       },
       {
-        "id": "11820",
-        "name": "Devin Culp",
-        "team": "TB",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
-        "injuryNotes": null
-      },
-      {
         "id": "11866",
         "name": "Tyler McLellan",
         "team": "TB",
@@ -22232,6 +22232,16 @@
         "injuryNotes": "Surgery"
       },
       {
+        "id": "7588",
+        "name": "Javonte Williams",
+        "team": "DAL",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Shoulder",
+        "injuryNotes": null
+      },
+      {
         "id": "7629",
         "name": "Payton Turner",
         "team": "DAL",
@@ -22547,7 +22557,7 @@
   "summary": {
     "totalGames": 240,
     "upcomingGames": 3,
-    "injuredPlayers": 1166,
-    "lastUpdate": "2025-12-25T19:36:09.440Z"
+    "injuredPlayers": 1167,
+    "lastUpdate": "2025-12-25T19:43:47.789Z"
   }
 }
