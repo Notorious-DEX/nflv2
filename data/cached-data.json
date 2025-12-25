@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T19:14:11.948Z",
+  "lastUpdated": "2025-12-25T19:18:07.886Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22512,7 +22512,7 @@
       "status": "in",
       "homeTeam": "Washington Commanders",
       "awayTeam": "Dallas Cowboys",
-      "homeScore": 3,
+      "homeScore": 10,
       "awayScore": 21
     },
     {
@@ -22538,6 +22538,6 @@
     "totalGames": 240,
     "upcomingGames": 3,
     "injuredPlayers": 1165,
-    "lastUpdate": "2025-12-25T19:14:11.948Z"
+    "lastUpdate": "2025-12-25T19:18:07.886Z"
   }
 }
