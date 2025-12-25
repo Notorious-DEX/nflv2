@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T17:45:32.624Z",
+  "lastUpdated": "2025-12-25T17:51:48.175Z",
   "season": 2025,
   "gameStats": [
     {
@@ -21377,7 +21377,7 @@
         "team": "JAX",
         "position": "CB",
         "depthChartPosition": "NB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Doubtful",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
       },
@@ -22538,6 +22538,6 @@
     "totalGames": 240,
     "upcomingGames": 3,
     "injuredPlayers": 1165,
-    "lastUpdate": "2025-12-25T17:45:32.624Z"
+    "lastUpdate": "2025-12-25T17:51:48.175Z"
   }
 }
