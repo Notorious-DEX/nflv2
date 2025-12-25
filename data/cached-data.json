@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T23:43:59.277Z",
+  "lastUpdated": "2025-12-25T23:50:36.641Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19969,6 +19969,16 @@
         "injuryNotes": null
       },
       {
+        "id": "11872",
+        "name": "Thomas Harper",
+        "team": "DET",
+        "position": "DB",
+        "depthChartPosition": "SS",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Head",
+        "injuryNotes": null
+      },
+      {
         "id": "12731",
         "name": "Dan Jackson",
         "team": "DET",
@@ -22519,7 +22529,7 @@
   "summary": {
     "totalGames": 241,
     "upcomingGames": 2,
-    "injuredPlayers": 1160,
-    "lastUpdate": "2025-12-25T23:43:59.277Z"
+    "injuredPlayers": 1161,
+    "lastUpdate": "2025-12-25T23:50:36.641Z"
   }
 }
