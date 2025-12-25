@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T23:21:49.093Z",
+  "lastUpdated": "2025-12-25T23:33:32.761Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19510,8 +19510,8 @@
         "team": "MIN",
         "position": "WR",
         "depthChartPosition": "SWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Lower Leg",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
       {
@@ -22016,7 +22016,7 @@
         "team": "GB",
         "position": "LB",
         "depthChartPosition": "MLB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -22029,26 +22029,6 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee - ACL",
         "injuryNotes": "Surgery"
-      },
-      {
-        "id": "7654",
-        "name": "Aaron Banks",
-        "team": "GB",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Neck",
-        "injuryNotes": null
-      },
-      {
-        "id": "7801",
-        "name": "Quinton Bohanna",
-        "team": "GB",
-        "position": "DT",
-        "depthChartPosition": "LDT",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
-        "injuryNotes": null
       },
       {
         "id": "7807",
@@ -22139,26 +22119,6 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee - ACL",
         "injuryNotes": "Surgery"
-      },
-      {
-        "id": "10212",
-        "name": "Josh Whyle",
-        "team": "GB",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Concussion",
-        "injuryNotes": null
-      },
-      {
-        "id": "11035",
-        "name": "Jordon Riley",
-        "team": "GB",
-        "position": "DL",
-        "depthChartPosition": "RDT",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
       },
       {
         "id": "11581",
@@ -22559,7 +22519,7 @@
   "summary": {
     "totalGames": 241,
     "upcomingGames": 2,
-    "injuredPlayers": 1164,
-    "lastUpdate": "2025-12-25T23:21:49.093Z"
+    "injuredPlayers": 1160,
+    "lastUpdate": "2025-12-25T23:33:32.761Z"
   }
 }
