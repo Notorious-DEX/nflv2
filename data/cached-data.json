@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T03:38:07.727Z",
+  "lastUpdated": "2025-12-25T04:39:28.421Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18826,16 +18826,6 @@
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Quadriceps",
         "injuryNotes": null
-      },
-      {
-        "id": "12689",
-        "name": "JJ Pegues",
-        "team": "LV",
-        "position": "DT",
-        "depthChartPosition": "RDT",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hand",
-        "injuryNotes": null
       }
     ],
     "CLE": [
@@ -18947,6 +18937,16 @@
         "depthChartPosition": "LB",
         "injuryStatus": "PUP",
         "injuryBodyPart": "Neck",
+        "injuryNotes": null
+      },
+      {
+        "id": "7663",
+        "name": "Teven Jenkins",
+        "team": "CLE",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Shoulder",
         "injuryNotes": null
       },
       {
@@ -20322,6 +20322,16 @@
         "injuryNotes": null
       },
       {
+        "id": "7834",
+        "name": "Jaylon Moore",
+        "team": "KC",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "8188",
         "name": "Tyquan Thornton",
         "team": "KC",
@@ -21584,16 +21594,6 @@
         "injuryNotes": null
       },
       {
-        "id": "10894",
-        "name": "DJ Turner",
-        "team": "CIN",
-        "position": "DB",
-        "depthChartPosition": "LCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
-        "injuryNotes": null
-      },
-      {
         "id": "11238",
         "name": "Jaxson Kirkland",
         "team": "CIN",
@@ -22480,6 +22480,6 @@
     "totalGames": 240,
     "upcomingGames": 0,
     "injuredPlayers": 1162,
-    "lastUpdate": "2025-12-25T03:38:07.727Z"
+    "lastUpdate": "2025-12-25T04:39:28.421Z"
   }
 }
