@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T23:33:32.980Z",
+  "lastUpdated": "2025-12-25T23:43:59.466Z",
   "season": 2025,
   "predictions": [
     {
@@ -37,7 +37,7 @@
       "predictedScore": "24-24",
       "spread": 0,
       "confidence": "low",
-      "timestamp": "2025-12-25T23:33:32.979Z",
+      "timestamp": "2025-12-25T23:43:59.466Z",
       "checked": false,
       "models": {
         "elo": {
@@ -63,7 +63,7 @@
       "predictedScore": "25-24",
       "spread": 1,
       "confidence": "low",
-      "timestamp": "2025-12-25T23:33:32.979Z",
+      "timestamp": "2025-12-25T23:43:59.466Z",
       "checked": false,
       "models": {
         "elo": {
