@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T20:26:03.079Z",
+  "lastUpdated": "2025-12-25T20:28:39.804Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18856,16 +18856,6 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
-      },
-      {
-        "id": "12624",
-        "name": "Caleb Rogers",
-        "team": "LV",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Quadriceps",
-        "injuryNotes": null
       }
     ],
     "CLE": [
@@ -19414,6 +19404,16 @@
         "injuryNotes": null
       },
       {
+        "id": "7704",
+        "name": "Buddy Johnson",
+        "team": "IND",
+        "position": "LB",
+        "depthChartPosition": "MLB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
+        "injuryNotes": null
+      },
+      {
         "id": "8207",
         "name": "Tyler Goodson",
         "team": "IND",
@@ -19432,16 +19432,6 @@
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Calf",
         "injuryNotes": "Strain"
-      },
-      {
-        "id": "8459",
-        "name": "Bernhard Raimann",
-        "team": "IND",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Elbow",
-        "injuryNotes": null
       },
       {
         "id": "8489",
@@ -22502,8 +22492,8 @@
       "status": "in",
       "homeTeam": "Washington Commanders",
       "awayTeam": "Dallas Cowboys",
-      "homeScore": 17,
-      "awayScore": 24
+      "homeScore": 20,
+      "awayScore": 27
     },
     {
       "id": "401772711",
@@ -22527,7 +22517,7 @@
   "summary": {
     "totalGames": 240,
     "upcomingGames": 3,
-    "injuredPlayers": 1164,
-    "lastUpdate": "2025-12-25T20:26:03.079Z"
+    "injuredPlayers": 1163,
+    "lastUpdate": "2025-12-25T20:28:39.804Z"
   }
 }
