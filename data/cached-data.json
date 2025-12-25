@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T19:18:07.886Z",
+  "lastUpdated": "2025-12-25T19:27:47.568Z",
   "season": 2025,
   "gameStats": [
     {
@@ -16516,6 +16516,16 @@
         "injuryNotes": "Strain"
       },
       {
+        "id": "3415",
+        "name": "Jonathan Jones",
+        "team": "WAS",
+        "position": "DB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Head",
+        "injuryNotes": null
+      },
+      {
         "id": "4059",
         "name": "Marshon Lattimore",
         "team": "WAS",
@@ -21377,7 +21387,7 @@
         "team": "JAX",
         "position": "CB",
         "depthChartPosition": "NB",
-        "injuryStatus": "Doubtful",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
       },
@@ -22537,7 +22547,7 @@
   "summary": {
     "totalGames": 240,
     "upcomingGames": 3,
-    "injuredPlayers": 1165,
-    "lastUpdate": "2025-12-25T19:18:07.886Z"
+    "injuredPlayers": 1166,
+    "lastUpdate": "2025-12-25T19:27:47.568Z"
   }
 }
