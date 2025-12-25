@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T21:59:13.004Z",
+  "lastUpdated": "2025-12-25T22:18:13.804Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18168,7 +18168,7 @@
         "team": "LAC",
         "position": "DB",
         "depthChartPosition": "RCB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Shoulder",
         "injuryNotes": null
       },
@@ -18178,7 +18178,7 @@
         "team": "LAC",
         "position": "OL",
         "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
@@ -18198,7 +18198,7 @@
         "team": "LAC",
         "position": "WR",
         "depthChartPosition": "SWR",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -18238,7 +18238,7 @@
         "team": "LAC",
         "position": "DB",
         "depthChartPosition": "FS",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Shoulder",
         "injuryNotes": null
       },
@@ -19281,6 +19281,16 @@
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
+      },
+      {
+        "id": "13075",
+        "name": "Myles Price",
+        "team": "MIN",
+        "position": "WR",
+        "depthChartPosition": "SWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Lower Leg",
+        "injuryNotes": null
       }
     ],
     "IND": [
@@ -19896,6 +19906,16 @@
         "depthChartPosition": "OL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "8714",
+        "name": "Josh Blackwell",
+        "team": "CHI",
+        "position": "CB",
+        "depthChartPosition": "NB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
         "injuryNotes": null
       },
       {
@@ -22499,7 +22519,7 @@
   "summary": {
     "totalGames": 241,
     "upcomingGames": 2,
-    "injuredPlayers": 1158,
-    "lastUpdate": "2025-12-25T21:59:13.004Z"
+    "injuredPlayers": 1160,
+    "lastUpdate": "2025-12-25T22:18:13.804Z"
   }
 }
