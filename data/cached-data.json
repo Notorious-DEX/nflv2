@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T22:21:48.223Z",
+  "lastUpdated": "2025-12-25T22:37:31.040Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19111,6 +19111,208 @@
         "injuryNotes": null
       }
     ],
+    "PIT": [
+      {
+        "id": "3160",
+        "name": "Jalen Ramsey",
+        "team": "PIT",
+        "position": "CB",
+        "depthChartPosition": "NB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
+        "injuryNotes": null
+      },
+      {
+        "id": "3248",
+        "name": "Isaac Seumalo",
+        "team": "PIT",
+        "position": "G",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Triceps",
+        "injuryNotes": null
+      },
+      {
+        "id": "3272",
+        "name": "Miles Killebrew",
+        "team": "PIT",
+        "position": "DB",
+        "depthChartPosition": "FS",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "3295",
+        "name": "Dean Lowry",
+        "team": "PIT",
+        "position": "DE",
+        "depthChartPosition": "DL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "4070",
+        "name": "T.J. Watt",
+        "team": "PIT",
+        "position": "LB",
+        "depthChartPosition": "LOLB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Chest",
+        "injuryNotes": "Surgery"
+      },
+      {
+        "id": "5071",
+        "name": "DeShon Elliott",
+        "team": "PIT",
+        "position": "DB",
+        "depthChartPosition": "SS",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "5532",
+        "name": "Daniel Ekuale",
+        "team": "PIT",
+        "position": "DT",
+        "depthChartPosition": "DL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee - ACL",
+        "injuryNotes": "Surgery"
+      },
+      {
+        "id": "5846",
+        "name": "DK Metcalf",
+        "team": "PIT",
+        "position": "WR",
+        "depthChartPosition": "LWR",
+        "injuryStatus": "Sus",
+        "injuryBodyPart": "Suspension",
+        "injuryNotes": null
+      },
+      {
+        "id": "6074",
+        "name": "Donald Parham",
+        "team": "PIT",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Achilles",
+        "injuryNotes": "Ruptured"
+      },
+      {
+        "id": "6150",
+        "name": "Max Scharping",
+        "team": "PIT",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "6457",
+        "name": "Calvin Anderson",
+        "team": "PIT",
+        "position": "T",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "7419",
+        "name": "James Pierre",
+        "team": "PIT",
+        "position": "CB",
+        "depthChartPosition": "LCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Calf",
+        "injuryNotes": null
+      },
+      {
+        "id": "7796",
+        "name": "Brandin Echols",
+        "team": "PIT",
+        "position": "CB",
+        "depthChartPosition": "NB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Groin",
+        "injuryNotes": null
+      },
+      {
+        "id": "7833",
+        "name": "Isaiahh Loudermilk",
+        "team": "PIT",
+        "position": "DE",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": "Sprain"
+      },
+      {
+        "id": "8125",
+        "name": "Calvin Austin",
+        "team": "PIT",
+        "position": "WR",
+        "depthChartPosition": "SWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
+        "id": "8206",
+        "name": "Skylar Thompson",
+        "team": "PIT",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
+        "id": "10884",
+        "name": "Broderick Jones",
+        "team": "PIT",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Neck",
+        "injuryNotes": "Stinger"
+      },
+      {
+        "id": "10940",
+        "name": "Nick Herbig",
+        "team": "PIT",
+        "position": "LB",
+        "depthChartPosition": "ROLB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
+        "id": "11037",
+        "name": "Cory Trice",
+        "team": "PIT",
+        "position": "CB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
+        "id": "12734",
+        "name": "Donte Kent",
+        "team": "PIT",
+        "position": "CB",
+        "depthChartPosition": "NB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      }
+    ],
     "MIN": [
       {
         "id": "3161",
@@ -20026,208 +20228,6 @@
         "depthChartPosition": "RB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      }
-    ],
-    "PIT": [
-      {
-        "id": "3248",
-        "name": "Isaac Seumalo",
-        "team": "PIT",
-        "position": "G",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Triceps",
-        "injuryNotes": null
-      },
-      {
-        "id": "3272",
-        "name": "Miles Killebrew",
-        "team": "PIT",
-        "position": "DB",
-        "depthChartPosition": "FS",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "3295",
-        "name": "Dean Lowry",
-        "team": "PIT",
-        "position": "DE",
-        "depthChartPosition": "DL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "4070",
-        "name": "T.J. Watt",
-        "team": "PIT",
-        "position": "LB",
-        "depthChartPosition": "LOLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Chest",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "5071",
-        "name": "DeShon Elliott",
-        "team": "PIT",
-        "position": "DB",
-        "depthChartPosition": "SS",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "5532",
-        "name": "Daniel Ekuale",
-        "team": "PIT",
-        "position": "DT",
-        "depthChartPosition": "DL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee - ACL",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "5846",
-        "name": "DK Metcalf",
-        "team": "PIT",
-        "position": "WR",
-        "depthChartPosition": "LWR",
-        "injuryStatus": "Sus",
-        "injuryBodyPart": "Suspension",
-        "injuryNotes": null
-      },
-      {
-        "id": "6074",
-        "name": "Donald Parham",
-        "team": "PIT",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Achilles",
-        "injuryNotes": "Ruptured"
-      },
-      {
-        "id": "6150",
-        "name": "Max Scharping",
-        "team": "PIT",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "6457",
-        "name": "Calvin Anderson",
-        "team": "PIT",
-        "position": "T",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "7419",
-        "name": "James Pierre",
-        "team": "PIT",
-        "position": "CB",
-        "depthChartPosition": "LCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Calf",
-        "injuryNotes": null
-      },
-      {
-        "id": "7796",
-        "name": "Brandin Echols",
-        "team": "PIT",
-        "position": "CB",
-        "depthChartPosition": "NB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Groin",
-        "injuryNotes": null
-      },
-      {
-        "id": "7833",
-        "name": "Isaiahh Loudermilk",
-        "team": "PIT",
-        "position": "DE",
-        "depthChartPosition": "LDE",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": "Sprain"
-      },
-      {
-        "id": "8125",
-        "name": "Calvin Austin",
-        "team": "PIT",
-        "position": "WR",
-        "depthChartPosition": "SWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hamstring",
-        "injuryNotes": null
-      },
-      {
-        "id": "8206",
-        "name": "Skylar Thompson",
-        "team": "PIT",
-        "position": "QB",
-        "depthChartPosition": "QB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Hamstring",
-        "injuryNotes": null
-      },
-      {
-        "id": "8228",
-        "name": "Jaylen Warren",
-        "team": "PIT",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hip",
-        "injuryNotes": null
-      },
-      {
-        "id": "10884",
-        "name": "Broderick Jones",
-        "team": "PIT",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Neck",
-        "injuryNotes": "Stinger"
-      },
-      {
-        "id": "10940",
-        "name": "Nick Herbig",
-        "team": "PIT",
-        "position": "LB",
-        "depthChartPosition": "ROLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hamstring",
-        "injuryNotes": null
-      },
-      {
-        "id": "11037",
-        "name": "Cory Trice",
-        "team": "PIT",
-        "position": "CB",
-        "depthChartPosition": "RCB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Hamstring",
-        "injuryNotes": null
-      },
-      {
-        "id": "12734",
-        "name": "Donte Kent",
-        "team": "PIT",
-        "position": "CB",
-        "depthChartPosition": "NB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
       }
     ],
@@ -21919,6 +21919,16 @@
         "injuryNotes": null
       },
       {
+        "id": "12585",
+        "name": "James Pearce",
+        "team": "ATL",
+        "position": "DL",
+        "depthChartPosition": "LOLB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Neck",
+        "injuryNotes": null
+      },
+      {
         "id": "12647",
         "name": "Billy Bowman",
         "team": "ATL",
@@ -22519,7 +22529,7 @@
   "summary": {
     "totalGames": 241,
     "upcomingGames": 2,
-    "injuredPlayers": 1160,
-    "lastUpdate": "2025-12-25T22:21:48.223Z"
+    "injuredPlayers": 1161,
+    "lastUpdate": "2025-12-25T22:37:31.040Z"
   }
 }
