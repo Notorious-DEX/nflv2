@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T21:31:07.804Z",
+  "lastUpdated": "2025-12-25T21:41:25.587Z",
   "season": 2025,
   "gameStats": [
     {
@@ -20468,7 +20468,7 @@
         "team": "KC",
         "position": "WR",
         "depthChartPosition": "SWR",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -22560,6 +22560,6 @@
     "totalGames": 241,
     "upcomingGames": 2,
     "injuredPlayers": 1164,
-    "lastUpdate": "2025-12-25T21:31:07.804Z"
+    "lastUpdate": "2025-12-25T21:41:25.587Z"
   }
 }
