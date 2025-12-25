@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T20:01:50.333Z",
+  "lastUpdated": "2025-12-25T20:26:03.079Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19167,7 +19167,7 @@
         "team": "MIN",
         "position": "T",
         "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Heel",
         "injuryNotes": null
       },
@@ -19179,6 +19179,16 @@
         "depthChartPosition": "TE",
         "injuryStatus": "Out",
         "injuryBodyPart": "Shoulder",
+        "injuryNotes": null
+      },
+      {
+        "id": "6037",
+        "name": "Brett Rypien",
+        "team": "MIN",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -19290,6 +19300,16 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Ankle",
         "injuryNotes": "Fracture"
+      },
+      {
+        "id": "12948",
+        "name": "Austin Keys",
+        "team": "MIN",
+        "position": "LB",
+        "depthChartPosition": "LILB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
       }
     ],
     "IND": [
@@ -19551,7 +19571,7 @@
         "team": "DET",
         "position": "T",
         "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Shoulder",
         "injuryNotes": null
       },
@@ -19563,26 +19583,6 @@
         "depthChartPosition": "MLB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Hamstring",
-        "injuryNotes": null
-      },
-      {
-        "id": "4259",
-        "name": "Al-Quadin Muhammad",
-        "team": "DET",
-        "position": "DE",
-        "depthChartPosition": "LDE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Abdomen",
-        "injuryNotes": null
-      },
-      {
-        "id": "4965",
-        "name": "Marcus Davenport",
-        "team": "DET",
-        "position": "DE",
-        "depthChartPosition": "RDE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Shoulder",
         "injuryNotes": null
       },
       {
@@ -19616,63 +19616,13 @@
         "injuryNotes": null
       },
       {
-        "id": "5892",
-        "name": "David Montgomery",
-        "team": "DET",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
-        "injuryNotes": null
-      },
-      {
-        "id": "6588",
-        "name": "Tom Kennedy",
-        "team": "DET",
-        "position": "WR",
-        "depthChartPosition": "SWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Abdomen",
-        "injuryNotes": null
-      },
-      {
-        "id": "6896",
-        "name": "Amik Robertson",
-        "team": "DET",
-        "position": "CB",
-        "depthChartPosition": "NB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hand",
-        "injuryNotes": null
-      },
-      {
         "id": "6930",
         "name": "Trystan Colon",
         "team": "DET",
         "position": "C",
         "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Wrist",
-        "injuryNotes": null
-      },
-      {
-        "id": "7200",
-        "name": "Khalil Dorsey",
-        "team": "DET",
-        "position": "CB",
-        "depthChartPosition": "RCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
-        "injuryNotes": null
-      },
-      {
-        "id": "7547",
-        "name": "Amon-Ra St. Brown",
-        "team": "DET",
-        "position": "WR",
-        "depthChartPosition": "SWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
       {
@@ -19683,16 +19633,6 @@
         "depthChartPosition": "DL",
         "injuryStatus": "PUP",
         "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "7679",
-        "name": "Alim McNeill",
-        "team": "DET",
-        "position": "NT",
-        "depthChartPosition": "RDT",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Abdomen",
         "injuryNotes": null
       },
       {
@@ -19746,6 +19686,16 @@
         "injuryNotes": "Surgery"
       },
       {
+        "id": "10941",
+        "name": "Tyler Lacy",
+        "team": "DET",
+        "position": "DE",
+        "depthChartPosition": "RDE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "10981",
         "name": "Colby Sorsdal",
         "team": "DET",
@@ -19786,13 +19736,13 @@
         "injuryNotes": null
       },
       {
-        "id": "11788",
-        "name": "Christian Mahogany",
+        "id": "11804",
+        "name": "Mekhi Wingo",
         "team": "DET",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Lower Leg",
+        "position": "DT",
+        "depthChartPosition": "RDT",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -19803,6 +19753,16 @@
         "depthChartPosition": "DB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Leg",
+        "injuryNotes": null
+      },
+      {
+        "id": "12732",
+        "name": "Dominic Lovett",
+        "team": "DET",
+        "position": "WR",
+        "depthChartPosition": "RWR",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -22542,7 +22502,7 @@
       "status": "in",
       "homeTeam": "Washington Commanders",
       "awayTeam": "Dallas Cowboys",
-      "homeScore": 10,
+      "homeScore": 17,
       "awayScore": 24
     },
     {
@@ -22567,7 +22527,7 @@
   "summary": {
     "totalGames": 240,
     "upcomingGames": 3,
-    "injuredPlayers": 1168,
-    "lastUpdate": "2025-12-25T20:01:50.333Z"
+    "injuredPlayers": 1164,
+    "lastUpdate": "2025-12-25T20:26:03.079Z"
   }
 }
