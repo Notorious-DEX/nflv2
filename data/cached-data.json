@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T14:22:03.411Z",
+  "lastUpdated": "2025-12-25T15:23:31.950Z",
   "season": 2025,
   "gameStats": [
     {
@@ -16606,6 +16606,16 @@
         "injuryNotes": null
       },
       {
+        "id": "10219",
+        "name": "Chris Rodriguez",
+        "team": "WAS",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
+        "injuryNotes": null
+      },
+      {
         "id": "10990",
         "name": "Darius Rush",
         "team": "WAS",
@@ -22507,7 +22517,7 @@
   "summary": {
     "totalGames": 240,
     "upcomingGames": 3,
-    "injuredPlayers": 1162,
-    "lastUpdate": "2025-12-25T14:22:03.411Z"
+    "injuredPlayers": 1163,
+    "lastUpdate": "2025-12-25T15:23:31.950Z"
   }
 }
