@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T05:26:48.082Z",
+  "lastUpdated": "2025-12-25T06:36:45.041Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22475,11 +22475,39 @@
       }
     ]
   },
-  "upcomingGames": [],
+  "upcomingGames": [
+    {
+      "id": "401772710",
+      "date": "2025-12-25T18:00Z",
+      "status": "pre",
+      "homeTeam": "Washington Commanders",
+      "awayTeam": "Dallas Cowboys",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "id": "401772711",
+      "date": "2025-12-25T21:30Z",
+      "status": "pre",
+      "homeTeam": "Minnesota Vikings",
+      "awayTeam": "Detroit Lions",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "id": "401772622",
+      "date": "2025-12-26T01:15Z",
+      "status": "pre",
+      "homeTeam": "Kansas City Chiefs",
+      "awayTeam": "Denver Broncos",
+      "homeScore": 0,
+      "awayScore": 0
+    }
+  ],
   "summary": {
     "totalGames": 240,
-    "upcomingGames": 0,
+    "upcomingGames": 3,
     "injuredPlayers": 1162,
-    "lastUpdate": "2025-12-25T05:26:48.082Z"
+    "lastUpdate": "2025-12-25T06:36:45.041Z"
   }
 }

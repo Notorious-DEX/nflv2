@@ -1,0 +1,94 @@
+{
+  "lastUpdated": "2025-12-25T06:36:45.256Z",
+  "season": 2025,
+  "predictions": [
+    {
+      "id": "401772710",
+      "gameDate": "2025-12-25T18:00Z",
+      "homeTeam": "Washington Commanders",
+      "awayTeam": "Dallas Cowboys",
+      "predictedWinner": "Washington Commanders",
+      "predictedScore": "25-23",
+      "spread": 2,
+      "confidence": "low",
+      "timestamp": "2025-12-25T06:36:45.255Z",
+      "checked": false,
+      "models": {
+        "elo": {
+          "winner": "Washington Commanders",
+          "score": "24-22",
+          "confidence": "high",
+          "homeWinProb": "58.9",
+          "awayWinProb": "41.1"
+        },
+        "efficiency": {
+          "winner": "Washington Commanders",
+          "score": "26-24",
+          "confidence": "low"
+        }
+      }
+    },
+    {
+      "id": "401772711",
+      "gameDate": "2025-12-25T21:30Z",
+      "homeTeam": "Minnesota Vikings",
+      "awayTeam": "Detroit Lions",
+      "predictedWinner": "Detroit Lions",
+      "predictedScore": "24-24",
+      "spread": 0,
+      "confidence": "low",
+      "timestamp": "2025-12-25T06:36:45.255Z",
+      "checked": false,
+      "models": {
+        "elo": {
+          "winner": "Minnesota Vikings",
+          "score": "24-22",
+          "confidence": "high",
+          "homeWinProb": "58.9",
+          "awayWinProb": "41.1"
+        },
+        "efficiency": {
+          "winner": "Detroit Lions",
+          "score": "24-26",
+          "confidence": "low"
+        }
+      }
+    },
+    {
+      "id": "401772622",
+      "gameDate": "2025-12-26T01:15Z",
+      "homeTeam": "Kansas City Chiefs",
+      "awayTeam": "Denver Broncos",
+      "predictedWinner": "Kansas City Chiefs",
+      "predictedScore": "25-24",
+      "spread": 1,
+      "confidence": "low",
+      "timestamp": "2025-12-25T06:36:45.255Z",
+      "checked": false,
+      "models": {
+        "elo": {
+          "winner": "Kansas City Chiefs",
+          "score": "24-22",
+          "confidence": "high",
+          "homeWinProb": "58.9",
+          "awayWinProb": "41.1"
+        },
+        "efficiency": {
+          "winner": "Kansas City Chiefs",
+          "score": "27-26",
+          "confidence": "low"
+        }
+      }
+    }
+  ],
+  "summary": {
+    "total": 3,
+    "new": 3,
+    "carried": 0,
+    "byConfidence": {
+      "high": 0,
+      "medium": 0,
+      "low": 3
+    }
+  }
+}
