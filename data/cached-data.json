@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-24T23:21:44.180Z",
+  "lastUpdated": "2025-12-25T01:52:19.150Z",
   "season": 2025,
   "gameStats": [
     {
@@ -16980,6 +16980,16 @@
         "injuryNotes": "Surgery"
       },
       {
+        "id": "6812",
+        "name": "Yetur Gross-Matos",
+        "team": "SF",
+        "position": "DE",
+        "depthChartPosition": "RDE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "6963",
         "name": "Patrick Taylor",
         "team": "SF",
@@ -17047,16 +17057,6 @@
         "depthChartPosition": "LCB",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Neck",
-        "injuryNotes": null
-      },
-      {
-        "id": "11842",
-        "name": "Tatum Bethune",
-        "team": "SF",
-        "position": "LB",
-        "depthChartPosition": "MLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
       {
@@ -21696,16 +21696,6 @@
         "injuryNotes": "Surgery"
       },
       {
-        "id": "7712",
-        "name": "Robert Rochell",
-        "team": "CAR",
-        "position": "DB",
-        "depthChartPosition": "RCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
         "id": "8386",
         "name": "Damarri Mathis",
         "team": "CAR",
@@ -21714,16 +21704,6 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": "Surgery"
-      },
-      {
-        "id": "8451",
-        "name": "Ikem Ekwonu",
-        "team": "CAR",
-        "position": "T",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
       },
       {
         "id": "10953",
@@ -22404,16 +22384,6 @@
         "injuryNotes": null
       },
       {
-        "id": "8374",
-        "name": "Riq Woolen",
-        "team": "SEA",
-        "position": "DB",
-        "depthChartPosition": "LCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
         "id": "8446",
         "name": "Charles Cross",
         "team": "SEA",
@@ -22509,7 +22479,7 @@
   "summary": {
     "totalGames": 240,
     "upcomingGames": 0,
-    "injuredPlayers": 1165,
-    "lastUpdate": "2025-12-24T23:21:44.180Z"
+    "injuredPlayers": 1162,
+    "lastUpdate": "2025-12-25T01:52:19.150Z"
   }
 }
