@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T22:54:01.584Z",
+  "lastUpdated": "2025-12-25T22:59:36.128Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22051,6 +22051,16 @@
         "injuryNotes": null
       },
       {
+        "id": "8167",
+        "name": "Christian Watson",
+        "team": "GB",
+        "position": "WR",
+        "depthChartPosition": "LWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
+        "injuryNotes": null
+      },
+      {
         "id": "8204",
         "name": "Bo Melton",
         "team": "GB",
@@ -22504,7 +22514,7 @@
       "homeTeam": "Minnesota Vikings",
       "awayTeam": "Detroit Lions",
       "homeScore": 7,
-      "awayScore": 0
+      "awayScore": 6
     },
     {
       "id": "401772622",
@@ -22519,7 +22529,7 @@
   "summary": {
     "totalGames": 241,
     "upcomingGames": 2,
-    "injuredPlayers": 1160,
-    "lastUpdate": "2025-12-25T22:54:01.584Z"
+    "injuredPlayers": 1161,
+    "lastUpdate": "2025-12-25T22:59:36.128Z"
   }
 }
