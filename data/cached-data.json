@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T22:59:36.128Z",
+  "lastUpdated": "2025-12-25T23:19:18.945Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17879,6 +17879,16 @@
         "injuryNotes": null
       },
       {
+        "id": "7872",
+        "name": "Alaric Jackson",
+        "team": "LAR",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "8303",
         "name": "Roger McCreary",
         "team": "LAR",
@@ -17906,6 +17916,26 @@
         "depthChartPosition": "LB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "11677",
+        "name": "Braden Fiske",
+        "team": "LAR",
+        "position": "DL",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
+        "id": "12132",
+        "name": "Josh Wallace",
+        "team": "LAR",
+        "position": "DB",
+        "depthChartPosition": "NB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       }
     ],
@@ -19482,6 +19512,16 @@
         "depthChartPosition": "SWR",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Lower Leg",
+        "injuryNotes": null
+      },
+      {
+        "id": "13196",
+        "name": "Elijah Williams",
+        "team": "MIN",
+        "position": "DL",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       }
     ],
@@ -21179,158 +21219,6 @@
         "injuryNotes": null
       }
     ],
-    "BAL": [
-      {
-        "id": "4107",
-        "name": "Chidobe Awuzie",
-        "team": "BAL",
-        "position": "CB",
-        "depthChartPosition": "RCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Foot",
-        "injuryNotes": null
-      },
-      {
-        "id": "4881",
-        "name": "Lamar Jackson",
-        "team": "BAL",
-        "position": "QB",
-        "depthChartPosition": "QB",
-        "injuryStatus": "Doubtful",
-        "injuryBodyPart": "Back",
-        "injuryNotes": "Bruise"
-      },
-      {
-        "id": "4975",
-        "name": "Taven Bryan",
-        "team": "BAL",
-        "position": "DE",
-        "depthChartPosition": "RDE",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "5995",
-        "name": "Justice Hill",
-        "team": "BAL",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Neck",
-        "injuryNotes": null
-      },
-      {
-        "id": "6818",
-        "name": "Nnamdi Madubuike",
-        "team": "BAL",
-        "position": "DT",
-        "depthChartPosition": "DL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Neck",
-        "injuryNotes": null
-      },
-      {
-        "id": "7122",
-        "name": "Broderick Washington",
-        "team": "BAL",
-        "position": "DT",
-        "depthChartPosition": "LDE",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
-        "id": "7690",
-        "name": "Ben Cleveland",
-        "team": "BAL",
-        "position": "G",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Sus",
-        "injuryBodyPart": "Suspension",
-        "injuryNotes": null
-      },
-      {
-        "id": "11045",
-        "name": "Andrew Vorhees",
-        "team": "BAL",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Foot",
-        "injuryNotes": null
-      },
-      {
-        "id": "11722",
-        "name": "Adisa Isaac",
-        "team": "BAL",
-        "position": "DE",
-        "depthChartPosition": "ROLB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Elbow",
-        "injuryNotes": "Dislocated"
-      },
-      {
-        "id": "11964",
-        "name": "Dayton Wade",
-        "team": "BAL",
-        "position": "WR",
-        "depthChartPosition": "PR",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Ribs",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "12640",
-        "name": "Teddye Buchanan",
-        "team": "BAL",
-        "position": "LB",
-        "depthChartPosition": "LB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee - ACL",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "12695",
-        "name": "Robert Longerbeam",
-        "team": "BAL",
-        "position": "DB",
-        "depthChartPosition": "DB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "12714",
-        "name": "Bilhal Kone",
-        "team": "BAL",
-        "position": "CB",
-        "depthChartPosition": "DB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": "Strain"
-      },
-      {
-        "id": "13024",
-        "name": "Jay Higgins",
-        "team": "BAL",
-        "position": "LB",
-        "depthChartPosition": "RILB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "13155",
-        "name": "Chandler Martin",
-        "team": "BAL",
-        "position": "LB",
-        "depthChartPosition": "LB",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Knee - ACL",
-        "injuryNotes": "Surgery"
-      }
-    ],
     "JAX": [
       {
         "id": "4129",
@@ -21949,6 +21837,138 @@
         "injuryNotes": null
       }
     ],
+    "BAL": [
+      {
+        "id": "4881",
+        "name": "Lamar Jackson",
+        "team": "BAL",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Doubtful",
+        "injuryBodyPart": "Back",
+        "injuryNotes": "Bruise"
+      },
+      {
+        "id": "4975",
+        "name": "Taven Bryan",
+        "team": "BAL",
+        "position": "DE",
+        "depthChartPosition": "RDE",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "5995",
+        "name": "Justice Hill",
+        "team": "BAL",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Neck",
+        "injuryNotes": null
+      },
+      {
+        "id": "6818",
+        "name": "Nnamdi Madubuike",
+        "team": "BAL",
+        "position": "DT",
+        "depthChartPosition": "DL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Neck",
+        "injuryNotes": null
+      },
+      {
+        "id": "7122",
+        "name": "Broderick Washington",
+        "team": "BAL",
+        "position": "DT",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
+        "id": "7690",
+        "name": "Ben Cleveland",
+        "team": "BAL",
+        "position": "G",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Sus",
+        "injuryBodyPart": "Suspension",
+        "injuryNotes": null
+      },
+      {
+        "id": "11722",
+        "name": "Adisa Isaac",
+        "team": "BAL",
+        "position": "DE",
+        "depthChartPosition": "ROLB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Elbow",
+        "injuryNotes": "Dislocated"
+      },
+      {
+        "id": "11964",
+        "name": "Dayton Wade",
+        "team": "BAL",
+        "position": "WR",
+        "depthChartPosition": "PR",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Ribs",
+        "injuryNotes": "Surgery"
+      },
+      {
+        "id": "12640",
+        "name": "Teddye Buchanan",
+        "team": "BAL",
+        "position": "LB",
+        "depthChartPosition": "LB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee - ACL",
+        "injuryNotes": "Surgery"
+      },
+      {
+        "id": "12695",
+        "name": "Robert Longerbeam",
+        "team": "BAL",
+        "position": "DB",
+        "depthChartPosition": "DB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "12714",
+        "name": "Bilhal Kone",
+        "team": "BAL",
+        "position": "CB",
+        "depthChartPosition": "DB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": "Strain"
+      },
+      {
+        "id": "13024",
+        "name": "Jay Higgins",
+        "team": "BAL",
+        "position": "LB",
+        "depthChartPosition": "RILB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "13155",
+        "name": "Chandler Martin",
+        "team": "BAL",
+        "position": "LB",
+        "depthChartPosition": "LB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Knee - ACL",
+        "injuryNotes": "Surgery"
+      }
+    ],
     "GB": [
       {
         "id": "5877",
@@ -22353,6 +22373,16 @@
         "injuryNotes": null
       },
       {
+        "id": "12559",
+        "name": "Shavon Revel",
+        "team": "DAL",
+        "position": "DB",
+        "depthChartPosition": "LCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Concussion",
+        "injuryNotes": null
+      },
+      {
         "id": "12698",
         "name": "Ajani Cornelius",
         "team": "DAL",
@@ -22514,7 +22544,7 @@
       "homeTeam": "Minnesota Vikings",
       "awayTeam": "Detroit Lions",
       "homeScore": 7,
-      "awayScore": 6
+      "awayScore": 7
     },
     {
       "id": "401772622",
@@ -22529,7 +22559,7 @@
   "summary": {
     "totalGames": 241,
     "upcomingGames": 2,
-    "injuredPlayers": 1161,
-    "lastUpdate": "2025-12-25T22:59:36.128Z"
+    "injuredPlayers": 1164,
+    "lastUpdate": "2025-12-25T23:19:18.945Z"
   }
 }
