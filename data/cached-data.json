@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T22:18:13.804Z",
+  "lastUpdated": "2025-12-25T22:21:48.223Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22503,7 +22503,7 @@
       "status": "in",
       "homeTeam": "Minnesota Vikings",
       "awayTeam": "Detroit Lions",
-      "homeScore": 0,
+      "homeScore": 7,
       "awayScore": 0
     },
     {
@@ -22520,6 +22520,6 @@
     "totalGames": 241,
     "upcomingGames": 2,
     "injuredPlayers": 1160,
-    "lastUpdate": "2025-12-25T22:18:13.804Z"
+    "lastUpdate": "2025-12-25T22:21:48.223Z"
   }
 }
