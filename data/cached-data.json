@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T22:37:31.040Z",
+  "lastUpdated": "2025-12-25T22:48:14.074Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18103,16 +18103,6 @@
     ],
     "LAC": [
       {
-        "id": "2327",
-        "name": "Bud Dupree",
-        "team": "LAC",
-        "position": "LB",
-        "depthChartPosition": "ROLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Back",
-        "injuryNotes": null
-      },
-      {
         "id": "2353",
         "name": "Denzel Perryman",
         "team": "LAC",
@@ -19819,6 +19809,16 @@
         "injuryNotes": null
       },
       {
+        "id": "7679",
+        "name": "Alim McNeill",
+        "team": "DET",
+        "position": "NT",
+        "depthChartPosition": "RDT",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Abdomen",
+        "injuryNotes": null
+      },
+      {
         "id": "7891",
         "name": "Brock Wright",
         "team": "DET",
@@ -21196,7 +21196,7 @@
         "team": "BAL",
         "position": "QB",
         "depthChartPosition": "QB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Doubtful",
         "injuryBodyPart": "Back",
         "injuryNotes": "Bruise"
       },
@@ -21809,6 +21809,16 @@
         "injuryNotes": "Sprain"
       },
       {
+        "id": "8227",
+        "name": "Teagan Quitoriano",
+        "team": "ATL",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
         "id": "8372",
         "name": "DeAngelo Malone",
         "team": "ATL",
@@ -21879,16 +21889,6 @@
         "injuryNotes": null
       },
       {
-        "id": "11210",
-        "name": "Malik Heath",
-        "team": "ATL",
-        "position": "WR",
-        "depthChartPosition": "SWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Personal",
-        "injuryNotes": null
-      },
-      {
         "id": "11559",
         "name": "Michael Penix",
         "team": "ATL",
@@ -21950,16 +21950,6 @@
       }
     ],
     "GB": [
-      {
-        "id": "5850",
-        "name": "Josh Jacobs",
-        "team": "GB",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
       {
         "id": "5877",
         "name": "Elgton Jenkins",
@@ -22529,7 +22519,7 @@
   "summary": {
     "totalGames": 241,
     "upcomingGames": 2,
-    "injuredPlayers": 1161,
-    "lastUpdate": "2025-12-25T22:37:31.040Z"
+    "injuredPlayers": 1160,
+    "lastUpdate": "2025-12-25T22:48:14.074Z"
   }
 }
