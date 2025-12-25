@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T16:40:03.535Z",
+  "lastUpdated": "2025-12-25T16:54:25.867Z",
   "season": 2025,
   "gameStats": [
     {
@@ -16611,7 +16611,7 @@
         "team": "WAS",
         "position": "RB",
         "depthChartPosition": "RB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Illness",
         "injuryNotes": null
       },
@@ -16623,6 +16623,16 @@
         "depthChartPosition": "DB",
         "injuryStatus": "Out",
         "injuryBodyPart": "Groin",
+        "injuryNotes": null
+      },
+      {
+        "id": "11558",
+        "name": "Sam Hartman",
+        "team": "WAS",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -22202,16 +22212,6 @@
     ],
     "DAL": [
       {
-        "id": "6118",
-        "name": "Quinnen Williams",
-        "team": "DAL",
-        "position": "DT",
-        "depthChartPosition": "RDT",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Concussion",
-        "injuryNotes": null
-      },
-      {
         "id": "6151",
         "name": "Miles Sanders",
         "team": "DAL",
@@ -22240,6 +22240,16 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Neck",
         "injuryNotes": "Fracture"
+      },
+      {
+        "id": "8279",
+        "name": "Perrion Winfrey",
+        "team": "DAL",
+        "position": "DL",
+        "depthChartPosition": "LDT",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
       },
       {
         "id": "8363",
@@ -22307,7 +22317,7 @@
         "team": "DAL",
         "position": "DB",
         "depthChartPosition": "RCB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Shoulder",
         "injuryNotes": null
       },
@@ -22327,18 +22337,18 @@
         "team": "DAL",
         "position": "WR",
         "depthChartPosition": "SWR",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
         "injuryNotes": "Sprain"
       },
       {
-        "id": "12599",
-        "name": "Tyler Booker",
+        "id": "12457",
+        "name": "Jaydon Blue",
         "team": "DAL",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -22349,6 +22359,16 @@
         "depthChartPosition": "OL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "12737",
+        "name": "Jay Toia",
+        "team": "DAL",
+        "position": "DT",
+        "depthChartPosition": "RDT",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -22517,7 +22537,7 @@
   "summary": {
     "totalGames": 240,
     "upcomingGames": 3,
-    "injuredPlayers": 1163,
-    "lastUpdate": "2025-12-25T16:40:03.535Z"
+    "injuredPlayers": 1165,
+    "lastUpdate": "2025-12-25T16:54:25.867Z"
   }
 }
