@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T19:55:09.312Z",
+  "lastUpdated": "2025-12-25T20:01:50.333Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22262,6 +22262,16 @@
         "injuryNotes": "Fracture"
       },
       {
+        "id": "8110",
+        "name": "Jake Ferguson",
+        "team": "DAL",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Calf",
+        "injuryNotes": null
+      },
+      {
         "id": "8279",
         "name": "Perrion Winfrey",
         "team": "DAL",
@@ -22557,7 +22567,7 @@
   "summary": {
     "totalGames": 240,
     "upcomingGames": 3,
-    "injuredPlayers": 1167,
-    "lastUpdate": "2025-12-25T19:55:09.312Z"
+    "injuredPlayers": 1168,
+    "lastUpdate": "2025-12-25T20:01:50.333Z"
   }
 }
