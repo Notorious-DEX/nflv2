@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-26T03:26:41.665Z",
+  "lastUpdated": "2025-12-26T04:36:24.390Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22644,14 +22644,14 @@
       "status": "in",
       "homeTeam": "Kansas City Chiefs",
       "awayTeam": "Denver Broncos",
-      "homeScore": 10,
-      "awayScore": 6
+      "homeScore": 13,
+      "awayScore": 13
     }
   ],
   "summary": {
     "totalGames": 242,
     "upcomingGames": 1,
     "injuredPlayers": 1170,
-    "lastUpdate": "2025-12-26T03:26:41.665Z"
+    "lastUpdate": "2025-12-26T04:36:24.390Z"
   }
 }
