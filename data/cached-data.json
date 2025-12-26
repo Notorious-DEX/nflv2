@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-26T16:27:25.534Z",
+  "lastUpdated": "2025-12-26T17:19:55.959Z",
   "season": 2025,
   "gameStats": [
     {
@@ -10918,7 +10918,7 @@
         "team": "BUF",
         "position": "K",
         "depthChartPosition": "K",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Quadriceps",
         "injuryNotes": null
       },
@@ -10928,7 +10928,7 @@
         "team": "BUF",
         "position": "DB",
         "depthChartPosition": "SS",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
@@ -10968,7 +10968,7 @@
         "team": "BUF",
         "position": "DE",
         "depthChartPosition": "LDT",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -16936,7 +16936,7 @@
         "team": "NYJ",
         "position": "DT",
         "depthChartPosition": "LDT",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
       },
@@ -16986,7 +16986,7 @@
         "team": "NYJ",
         "position": "DE",
         "depthChartPosition": "LDE",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -17036,7 +17036,7 @@
         "team": "NYJ",
         "position": "TE",
         "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Neck",
         "injuryNotes": null
       },
@@ -17066,7 +17066,7 @@
         "team": "NYJ",
         "position": "LB",
         "depthChartPosition": "ROLB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Neck",
         "injuryNotes": null
       },
@@ -22683,6 +22683,6 @@
     "totalGames": 243,
     "upcomingGames": 0,
     "injuredPlayers": 1170,
-    "lastUpdate": "2025-12-26T16:27:25.534Z"
+    "lastUpdate": "2025-12-26T17:19:55.959Z"
   }
 }
