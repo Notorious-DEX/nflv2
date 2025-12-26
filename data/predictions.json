@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-26T01:04:13.048Z",
+  "lastUpdated": "2025-12-26T01:51:25.846Z",
   "season": 2025,
   "predictions": [
     {
@@ -63,7 +63,7 @@
       "predictedScore": "25-24",
       "spread": 1,
       "confidence": "low",
-      "timestamp": "2025-12-26T01:04:13.047Z",
+      "timestamp": "2025-12-26T01:51:25.844Z",
       "checked": false,
       "models": {
         "elo": {

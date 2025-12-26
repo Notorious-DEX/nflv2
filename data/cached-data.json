@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-26T01:04:12.825Z",
+  "lastUpdated": "2025-12-26T01:51:25.590Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19930,6 +19930,16 @@
         "injuryNotes": null
       },
       {
+        "id": "7547",
+        "name": "Amon-Ra St. Brown",
+        "team": "DET",
+        "position": "WR",
+        "depthChartPosition": "SWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
         "id": "7661",
         "name": "Levi Onwuzurike",
         "team": "DET",
@@ -20568,7 +20578,7 @@
         "name": "Nikko Remigio",
         "team": "KC",
         "position": "WR",
-        "depthChartPosition": "SWR",
+        "depthChartPosition": "KR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -22641,7 +22651,7 @@
   "summary": {
     "totalGames": 242,
     "upcomingGames": 1,
-    "injuredPlayers": 1169,
-    "lastUpdate": "2025-12-26T01:04:12.825Z"
+    "injuredPlayers": 1170,
+    "lastUpdate": "2025-12-26T01:51:25.590Z"
   }
 }
