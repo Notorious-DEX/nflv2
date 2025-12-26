@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-26T22:21:57.878Z",
+  "lastUpdated": "2025-12-26T23:21:39.365Z",
   "season": 2025,
   "gameStats": [
     {
@@ -16916,7 +16916,7 @@
         "team": "SF",
         "position": "DB",
         "depthChartPosition": "LCB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Neck",
         "injuryNotes": null
       },
@@ -21078,7 +21078,7 @@
         "team": "CAR",
         "position": "LB",
         "depthChartPosition": "LB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Shoulder",
         "injuryNotes": null
       },
@@ -21504,7 +21504,7 @@
         "team": "GB",
         "position": "LB",
         "depthChartPosition": "MLB",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -22202,7 +22202,7 @@
         "team": "SEA",
         "position": "DB",
         "depthChartPosition": "FS",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -22212,7 +22212,7 @@
         "team": "SEA",
         "position": "OL",
         "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
@@ -22303,6 +22303,6 @@
     "totalGames": 243,
     "upcomingGames": 0,
     "injuredPlayers": 1132,
-    "lastUpdate": "2025-12-26T22:21:57.878Z"
+    "lastUpdate": "2025-12-26T23:21:39.365Z"
   }
 }
