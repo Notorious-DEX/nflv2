@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-26T19:17:52.743Z",
+  "lastUpdated": "2025-12-26T20:24:28.171Z",
   "season": 2025,
   "gameStats": [
     {
@@ -10948,18 +10948,8 @@
         "team": "BUF",
         "position": "DT",
         "depthChartPosition": "RDT",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "2330",
-        "name": "Shaq Thompson",
-        "team": "BUF",
-        "position": "LB",
-        "depthChartPosition": "ROLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Neck",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Calf",
         "injuryNotes": null
       },
       {
@@ -10973,16 +10963,6 @@
         "injuryNotes": null
       },
       {
-        "id": "3156",
-        "name": "Joey Bosa",
-        "team": "BUF",
-        "position": "LB",
-        "depthChartPosition": "RDE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hamstring",
-        "injuryNotes": null
-      },
-      {
         "id": "4082",
         "name": "Curtis Samuel",
         "team": "BUF",
@@ -10990,26 +10970,6 @@
         "depthChartPosition": "KR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Elbow",
-        "injuryNotes": null
-      },
-      {
-        "id": "4984",
-        "name": "Josh Allen",
-        "team": "BUF",
-        "position": "QB",
-        "depthChartPosition": "QB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Foot",
-        "injuryNotes": "Soreness"
-      },
-      {
-        "id": "5341",
-        "name": "Taron Johnson",
-        "team": "BUF",
-        "position": "CB",
-        "depthChartPosition": "NB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Quadriceps",
         "injuryNotes": null
       },
       {
@@ -11040,16 +11000,6 @@
         "depthChartPosition": "TE",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "6314",
-        "name": "Cam Lewis",
-        "team": "BUF",
-        "position": "CB",
-        "depthChartPosition": "NB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
       {
@@ -20368,7 +20318,7 @@
         "team": "CHI",
         "position": "WR",
         "depthChartPosition": "LWR",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Foot",
         "injuryNotes": "Fracture"
       },
@@ -20390,16 +20340,6 @@
         "depthChartPosition": "TE",
         "injuryStatus": "Out",
         "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "12519",
-        "name": "Luther Burden",
-        "team": "CHI",
-        "position": "WR",
-        "depthChartPosition": "SWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
       {
@@ -20824,6 +20764,16 @@
         "depthChartPosition": "OL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
+        "id": "8144",
+        "name": "Chris Olave",
+        "team": "NO",
+        "position": "WR",
+        "depthChartPosition": "SWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Back",
         "injuryNotes": null
       },
       {
@@ -21306,7 +21256,7 @@
         "team": "ARI",
         "position": "OL",
         "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Knee - MCL",
         "injuryNotes": "Sprain"
       },
@@ -22702,7 +22652,7 @@
   "summary": {
     "totalGames": 243,
     "upcomingGames": 0,
-    "injuredPlayers": 1172,
-    "lastUpdate": "2025-12-26T19:17:52.743Z"
+    "injuredPlayers": 1167,
+    "lastUpdate": "2025-12-26T20:24:28.171Z"
   }
 }
