@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-26T18:33:15.480Z",
+  "lastUpdated": "2025-12-26T19:17:52.743Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17614,7 +17614,7 @@
         "team": "NE",
         "position": "WR",
         "depthChartPosition": "RWR",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Abdomen",
         "injuryNotes": null
       },
@@ -17624,7 +17624,7 @@
         "team": "NE",
         "position": "LB",
         "depthChartPosition": "ROLB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -17644,7 +17644,7 @@
         "team": "NE",
         "position": "LB",
         "depthChartPosition": "LILB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -17714,7 +17714,7 @@
         "team": "NE",
         "position": "DT",
         "depthChartPosition": "NT",
-        "injuryStatus": "Doubtful",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
       },
@@ -17754,8 +17754,8 @@
         "team": "NE",
         "position": "WR",
         "depthChartPosition": "LWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Head",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Concussion",
         "injuryNotes": null
       },
       {
@@ -17864,7 +17864,7 @@
         "team": "NE",
         "position": "OL",
         "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Concussion",
         "injuryNotes": null
       },
@@ -19028,7 +19028,7 @@
         "team": "CLE",
         "position": "TE",
         "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -19210,6 +19210,26 @@
         "depthChartPosition": "RB",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Hand",
+        "injuryNotes": null
+      },
+      {
+        "id": "12486",
+        "name": "Dillon Gabriel",
+        "team": "CLE",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Shoulder",
+        "injuryNotes": null
+      },
+      {
+        "id": "12506",
+        "name": "Harold Fannin",
+        "team": "CLE",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Groin",
         "injuryNotes": null
       },
       {
@@ -19654,7 +19674,7 @@
         "team": "IND",
         "position": "DT",
         "depthChartPosition": "RDT",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Neck",
         "injuryNotes": null
       },
@@ -19784,7 +19804,7 @@
         "team": "IND",
         "position": "TE",
         "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Neck",
         "injuryNotes": null
       },
@@ -19824,8 +19844,8 @@
         "team": "IND",
         "position": "OL",
         "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Head",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Concussion",
         "injuryNotes": null
       },
       {
@@ -19834,7 +19854,7 @@
         "team": "IND",
         "position": "WR",
         "depthChartPosition": "SWR",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
       },
@@ -19874,7 +19894,7 @@
         "team": "IND",
         "position": "DL",
         "depthChartPosition": "LDE",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Oblique",
         "injuryNotes": null
       },
@@ -22682,7 +22702,7 @@
   "summary": {
     "totalGames": 243,
     "upcomingGames": 0,
-    "injuredPlayers": 1170,
-    "lastUpdate": "2025-12-26T18:33:15.480Z"
+    "injuredPlayers": 1172,
+    "lastUpdate": "2025-12-26T19:17:52.743Z"
   }
 }
