@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-26T04:36:24.390Z",
+  "lastUpdated": "2025-12-26T05:24:34.567Z",
   "season": 2025,
   "gameStats": [
     {
@@ -9927,6 +9927,47 @@
           "sacks": 0
         }
       }
+    },
+    {
+      "id": "401772622",
+      "date": "2025-12-26T01:15Z",
+      "week": 17,
+      "homeTeam": "Kansas City Chiefs",
+      "awayTeam": "Denver Broncos",
+      "scores": {
+        "Kansas City Chiefs": 13,
+        "Denver Broncos": 20
+      },
+      "stats": {
+        "Denver Broncos": {
+          "passingYards": 175,
+          "rushingYards": 128,
+          "totalYards": 303,
+          "turnovers": 1,
+          "thirdDownEff": {
+            "made": 11,
+            "attempts": 18,
+            "percentage": 61.111111111111114
+          },
+          "redZoneEff": null,
+          "possessionTime": 2368,
+          "sacks": 0
+        },
+        "Kansas City Chiefs": {
+          "passingYards": 57,
+          "rushingYards": 82,
+          "totalYards": 139,
+          "turnovers": 0,
+          "thirdDownEff": {
+            "made": 4,
+            "attempts": 11,
+            "percentage": 36.36363636363637
+          },
+          "redZoneEff": null,
+          "possessionTime": 1232,
+          "sacks": 0
+        }
+      }
     }
   ],
   "teamStats": {
@@ -10156,29 +10197,29 @@
       "record": "7-8"
     },
     "Denver Broncos": {
-      "games": 15,
-      "passingYards": 3508,
-      "rushingYards": 1774,
-      "totalYards": 5282,
-      "turnovers": 16,
-      "thirdDownAttempts": 200,
-      "thirdDownConversions": 80,
+      "games": 16,
+      "passingYards": 3683,
+      "rushingYards": 1902,
+      "totalYards": 5585,
+      "turnovers": 17,
+      "thirdDownAttempts": 218,
+      "thirdDownConversions": 91,
       "redZoneAttempts": 0,
       "redZoneScores": 0,
-      "possessionTime": 27443,
+      "possessionTime": 29811,
       "sacks": 0,
-      "pointsFor": 362,
-      "pointsAgainst": 295,
-      "wins": 12,
+      "pointsFor": 382,
+      "pointsAgainst": 308,
+      "wins": 13,
       "losses": 3,
-      "avgPassingYards": 233.86666666666667,
-      "avgRushingYards": 118.26666666666667,
-      "avgTotalYards": 352.1333333333333,
-      "avgPointsFor": 24.133333333333333,
-      "avgPointsAgainst": 19.666666666666668,
-      "thirdDownPct": 40,
+      "avgPassingYards": 230.1875,
+      "avgRushingYards": 118.875,
+      "avgTotalYards": 349.0625,
+      "avgPointsFor": 23.875,
+      "avgPointsAgainst": 19.25,
+      "thirdDownPct": 41.74311926605505,
       "redZonePct": 0,
-      "record": "12-3"
+      "record": "13-3"
     },
     "Detroit Lions": {
       "games": 16,
@@ -10306,29 +10347,29 @@
       "record": "11-4"
     },
     "Kansas City Chiefs": {
-      "games": 15,
-      "passingYards": 3498,
-      "rushingYards": 1646,
-      "totalYards": 5144,
+      "games": 16,
+      "passingYards": 3555,
+      "rushingYards": 1728,
+      "totalYards": 5283,
       "turnovers": 13,
-      "thirdDownAttempts": 191,
-      "thirdDownConversions": 75,
+      "thirdDownAttempts": 202,
+      "thirdDownConversions": 79,
       "redZoneAttempts": 0,
       "redZoneScores": 0,
-      "possessionTime": 27770,
+      "possessionTime": 29002,
       "sacks": 0,
-      "pointsFor": 337,
-      "pointsAgainst": 294,
+      "pointsFor": 350,
+      "pointsAgainst": 314,
       "wins": 6,
-      "losses": 9,
-      "avgPassingYards": 233.2,
-      "avgRushingYards": 109.73333333333333,
-      "avgTotalYards": 342.93333333333334,
-      "avgPointsFor": 22.466666666666665,
-      "avgPointsAgainst": 19.6,
-      "thirdDownPct": 39.26701570680628,
+      "losses": 10,
+      "avgPassingYards": 222.1875,
+      "avgRushingYards": 108,
+      "avgTotalYards": 330.1875,
+      "avgPointsFor": 21.875,
+      "avgPointsAgainst": 19.625,
+      "thirdDownPct": 39.10891089108911,
       "redZonePct": 0,
-      "record": "6-9"
+      "record": "6-10"
     },
     "Las Vegas Raiders": {
       "games": 15,
@@ -10745,10 +10786,10 @@
       "Denver Broncos": 10,
       "Los Angeles Chargers": 11,
       "Green Bay Packers": 12,
-      "Kansas City Chiefs": 13,
-      "Atlanta Falcons": 14,
-      "Jacksonville Jaguars": 15,
-      "Arizona Cardinals": 16,
+      "Atlanta Falcons": 13,
+      "Jacksonville Jaguars": 14,
+      "Arizona Cardinals": 15,
+      "Kansas City Chiefs": 16,
       "New York Giants": 17,
       "Baltimore Ravens": 18,
       "Houston Texans": 19,
@@ -10769,9 +10810,9 @@
     "defensive": {
       "Houston Texans": 1,
       "Seattle Seahawks": 2,
-      "Philadelphia Eagles": 3,
-      "Kansas City Chiefs": 4,
-      "Denver Broncos": 5,
+      "Denver Broncos": 3,
+      "Philadelphia Eagles": 4,
+      "Kansas City Chiefs": 5,
       "Los Angeles Rams": 6,
       "New England Patriots": 7,
       "Los Angeles Chargers": 8,
@@ -10854,11 +10895,11 @@
       "Jacksonville Jaguars": 17,
       "Chicago Bears": 18,
       "Los Angeles Chargers": 19,
-      "Green Bay Packers": 20,
-      "Indianapolis Colts": 21,
-      "Cincinnati Bengals": 22,
-      "Kansas City Chiefs": 23,
-      "Denver Broncos": 24,
+      "Kansas City Chiefs": 20,
+      "Green Bay Packers": 21,
+      "Denver Broncos": 22,
+      "Indianapolis Colts": 23,
+      "Cincinnati Bengals": 24,
       "Arizona Cardinals": 25,
       "Seattle Seahawks": 26,
       "San Francisco 49ers": 27,
@@ -22637,21 +22678,11 @@
       }
     ]
   },
-  "upcomingGames": [
-    {
-      "id": "401772622",
-      "date": "2025-12-26T01:15Z",
-      "status": "in",
-      "homeTeam": "Kansas City Chiefs",
-      "awayTeam": "Denver Broncos",
-      "homeScore": 13,
-      "awayScore": 13
-    }
-  ],
+  "upcomingGames": [],
   "summary": {
-    "totalGames": 242,
-    "upcomingGames": 1,
+    "totalGames": 243,
+    "upcomingGames": 0,
     "injuredPlayers": 1170,
-    "lastUpdate": "2025-12-26T04:36:24.390Z"
+    "lastUpdate": "2025-12-26T05:24:34.567Z"
   }
 }
