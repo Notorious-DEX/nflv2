@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-26T17:19:55.959Z",
+  "lastUpdated": "2025-12-26T18:33:15.480Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18664,7 +18664,7 @@
         "team": "MIA",
         "position": "DB",
         "depthChartPosition": "NB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Calf",
         "injuryNotes": null
       },
@@ -18824,7 +18824,7 @@
         "team": "MIA",
         "position": "DB",
         "depthChartPosition": "LCB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -20954,7 +20954,7 @@
         "team": "TB",
         "position": "LB",
         "depthChartPosition": "LOLB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -20964,7 +20964,7 @@
         "team": "TB",
         "position": "T",
         "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Toe",
         "injuryNotes": null
       },
@@ -21086,7 +21086,7 @@
         "team": "ARI",
         "position": "DB",
         "depthChartPosition": "FS",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Concussion",
         "injuryNotes": null
       },
@@ -21306,7 +21306,7 @@
         "team": "ARI",
         "position": "DB",
         "depthChartPosition": "RCB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Back",
         "injuryNotes": null
       },
@@ -22683,6 +22683,6 @@
     "totalGames": 243,
     "upcomingGames": 0,
     "injuredPlayers": 1170,
-    "lastUpdate": "2025-12-26T17:19:55.959Z"
+    "lastUpdate": "2025-12-26T18:33:15.480Z"
   }
 }
