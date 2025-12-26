@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T23:56:17.287Z",
+  "lastUpdated": "2025-12-26T00:56:59.371Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18325,6 +18325,16 @@
         "injuryNotes": null
       },
       {
+        "id": "5027",
+        "name": "Geron Christian",
+        "team": "DEN",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "6034",
         "name": "Donnie Lewis",
         "team": "DEN",
@@ -18415,6 +18425,16 @@
         "injuryNotes": null
       },
       {
+        "id": "8370",
+        "name": "Jordan Jackson",
+        "team": "DEN",
+        "position": "DL",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "8474",
         "name": "Luke Wattenberg",
         "team": "DEN",
@@ -18472,6 +18492,26 @@
         "depthChartPosition": "LWR",
         "injuryStatus": "Out",
         "injuryBodyPart": "Concussion",
+        "injuryNotes": null
+      },
+      {
+        "id": "12628",
+        "name": "Sai'vion Jones",
+        "team": "DEN",
+        "position": "DE",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "12636",
+        "name": "Que Robinson",
+        "team": "DEN",
+        "position": "LB",
+        "depthChartPosition": "ROLB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -19799,6 +19839,16 @@
         "injuryNotes": null
       },
       {
+        "id": "4118",
+        "name": "Alex Anzalone",
+        "team": "DET",
+        "position": "LB",
+        "depthChartPosition": "LOLB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Head",
+        "injuryNotes": null
+      },
+      {
         "id": "5161",
         "name": "Ezekiel Turner",
         "team": "DET",
@@ -20308,7 +20358,7 @@
         "team": "KC",
         "position": "DT",
         "depthChartPosition": "RDT",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Illness",
         "injuryNotes": null
       },
@@ -20343,16 +20393,6 @@
         "injuryNotes": null
       },
       {
-        "id": "7648",
-        "name": "Nick Bolton",
-        "team": "KC",
-        "position": "LB",
-        "depthChartPosition": "MLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
-        "injuryNotes": null
-      },
-      {
         "id": "7710",
         "name": "Janarius Robinson",
         "team": "KC",
@@ -20368,8 +20408,18 @@
         "team": "KC",
         "position": "OL",
         "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "8129",
+        "name": "Dameon Pierce",
+        "team": "KC",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -20390,6 +20440,16 @@
         "depthChartPosition": "RB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "8336",
+        "name": "Tyreke Smith",
+        "team": "KC",
+        "position": "DL",
+        "depthChartPosition": "ROLB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -20420,16 +20480,6 @@
         "depthChartPosition": "LCB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Groin",
-        "injuryNotes": null
-      },
-      {
-        "id": "8385",
-        "name": "George Karlaftis",
-        "team": "KC",
-        "position": "DL",
-        "depthChartPosition": "LDE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
         "injuryNotes": null
       },
       {
@@ -20480,6 +20530,16 @@
         "depthChartPosition": "SWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "11823",
+        "name": "C.J. Hanson",
+        "team": "KC",
+        "position": "OG",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -20541,6 +20601,26 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Hamstring",
         "injuryNotes": "Strain"
+      },
+      {
+        "id": "12902",
+        "name": "Ethan Downs",
+        "team": "KC",
+        "position": "DE",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "13118",
+        "name": "Melvin Smith",
+        "team": "KC",
+        "position": "DB",
+        "depthChartPosition": "NB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
       }
     ],
     "NO": [
@@ -22513,7 +22593,7 @@
       "status": "in",
       "homeTeam": "Minnesota Vikings",
       "awayTeam": "Detroit Lions",
-      "homeScore": 10,
+      "homeScore": 13,
       "awayScore": 7
     },
     {
@@ -22529,7 +22609,7 @@
   "summary": {
     "totalGames": 241,
     "upcomingGames": 2,
-    "injuredPlayers": 1161,
-    "lastUpdate": "2025-12-25T23:56:17.287Z"
+    "injuredPlayers": 1169,
+    "lastUpdate": "2025-12-26T00:56:59.371Z"
   }
 }
