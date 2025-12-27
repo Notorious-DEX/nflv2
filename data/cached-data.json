@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-27T19:24:16.126Z",
+  "lastUpdated": "2025-12-27T19:38:52.398Z",
   "season": 2025,
   "gameStats": [
     {
@@ -20380,7 +20380,7 @@
         "team": "JAX",
         "position": "RB",
         "depthChartPosition": "RB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Finger",
         "injuryNotes": "Surgery"
       },
@@ -21100,7 +21100,7 @@
         "team": "ATL",
         "position": "CB",
         "depthChartPosition": "LCB",
-        "injuryStatus": "Doubtful",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -21132,16 +21132,6 @@
         "depthChartPosition": "OL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Leg",
-        "injuryNotes": null
-      },
-      {
-        "id": "7553",
-        "name": "Kyle Pitts",
-        "team": "ATL",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
       {
@@ -21245,16 +21235,6 @@
         "injuryNotes": null
       },
       {
-        "id": "11695",
-        "name": "Ruke Orhorhoro",
-        "team": "ATL",
-        "position": "DT",
-        "depthChartPosition": "NT",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
         "id": "11721",
         "name": "Bralen Trice",
         "team": "ATL",
@@ -21272,16 +21252,6 @@
         "depthChartPosition": "QB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Concussion",
-        "injuryNotes": null
-      },
-      {
-        "id": "12585",
-        "name": "James Pearce",
-        "team": "ATL",
-        "position": "DL",
-        "depthChartPosition": "LOLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Neck",
         "injuryNotes": null
       },
       {
@@ -22331,7 +22301,7 @@
   "summary": {
     "totalGames": 243,
     "upcomingGames": 2,
-    "injuredPlayers": 1133,
-    "lastUpdate": "2025-12-27T19:24:16.126Z"
+    "injuredPlayers": 1130,
+    "lastUpdate": "2025-12-27T19:38:52.398Z"
   }
 }
