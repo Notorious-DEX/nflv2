@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-27T21:48:16.159Z",
+  "lastUpdated": "2025-12-27T22:00:48.382Z",
   "season": 2025,
   "gameStats": [
     {
@@ -21417,16 +21417,6 @@
         "injuryNotes": "Strain"
       },
       {
-        "id": "13024",
-        "name": "Jay Higgins",
-        "team": "BAL",
-        "position": "LB",
-        "depthChartPosition": "RILB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
         "id": "13155",
         "name": "Chandler Martin",
         "team": "BAL",
@@ -22316,7 +22306,7 @@
       "homeTeam": "Los Angeles Chargers",
       "awayTeam": "Houston Texans",
       "homeScore": 0,
-      "awayScore": 0
+      "awayScore": 14
     },
     {
       "id": "401772953",
@@ -22331,7 +22321,7 @@
   "summary": {
     "totalGames": 243,
     "upcomingGames": 2,
-    "injuredPlayers": 1133,
-    "lastUpdate": "2025-12-27T21:48:16.159Z"
+    "injuredPlayers": 1132,
+    "lastUpdate": "2025-12-27T22:00:48.382Z"
   }
 }
