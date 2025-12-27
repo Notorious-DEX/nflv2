@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-27T22:47:40.090Z",
+  "lastUpdated": "2025-12-27T23:00:07.743Z",
   "season": 2025,
   "gameStats": [
     {
@@ -16332,7 +16332,7 @@
         "team": "NYG",
         "position": "T",
         "depthChartPosition": "OL",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
@@ -16362,7 +16362,7 @@
         "team": "NYG",
         "position": "DL",
         "depthChartPosition": "NT",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Neck",
         "injuryNotes": null
       },
@@ -16432,7 +16432,7 @@
         "team": "NYG",
         "position": "OL",
         "depthChartPosition": "OL",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Finger",
         "injuryNotes": null
       },
@@ -16482,7 +16482,7 @@
         "team": "NYG",
         "position": "DB",
         "depthChartPosition": "SS",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Neck",
         "injuryNotes": null
       },
@@ -17325,6 +17325,16 @@
         "injuryStatus": "PUP",
         "injuryBodyPart": "Knee - ACL + MCL",
         "injuryNotes": "Surgery"
+      },
+      {
+        "id": "11685",
+        "name": "Kamari Lassiter",
+        "team": "HOU",
+        "position": "DB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
       },
       {
         "id": "11805",
@@ -19719,6 +19729,16 @@
         "injuryNotes": null
       },
       {
+        "id": "12045",
+        "name": "Jack Westover",
+        "team": "NE",
+        "position": "TE",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
+        "injuryNotes": null
+      },
+      {
         "id": "12137",
         "name": "Charles Woods",
         "team": "NE",
@@ -19735,16 +19755,6 @@
         "position": "RB",
         "depthChartPosition": "RB",
         "injuryStatus": "IR",
-        "injuryBodyPart": "Concussion",
-        "injuryNotes": null
-      },
-      {
-        "id": "12529",
-        "name": "TreVeyon Henderson",
-        "team": "NE",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "Questionable",
         "injuryBodyPart": "Concussion",
         "injuryNotes": null
       },
@@ -22305,7 +22315,7 @@
       "status": "in",
       "homeTeam": "Los Angeles Chargers",
       "awayTeam": "Houston Texans",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayScore": 14
     },
     {
@@ -22321,7 +22331,7 @@
   "summary": {
     "totalGames": 243,
     "upcomingGames": 2,
-    "injuredPlayers": 1132,
-    "lastUpdate": "2025-12-27T22:47:40.090Z"
+    "injuredPlayers": 1133,
+    "lastUpdate": "2025-12-27T23:00:07.743Z"
   }
 }
