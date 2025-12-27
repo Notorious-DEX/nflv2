@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-27T20:25:04.030Z",
+  "lastUpdated": "2025-12-27T20:40:09.440Z",
   "season": 2025,
   "gameStats": [
     {
@@ -14089,7 +14089,7 @@
         "name": "Baylen Buchanan",
         "team": null,
         "position": "CB",
-        "depthChartPosition": "SS",
+        "depthChartPosition": "FS",
         "injuryStatus": "NA",
         "injuryBodyPart": null,
         "injuryNotes": null
@@ -17429,23 +17429,13 @@
         "injuryNotes": null
       },
       {
-        "id": "6796",
-        "name": "Mekhi Becton",
+        "id": "5133",
+        "name": "Tyler Conklin",
         "team": "LAC",
-        "position": "OT",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "7443",
-        "name": "Teair Tart",
-        "team": "LAC",
-        "position": "DT",
-        "depthChartPosition": "RDE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Groin",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -17514,9 +17504,9 @@
         "team": "LAC",
         "position": "RB",
         "depthChartPosition": "RB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Neck",
-        "injuryNotes": null
+        "injuryNotes": "Strain"
       },
       {
         "id": "11673",
@@ -17536,6 +17526,16 @@
         "depthChartPosition": "LB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "12643",
+        "name": "Kyle Kennard",
+        "team": "LAC",
+        "position": "DE",
+        "depthChartPosition": "ROLB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -18493,7 +18493,7 @@
         "name": "Anthony Gould",
         "team": "IND",
         "position": "WR",
-        "depthChartPosition": "SWR",
+        "depthChartPosition": "KR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
@@ -19351,7 +19351,7 @@
         "name": "Tyquan Thornton",
         "team": "KC",
         "position": "WR",
-        "depthChartPosition": "LWR",
+        "depthChartPosition": "PR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Concussion",
         "injuryNotes": null
@@ -19391,7 +19391,7 @@
         "name": "Trent McDuffie",
         "team": "KC",
         "position": "DB",
-        "depthChartPosition": "RCB",
+        "depthChartPosition": "DB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -19401,7 +19401,7 @@
         "name": "Jaylen Watson",
         "team": "KC",
         "position": "DB",
-        "depthChartPosition": "LCB",
+        "depthChartPosition": "DB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Groin",
         "injuryNotes": null
@@ -19411,7 +19411,7 @@
         "name": "Rashee Rice",
         "team": "KC",
         "position": "WR",
-        "depthChartPosition": "SWR",
+        "depthChartPosition": null,
         "injuryStatus": "IR",
         "injuryBodyPart": "Concussion",
         "injuryNotes": null
@@ -22342,6 +22342,6 @@
     "totalGames": 243,
     "upcomingGames": 2,
     "injuredPlayers": 1134,
-    "lastUpdate": "2025-12-27T20:25:04.030Z"
+    "lastUpdate": "2025-12-27T20:40:09.440Z"
   }
 }
