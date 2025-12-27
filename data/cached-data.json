@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-27T17:16:32.598Z",
+  "lastUpdated": "2025-12-27T17:19:15.482Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18476,7 +18476,7 @@
         "team": "IND",
         "position": "DT",
         "depthChartPosition": "DL",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Neck",
         "injuryNotes": null
       },
@@ -18536,7 +18536,7 @@
         "team": "IND",
         "position": "WR",
         "depthChartPosition": "LWR",
-        "injuryStatus": "IR",
+        "injuryStatus": "Questionable",
         "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
@@ -18616,7 +18616,7 @@
         "team": "IND",
         "position": "TE",
         "depthChartPosition": "TE",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Neck",
         "injuryNotes": null
       },
@@ -18666,7 +18666,7 @@
         "team": "IND",
         "position": "WR",
         "depthChartPosition": "SWR",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
       },
@@ -22352,6 +22352,6 @@
     "totalGames": 243,
     "upcomingGames": 2,
     "injuredPlayers": 1135,
-    "lastUpdate": "2025-12-27T17:16:32.598Z"
+    "lastUpdate": "2025-12-27T17:19:15.482Z"
   }
 }
