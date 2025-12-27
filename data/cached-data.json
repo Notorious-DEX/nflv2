@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-27T21:35:28.167Z",
+  "lastUpdated": "2025-12-27T21:48:16.159Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18928,7 +18928,7 @@
         "team": "MIA",
         "position": "DT",
         "depthChartPosition": "NT",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Back",
         "injuryNotes": null
       },
@@ -18948,7 +18948,7 @@
         "team": "MIA",
         "position": "WR",
         "depthChartPosition": "LWR",
-        "injuryStatus": "Doubtful",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Toe",
         "injuryNotes": null
       },
@@ -19008,18 +19008,8 @@
         "team": "MIA",
         "position": "DB",
         "depthChartPosition": "DB",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "12145",
-        "name": "Andrew Meyer",
-        "team": "MIA",
-        "position": "C",
-        "depthChartPosition": "OL",
         "injuryStatus": "IR",
-        "injuryBodyPart": "Undisclosed",
+        "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
       {
@@ -22322,7 +22312,7 @@
     {
       "id": "401772951",
       "date": "2025-12-27T21:30Z",
-      "status": "pre",
+      "status": "in",
       "homeTeam": "Los Angeles Chargers",
       "awayTeam": "Houston Texans",
       "homeScore": 0,
@@ -22341,7 +22331,7 @@
   "summary": {
     "totalGames": 243,
     "upcomingGames": 2,
-    "injuredPlayers": 1134,
-    "lastUpdate": "2025-12-27T21:35:28.167Z"
+    "injuredPlayers": 1133,
+    "lastUpdate": "2025-12-27T21:48:16.159Z"
   }
 }
