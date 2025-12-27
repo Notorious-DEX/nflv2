@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-26T04:36:24.610Z",
+  "lastUpdated": "2025-12-27T06:34:48.871Z",
   "season": 2025,
   "predictions": [
     {
@@ -79,16 +79,68 @@
           "confidence": "low"
         }
       }
+    },
+    {
+      "id": "401772951",
+      "gameDate": "2025-12-27T21:30Z",
+      "homeTeam": "Los Angeles Chargers",
+      "awayTeam": "Houston Texans",
+      "predictedWinner": "Los Angeles Chargers",
+      "predictedScore": "26-22",
+      "spread": 4,
+      "confidence": "high",
+      "timestamp": "2025-12-27T06:34:48.870Z",
+      "checked": false,
+      "models": {
+        "elo": {
+          "winner": "Los Angeles Chargers",
+          "score": "24-22",
+          "confidence": "high",
+          "homeWinProb": "58.9",
+          "awayWinProb": "41.1"
+        },
+        "efficiency": {
+          "winner": "Los Angeles Chargers",
+          "score": "30-23",
+          "confidence": "high"
+        }
+      }
+    },
+    {
+      "id": "401772953",
+      "gameDate": "2025-12-28T01:00Z",
+      "homeTeam": "Green Bay Packers",
+      "awayTeam": "Baltimore Ravens",
+      "predictedWinner": "Baltimore Ravens",
+      "predictedScore": "24-24",
+      "spread": 0,
+      "confidence": "low",
+      "timestamp": "2025-12-27T06:34:48.870Z",
+      "checked": false,
+      "models": {
+        "elo": {
+          "winner": "Green Bay Packers",
+          "score": "24-22",
+          "confidence": "high",
+          "homeWinProb": "58.9",
+          "awayWinProb": "41.1"
+        },
+        "efficiency": {
+          "winner": "Baltimore Ravens",
+          "score": "25-27",
+          "confidence": "low"
+        }
+      }
     }
   ],
   "summary": {
-    "total": 3,
-    "new": 1,
-    "carried": 2,
+    "total": 5,
+    "new": 2,
+    "carried": 3,
     "byConfidence": {
-      "high": 0,
+      "high": 1,
       "medium": 0,
-      "low": 3
+      "low": 4
     }
   }
 }
