@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-26T23:21:39.365Z",
+  "lastUpdated": "2025-12-27T01:49:10.175Z",
   "season": 2025,
   "gameStats": [
     {
@@ -16841,16 +16841,6 @@
         "injuryNotes": "Surgery"
       },
       {
-        "id": "6812",
-        "name": "Yetur Gross-Matos",
-        "team": "SF",
-        "position": "DE",
-        "depthChartPosition": "RDE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
         "id": "6963",
         "name": "Patrick Taylor",
         "team": "SF",
@@ -17808,7 +17798,7 @@
         "team": "LV",
         "position": "DE",
         "depthChartPosition": "LDE",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -17870,6 +17860,16 @@
         "depthChartPosition": "LB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Foot",
+        "injuryNotes": null
+      },
+      {
+        "id": "12483",
+        "name": "Jack Bech",
+        "team": "LV",
+        "position": "WR",
+        "depthChartPosition": "LWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Back",
         "injuryNotes": null
       }
     ],
@@ -20693,7 +20693,7 @@
         "name": "Jay Tufele",
         "team": "NYJ",
         "position": "DT",
-        "depthChartPosition": "LDT",
+        "depthChartPosition": "DL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
@@ -20739,11 +20739,21 @@
         "injuryNotes": "Surgery"
       },
       {
+        "id": "8926",
+        "name": "Xavier Newman",
+        "team": "NYJ",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "10883",
         "name": "Will McDonald",
         "team": "NYJ",
         "position": "DE",
-        "depthChartPosition": "LDE",
+        "depthChartPosition": "DL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -20813,7 +20823,7 @@
         "name": "Kiko Mauigoa",
         "team": "NYJ",
         "position": "LB",
-        "depthChartPosition": "ROLB",
+        "depthChartPosition": "LB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Neck",
         "injuryNotes": null
@@ -21519,6 +21529,16 @@
         "injuryNotes": "Surgery"
       },
       {
+        "id": "7654",
+        "name": "Aaron Banks",
+        "team": "GB",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Neck",
+        "injuryNotes": null
+      },
+      {
         "id": "7807",
         "name": "Nick Niemann",
         "team": "GB",
@@ -21646,6 +21666,16 @@
         "depthChartPosition": null,
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "12482",
+        "name": "Savion Williams",
+        "team": "GB",
+        "position": "WR",
+        "depthChartPosition": "SWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Foot",
         "injuryNotes": null
       },
       {
@@ -22302,7 +22332,7 @@
   "summary": {
     "totalGames": 243,
     "upcomingGames": 0,
-    "injuredPlayers": 1132,
-    "lastUpdate": "2025-12-26T23:21:39.365Z"
+    "injuredPlayers": 1135,
+    "lastUpdate": "2025-12-27T01:49:10.175Z"
   }
 }
