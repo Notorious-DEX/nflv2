@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-27T21:19:51.569Z",
+  "lastUpdated": "2025-12-27T21:35:28.167Z",
   "season": 2025,
   "gameStats": [
     {
@@ -20248,7 +20248,7 @@
         "team": "ARI",
         "position": "OL",
         "depthChartPosition": "OL",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Knee - MCL",
         "injuryNotes": "Sprain"
       },
@@ -22342,6 +22342,6 @@
     "totalGames": 243,
     "upcomingGames": 2,
     "injuredPlayers": 1134,
-    "lastUpdate": "2025-12-27T21:19:51.570Z"
+    "lastUpdate": "2025-12-27T21:35:28.167Z"
   }
 }
