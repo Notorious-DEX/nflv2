@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-27T23:44:37.640Z",
+  "lastUpdated": "2025-12-27T23:57:28.996Z",
   "season": 2025,
   "gameStats": [
     {
@@ -21332,7 +21332,7 @@
         "team": "BAL",
         "position": "QB",
         "depthChartPosition": "QB",
-        "injuryStatus": "Doubtful",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Back",
         "injuryNotes": "Bruise"
       },
@@ -21344,6 +21344,16 @@
         "depthChartPosition": "RDE",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "5014",
+        "name": "Joseph Noteboom",
+        "team": "BAL",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -21374,6 +21384,16 @@
         "depthChartPosition": "LDE",
         "injuryStatus": "IR",
         "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
+        "id": "7595",
+        "name": "Tylan Wallace",
+        "team": "BAL",
+        "position": "WR",
+        "depthChartPosition": "RWR",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -21427,6 +21447,16 @@
         "injuryNotes": null
       },
       {
+        "id": "12696",
+        "name": "Aeneas Peebles",
+        "team": "BAL",
+        "position": "DT",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "12714",
         "name": "Bilhal Kone",
         "team": "BAL",
@@ -21445,6 +21475,16 @@
         "injuryStatus": "Out",
         "injuryBodyPart": "Knee - ACL",
         "injuryNotes": "Surgery"
+      },
+      {
+        "id": "13172",
+        "name": "Keyon Martin",
+        "team": "BAL",
+        "position": "CB",
+        "depthChartPosition": "NB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
       }
     ],
     "GB": [
@@ -21509,16 +21549,6 @@
         "injuryNotes": "Surgery"
       },
       {
-        "id": "7654",
-        "name": "Aaron Banks",
-        "team": "GB",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Neck",
-        "injuryNotes": null
-      },
-      {
         "id": "7807",
         "name": "Nick Niemann",
         "team": "GB",
@@ -21526,36 +21556,6 @@
         "depthChartPosition": "ROLB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Pectoral",
-        "injuryNotes": null
-      },
-      {
-        "id": "8161",
-        "name": "Malik Willis",
-        "team": "GB",
-        "position": "QB",
-        "depthChartPosition": "QB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Shoulder",
-        "injuryNotes": null
-      },
-      {
-        "id": "8167",
-        "name": "Christian Watson",
-        "team": "GB",
-        "position": "WR",
-        "depthChartPosition": "LWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
-        "injuryNotes": null
-      },
-      {
-        "id": "8204",
-        "name": "Bo Melton",
-        "team": "GB",
-        "position": "WR",
-        "depthChartPosition": "SWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
         "injuryNotes": null
       },
       {
@@ -21569,22 +21569,12 @@
         "injuryNotes": "Fracture"
       },
       {
-        "id": "8460",
-        "name": "Sean Rhyan",
-        "team": "GB",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
         "id": "8463",
         "name": "Zach Tom",
         "team": "GB",
         "position": "OL",
         "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Back",
         "injuryNotes": null
       },
@@ -21619,16 +21609,6 @@
         "injuryNotes": null
       },
       {
-        "id": "11739",
-        "name": "Evan Williams",
-        "team": "GB",
-        "position": "DB",
-        "depthChartPosition": "FS",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee - MCL",
-        "injuryNotes": "Sprain"
-      },
-      {
         "id": "11793",
         "name": "Travis Glover",
         "team": "GB",
@@ -21654,8 +21634,28 @@
         "team": "GB",
         "position": "WR",
         "depthChartPosition": "SWR",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Foot",
+        "injuryNotes": null
+      },
+      {
+        "id": "12644",
+        "name": "Barryn Sorrell",
+        "team": "GB",
+        "position": "DE",
+        "depthChartPosition": "DL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "12669",
+        "name": "Collin Oliver",
+        "team": "GB",
+        "position": "DE",
+        "depthChartPosition": "RDT",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -21666,6 +21666,16 @@
         "depthChartPosition": "OL",
         "injuryStatus": "PUP",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "12927",
+        "name": "Nazir Stackhouse",
+        "team": "GB",
+        "position": "DL",
+        "depthChartPosition": "RDT",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       }
     ],
@@ -22326,7 +22336,7 @@
       "homeTeam": "Los Angeles Chargers",
       "awayTeam": "Houston Texans",
       "homeScore": 3,
-      "awayScore": 14
+      "awayScore": 17
     },
     {
       "id": "401772953",
@@ -22341,7 +22351,7 @@
   "summary": {
     "totalGames": 243,
     "upcomingGames": 2,
-    "injuredPlayers": 1134,
-    "lastUpdate": "2025-12-27T23:44:37.640Z"
+    "injuredPlayers": 1135,
+    "lastUpdate": "2025-12-27T23:57:28.996Z"
   }
 }
