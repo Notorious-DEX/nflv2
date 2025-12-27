@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-27T18:46:28.576Z",
+  "lastUpdated": "2025-12-27T19:00:05.229Z",
   "season": 2025,
   "gameStats": [
     {
@@ -21771,6 +21771,16 @@
         "injuryNotes": null
       },
       {
+        "id": "10887",
+        "name": "Darnell Wright",
+        "team": "CHI",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
+        "injuryNotes": null
+      },
+      {
         "id": "10915",
         "name": "Ricky Stromberg",
         "team": "CHI",
@@ -21846,7 +21856,7 @@
         "team": "CHI",
         "position": "OG",
         "depthChartPosition": "OL",
-        "injuryStatus": "IR",
+        "injuryStatus": "Questionable",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
       },
@@ -22321,7 +22331,7 @@
   "summary": {
     "totalGames": 243,
     "upcomingGames": 2,
-    "injuredPlayers": 1132,
-    "lastUpdate": "2025-12-27T18:46:28.576Z"
+    "injuredPlayers": 1133,
+    "lastUpdate": "2025-12-27T19:00:05.229Z"
   }
 }
