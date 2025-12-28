@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T18:59:08.053Z",
+  "lastUpdated": "2025-12-28T19:17:59.937Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18661,6 +18661,16 @@
         "injuryNotes": null
       },
       {
+        "id": "7526",
+        "name": "Jaylen Waddle",
+        "team": "MIA",
+        "position": "WR",
+        "depthChartPosition": "LWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ribs",
+        "injuryNotes": null
+      },
+      {
         "id": "7612",
         "name": "Dee Eskridge",
         "team": "MIA",
@@ -19499,6 +19509,16 @@
         "injuryNotes": null
       },
       {
+        "id": "5869",
+        "name": "Michael Jordan",
+        "team": "TB",
+        "position": "G",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Head",
+        "injuryNotes": null
+      },
+      {
         "id": "6003",
         "name": "Anthony Nelson",
         "team": "TB",
@@ -19788,6 +19808,16 @@
         "depthChartPosition": "QB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
+        "id": "9479",
+        "name": "Darnell Washington",
+        "team": "PIT",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Forearm",
         "injuryNotes": null
       },
       {
@@ -21171,6 +21201,16 @@
         "injuryStatus": "PUP",
         "injuryBodyPart": "Knee - ACL",
         "injuryNotes": "Surgery"
+      },
+      {
+        "id": "11666",
+        "name": "Amarius Mims",
+        "team": "CIN",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Shin",
+        "injuryNotes": null
       },
       {
         "id": "11688",
@@ -22845,7 +22885,7 @@
       "status": "in",
       "homeTeam": "Tennessee Titans",
       "awayTeam": "New Orleans Saints",
-      "homeScore": 6,
+      "homeScore": 13,
       "awayScore": 0
     },
     {
@@ -22855,7 +22895,7 @@
       "homeTeam": "Indianapolis Colts",
       "awayTeam": "Jacksonville Jaguars",
       "homeScore": 10,
-      "awayScore": 0
+      "awayScore": 7
     },
     {
       "id": "401772916",
@@ -22872,7 +22912,7 @@
       "status": "in",
       "homeTeam": "New York Jets",
       "awayTeam": "New England Patriots",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayScore": 21
     },
     {
@@ -22915,7 +22955,7 @@
   "summary": {
     "totalGames": 245,
     "upcomingGames": 10,
-    "injuredPlayers": 1176,
-    "lastUpdate": "2025-12-28T18:59:08.053Z"
+    "injuredPlayers": 1180,
+    "lastUpdate": "2025-12-28T19:17:59.937Z"
   }
 }
