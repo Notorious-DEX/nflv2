@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T19:54:41.538Z",
+  "lastUpdated": "2025-12-28T20:19:41.668Z",
   "season": 2025,
   "gameStats": [
     {
@@ -11075,16 +11075,6 @@
         "injuryNotes": null
       },
       {
-        "id": "5906",
-        "name": "Dawson Knox",
-        "team": "BUF",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
         "id": "7042",
         "name": "Tyler Bass",
         "team": "BUF",
@@ -11120,8 +11110,18 @@
         "team": "BUF",
         "position": "TE",
         "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "11637",
+        "name": "Keon Coleman",
+        "team": "BUF",
+        "position": "WR",
+        "depthChartPosition": "LWR",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -11133,6 +11133,16 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Achilles",
         "injuryNotes": "Surgery"
+      },
+      {
+        "id": "11791",
+        "name": "Tylan Grable",
+        "team": "BUF",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
       },
       {
         "id": "12580",
@@ -17357,6 +17367,26 @@
         "injuryNotes": null
       },
       {
+        "id": "6828",
+        "name": "A.J. Dillon",
+        "team": "PHI",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "6921",
+        "name": "Joshua Uche",
+        "team": "PHI",
+        "position": "LB",
+        "depthChartPosition": "ROLB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "6927",
         "name": "Quez Watkins",
         "team": "PHI",
@@ -17374,6 +17404,26 @@
         "depthChartPosition": "LOLB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
+        "id": "7835",
+        "name": "Michael Carter",
+        "team": "PHI",
+        "position": "CB",
+        "depthChartPosition": "NB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Personal",
+        "injuryNotes": null
+      },
+      {
+        "id": "8162",
+        "name": "Sam Howell",
+        "team": "PHI",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -18469,6 +18519,16 @@
         "injuryNotes": null
       },
       {
+        "id": "7663",
+        "name": "Teven Jenkins",
+        "team": "CLE",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Concussion",
+        "injuryNotes": null
+      },
+      {
         "id": "7692",
         "name": "Kendrick Green",
         "team": "CLE",
@@ -18718,6 +18778,16 @@
         "depthChartPosition": "QB",
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "6949",
+        "name": "Jordyn Brooks",
+        "team": "MIA",
+        "position": "LB",
+        "depthChartPosition": "LILB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
       {
@@ -19215,6 +19285,16 @@
         "injuryNotes": null
       },
       {
+        "id": "8290",
+        "name": "Sauce Gardner",
+        "team": "IND",
+        "position": "DB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Calf",
+        "injuryNotes": null
+      },
+      {
         "id": "8489",
         "name": "Drew Ogletree",
         "team": "IND",
@@ -19616,6 +19696,16 @@
         "depthChartPosition": "OL",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Head",
+        "injuryNotes": null
+      },
+      {
+        "id": "5946",
+        "name": "Jamel Dean",
+        "team": "TB",
+        "position": "CB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Shoulder",
         "injuryNotes": null
       },
       {
@@ -21405,6 +21495,16 @@
         "injuryNotes": "Surgery"
       },
       {
+        "id": "5067",
+        "name": "Arden Key",
+        "team": "TEN",
+        "position": "DE",
+        "depthChartPosition": "LOLB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Back",
+        "injuryNotes": null
+      },
+      {
         "id": "5288",
         "name": "Donnie Ernsberger",
         "team": "TEN",
@@ -21647,6 +21747,16 @@
         "injuryNotes": "Surgery"
       },
       {
+        "id": "7712",
+        "name": "Robert Rochell",
+        "team": "CAR",
+        "position": "DB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Concussion",
+        "injuryNotes": null
+      },
+      {
         "id": "8170",
         "name": "James Mitchell",
         "team": "CAR",
@@ -21673,6 +21783,16 @@
         "position": "G",
         "depthChartPosition": "OL",
         "injuryStatus": "IR",
+        "injuryBodyPart": "Calf",
+        "injuryNotes": null
+      },
+      {
+        "id": "11305",
+        "name": "Claudin Cherelus",
+        "team": "CAR",
+        "position": "LB",
+        "depthChartPosition": "LILB",
+        "injuryStatus": "Questionable",
         "injuryBodyPart": "Calf",
         "injuryNotes": null
       },
@@ -22987,7 +23107,7 @@
       "status": "in",
       "homeTeam": "Cincinnati Bengals",
       "awayTeam": "Arizona Cardinals",
-      "homeScore": 23,
+      "homeScore": 30,
       "awayScore": 7
     },
     {
@@ -23006,7 +23126,7 @@
       "homeTeam": "Tennessee Titans",
       "awayTeam": "New Orleans Saints",
       "homeScore": 20,
-      "awayScore": 10
+      "awayScore": 17
     },
     {
       "id": "401772915",
@@ -23015,7 +23135,7 @@
       "homeTeam": "Indianapolis Colts",
       "awayTeam": "Jacksonville Jaguars",
       "homeScore": 10,
-      "awayScore": 7
+      "awayScore": 14
     },
     {
       "id": "401772916",
@@ -23042,7 +23162,7 @@
       "homeTeam": "Carolina Panthers",
       "awayTeam": "Seattle Seahawks",
       "homeScore": 3,
-      "awayScore": 3
+      "awayScore": 10
     },
     {
       "id": "401772950",
@@ -23075,7 +23195,7 @@
   "summary": {
     "totalGames": 245,
     "upcomingGames": 10,
-    "injuredPlayers": 1192,
-    "lastUpdate": "2025-12-28T19:54:41.538Z"
+    "injuredPlayers": 1204,
+    "lastUpdate": "2025-12-28T20:19:41.668Z"
   }
 }
