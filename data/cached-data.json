@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T04:08:46.437Z",
+  "lastUpdated": "2025-12-28T05:26:44.444Z",
   "season": 2025,
   "gameStats": [
     {
@@ -9847,47 +9847,6 @@
       }
     },
     {
-      "id": "401772951",
-      "date": "2025-12-27T21:30Z",
-      "week": 17,
-      "homeTeam": "Los Angeles Chargers",
-      "awayTeam": "Houston Texans",
-      "scores": {
-        "Los Angeles Chargers": 16,
-        "Houston Texans": 20
-      },
-      "stats": {
-        "Houston Texans": {
-          "passingYards": 244,
-          "rushingYards": 118,
-          "totalYards": 362,
-          "turnovers": 2,
-          "thirdDownEff": {
-            "made": 3,
-            "attempts": 11,
-            "percentage": 27.27272727272727
-          },
-          "redZoneEff": null,
-          "possessionTime": 1821,
-          "sacks": 0
-        },
-        "Los Angeles Chargers": {
-          "passingYards": 201,
-          "rushingYards": 74,
-          "totalYards": 275,
-          "turnovers": 1,
-          "thirdDownEff": {
-            "made": 6,
-            "attempts": 15,
-            "percentage": 40
-          },
-          "redZoneEff": null,
-          "possessionTime": 1779,
-          "sacks": 0
-        }
-      }
-    },
-    {
       "id": "401772710",
       "date": "2025-12-25T18:00Z",
       "week": 17,
@@ -10009,6 +9968,88 @@
           "sacks": 0
         }
       }
+    },
+    {
+      "id": "401772951",
+      "date": "2025-12-27T21:30Z",
+      "week": 17,
+      "homeTeam": "Los Angeles Chargers",
+      "awayTeam": "Houston Texans",
+      "scores": {
+        "Los Angeles Chargers": 16,
+        "Houston Texans": 20
+      },
+      "stats": {
+        "Houston Texans": {
+          "passingYards": 244,
+          "rushingYards": 118,
+          "totalYards": 362,
+          "turnovers": 2,
+          "thirdDownEff": {
+            "made": 3,
+            "attempts": 11,
+            "percentage": 27.27272727272727
+          },
+          "redZoneEff": null,
+          "possessionTime": 1821,
+          "sacks": 0
+        },
+        "Los Angeles Chargers": {
+          "passingYards": 201,
+          "rushingYards": 74,
+          "totalYards": 275,
+          "turnovers": 1,
+          "thirdDownEff": {
+            "made": 6,
+            "attempts": 15,
+            "percentage": 40
+          },
+          "redZoneEff": null,
+          "possessionTime": 1779,
+          "sacks": 0
+        }
+      }
+    },
+    {
+      "id": "401772953",
+      "date": "2025-12-28T01:00Z",
+      "week": 17,
+      "homeTeam": "Green Bay Packers",
+      "awayTeam": "Baltimore Ravens",
+      "scores": {
+        "Green Bay Packers": 24,
+        "Baltimore Ravens": 41
+      },
+      "stats": {
+        "Baltimore Ravens": {
+          "passingYards": 107,
+          "rushingYards": 307,
+          "totalYards": 414,
+          "turnovers": 0,
+          "thirdDownEff": {
+            "made": 10,
+            "attempts": 14,
+            "percentage": 71.42857142857143
+          },
+          "redZoneEff": null,
+          "possessionTime": 2416,
+          "sacks": 0
+        },
+        "Green Bay Packers": {
+          "passingYards": 284,
+          "rushingYards": 79,
+          "totalYards": 363,
+          "turnovers": 2,
+          "thirdDownEff": {
+            "made": 3,
+            "attempts": 6,
+            "percentage": 50
+          },
+          "redZoneEff": null,
+          "possessionTime": 1184,
+          "sacks": 0
+        }
+      }
     }
   ],
   "teamStats": {
@@ -10063,29 +10104,29 @@
       "record": "6-9"
     },
     "Baltimore Ravens": {
-      "games": 15,
-      "passingYards": 2656,
-      "rushingYards": 2218,
-      "totalYards": 4874,
+      "games": 16,
+      "passingYards": 2763,
+      "rushingYards": 2525,
+      "totalYards": 5288,
       "turnovers": 22,
-      "thirdDownAttempts": 177,
-      "thirdDownConversions": 69,
+      "thirdDownAttempts": 191,
+      "thirdDownConversions": 79,
       "redZoneAttempts": 0,
       "redZoneScores": 0,
-      "possessionTime": 25805,
+      "possessionTime": 28221,
       "sacks": 0,
-      "pointsFor": 359,
-      "pointsAgainst": 348,
-      "wins": 7,
+      "pointsFor": 400,
+      "pointsAgainst": 372,
+      "wins": 8,
       "losses": 8,
-      "avgPassingYards": 177.06666666666666,
-      "avgRushingYards": 147.86666666666667,
-      "avgTotalYards": 324.93333333333334,
-      "avgPointsFor": 23.933333333333334,
-      "avgPointsAgainst": 23.2,
-      "thirdDownPct": 38.983050847457626,
+      "avgPassingYards": 172.6875,
+      "avgRushingYards": 157.8125,
+      "avgTotalYards": 330.5,
+      "avgPointsFor": 25,
+      "avgPointsAgainst": 23.25,
+      "thirdDownPct": 41.361256544502616,
       "redZonePct": 0,
-      "record": "7-8"
+      "record": "8-8"
     },
     "Buffalo Bills": {
       "games": 15,
@@ -10288,29 +10329,29 @@
       "record": "8-8"
     },
     "Green Bay Packers": {
-      "games": 15,
-      "passingYards": 3340,
-      "rushingYards": 1830,
-      "totalYards": 5170,
-      "turnovers": 11,
-      "thirdDownAttempts": 187,
-      "thirdDownConversions": 94,
+      "games": 16,
+      "passingYards": 3624,
+      "rushingYards": 1909,
+      "totalYards": 5533,
+      "turnovers": 13,
+      "thirdDownAttempts": 193,
+      "thirdDownConversions": 97,
       "redZoneAttempts": 0,
       "redZoneScores": 0,
-      "possessionTime": 27624,
+      "possessionTime": 28808,
       "sacks": 0,
-      "pointsFor": 364,
-      "pointsAgainst": 303,
+      "pointsFor": 388,
+      "pointsAgainst": 344,
       "wins": 9,
-      "losses": 5,
-      "avgPassingYards": 222.66666666666666,
-      "avgRushingYards": 122,
-      "avgTotalYards": 344.6666666666667,
-      "avgPointsFor": 24.266666666666666,
-      "avgPointsAgainst": 20.2,
-      "thirdDownPct": 50.26737967914438,
+      "losses": 6,
+      "avgPassingYards": 226.5,
+      "avgRushingYards": 119.3125,
+      "avgTotalYards": 345.8125,
+      "avgPointsFor": 24.25,
+      "avgPointsAgainst": 21.5,
+      "thirdDownPct": 50.259067357512954,
       "redZonePct": 0,
-      "record": "9-5"
+      "record": "9-6"
     },
     "Houston Texans": {
       "games": 16,
@@ -10830,10 +10871,10 @@
       "Atlanta Falcons": 13,
       "Jacksonville Jaguars": 14,
       "Arizona Cardinals": 15,
-      "Kansas City Chiefs": 16,
-      "New York Giants": 17,
-      "Houston Texans": 18,
-      "Baltimore Ravens": 19,
+      "Baltimore Ravens": 16,
+      "Kansas City Chiefs": 17,
+      "New York Giants": 18,
+      "Houston Texans": 19,
       "Washington Commanders": 20,
       "Cincinnati Bengals": 21,
       "Philadelphia Eagles": 22,
@@ -10857,10 +10898,10 @@
       "Los Angeles Rams": 6,
       "New England Patriots": 7,
       "Los Angeles Chargers": 8,
-      "Green Bay Packers": 9,
-      "Minnesota Vikings": 10,
-      "Jacksonville Jaguars": 11,
-      "San Francisco 49ers": 12,
+      "Minnesota Vikings": 9,
+      "Jacksonville Jaguars": 10,
+      "San Francisco 49ers": 11,
+      "Green Bay Packers": 12,
       "Carolina Panthers": 13,
       "New Orleans Saints": 14,
       "Buffalo Bills": 15,
@@ -10884,8 +10925,8 @@
     },
     "rushOffense": {
       "Buffalo Bills": 1,
-      "Chicago Bears": 2,
-      "Baltimore Ravens": 3,
+      "Baltimore Ravens": 2,
+      "Chicago Bears": 3,
       "Washington Commanders": 4,
       "Los Angeles Rams": 5,
       "New York Giants": 6,
@@ -10896,10 +10937,10 @@
       "Carolina Panthers": 11,
       "Miami Dolphins": 12,
       "Los Angeles Chargers": 13,
-      "Green Bay Packers": 14,
-      "Philadelphia Eagles": 15,
-      "Detroit Lions": 16,
-      "New England Patriots": 17,
+      "Philadelphia Eagles": 14,
+      "Detroit Lions": 15,
+      "New England Patriots": 16,
+      "Green Bay Packers": 17,
       "Denver Broncos": 18,
       "Jacksonville Jaguars": 19,
       "Tampa Bay Buccaneers": 20,
@@ -10920,8 +10961,8 @@
       "Minnesota Vikings": 1,
       "Tennessee Titans": 2,
       "Cleveland Browns": 3,
-      "Las Vegas Raiders": 4,
-      "Baltimore Ravens": 5,
+      "Baltimore Ravens": 4,
+      "Las Vegas Raiders": 5,
       "Carolina Panthers": 6,
       "Miami Dolphins": 7,
       "Washington Commanders": 8,
@@ -21695,8 +21736,8 @@
         "team": "GB",
         "position": "WR",
         "depthChartPosition": "RWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Head",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Concussion",
         "injuryNotes": null
       },
       {
@@ -22449,21 +22490,11 @@
       }
     ]
   },
-  "upcomingGames": [
-    {
-      "id": "401772953",
-      "date": "2025-12-28T01:00Z",
-      "status": "in",
-      "homeTeam": "Green Bay Packers",
-      "awayTeam": "Baltimore Ravens",
-      "homeScore": 24,
-      "awayScore": 27
-    }
-  ],
+  "upcomingGames": [],
   "summary": {
-    "totalGames": 244,
-    "upcomingGames": 1,
+    "totalGames": 245,
+    "upcomingGames": 0,
     "injuredPlayers": 1143,
-    "lastUpdate": "2025-12-28T04:08:46.437Z"
+    "lastUpdate": "2025-12-28T05:26:44.444Z"
   }
 }
