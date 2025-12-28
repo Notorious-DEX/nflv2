@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T19:22:41.713Z",
+  "lastUpdated": "2025-12-28T19:34:13.557Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18731,6 +18731,16 @@
         "injuryNotes": "Surgery"
       },
       {
+        "id": "11663",
+        "name": "Chop Robinson",
+        "team": "MIA",
+        "position": "DE",
+        "depthChartPosition": "LOLB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Head",
+        "injuryNotes": null
+      },
+      {
         "id": "12012",
         "name": "Derrick McLendon",
         "team": "MIA",
@@ -19509,6 +19519,16 @@
         "injuryNotes": null
       },
       {
+        "id": "5869",
+        "name": "Michael Jordan",
+        "team": "TB",
+        "position": "G",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Head",
+        "injuryNotes": null
+      },
+      {
         "id": "6003",
         "name": "Anthony Nelson",
         "team": "TB",
@@ -19806,7 +19826,7 @@
         "team": "PIT",
         "position": "TE",
         "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Forearm",
         "injuryNotes": null
       },
@@ -20936,6 +20956,16 @@
         "depthChartPosition": "DL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "12736",
+        "name": "Kitan Crawford",
+        "team": "ARI",
+        "position": "DB",
+        "depthChartPosition": "SS",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
       {
@@ -22867,7 +22897,7 @@
       "homeTeam": "Cleveland Browns",
       "awayTeam": "Pittsburgh Steelers",
       "homeScore": 10,
-      "awayScore": 3
+      "awayScore": 6
     },
     {
       "id": "401772809",
@@ -22945,7 +22975,7 @@
   "summary": {
     "totalGames": 245,
     "upcomingGames": 10,
-    "injuredPlayers": 1179,
-    "lastUpdate": "2025-12-28T19:22:41.713Z"
+    "injuredPlayers": 1182,
+    "lastUpdate": "2025-12-28T19:34:13.557Z"
   }
 }
