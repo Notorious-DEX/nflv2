@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T22:51:48.327Z",
+  "lastUpdated": "2025-12-28T23:10:43.419Z",
   "season": 2025,
   "gameStats": [
     {
@@ -11392,6 +11392,16 @@
         "injuryNotes": null
       },
       {
+        "id": "8311",
+        "name": "Terrel Bernard",
+        "team": "BUF",
+        "position": "LB",
+        "depthChartPosition": "MLB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Calf",
+        "injuryNotes": null
+      },
+      {
         "id": "10236",
         "name": "Dalton Kincaid",
         "team": "BUF",
@@ -16733,6 +16743,16 @@
         "depthChartPosition": null,
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
+        "id": "7666",
+        "name": "Jevon Holland",
+        "team": "NYG",
+        "position": "DB",
+        "depthChartPosition": "FS",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
       {
@@ -23494,7 +23514,7 @@
       "homeTeam": "Buffalo Bills",
       "awayTeam": "Philadelphia Eagles",
       "homeScore": 0,
-      "awayScore": 10
+      "awayScore": 13
     },
     {
       "id": "401772935",
@@ -23509,7 +23529,7 @@
   "summary": {
     "totalGames": 252,
     "upcomingGames": 3,
-    "injuredPlayers": 1213,
-    "lastUpdate": "2025-12-28T22:51:48.327Z"
+    "injuredPlayers": 1215,
+    "lastUpdate": "2025-12-28T23:10:43.419Z"
   }
 }
