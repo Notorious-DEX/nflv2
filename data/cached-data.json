@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T19:44:34.586Z",
+  "lastUpdated": "2025-12-28T19:54:41.538Z",
   "season": 2025,
   "gameStats": [
     {
@@ -16369,6 +16369,16 @@
         "injuryNotes": "Soreness"
       },
       {
+        "id": "1234",
+        "name": "Russell Wilson",
+        "team": "NYG",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "1642",
         "name": "Levine Toilolo",
         "team": "NYG",
@@ -16384,7 +16394,7 @@
         "team": "NYG",
         "position": "DT",
         "depthChartPosition": "RDE",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -16454,7 +16464,7 @@
         "team": "NYG",
         "position": "DB",
         "depthChartPosition": "RCB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -16499,6 +16509,16 @@
         "injuryNotes": null
       },
       {
+        "id": "9497",
+        "name": "Jalin Hyatt",
+        "team": "NYG",
+        "position": "WR",
+        "depthChartPosition": "RWR",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "9499",
         "name": "Bryce Ford-Wheaton",
         "team": "NYG",
@@ -16539,6 +16559,16 @@
         "injuryNotes": null
       },
       {
+        "id": "11098",
+        "name": "Caleb Murphy",
+        "team": "NYG",
+        "position": "DE",
+        "depthChartPosition": "LOLB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "11597",
         "name": "Theo Johnson",
         "team": "NYG",
@@ -16556,6 +16586,16 @@
         "depthChartPosition": null,
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "11654",
+        "name": "Dante Miller",
+        "team": "NYG",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -17781,6 +17821,158 @@
         "injuryNotes": null
       }
     ],
+    "LV": [
+      {
+        "id": "2334",
+        "name": "Phillip Dorsett",
+        "team": "LV",
+        "position": "WR",
+        "depthChartPosition": "LWR",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "2749",
+        "name": "Raheem Mostert",
+        "team": "LV",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
+        "id": "4974",
+        "name": "Terrell Edmunds",
+        "team": "LV",
+        "position": "DB",
+        "depthChartPosition": "NB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "4986",
+        "name": "Kolton Miller",
+        "team": "LV",
+        "position": "T",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": "Sprain"
+      },
+      {
+        "id": "5991",
+        "name": "Maxx Crosby",
+        "team": "LV",
+        "position": "DE",
+        "depthChartPosition": "DL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "7016",
+        "name": "Jeremy Chinn",
+        "team": "LV",
+        "position": "DB",
+        "depthChartPosition": "DB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Back",
+        "injuryNotes": null
+      },
+      {
+        "id": "7873",
+        "name": "Jordan Meredith",
+        "team": "LV",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
+        "id": "10866",
+        "name": "Aidan O'Connell",
+        "team": "LV",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "10928",
+        "name": "Brodric Martin",
+        "team": "LV",
+        "position": "DT",
+        "depthChartPosition": "LDT",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "10976",
+        "name": "Kyu Blu Kelly",
+        "team": "LV",
+        "position": "CB",
+        "depthChartPosition": "DB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": "Ruptured"
+      },
+      {
+        "id": "11604",
+        "name": "Brock Bowers",
+        "team": "LV",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "11683",
+        "name": "Jackson Powers-Johnson",
+        "team": "LV",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
+        "id": "11751",
+        "name": "Brennan Jackson",
+        "team": "LV",
+        "position": "DE",
+        "depthChartPosition": "LB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Foot",
+        "injuryNotes": null
+      },
+      {
+        "id": "11963",
+        "name": "Chris Collier",
+        "team": "LV",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "12483",
+        "name": "Jack Bech",
+        "team": "LV",
+        "position": "WR",
+        "depthChartPosition": "LWR",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Back",
+        "injuryNotes": null
+      }
+    ],
     "LAC": [
       {
         "id": "2353",
@@ -18195,108 +18387,6 @@
         "injuryNotes": null
       }
     ],
-    "LV": [
-      {
-        "id": "2749",
-        "name": "Raheem Mostert",
-        "team": "LV",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
-        "id": "4986",
-        "name": "Kolton Miller",
-        "team": "LV",
-        "position": "T",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": "Sprain"
-      },
-      {
-        "id": "5991",
-        "name": "Maxx Crosby",
-        "team": "LV",
-        "position": "DE",
-        "depthChartPosition": "DL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "7016",
-        "name": "Jeremy Chinn",
-        "team": "LV",
-        "position": "DB",
-        "depthChartPosition": "DB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Back",
-        "injuryNotes": null
-      },
-      {
-        "id": "7873",
-        "name": "Jordan Meredith",
-        "team": "LV",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
-        "id": "10976",
-        "name": "Kyu Blu Kelly",
-        "team": "LV",
-        "position": "CB",
-        "depthChartPosition": "DB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": "Ruptured"
-      },
-      {
-        "id": "11604",
-        "name": "Brock Bowers",
-        "team": "LV",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "11683",
-        "name": "Jackson Powers-Johnson",
-        "team": "LV",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
-        "id": "11751",
-        "name": "Brennan Jackson",
-        "team": "LV",
-        "position": "DE",
-        "depthChartPosition": "LB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Foot",
-        "injuryNotes": null
-      },
-      {
-        "id": "12483",
-        "name": "Jack Bech",
-        "team": "LV",
-        "position": "WR",
-        "depthChartPosition": "LWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Back",
-        "injuryNotes": null
-      }
-    ],
     "CLE": [
       {
         "id": "2750",
@@ -18484,7 +18574,7 @@
         "team": "CLE",
         "position": "TE",
         "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Groin",
         "injuryNotes": null
       },
@@ -22754,8 +22844,8 @@
         "team": "SEA",
         "position": "WR",
         "depthChartPosition": "RWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Head",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Concussion",
         "injuryNotes": null
       },
       {
@@ -22985,7 +23075,7 @@
   "summary": {
     "totalGames": 245,
     "upcomingGames": 10,
-    "injuredPlayers": 1183,
-    "lastUpdate": "2025-12-28T19:44:34.586Z"
+    "injuredPlayers": 1192,
+    "lastUpdate": "2025-12-28T19:54:41.538Z"
   }
 }
