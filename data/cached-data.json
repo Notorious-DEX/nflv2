@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T05:26:44.444Z",
+  "lastUpdated": "2025-12-28T06:34:57.937Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22490,11 +22490,102 @@
       }
     ]
   },
-  "upcomingGames": [],
+  "upcomingGames": [
+    {
+      "id": "401772954",
+      "date": "2025-12-28T18:00Z",
+      "status": "pre",
+      "homeTeam": "Cincinnati Bengals",
+      "awayTeam": "Arizona Cardinals",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "id": "401772807",
+      "date": "2025-12-28T18:00Z",
+      "status": "pre",
+      "homeTeam": "Cleveland Browns",
+      "awayTeam": "Pittsburgh Steelers",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "id": "401772809",
+      "date": "2025-12-28T18:00Z",
+      "status": "pre",
+      "homeTeam": "Tennessee Titans",
+      "awayTeam": "New Orleans Saints",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "id": "401772915",
+      "date": "2025-12-28T18:00Z",
+      "status": "pre",
+      "homeTeam": "Indianapolis Colts",
+      "awayTeam": "Jacksonville Jaguars",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "id": "401772916",
+      "date": "2025-12-28T18:00Z",
+      "status": "pre",
+      "homeTeam": "Miami Dolphins",
+      "awayTeam": "Tampa Bay Buccaneers",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "id": "401772808",
+      "date": "2025-12-28T18:00Z",
+      "status": "pre",
+      "homeTeam": "New York Jets",
+      "awayTeam": "New England Patriots",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "id": "401772952",
+      "date": "2025-12-28T18:00Z",
+      "status": "pre",
+      "homeTeam": "Carolina Panthers",
+      "awayTeam": "Seattle Seahawks",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "id": "401772950",
+      "date": "2025-12-28T21:05Z",
+      "status": "pre",
+      "homeTeam": "Las Vegas Raiders",
+      "awayTeam": "New York Giants",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "id": "401772917",
+      "date": "2025-12-28T21:25Z",
+      "status": "pre",
+      "homeTeam": "Buffalo Bills",
+      "awayTeam": "Philadelphia Eagles",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "id": "401772935",
+      "date": "2025-12-29T01:20Z",
+      "status": "pre",
+      "homeTeam": "San Francisco 49ers",
+      "awayTeam": "Chicago Bears",
+      "homeScore": 0,
+      "awayScore": 0
+    }
+  ],
   "summary": {
     "totalGames": 245,
-    "upcomingGames": 0,
+    "upcomingGames": 10,
     "injuredPlayers": 1143,
-    "lastUpdate": "2025-12-28T05:26:44.444Z"
+    "lastUpdate": "2025-12-28T06:34:57.937Z"
   }
 }
