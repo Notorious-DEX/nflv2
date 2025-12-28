@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T09:23:04.085Z",
+  "lastUpdated": "2025-12-28T10:23:08.236Z",
   "season": 2025,
   "predictions": [
     {
@@ -141,7 +141,7 @@
       "predictedScore": "24-21",
       "spread": 3,
       "confidence": "medium",
-      "timestamp": "2025-12-28T09:23:04.084Z",
+      "timestamp": "2025-12-28T10:23:08.235Z",
       "checked": false,
       "models": {
         "elo": {
@@ -167,7 +167,7 @@
       "predictedScore": "22-22",
       "spread": 0,
       "confidence": "low",
-      "timestamp": "2025-12-28T09:23:04.084Z",
+      "timestamp": "2025-12-28T10:23:08.235Z",
       "checked": false,
       "models": {
         "elo": {
@@ -193,7 +193,7 @@
       "predictedScore": "22-19",
       "spread": 3,
       "confidence": "medium",
-      "timestamp": "2025-12-28T09:23:04.084Z",
+      "timestamp": "2025-12-28T10:23:08.235Z",
       "checked": false,
       "models": {
         "elo": {
@@ -219,7 +219,7 @@
       "predictedScore": "26-24",
       "spread": 2,
       "confidence": "medium",
-      "timestamp": "2025-12-28T09:23:04.084Z",
+      "timestamp": "2025-12-28T10:23:08.235Z",
       "checked": false,
       "models": {
         "elo": {
@@ -245,7 +245,7 @@
       "predictedScore": "24-22",
       "spread": 2,
       "confidence": "low",
-      "timestamp": "2025-12-28T09:23:04.084Z",
+      "timestamp": "2025-12-28T10:23:08.235Z",
       "checked": false,
       "models": {
         "elo": {
@@ -271,7 +271,7 @@
       "predictedScore": "25-24",
       "spread": 1,
       "confidence": "low",
-      "timestamp": "2025-12-28T09:23:04.084Z",
+      "timestamp": "2025-12-28T10:23:08.235Z",
       "checked": false,
       "models": {
         "elo": {
@@ -297,7 +297,7 @@
       "predictedScore": "25-23",
       "spread": 2,
       "confidence": "low",
-      "timestamp": "2025-12-28T09:23:04.084Z",
+      "timestamp": "2025-12-28T10:23:08.235Z",
       "checked": false,
       "models": {
         "elo": {
@@ -323,7 +323,7 @@
       "predictedScore": "21-22",
       "spread": -1,
       "confidence": "medium",
-      "timestamp": "2025-12-28T09:23:04.084Z",
+      "timestamp": "2025-12-28T10:23:08.235Z",
       "checked": false,
       "models": {
         "elo": {
@@ -349,7 +349,7 @@
       "predictedScore": "27-22",
       "spread": 5,
       "confidence": "high",
-      "timestamp": "2025-12-28T09:23:04.084Z",
+      "timestamp": "2025-12-28T10:23:08.235Z",
       "checked": false,
       "models": {
         "elo": {
@@ -375,7 +375,7 @@
       "predictedScore": "25-24",
       "spread": 1,
       "confidence": "low",
-      "timestamp": "2025-12-28T09:23:04.084Z",
+      "timestamp": "2025-12-28T10:23:08.235Z",
       "checked": false,
       "models": {
         "elo": {
