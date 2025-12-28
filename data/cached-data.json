@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T22:22:14.064Z",
+  "lastUpdated": "2025-12-28T22:39:22.131Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18210,6 +18210,16 @@
         "injuryNotes": null
       },
       {
+        "id": "4415",
+        "name": "Adam Butler",
+        "team": "LV",
+        "position": "DT",
+        "depthChartPosition": "LDT",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Arm",
+        "injuryNotes": null
+      },
+      {
         "id": "4974",
         "name": "Terrell Edmunds",
         "team": "LV",
@@ -23499,7 +23509,7 @@
   "summary": {
     "totalGames": 252,
     "upcomingGames": 3,
-    "injuredPlayers": 1212,
-    "lastUpdate": "2025-12-28T22:22:14.064Z"
+    "injuredPlayers": 1213,
+    "lastUpdate": "2025-12-28T22:39:22.131Z"
   }
 }
