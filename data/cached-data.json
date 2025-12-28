@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T20:25:48.591Z",
+  "lastUpdated": "2025-12-28T20:40:03.765Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17093,6 +17093,16 @@
         "injuryNotes": null
       },
       {
+        "id": "11571",
+        "name": "Isaiah Davis",
+        "team": "NYJ",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Head",
+        "injuryNotes": null
+      },
+      {
         "id": "11576",
         "name": "Braelon Allen",
         "team": "NYJ",
@@ -17101,6 +17111,16 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee - MCL",
         "injuryNotes": "Sprain"
+      },
+      {
+        "id": "11755",
+        "name": "Qwan'tez Stiggers",
+        "team": "NYJ",
+        "position": "CB",
+        "depthChartPosition": "LCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
       },
       {
         "id": "11766",
@@ -18848,6 +18868,16 @@
         "depthChartPosition": "OL",
         "injuryStatus": "PUP",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "7815",
+        "name": "K.J. Britt",
+        "team": "MIA",
+        "position": "LB",
+        "depthChartPosition": "RILB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Groin",
         "injuryNotes": null
       },
       {
@@ -20617,6 +20647,16 @@
         "injuryNotes": "Sprain"
       },
       {
+        "id": "4661",
+        "name": "Michael Davis",
+        "team": "NO",
+        "position": "CB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Shoulder",
+        "injuryNotes": null
+      },
+      {
         "id": "5316",
         "name": "Will Clapp",
         "team": "NO",
@@ -21096,6 +21136,16 @@
         "depthChartPosition": "RB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "11628",
+        "name": "Marvin Harrison",
+        "team": "ARI",
+        "position": "WR",
+        "depthChartPosition": "LWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Heel",
         "injuryNotes": null
       },
       {
@@ -23125,7 +23175,7 @@
       "status": "in",
       "homeTeam": "Tennessee Titans",
       "awayTeam": "New Orleans Saints",
-      "homeScore": 23,
+      "homeScore": 26,
       "awayScore": 20
     },
     {
@@ -23152,7 +23202,7 @@
       "status": "in",
       "homeTeam": "New York Jets",
       "awayTeam": "New England Patriots",
-      "homeScore": 3,
+      "homeScore": 10,
       "awayScore": 42
     },
     {
@@ -23161,7 +23211,7 @@
       "status": "in",
       "homeTeam": "Carolina Panthers",
       "awayTeam": "Seattle Seahawks",
-      "homeScore": 9,
+      "homeScore": 10,
       "awayScore": 17
     },
     {
@@ -23195,7 +23245,7 @@
   "summary": {
     "totalGames": 245,
     "upcomingGames": 10,
-    "injuredPlayers": 1204,
-    "lastUpdate": "2025-12-28T20:25:48.591Z"
+    "injuredPlayers": 1209,
+    "lastUpdate": "2025-12-28T20:40:03.765Z"
   }
 }
