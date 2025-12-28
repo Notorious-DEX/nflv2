@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T01:23:25.084Z",
+  "lastUpdated": "2025-12-28T02:02:44.513Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17918,7 +17918,7 @@
         "name": "Maxx Crosby",
         "team": "LV",
         "position": "DE",
-        "depthChartPosition": "LDE",
+        "depthChartPosition": "DL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -18998,7 +18998,7 @@
         "name": "Benito Jones",
         "team": "MIA",
         "position": "DT",
-        "depthChartPosition": "NT",
+        "depthChartPosition": "DL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Back",
         "injuryNotes": null
@@ -19018,7 +19018,7 @@
         "name": "Dee Eskridge",
         "team": "MIA",
         "position": "WR",
-        "depthChartPosition": "LWR",
+        "depthChartPosition": "KR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Toe",
         "injuryNotes": null
@@ -22381,28 +22381,19 @@
   },
   "upcomingGames": [
     {
-      "id": "401772951",
-      "date": "2025-12-27T21:30Z",
-      "status": "in",
-      "homeTeam": "Los Angeles Chargers",
-      "awayTeam": "Houston Texans",
-      "homeScore": 10,
-      "awayScore": 17
-    },
-    {
       "id": "401772953",
       "date": "2025-12-28T01:00Z",
-      "status": "pre",
+      "status": "in",
       "homeTeam": "Green Bay Packers",
       "awayTeam": "Baltimore Ravens",
       "homeScore": 0,
-      "awayScore": 0
+      "awayScore": 7
     }
   ],
   "summary": {
     "totalGames": 244,
-    "upcomingGames": 2,
+    "upcomingGames": 1,
     "injuredPlayers": 1136,
-    "lastUpdate": "2025-12-28T01:23:25.084Z"
+    "lastUpdate": "2025-12-28T02:02:44.513Z"
   }
 }
