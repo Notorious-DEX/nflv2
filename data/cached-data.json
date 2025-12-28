@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T20:19:41.668Z",
+  "lastUpdated": "2025-12-28T20:25:48.591Z",
   "season": 2025,
   "gameStats": [
     {
@@ -23107,7 +23107,7 @@
       "status": "in",
       "homeTeam": "Cincinnati Bengals",
       "awayTeam": "Arizona Cardinals",
-      "homeScore": 30,
+      "homeScore": 37,
       "awayScore": 7
     },
     {
@@ -23125,8 +23125,8 @@
       "status": "in",
       "homeTeam": "Tennessee Titans",
       "awayTeam": "New Orleans Saints",
-      "homeScore": 20,
-      "awayScore": 17
+      "homeScore": 23,
+      "awayScore": 20
     },
     {
       "id": "401772915",
@@ -23134,8 +23134,8 @@
       "status": "in",
       "homeTeam": "Indianapolis Colts",
       "awayTeam": "Jacksonville Jaguars",
-      "homeScore": 10,
-      "awayScore": 14
+      "homeScore": 17,
+      "awayScore": 17
     },
     {
       "id": "401772916",
@@ -23143,8 +23143,8 @@
       "status": "in",
       "homeTeam": "Miami Dolphins",
       "awayTeam": "Tampa Bay Buccaneers",
-      "homeScore": 17,
-      "awayScore": 7
+      "homeScore": 20,
+      "awayScore": 10
     },
     {
       "id": "401772808",
@@ -23153,7 +23153,7 @@
       "homeTeam": "New York Jets",
       "awayTeam": "New England Patriots",
       "homeScore": 3,
-      "awayScore": 35
+      "awayScore": 42
     },
     {
       "id": "401772952",
@@ -23161,8 +23161,8 @@
       "status": "in",
       "homeTeam": "Carolina Panthers",
       "awayTeam": "Seattle Seahawks",
-      "homeScore": 3,
-      "awayScore": 10
+      "homeScore": 9,
+      "awayScore": 17
     },
     {
       "id": "401772950",
@@ -23196,6 +23196,6 @@
     "totalGames": 245,
     "upcomingGames": 10,
     "injuredPlayers": 1204,
-    "lastUpdate": "2025-12-28T20:19:41.668Z"
+    "lastUpdate": "2025-12-28T20:25:48.591Z"
   }
 }
