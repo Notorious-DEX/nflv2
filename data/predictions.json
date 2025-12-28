@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T21:12:45.801Z",
+  "lastUpdated": "2025-12-28T21:20:49.998Z",
   "season": 2025,
   "predictions": [
     {
@@ -185,32 +185,6 @@
       }
     },
     {
-      "id": "401772809",
-      "gameDate": "2025-12-28T18:00Z",
-      "homeTeam": "Tennessee Titans",
-      "awayTeam": "New Orleans Saints",
-      "predictedWinner": "Tennessee Titans",
-      "predictedScore": "22-19",
-      "spread": 3,
-      "confidence": "medium",
-      "timestamp": "2025-12-28T21:12:45.800Z",
-      "checked": false,
-      "models": {
-        "elo": {
-          "winner": "Tennessee Titans",
-          "score": "24-22",
-          "confidence": "high",
-          "homeWinProb": "58.9",
-          "awayWinProb": "41.1"
-        },
-        "efficiency": {
-          "winner": "Tennessee Titans",
-          "score": "20-15",
-          "confidence": "medium"
-        }
-      }
-    },
-    {
       "id": "401772915",
       "gameDate": "2025-12-28T18:00Z",
       "homeTeam": "Indianapolis Colts",
@@ -315,6 +289,32 @@
       }
     },
     {
+      "id": "401772809",
+      "gameDate": "2025-12-28T18:00Z",
+      "homeTeam": "Tennessee Titans",
+      "awayTeam": "New Orleans Saints",
+      "predictedWinner": "Tennessee Titans",
+      "predictedScore": "22-19",
+      "spread": 3,
+      "confidence": "medium",
+      "timestamp": "2025-12-28T21:20:49.997Z",
+      "checked": false,
+      "models": {
+        "elo": {
+          "winner": "Tennessee Titans",
+          "score": "24-22",
+          "confidence": "high",
+          "homeWinProb": "58.9",
+          "awayWinProb": "41.1"
+        },
+        "efficiency": {
+          "winner": "Tennessee Titans",
+          "score": "20-15",
+          "confidence": "medium"
+        }
+      }
+    },
+    {
       "id": "401772950",
       "gameDate": "2025-12-28T21:05Z",
       "homeTeam": "Las Vegas Raiders",
@@ -323,7 +323,7 @@
       "predictedScore": "21-22",
       "spread": -1,
       "confidence": "medium",
-      "timestamp": "2025-12-28T21:12:45.800Z",
+      "timestamp": "2025-12-28T21:20:49.997Z",
       "checked": false,
       "models": {
         "elo": {
@@ -349,7 +349,7 @@
       "predictedScore": "27-22",
       "spread": 5,
       "confidence": "high",
-      "timestamp": "2025-12-28T21:12:45.800Z",
+      "timestamp": "2025-12-28T21:20:49.997Z",
       "checked": false,
       "models": {
         "elo": {
@@ -375,7 +375,7 @@
       "predictedScore": "25-24",
       "spread": 1,
       "confidence": "low",
-      "timestamp": "2025-12-28T21:12:45.800Z",
+      "timestamp": "2025-12-28T21:20:49.997Z",
       "checked": false,
       "models": {
         "elo": {
@@ -395,8 +395,8 @@
   ],
   "summary": {
     "total": 15,
-    "new": 9,
-    "carried": 6,
+    "new": 4,
+    "carried": 11,
     "byConfidence": {
       "high": 1,
       "medium": 5,

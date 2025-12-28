@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T21:12:45.584Z",
+  "lastUpdated": "2025-12-28T21:20:49.758Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18219,6 +18219,16 @@
         "injuryNotes": null
       },
       {
+        "id": "8458",
+        "name": "Dylan Parham",
+        "team": "LV",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
+        "injuryNotes": null
+      },
+      {
         "id": "10866",
         "name": "Aidan O'Connell",
         "team": "LV",
@@ -22926,7 +22936,7 @@
         "team": "GB",
         "position": "DL",
         "depthChartPosition": "RDT",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Achilles",
         "injuryNotes": null
       },
@@ -22946,7 +22956,7 @@
         "team": "GB",
         "position": "DB",
         "depthChartPosition": "LCB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -23418,15 +23428,6 @@
   },
   "upcomingGames": [
     {
-      "id": "401772807",
-      "date": "2025-12-28T18:00Z",
-      "status": "in",
-      "homeTeam": "Cleveland Browns",
-      "awayTeam": "Pittsburgh Steelers",
-      "homeScore": 13,
-      "awayScore": 6
-    },
-    {
       "id": "401772809",
       "date": "2025-12-28T18:00Z",
       "status": "in",
@@ -23436,45 +23437,9 @@
       "awayScore": 34
     },
     {
-      "id": "401772915",
-      "date": "2025-12-28T18:00Z",
-      "status": "in",
-      "homeTeam": "Indianapolis Colts",
-      "awayTeam": "Jacksonville Jaguars",
-      "homeScore": 17,
-      "awayScore": 20
-    },
-    {
-      "id": "401772916",
-      "date": "2025-12-28T18:00Z",
-      "status": "in",
-      "homeTeam": "Miami Dolphins",
-      "awayTeam": "Tampa Bay Buccaneers",
-      "homeScore": 20,
-      "awayScore": 17
-    },
-    {
-      "id": "401772808",
-      "date": "2025-12-28T18:00Z",
-      "status": "in",
-      "homeTeam": "New York Jets",
-      "awayTeam": "New England Patriots",
-      "homeScore": 10,
-      "awayScore": 42
-    },
-    {
-      "id": "401772952",
-      "date": "2025-12-28T18:00Z",
-      "status": "in",
-      "homeTeam": "Carolina Panthers",
-      "awayTeam": "Seattle Seahawks",
-      "homeScore": 10,
-      "awayScore": 27
-    },
-    {
       "id": "401772950",
       "date": "2025-12-28T21:05Z",
-      "status": "pre",
+      "status": "in",
       "homeTeam": "Las Vegas Raiders",
       "awayTeam": "New York Giants",
       "homeScore": 0,
@@ -23501,8 +23466,8 @@
   ],
   "summary": {
     "totalGames": 251,
-    "upcomingGames": 9,
-    "injuredPlayers": 1211,
-    "lastUpdate": "2025-12-28T21:12:45.584Z"
+    "upcomingGames": 4,
+    "injuredPlayers": 1212,
+    "lastUpdate": "2025-12-28T21:20:49.758Z"
   }
 }
