@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-27T23:57:28.996Z",
+  "lastUpdated": "2025-12-28T01:23:25.084Z",
   "season": 2025,
   "gameStats": [
     {
@@ -9847,6 +9847,47 @@
       }
     },
     {
+      "id": "401772951",
+      "date": "2025-12-27T21:30Z",
+      "week": 17,
+      "homeTeam": "Los Angeles Chargers",
+      "awayTeam": "Houston Texans",
+      "scores": {
+        "Los Angeles Chargers": 16,
+        "Houston Texans": 20
+      },
+      "stats": {
+        "Houston Texans": {
+          "passingYards": 244,
+          "rushingYards": 118,
+          "totalYards": 362,
+          "turnovers": 2,
+          "thirdDownEff": {
+            "made": 3,
+            "attempts": 11,
+            "percentage": 27.27272727272727
+          },
+          "redZoneEff": null,
+          "possessionTime": 1821,
+          "sacks": 0
+        },
+        "Los Angeles Chargers": {
+          "passingYards": 201,
+          "rushingYards": 74,
+          "totalYards": 275,
+          "turnovers": 1,
+          "thirdDownEff": {
+            "made": 6,
+            "attempts": 15,
+            "percentage": 40
+          },
+          "redZoneEff": null,
+          "possessionTime": 1779,
+          "sacks": 0
+        }
+      }
+    },
+    {
       "id": "401772710",
       "date": "2025-12-25T18:00Z",
       "week": 17,
@@ -10272,29 +10313,29 @@
       "record": "9-5"
     },
     "Houston Texans": {
-      "games": 15,
-      "passingYards": 3258,
-      "rushingYards": 1600,
-      "totalYards": 4858,
-      "turnovers": 10,
-      "thirdDownAttempts": 207,
-      "thirdDownConversions": 79,
+      "games": 16,
+      "passingYards": 3502,
+      "rushingYards": 1718,
+      "totalYards": 5220,
+      "turnovers": 12,
+      "thirdDownAttempts": 218,
+      "thirdDownConversions": 82,
       "redZoneAttempts": 0,
       "redZoneScores": 0,
-      "possessionTime": 28934,
+      "possessionTime": 30755,
       "sacks": 0,
-      "pointsFor": 346,
-      "pointsAgainst": 249,
-      "wins": 10,
+      "pointsFor": 366,
+      "pointsAgainst": 265,
+      "wins": 11,
       "losses": 5,
-      "avgPassingYards": 217.2,
-      "avgRushingYards": 106.66666666666667,
-      "avgTotalYards": 323.8666666666667,
-      "avgPointsFor": 23.066666666666666,
-      "avgPointsAgainst": 16.6,
-      "thirdDownPct": 38.164251207729464,
+      "avgPassingYards": 218.875,
+      "avgRushingYards": 107.375,
+      "avgTotalYards": 326.25,
+      "avgPointsFor": 22.875,
+      "avgPointsAgainst": 16.5625,
+      "thirdDownPct": 37.61467889908257,
       "redZonePct": 0,
-      "record": "10-5"
+      "record": "11-5"
     },
     "Indianapolis Colts": {
       "games": 15,
@@ -10397,29 +10438,29 @@
       "record": "2-13"
     },
     "Los Angeles Chargers": {
-      "games": 15,
-      "passingYards": 3303,
-      "rushingYards": 1880,
-      "totalYards": 5183,
-      "turnovers": 18,
-      "thirdDownAttempts": 216,
-      "thirdDownConversions": 102,
+      "games": 16,
+      "passingYards": 3504,
+      "rushingYards": 1954,
+      "totalYards": 5458,
+      "turnovers": 19,
+      "thirdDownAttempts": 231,
+      "thirdDownConversions": 108,
       "redZoneAttempts": 0,
       "redZoneScores": 0,
-      "possessionTime": 30064,
+      "possessionTime": 31843,
       "sacks": 0,
-      "pointsFor": 349,
-      "pointsAgainst": 301,
+      "pointsFor": 365,
+      "pointsAgainst": 321,
       "wins": 11,
-      "losses": 4,
-      "avgPassingYards": 220.2,
-      "avgRushingYards": 125.33333333333333,
-      "avgTotalYards": 345.53333333333336,
-      "avgPointsFor": 23.266666666666666,
-      "avgPointsAgainst": 20.066666666666666,
-      "thirdDownPct": 47.22222222222222,
+      "losses": 5,
+      "avgPassingYards": 219,
+      "avgRushingYards": 122.125,
+      "avgTotalYards": 341.125,
+      "avgPointsFor": 22.8125,
+      "avgPointsAgainst": 20.0625,
+      "thirdDownPct": 46.75324675324675,
       "redZonePct": 0,
-      "record": "11-4"
+      "record": "11-5"
     },
     "Los Angeles Rams": {
       "games": 15,
@@ -10784,15 +10825,15 @@
       "Indianapolis Colts": 8,
       "San Francisco 49ers": 9,
       "Denver Broncos": 10,
-      "Los Angeles Chargers": 11,
-      "Green Bay Packers": 12,
+      "Green Bay Packers": 11,
+      "Los Angeles Chargers": 12,
       "Atlanta Falcons": 13,
       "Jacksonville Jaguars": 14,
       "Arizona Cardinals": 15,
       "Kansas City Chiefs": 16,
       "New York Giants": 17,
-      "Baltimore Ravens": 18,
-      "Houston Texans": 19,
+      "Houston Texans": 18,
+      "Baltimore Ravens": 19,
       "Washington Commanders": 20,
       "Cincinnati Bengals": 21,
       "Philadelphia Eagles": 22,
@@ -10847,14 +10888,14 @@
       "Baltimore Ravens": 3,
       "Washington Commanders": 4,
       "Los Angeles Rams": 5,
-      "Los Angeles Chargers": 6,
-      "New York Giants": 7,
-      "Atlanta Falcons": 8,
-      "Dallas Cowboys": 9,
-      "New York Jets": 10,
-      "Indianapolis Colts": 11,
-      "Carolina Panthers": 12,
-      "Miami Dolphins": 13,
+      "New York Giants": 6,
+      "Atlanta Falcons": 7,
+      "Dallas Cowboys": 8,
+      "New York Jets": 9,
+      "Indianapolis Colts": 10,
+      "Carolina Panthers": 11,
+      "Miami Dolphins": 12,
+      "Los Angeles Chargers": 13,
       "Green Bay Packers": 14,
       "Philadelphia Eagles": 15,
       "Detroit Lions": 16,
@@ -10891,10 +10932,10 @@
       "New Orleans Saints": 13,
       "Buffalo Bills": 14,
       "Atlanta Falcons": 15,
-      "Houston Texans": 16,
-      "Jacksonville Jaguars": 17,
-      "Chicago Bears": 18,
-      "Los Angeles Chargers": 19,
+      "Jacksonville Jaguars": 16,
+      "Houston Texans": 17,
+      "Los Angeles Chargers": 18,
+      "Chicago Bears": 19,
       "Kansas City Chiefs": 20,
       "Green Bay Packers": 21,
       "Denver Broncos": 22,
@@ -17489,6 +17530,16 @@
         "injuryNotes": null
       },
       {
+        "id": "8123",
+        "name": "Hassan Haskins",
+        "team": "LAC",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Head",
+        "injuryNotes": null
+      },
+      {
         "id": "8480",
         "name": "Jamaree Salyer",
         "team": "LAC",
@@ -22335,7 +22386,7 @@
       "status": "in",
       "homeTeam": "Los Angeles Chargers",
       "awayTeam": "Houston Texans",
-      "homeScore": 3,
+      "homeScore": 10,
       "awayScore": 17
     },
     {
@@ -22349,9 +22400,9 @@
     }
   ],
   "summary": {
-    "totalGames": 243,
+    "totalGames": 244,
     "upcomingGames": 2,
-    "injuredPlayers": 1135,
-    "lastUpdate": "2025-12-27T23:57:28.996Z"
+    "injuredPlayers": 1136,
+    "lastUpdate": "2025-12-28T01:23:25.084Z"
   }
 }
