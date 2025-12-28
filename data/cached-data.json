@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T16:47:57.802Z",
+  "lastUpdated": "2025-12-28T16:59:01.061Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19579,6 +19579,26 @@
         "injuryNotes": null
       },
       {
+        "id": "12776",
+        "name": "Connor Bazelak",
+        "team": "TB",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "12790",
+        "name": "John Bullock",
+        "team": "TB",
+        "position": "LB",
+        "depthChartPosition": "RILB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "13020",
         "name": "Jayson Jones",
         "team": "TB",
@@ -20928,16 +20948,6 @@
         "depthChartPosition": "RCB",
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
-        "injuryNotes": null
-      },
-      {
-        "id": "10876",
-        "name": "Anton Harrison",
-        "team": "JAX",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
         "injuryNotes": null
       },
       {
@@ -22815,7 +22825,7 @@
   "summary": {
     "totalGames": 245,
     "upcomingGames": 10,
-    "injuredPlayers": 1166,
-    "lastUpdate": "2025-12-28T16:47:57.802Z"
+    "injuredPlayers": 1167,
+    "lastUpdate": "2025-12-28T16:59:01.061Z"
   }
 }
