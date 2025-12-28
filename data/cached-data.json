@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T18:16:05.495Z",
+  "lastUpdated": "2025-12-28T18:32:32.346Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22764,25 +22764,25 @@
     {
       "id": "401772954",
       "date": "2025-12-28T18:00Z",
-      "status": "pre",
+      "status": "in",
       "homeTeam": "Cincinnati Bengals",
       "awayTeam": "Arizona Cardinals",
-      "homeScore": 0,
+      "homeScore": 7,
       "awayScore": 0
     },
     {
       "id": "401772807",
       "date": "2025-12-28T18:00Z",
-      "status": "pre",
+      "status": "in",
       "homeTeam": "Cleveland Browns",
       "awayTeam": "Pittsburgh Steelers",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayScore": 0
     },
     {
       "id": "401772809",
       "date": "2025-12-28T18:00Z",
-      "status": "pre",
+      "status": "in",
       "homeTeam": "Tennessee Titans",
       "awayTeam": "New Orleans Saints",
       "homeScore": 0,
@@ -22791,16 +22791,16 @@
     {
       "id": "401772915",
       "date": "2025-12-28T18:00Z",
-      "status": "pre",
+      "status": "in",
       "homeTeam": "Indianapolis Colts",
       "awayTeam": "Jacksonville Jaguars",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayScore": 0
     },
     {
       "id": "401772916",
       "date": "2025-12-28T18:00Z",
-      "status": "pre",
+      "status": "in",
       "homeTeam": "Miami Dolphins",
       "awayTeam": "Tampa Bay Buccaneers",
       "homeScore": 0,
@@ -22809,16 +22809,16 @@
     {
       "id": "401772808",
       "date": "2025-12-28T18:00Z",
-      "status": "pre",
+      "status": "in",
       "homeTeam": "New York Jets",
       "awayTeam": "New England Patriots",
       "homeScore": 0,
-      "awayScore": 0
+      "awayScore": 7
     },
     {
       "id": "401772952",
       "date": "2025-12-28T18:00Z",
-      "status": "pre",
+      "status": "in",
       "homeTeam": "Carolina Panthers",
       "awayTeam": "Seattle Seahawks",
       "homeScore": 0,
@@ -22856,6 +22856,6 @@
     "totalGames": 245,
     "upcomingGames": 10,
     "injuredPlayers": 1170,
-    "lastUpdate": "2025-12-28T18:16:05.495Z"
+    "lastUpdate": "2025-12-28T18:32:32.347Z"
   }
 }
