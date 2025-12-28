@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T03:18:40.212Z",
+  "lastUpdated": "2025-12-28T04:08:46.437Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19084,6 +19084,16 @@
         "injuryNotes": null
       },
       {
+        "id": "12145",
+        "name": "Andrew Meyer",
+        "team": "MIA",
+        "position": "C",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Triceps",
+        "injuryNotes": null
+      },
+      {
         "id": "12147",
         "name": "Storm Duck",
         "team": "MIA",
@@ -21630,6 +21640,16 @@
         "injuryNotes": null
       },
       {
+        "id": "8161",
+        "name": "Malik Willis",
+        "team": "GB",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Shoulder",
+        "injuryNotes": null
+      },
+      {
         "id": "8270",
         "name": "Devonte Wyatt",
         "team": "GB",
@@ -21697,6 +21717,16 @@
         "depthChartPosition": "RB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
+        "id": "11787",
+        "name": "Kamal Hadden",
+        "team": "GB",
+        "position": "DB",
+        "depthChartPosition": "LCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
       {
@@ -22426,14 +22456,14 @@
       "status": "in",
       "homeTeam": "Green Bay Packers",
       "awayTeam": "Baltimore Ravens",
-      "homeScore": 7,
-      "awayScore": 17
+      "homeScore": 24,
+      "awayScore": 27
     }
   ],
   "summary": {
     "totalGames": 244,
     "upcomingGames": 1,
-    "injuredPlayers": 1140,
-    "lastUpdate": "2025-12-28T03:18:40.212Z"
+    "injuredPlayers": 1143,
+    "lastUpdate": "2025-12-28T04:08:46.437Z"
   }
 }
