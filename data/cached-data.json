@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T20:40:03.765Z",
+  "lastUpdated": "2025-12-28T20:53:14.929Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17023,6 +17023,16 @@
         "injuryNotes": "Sprain"
       },
       {
+        "id": "8155",
+        "name": "Breece Hall",
+        "team": "NYJ",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "8507",
         "name": "Marquis Hayes",
         "team": "NYJ",
@@ -23185,7 +23195,7 @@
       "homeTeam": "Indianapolis Colts",
       "awayTeam": "Jacksonville Jaguars",
       "homeScore": 17,
-      "awayScore": 17
+      "awayScore": 20
     },
     {
       "id": "401772916",
@@ -23212,7 +23222,7 @@
       "homeTeam": "Carolina Panthers",
       "awayTeam": "Seattle Seahawks",
       "homeScore": 10,
-      "awayScore": 17
+      "awayScore": 20
     },
     {
       "id": "401772950",
@@ -23245,7 +23255,7 @@
   "summary": {
     "totalGames": 245,
     "upcomingGames": 10,
-    "injuredPlayers": 1209,
-    "lastUpdate": "2025-12-28T20:40:03.765Z"
+    "injuredPlayers": 1210,
+    "lastUpdate": "2025-12-28T20:53:14.929Z"
   }
 }
