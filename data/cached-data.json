@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T18:46:32.600Z",
+  "lastUpdated": "2025-12-28T18:59:08.053Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22679,6 +22679,16 @@
         "injuryNotes": null
       },
       {
+        "id": "8676",
+        "name": "Rashid Shaheed",
+        "team": "SEA",
+        "position": "WR",
+        "depthChartPosition": "RWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Head",
+        "injuryNotes": null
+      },
+      {
         "id": "10216",
         "name": "Kenny McIntosh",
         "team": "SEA",
@@ -22817,8 +22827,8 @@
       "status": "in",
       "homeTeam": "Cincinnati Bengals",
       "awayTeam": "Arizona Cardinals",
-      "homeScore": 7,
-      "awayScore": 0
+      "homeScore": 13,
+      "awayScore": 7
     },
     {
       "id": "401772807",
@@ -22827,7 +22837,7 @@
       "homeTeam": "Cleveland Browns",
       "awayTeam": "Pittsburgh Steelers",
       "homeScore": 10,
-      "awayScore": 0
+      "awayScore": 3
     },
     {
       "id": "401772809",
@@ -22835,7 +22845,7 @@
       "status": "in",
       "homeTeam": "Tennessee Titans",
       "awayTeam": "New Orleans Saints",
-      "homeScore": 3,
+      "homeScore": 6,
       "awayScore": 0
     },
     {
@@ -22844,7 +22854,7 @@
       "status": "in",
       "homeTeam": "Indianapolis Colts",
       "awayTeam": "Jacksonville Jaguars",
-      "homeScore": 3,
+      "homeScore": 10,
       "awayScore": 0
     },
     {
@@ -22853,7 +22863,7 @@
       "status": "in",
       "homeTeam": "Miami Dolphins",
       "awayTeam": "Tampa Bay Buccaneers",
-      "homeScore": 7,
+      "homeScore": 10,
       "awayScore": 7
     },
     {
@@ -22863,7 +22873,7 @@
       "homeTeam": "New York Jets",
       "awayTeam": "New England Patriots",
       "homeScore": 0,
-      "awayScore": 14
+      "awayScore": 21
     },
     {
       "id": "401772952",
@@ -22905,7 +22915,7 @@
   "summary": {
     "totalGames": 245,
     "upcomingGames": 10,
-    "injuredPlayers": 1175,
-    "lastUpdate": "2025-12-28T18:46:32.600Z"
+    "injuredPlayers": 1176,
+    "lastUpdate": "2025-12-28T18:59:08.053Z"
   }
 }
