@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T18:32:32.346Z",
+  "lastUpdated": "2025-12-28T18:46:32.600Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18479,6 +18479,16 @@
         "injuryNotes": null
       },
       {
+        "id": "12506",
+        "name": "Harold Fannin",
+        "team": "CLE",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Groin",
+        "injuryNotes": null
+      },
+      {
         "id": "12512",
         "name": "Quinshon Judkins",
         "team": "CLE",
@@ -19052,6 +19062,16 @@
         "depthChartPosition": null,
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "6819",
+        "name": "Michael Pittman",
+        "team": "IND",
+        "position": "WR",
+        "depthChartPosition": "LWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Calf",
         "injuryNotes": null
       },
       {
@@ -20457,6 +20477,16 @@
         "injuryNotes": null
       },
       {
+        "id": "7946",
+        "name": "Jack Stoll",
+        "team": "NO",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "8799",
         "name": "Zaire Mitchell-Paden",
         "team": "NO",
@@ -21255,6 +21285,16 @@
         "injuryNotes": null
       },
       {
+        "id": "8276",
+        "name": "Jalyn Armour-Davis",
+        "team": "TEN",
+        "position": "DB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Achilles",
+        "injuryNotes": null
+      },
+      {
         "id": "8532",
         "name": "Mike Brown",
         "team": "TEN",
@@ -21492,8 +21532,8 @@
         "team": "CAR",
         "position": "TE",
         "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Leg",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
       {
@@ -22599,6 +22639,16 @@
         "injuryNotes": null
       },
       {
+        "id": "7039",
+        "name": "Cody White",
+        "team": "SEA",
+        "position": "WR",
+        "depthChartPosition": "LWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Groin",
+        "injuryNotes": null
+      },
+      {
         "id": "7673",
         "name": "Chazz Surratt",
         "team": "SEA",
@@ -22776,7 +22826,7 @@
       "status": "in",
       "homeTeam": "Cleveland Browns",
       "awayTeam": "Pittsburgh Steelers",
-      "homeScore": 3,
+      "homeScore": 10,
       "awayScore": 0
     },
     {
@@ -22785,7 +22835,7 @@
       "status": "in",
       "homeTeam": "Tennessee Titans",
       "awayTeam": "New Orleans Saints",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayScore": 0
     },
     {
@@ -22803,8 +22853,8 @@
       "status": "in",
       "homeTeam": "Miami Dolphins",
       "awayTeam": "Tampa Bay Buccaneers",
-      "homeScore": 0,
-      "awayScore": 0
+      "homeScore": 7,
+      "awayScore": 7
     },
     {
       "id": "401772808",
@@ -22813,7 +22863,7 @@
       "homeTeam": "New York Jets",
       "awayTeam": "New England Patriots",
       "homeScore": 0,
-      "awayScore": 7
+      "awayScore": 14
     },
     {
       "id": "401772952",
@@ -22822,7 +22872,7 @@
       "homeTeam": "Carolina Panthers",
       "awayTeam": "Seattle Seahawks",
       "homeScore": 0,
-      "awayScore": 0
+      "awayScore": 3
     },
     {
       "id": "401772950",
@@ -22855,7 +22905,7 @@
   "summary": {
     "totalGames": 245,
     "upcomingGames": 10,
-    "injuredPlayers": 1170,
-    "lastUpdate": "2025-12-28T18:32:32.347Z"
+    "injuredPlayers": 1175,
+    "lastUpdate": "2025-12-28T18:46:32.600Z"
   }
 }
