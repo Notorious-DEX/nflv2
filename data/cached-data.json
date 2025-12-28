@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T22:39:22.131Z",
+  "lastUpdated": "2025-12-28T22:51:48.327Z",
   "season": 2025,
   "gameStats": [
     {
@@ -23485,7 +23485,7 @@
       "homeTeam": "Las Vegas Raiders",
       "awayTeam": "New York Giants",
       "homeScore": 3,
-      "awayScore": 14
+      "awayScore": 17
     },
     {
       "id": "401772917",
@@ -23494,7 +23494,7 @@
       "homeTeam": "Buffalo Bills",
       "awayTeam": "Philadelphia Eagles",
       "homeScore": 0,
-      "awayScore": 7
+      "awayScore": 10
     },
     {
       "id": "401772935",
@@ -23510,6 +23510,6 @@
     "totalGames": 252,
     "upcomingGames": 3,
     "injuredPlayers": 1213,
-    "lastUpdate": "2025-12-28T22:39:22.131Z"
+    "lastUpdate": "2025-12-28T22:51:48.327Z"
   }
 }
