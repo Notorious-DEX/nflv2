@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T14:42:08.065Z",
+  "lastUpdated": "2025-12-28T14:52:38.759Z",
   "season": 2025,
   "gameStats": [
     {
@@ -20507,6 +20507,16 @@
         "injuryNotes": null
       },
       {
+        "id": "10876",
+        "name": "Anton Harrison",
+        "team": "JAX",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
+        "injuryNotes": null
+      },
+      {
         "id": "11048",
         "name": "Cooper Hodges",
         "team": "JAX",
@@ -22585,7 +22595,7 @@
   "summary": {
     "totalGames": 245,
     "upcomingGames": 10,
-    "injuredPlayers": 1143,
-    "lastUpdate": "2025-12-28T14:42:08.065Z"
+    "injuredPlayers": 1144,
+    "lastUpdate": "2025-12-28T14:52:38.759Z"
   }
 }
