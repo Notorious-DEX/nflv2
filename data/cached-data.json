@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T17:51:52.774Z",
+  "lastUpdated": "2025-12-28T18:16:05.495Z",
   "season": 2025,
   "gameStats": [
     {
@@ -21487,6 +21487,16 @@
         "injuryNotes": "Surgery"
       },
       {
+        "id": "11600",
+        "name": "Ja'Tavion Sanders",
+        "team": "CAR",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Leg",
+        "injuryNotes": null
+      },
+      {
         "id": "11724",
         "name": "Trevin Wallace",
         "team": "CAR",
@@ -22845,7 +22855,7 @@
   "summary": {
     "totalGames": 245,
     "upcomingGames": 10,
-    "injuredPlayers": 1169,
-    "lastUpdate": "2025-12-28T17:51:52.774Z"
+    "injuredPlayers": 1170,
+    "lastUpdate": "2025-12-28T18:16:05.495Z"
   }
 }
