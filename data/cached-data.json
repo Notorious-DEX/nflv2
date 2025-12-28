@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T21:20:49.758Z",
+  "lastUpdated": "2025-12-28T21:31:46.363Z",
   "season": 2025,
   "gameStats": [
     {
@@ -9847,6 +9847,47 @@
       }
     },
     {
+      "id": "401772809",
+      "date": "2025-12-28T18:00Z",
+      "week": 17,
+      "homeTeam": "Tennessee Titans",
+      "awayTeam": "New Orleans Saints",
+      "scores": {
+        "Tennessee Titans": 26,
+        "New Orleans Saints": 34
+      },
+      "stats": {
+        "New Orleans Saints": {
+          "passingYards": 320,
+          "rushingYards": 103,
+          "totalYards": 423,
+          "turnovers": 1,
+          "thirdDownEff": {
+            "made": 5,
+            "attempts": 11,
+            "percentage": 45.45454545454545
+          },
+          "redZoneEff": null,
+          "possessionTime": 1699,
+          "sacks": 0
+        },
+        "Tennessee Titans": {
+          "passingYards": 228,
+          "rushingYards": 108,
+          "totalYards": 336,
+          "turnovers": 1,
+          "thirdDownEff": {
+            "made": 5,
+            "attempts": 15,
+            "percentage": 33.33333333333333
+          },
+          "redZoneEff": null,
+          "possessionTime": 1901,
+          "sacks": 0
+        }
+      }
+    },
+    {
       "id": "401772915",
       "date": "2025-12-28T18:00Z",
       "week": 17,
@@ -10850,29 +10891,29 @@
       "record": "13-3"
     },
     "New Orleans Saints": {
-      "games": 15,
-      "passingYards": 3176,
-      "rushingYards": 1392,
-      "totalYards": 4568,
-      "turnovers": 21,
-      "thirdDownAttempts": 196,
-      "thirdDownConversions": 78,
+      "games": 16,
+      "passingYards": 3496,
+      "rushingYards": 1495,
+      "totalYards": 4991,
+      "turnovers": 22,
+      "thirdDownAttempts": 207,
+      "thirdDownConversions": 83,
       "redZoneAttempts": 0,
       "redZoneScores": 0,
-      "possessionTime": 25596,
+      "possessionTime": 27295,
       "sacks": 0,
-      "pointsFor": 255,
-      "pointsAgainst": 338,
-      "wins": 5,
+      "pointsFor": 289,
+      "pointsAgainst": 364,
+      "wins": 6,
       "losses": 10,
-      "avgPassingYards": 211.73333333333332,
-      "avgRushingYards": 92.8,
-      "avgTotalYards": 304.53333333333336,
-      "avgPointsFor": 17,
-      "avgPointsAgainst": 22.533333333333335,
-      "thirdDownPct": 39.795918367346935,
+      "avgPassingYards": 218.5,
+      "avgRushingYards": 93.4375,
+      "avgTotalYards": 311.9375,
+      "avgPointsFor": 18.0625,
+      "avgPointsAgainst": 22.75,
+      "thirdDownPct": 40.09661835748793,
       "redZonePct": 0,
-      "record": "5-10"
+      "record": "6-10"
     },
     "New York Giants": {
       "games": 15,
@@ -11050,29 +11091,29 @@
       "record": "7-9"
     },
     "Tennessee Titans": {
-      "games": 15,
-      "passingYards": 2479,
-      "rushingYards": 1404,
-      "totalYards": 3883,
-      "turnovers": 17,
-      "thirdDownAttempts": 203,
-      "thirdDownConversions": 65,
+      "games": 16,
+      "passingYards": 2707,
+      "rushingYards": 1512,
+      "totalYards": 4219,
+      "turnovers": 18,
+      "thirdDownAttempts": 218,
+      "thirdDownConversions": 70,
       "redZoneAttempts": 0,
       "redZoneScores": 0,
-      "possessionTime": 26200,
+      "possessionTime": 28101,
       "sacks": 0,
-      "pointsFor": 251,
-      "pointsAgainst": 403,
+      "pointsFor": 277,
+      "pointsAgainst": 437,
       "wins": 3,
-      "losses": 12,
-      "avgPassingYards": 165.26666666666668,
-      "avgRushingYards": 93.6,
-      "avgTotalYards": 258.8666666666667,
-      "avgPointsFor": 16.733333333333334,
-      "avgPointsAgainst": 26.866666666666667,
-      "thirdDownPct": 32.01970443349754,
+      "losses": 13,
+      "avgPassingYards": 169.1875,
+      "avgRushingYards": 94.5,
+      "avgTotalYards": 263.6875,
+      "avgPointsFor": 17.3125,
+      "avgPointsAgainst": 27.3125,
+      "thirdDownPct": 32.11009174311927,
       "redZonePct": 0,
-      "record": "3-12"
+      "record": "3-13"
     },
     "Washington Commanders": {
       "games": 16,
@@ -11125,8 +11166,8 @@
       "Washington Commanders": 21,
       "Philadelphia Eagles": 22,
       "Tampa Bay Buccaneers": 23,
-      "Miami Dolphins": 24,
-      "New Orleans Saints": 25,
+      "New Orleans Saints": 24,
+      "Miami Dolphins": 25,
       "Pittsburgh Steelers": 26,
       "Carolina Panthers": 27,
       "New York Jets": 28,
@@ -11148,10 +11189,10 @@
       "Minnesota Vikings": 10,
       "San Francisco 49ers": 11,
       "Green Bay Packers": 12,
-      "New Orleans Saints": 13,
-      "Cleveland Browns": 14,
-      "Pittsburgh Steelers": 15,
-      "Carolina Panthers": 16,
+      "Cleveland Browns": 13,
+      "Pittsburgh Steelers": 14,
+      "Carolina Panthers": 15,
+      "New Orleans Saints": 16,
       "Buffalo Bills": 17,
       "Baltimore Ravens": 18,
       "Indianapolis Colts": 19,
@@ -11161,8 +11202,8 @@
       "Detroit Lions": 23,
       "Tampa Bay Buccaneers": 24,
       "Las Vegas Raiders": 25,
-      "Tennessee Titans": 26,
-      "Washington Commanders": 27,
+      "Washington Commanders": 26,
+      "Tennessee Titans": 27,
       "New York Giants": 28,
       "Arizona Cardinals": 29,
       "New York Jets": 30,
@@ -11197,8 +11238,8 @@
       "San Francisco 49ers": 25,
       "Pittsburgh Steelers": 26,
       "Cleveland Browns": 27,
-      "Arizona Cardinals": 28,
-      "Tennessee Titans": 29,
+      "Tennessee Titans": 28,
+      "Arizona Cardinals": 29,
       "New Orleans Saints": 30,
       "Cincinnati Bengals": 31,
       "Las Vegas Raiders": 32
@@ -11216,9 +11257,9 @@
       "Philadelphia Eagles": 10,
       "New York Giants": 11,
       "Tampa Bay Buccaneers": 12,
-      "New Orleans Saints": 13,
-      "Buffalo Bills": 14,
-      "Atlanta Falcons": 15,
+      "Buffalo Bills": 13,
+      "Atlanta Falcons": 14,
+      "New Orleans Saints": 15,
       "Houston Texans": 16,
       "Los Angeles Chargers": 17,
       "Chicago Bears": 18,
@@ -23428,15 +23469,6 @@
   },
   "upcomingGames": [
     {
-      "id": "401772809",
-      "date": "2025-12-28T18:00Z",
-      "status": "in",
-      "homeTeam": "Tennessee Titans",
-      "awayTeam": "New Orleans Saints",
-      "homeScore": 26,
-      "awayScore": 34
-    },
-    {
       "id": "401772950",
       "date": "2025-12-28T21:05Z",
       "status": "in",
@@ -23465,9 +23497,9 @@
     }
   ],
   "summary": {
-    "totalGames": 251,
-    "upcomingGames": 4,
+    "totalGames": 252,
+    "upcomingGames": 3,
     "injuredPlayers": 1212,
-    "lastUpdate": "2025-12-28T21:20:49.758Z"
+    "lastUpdate": "2025-12-28T21:31:46.363Z"
   }
 }
