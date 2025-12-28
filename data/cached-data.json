@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T02:02:44.513Z",
+  "lastUpdated": "2025-12-28T03:18:40.212Z",
   "season": 2025,
   "gameStats": [
     {
@@ -21610,6 +21610,26 @@
         "injuryNotes": null
       },
       {
+        "id": "7823",
+        "name": "Nate Hobbs",
+        "team": "GB",
+        "position": "CB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "8000",
+        "name": "Zayne Anderson",
+        "team": "GB",
+        "position": "DB",
+        "depthChartPosition": "FS",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
         "id": "8270",
         "name": "Devonte Wyatt",
         "team": "GB",
@@ -21648,6 +21668,26 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee - ACL",
         "injuryNotes": "Surgery"
+      },
+      {
+        "id": "9486",
+        "name": "Dontayvion Wicks",
+        "team": "GB",
+        "position": "WR",
+        "depthChartPosition": "RWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Head",
+        "injuryNotes": null
+      },
+      {
+        "id": "11035",
+        "name": "Jordon Riley",
+        "team": "GB",
+        "position": "DL",
+        "depthChartPosition": "RDT",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Achilles",
+        "injuryNotes": null
       },
       {
         "id": "11581",
@@ -22386,14 +22426,14 @@
       "status": "in",
       "homeTeam": "Green Bay Packers",
       "awayTeam": "Baltimore Ravens",
-      "homeScore": 0,
-      "awayScore": 7
+      "homeScore": 7,
+      "awayScore": 17
     }
   ],
   "summary": {
     "totalGames": 244,
     "upcomingGames": 1,
-    "injuredPlayers": 1136,
-    "lastUpdate": "2025-12-28T02:02:44.513Z"
+    "injuredPlayers": 1140,
+    "lastUpdate": "2025-12-28T03:18:40.212Z"
   }
 }
