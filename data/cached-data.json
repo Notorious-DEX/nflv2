@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T19:34:13.557Z",
+  "lastUpdated": "2025-12-28T19:44:34.586Z",
   "season": 2025,
   "gameStats": [
     {
@@ -21335,6 +21335,16 @@
         "injuryNotes": null
       },
       {
+        "id": "6853",
+        "name": "Van Jefferson",
+        "team": "TEN",
+        "position": "WR",
+        "depthChartPosition": "RWR",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Forearm",
+        "injuryNotes": null
+      },
+      {
         "id": "7117",
         "name": "L'Jarius Sneed",
         "team": "TEN",
@@ -22905,7 +22915,7 @@
       "status": "in",
       "homeTeam": "Tennessee Titans",
       "awayTeam": "New Orleans Saints",
-      "homeScore": 13,
+      "homeScore": 20,
       "awayScore": 10
     },
     {
@@ -22933,7 +22943,7 @@
       "homeTeam": "New York Jets",
       "awayTeam": "New England Patriots",
       "homeScore": 3,
-      "awayScore": 28
+      "awayScore": 35
     },
     {
       "id": "401772952",
@@ -22975,7 +22985,7 @@
   "summary": {
     "totalGames": 245,
     "upcomingGames": 10,
-    "injuredPlayers": 1182,
-    "lastUpdate": "2025-12-28T19:34:13.557Z"
+    "injuredPlayers": 1183,
+    "lastUpdate": "2025-12-28T19:44:34.586Z"
   }
 }
