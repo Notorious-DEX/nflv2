@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T15:21:44.342Z",
+  "lastUpdated": "2025-12-28T15:32:31.732Z",
   "season": 2025,
   "gameStats": [
     {
@@ -21235,6 +21235,16 @@
         "injuryNotes": null
       },
       {
+        "id": "12526",
+        "name": "Tetairoa McMillan",
+        "team": "CAR",
+        "position": "WR",
+        "depthChartPosition": "LWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
+        "injuryNotes": null
+      },
+      {
         "id": "12957",
         "name": "Corey Thornton",
         "team": "CAR",
@@ -22595,7 +22605,7 @@
   "summary": {
     "totalGames": 245,
     "upcomingGames": 10,
-    "injuredPlayers": 1144,
-    "lastUpdate": "2025-12-28T15:21:44.342Z"
+    "injuredPlayers": 1145,
+    "lastUpdate": "2025-12-28T15:32:31.732Z"
   }
 }
