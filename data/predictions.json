@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T20:53:15.141Z",
+  "lastUpdated": "2025-12-28T21:12:45.801Z",
   "season": 2025,
   "predictions": [
     {
@@ -163,11 +163,11 @@
       "gameDate": "2025-12-28T18:00Z",
       "homeTeam": "Cleveland Browns",
       "awayTeam": "Pittsburgh Steelers",
-      "predictedWinner": "Pittsburgh Steelers",
-      "predictedScore": "22-22",
-      "spread": 0,
+      "predictedWinner": "Cleveland Browns",
+      "predictedScore": "22-21",
+      "spread": 1,
       "confidence": "low",
-      "timestamp": "2025-12-28T20:53:15.140Z",
+      "timestamp": "2025-12-28T21:12:45.800Z",
       "checked": false,
       "models": {
         "elo": {
@@ -179,7 +179,7 @@
         },
         "efficiency": {
           "winner": "Pittsburgh Steelers",
-          "score": "19-21",
+          "score": "19-20",
           "confidence": "low"
         }
       }
@@ -193,7 +193,7 @@
       "predictedScore": "22-19",
       "spread": 3,
       "confidence": "medium",
-      "timestamp": "2025-12-28T20:53:15.140Z",
+      "timestamp": "2025-12-28T21:12:45.800Z",
       "checked": false,
       "models": {
         "elo": {
@@ -216,10 +216,10 @@
       "homeTeam": "Indianapolis Colts",
       "awayTeam": "Jacksonville Jaguars",
       "predictedWinner": "Indianapolis Colts",
-      "predictedScore": "26-24",
-      "spread": 2,
+      "predictedScore": "26-23",
+      "spread": 3,
       "confidence": "medium",
-      "timestamp": "2025-12-28T20:53:15.140Z",
+      "timestamp": "2025-12-28T21:12:45.800Z",
       "checked": false,
       "models": {
         "elo": {
@@ -231,7 +231,7 @@
         },
         "efficiency": {
           "winner": "Indianapolis Colts",
-          "score": "30-26",
+          "score": "29-25",
           "confidence": "medium"
         }
       }
@@ -245,7 +245,7 @@
       "predictedScore": "24-22",
       "spread": 2,
       "confidence": "low",
-      "timestamp": "2025-12-28T20:53:15.140Z",
+      "timestamp": "2025-12-28T21:12:45.800Z",
       "checked": false,
       "models": {
         "elo": {
@@ -268,10 +268,10 @@
       "homeTeam": "New York Jets",
       "awayTeam": "New England Patriots",
       "predictedWinner": "New York Jets",
-      "predictedScore": "25-24",
-      "spread": 1,
+      "predictedScore": "26-24",
+      "spread": 2,
       "confidence": "low",
-      "timestamp": "2025-12-28T20:53:15.140Z",
+      "timestamp": "2025-12-28T21:12:45.800Z",
       "checked": false,
       "models": {
         "elo": {
@@ -282,8 +282,8 @@
           "awayWinProb": "41.1"
         },
         "efficiency": {
-          "winner": "New England Patriots",
-          "score": "27-27",
+          "winner": "New York Jets",
+          "score": "28-27",
           "confidence": "low"
         }
       }
@@ -297,7 +297,7 @@
       "predictedScore": "25-23",
       "spread": 2,
       "confidence": "low",
-      "timestamp": "2025-12-28T20:53:15.140Z",
+      "timestamp": "2025-12-28T21:12:45.800Z",
       "checked": false,
       "models": {
         "elo": {
@@ -309,7 +309,7 @@
         },
         "efficiency": {
           "winner": "Carolina Panthers",
-          "score": "27-24",
+          "score": "27-25",
           "confidence": "low"
         }
       }
@@ -323,7 +323,7 @@
       "predictedScore": "21-22",
       "spread": -1,
       "confidence": "medium",
-      "timestamp": "2025-12-28T20:53:15.140Z",
+      "timestamp": "2025-12-28T21:12:45.800Z",
       "checked": false,
       "models": {
         "elo": {
@@ -349,7 +349,7 @@
       "predictedScore": "27-22",
       "spread": 5,
       "confidence": "high",
-      "timestamp": "2025-12-28T20:53:15.140Z",
+      "timestamp": "2025-12-28T21:12:45.800Z",
       "checked": false,
       "models": {
         "elo": {
@@ -375,7 +375,7 @@
       "predictedScore": "25-24",
       "spread": 1,
       "confidence": "low",
-      "timestamp": "2025-12-28T20:53:15.140Z",
+      "timestamp": "2025-12-28T21:12:45.800Z",
       "checked": false,
       "models": {
         "elo": {
@@ -387,7 +387,7 @@
         },
         "efficiency": {
           "winner": "Chicago Bears",
-          "score": "27-28",
+          "score": "26-28",
           "confidence": "low"
         }
       }
@@ -395,8 +395,8 @@
   ],
   "summary": {
     "total": 15,
-    "new": 10,
-    "carried": 5,
+    "new": 9,
+    "carried": 6,
     "byConfidence": {
       "high": 1,
       "medium": 5,
