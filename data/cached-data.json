@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T21:31:46.363Z",
+  "lastUpdated": "2025-12-28T21:44:30.646Z",
   "season": 2025,
   "gameStats": [
     {
@@ -9847,88 +9847,6 @@
       }
     },
     {
-      "id": "401772809",
-      "date": "2025-12-28T18:00Z",
-      "week": 17,
-      "homeTeam": "Tennessee Titans",
-      "awayTeam": "New Orleans Saints",
-      "scores": {
-        "Tennessee Titans": 26,
-        "New Orleans Saints": 34
-      },
-      "stats": {
-        "New Orleans Saints": {
-          "passingYards": 320,
-          "rushingYards": 103,
-          "totalYards": 423,
-          "turnovers": 1,
-          "thirdDownEff": {
-            "made": 5,
-            "attempts": 11,
-            "percentage": 45.45454545454545
-          },
-          "redZoneEff": null,
-          "possessionTime": 1699,
-          "sacks": 0
-        },
-        "Tennessee Titans": {
-          "passingYards": 228,
-          "rushingYards": 108,
-          "totalYards": 336,
-          "turnovers": 1,
-          "thirdDownEff": {
-            "made": 5,
-            "attempts": 15,
-            "percentage": 33.33333333333333
-          },
-          "redZoneEff": null,
-          "possessionTime": 1901,
-          "sacks": 0
-        }
-      }
-    },
-    {
-      "id": "401772915",
-      "date": "2025-12-28T18:00Z",
-      "week": 17,
-      "homeTeam": "Indianapolis Colts",
-      "awayTeam": "Jacksonville Jaguars",
-      "scores": {
-        "Indianapolis Colts": 17,
-        "Jacksonville Jaguars": 23
-      },
-      "stats": {
-        "Jacksonville Jaguars": {
-          "passingYards": 249,
-          "rushingYards": 121,
-          "totalYards": 370,
-          "turnovers": 2,
-          "thirdDownEff": {
-            "made": 7,
-            "attempts": 14,
-            "percentage": 50
-          },
-          "redZoneEff": null,
-          "possessionTime": 1939,
-          "sacks": 0
-        },
-        "Indianapolis Colts": {
-          "passingYards": 135,
-          "rushingYards": 69,
-          "totalYards": 204,
-          "turnovers": 2,
-          "thirdDownEff": {
-            "made": 4,
-            "attempts": 11,
-            "percentage": 36.36363636363637
-          },
-          "redZoneEff": null,
-          "possessionTime": 1661,
-          "sacks": 0
-        }
-      }
-    },
-    {
       "id": "401772954",
       "date": "2025-12-28T18:00Z",
       "week": 17,
@@ -10006,6 +9924,88 @@
           },
           "redZoneEff": null,
           "possessionTime": 1761,
+          "sacks": 0
+        }
+      }
+    },
+    {
+      "id": "401772809",
+      "date": "2025-12-28T18:00Z",
+      "week": 17,
+      "homeTeam": "Tennessee Titans",
+      "awayTeam": "New Orleans Saints",
+      "scores": {
+        "Tennessee Titans": 26,
+        "New Orleans Saints": 34
+      },
+      "stats": {
+        "New Orleans Saints": {
+          "passingYards": 320,
+          "rushingYards": 103,
+          "totalYards": 423,
+          "turnovers": 1,
+          "thirdDownEff": {
+            "made": 5,
+            "attempts": 11,
+            "percentage": 45.45454545454545
+          },
+          "redZoneEff": null,
+          "possessionTime": 1699,
+          "sacks": 0
+        },
+        "Tennessee Titans": {
+          "passingYards": 228,
+          "rushingYards": 108,
+          "totalYards": 336,
+          "turnovers": 1,
+          "thirdDownEff": {
+            "made": 5,
+            "attempts": 15,
+            "percentage": 33.33333333333333
+          },
+          "redZoneEff": null,
+          "possessionTime": 1901,
+          "sacks": 0
+        }
+      }
+    },
+    {
+      "id": "401772915",
+      "date": "2025-12-28T18:00Z",
+      "week": 17,
+      "homeTeam": "Indianapolis Colts",
+      "awayTeam": "Jacksonville Jaguars",
+      "scores": {
+        "Indianapolis Colts": 17,
+        "Jacksonville Jaguars": 23
+      },
+      "stats": {
+        "Jacksonville Jaguars": {
+          "passingYards": 249,
+          "rushingYards": 121,
+          "totalYards": 370,
+          "turnovers": 2,
+          "thirdDownEff": {
+            "made": 7,
+            "attempts": 14,
+            "percentage": 50
+          },
+          "redZoneEff": null,
+          "possessionTime": 1939,
+          "sacks": 0
+        },
+        "Indianapolis Colts": {
+          "passingYards": 135,
+          "rushingYards": 69,
+          "totalYards": 204,
+          "turnovers": 2,
+          "thirdDownEff": {
+            "made": 4,
+            "attempts": 11,
+            "percentage": 36.36363636363637
+          },
+          "redZoneEff": null,
+          "possessionTime": 1661,
           "sacks": 0
         }
       }
@@ -23480,7 +23480,7 @@
     {
       "id": "401772917",
       "date": "2025-12-28T21:25Z",
-      "status": "pre",
+      "status": "in",
       "homeTeam": "Buffalo Bills",
       "awayTeam": "Philadelphia Eagles",
       "homeScore": 0,
@@ -23500,6 +23500,6 @@
     "totalGames": 252,
     "upcomingGames": 3,
     "injuredPlayers": 1212,
-    "lastUpdate": "2025-12-28T21:31:46.363Z"
+    "lastUpdate": "2025-12-28T21:44:30.646Z"
   }
 }
