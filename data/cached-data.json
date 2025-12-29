@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T23:51:48.795Z",
+  "lastUpdated": "2025-12-29T23:58:52.051Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18438,7 +18438,7 @@
         "team": "LAR",
         "position": "WR",
         "depthChartPosition": "LWR",
-        "injuryStatus": "Doubtful",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
@@ -18473,6 +18473,16 @@
         "injuryNotes": null
       },
       {
+        "id": "5526",
+        "name": "Darious Williams",
+        "team": "LAR",
+        "position": "CB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "7116",
         "name": "Kevin Dotson",
         "team": "LAR",
@@ -18498,7 +18508,7 @@
         "team": "LAR",
         "position": "OL",
         "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -18523,13 +18533,13 @@
         "injuryNotes": null
       },
       {
-        "id": "11677",
-        "name": "Braden Fiske",
+        "id": "11569",
+        "name": "Jarquez Hunter",
         "team": "LAR",
-        "position": "DL",
-        "depthChartPosition": "LDE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -22721,6 +22731,16 @@
         "injuryNotes": null
       },
       {
+        "id": "5371",
+        "name": "Kentavius Street",
+        "team": "ATL",
+        "position": "DT",
+        "depthChartPosition": "RDE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "5757",
         "name": "Josh Woods",
         "team": "ATL",
@@ -22759,16 +22779,6 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
-      },
-      {
-        "id": "8112",
-        "name": "Drake London",
-        "team": "ATL",
-        "position": "WR",
-        "depthChartPosition": "LWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee - PCL",
-        "injuryNotes": "Sprain"
       },
       {
         "id": "8372",
@@ -22841,6 +22851,16 @@
         "injuryNotes": null
       },
       {
+        "id": "11210",
+        "name": "Malik Heath",
+        "team": "ATL",
+        "position": "WR",
+        "depthChartPosition": "SWR",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "11559",
         "name": "Michael Penix",
         "team": "ATL",
@@ -22858,6 +22878,26 @@
         "depthChartPosition": "LB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "11806",
+        "name": "Casey Washington",
+        "team": "ATL",
+        "position": "WR",
+        "depthChartPosition": "LWR",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "11813",
+        "name": "Michael Jerrell",
+        "team": "ATL",
+        "position": "OT",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -22888,6 +22928,16 @@
         "depthChartPosition": "LB",
         "injuryStatus": "PUP",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "12897",
+        "name": "Nathan Carter",
+        "team": "ATL",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       }
     ],
@@ -23714,7 +23764,7 @@
   "summary": {
     "totalGames": 255,
     "upcomingGames": 1,
-    "injuredPlayers": 1223,
-    "lastUpdate": "2025-12-29T23:51:48.795Z"
+    "injuredPlayers": 1228,
+    "lastUpdate": "2025-12-29T23:58:52.051Z"
   }
 }
