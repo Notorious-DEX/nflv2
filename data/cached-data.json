@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T04:02:40.132Z",
+  "lastUpdated": "2025-12-29T04:11:15.593Z",
   "season": 2025,
   "gameStats": [
     {
@@ -23636,14 +23636,14 @@
       "status": "in",
       "homeTeam": "San Francisco 49ers",
       "awayTeam": "Chicago Bears",
-      "homeScore": 21,
-      "awayScore": 21
+      "homeScore": 35,
+      "awayScore": 35
     }
   ],
   "summary": {
     "totalGames": 254,
     "upcomingGames": 1,
     "injuredPlayers": 1220,
-    "lastUpdate": "2025-12-29T04:02:40.132Z"
+    "lastUpdate": "2025-12-29T04:11:15.593Z"
   }
 }
