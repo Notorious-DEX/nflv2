@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T02:29:11.569Z",
+  "lastUpdated": "2025-12-29T04:02:40.132Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18180,6 +18180,16 @@
         "injuryNotes": null
       },
       {
+        "id": "7625",
+        "name": "Joe Tryon-Shoyinka",
+        "team": "CHI",
+        "position": "LB",
+        "depthChartPosition": "RDE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Concussion",
+        "injuryNotes": null
+      },
+      {
         "id": "7649",
         "name": "Dayo Odeyingbo",
         "team": "CHI",
@@ -18267,6 +18277,16 @@
         "depthChartPosition": "DB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "10984",
+        "name": "Noah Sewell",
+        "team": "CHI",
+        "position": "LB",
+        "depthChartPosition": "MLB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
       {
@@ -23616,14 +23636,14 @@
       "status": "in",
       "homeTeam": "San Francisco 49ers",
       "awayTeam": "Chicago Bears",
-      "homeScore": 14,
-      "awayScore": 7
+      "homeScore": 21,
+      "awayScore": 21
     }
   ],
   "summary": {
     "totalGames": 254,
     "upcomingGames": 1,
-    "injuredPlayers": 1218,
-    "lastUpdate": "2025-12-29T02:29:11.569Z"
+    "injuredPlayers": 1220,
+    "lastUpdate": "2025-12-29T04:02:40.132Z"
   }
 }
