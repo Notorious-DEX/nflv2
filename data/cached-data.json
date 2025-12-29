@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T14:24:39.206Z",
+  "lastUpdated": "2025-12-29T15:25:56.825Z",
   "season": 2025,
   "gameStats": [
     {
@@ -11462,6 +11462,16 @@
         "depthChartPosition": "KR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Elbow",
+        "injuryNotes": null
+      },
+      {
+        "id": "4984",
+        "name": "Josh Allen",
+        "team": "BUF",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Foot",
         "injuryNotes": null
       },
       {
@@ -23704,7 +23714,7 @@
   "summary": {
     "totalGames": 255,
     "upcomingGames": 1,
-    "injuredPlayers": 1222,
-    "lastUpdate": "2025-12-29T14:24:39.206Z"
+    "injuredPlayers": 1223,
+    "lastUpdate": "2025-12-29T15:25:56.825Z"
   }
 }
