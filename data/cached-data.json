@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T18:00:23.031Z",
+  "lastUpdated": "2025-12-29T18:34:06.141Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22731,6 +22731,16 @@
         "injuryNotes": null
       },
       {
+        "id": "5757",
+        "name": "Josh Woods",
+        "team": "ATL",
+        "position": "LB",
+        "depthChartPosition": "RILB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Personal",
+        "injuryNotes": null
+      },
+      {
         "id": "5773",
         "name": "KhaDarel Hodge",
         "team": "ATL",
@@ -23714,7 +23724,7 @@
   "summary": {
     "totalGames": 255,
     "upcomingGames": 1,
-    "injuredPlayers": 1223,
-    "lastUpdate": "2025-12-29T18:00:23.032Z"
+    "injuredPlayers": 1224,
+    "lastUpdate": "2025-12-29T18:34:06.141Z"
   }
 }
