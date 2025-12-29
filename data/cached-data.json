@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T05:30:53.827Z",
+  "lastUpdated": "2025-12-29T06:39:11.242Z",
   "season": 2025,
   "gameStats": [
     {
@@ -23692,19 +23692,19 @@
   },
   "upcomingGames": [
     {
-      "id": "401772935",
-      "date": "2025-12-29T01:20Z",
-      "status": "in",
-      "homeTeam": "San Francisco 49ers",
-      "awayTeam": "Chicago Bears",
-      "homeScore": 35,
-      "awayScore": 38
+      "id": "401772825",
+      "date": "2025-12-30T01:15Z",
+      "status": "pre",
+      "homeTeam": "Atlanta Falcons",
+      "awayTeam": "Los Angeles Rams",
+      "homeScore": 0,
+      "awayScore": 0
     }
   ],
   "summary": {
     "totalGames": 255,
     "upcomingGames": 1,
     "injuredPlayers": 1222,
-    "lastUpdate": "2025-12-29T05:30:53.827Z"
+    "lastUpdate": "2025-12-29T06:39:11.242Z"
   }
 }

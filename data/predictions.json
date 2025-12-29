@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T05:30:54.048Z",
+  "lastUpdated": "2025-12-29T06:39:11.467Z",
   "season": 2025,
   "predictions": [
     {
@@ -391,16 +391,42 @@
           "confidence": "low"
         }
       }
+    },
+    {
+      "id": "401772825",
+      "gameDate": "2025-12-30T01:15Z",
+      "homeTeam": "Atlanta Falcons",
+      "awayTeam": "Los Angeles Rams",
+      "predictedWinner": "Atlanta Falcons",
+      "predictedScore": "26-24",
+      "spread": 2,
+      "confidence": "low",
+      "timestamp": "2025-12-29T06:39:11.466Z",
+      "checked": false,
+      "models": {
+        "elo": {
+          "winner": "Atlanta Falcons",
+          "score": "24-22",
+          "confidence": "high",
+          "homeWinProb": "58.9",
+          "awayWinProb": "41.1"
+        },
+        "efficiency": {
+          "winner": "Los Angeles Rams",
+          "score": "28-28",
+          "confidence": "low"
+        }
+      }
     }
   ],
   "summary": {
-    "total": 15,
+    "total": 16,
     "new": 1,
-    "carried": 14,
+    "carried": 15,
     "byConfidence": {
       "high": 1,
       "medium": 5,
-      "low": 9
+      "low": 10
     }
   }
 }
