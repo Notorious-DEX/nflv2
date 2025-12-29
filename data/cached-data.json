@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T21:53:08.151Z",
+  "lastUpdated": "2025-12-29T21:59:53.934Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18817,6 +18817,16 @@
         "injuryNotes": null
       },
       {
+        "id": "6797",
+        "name": "Justin Herbert",
+        "team": "LAC",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Rest",
+        "injuryNotes": null
+      },
+      {
         "id": "7528",
         "name": "Najee Harris",
         "team": "LAC",
@@ -23704,7 +23714,7 @@
   "summary": {
     "totalGames": 255,
     "upcomingGames": 1,
-    "injuredPlayers": 1222,
-    "lastUpdate": "2025-12-29T21:53:08.151Z"
+    "injuredPlayers": 1223,
+    "lastUpdate": "2025-12-29T21:59:53.934Z"
   }
 }
