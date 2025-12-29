@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T18:55:11.641Z",
+  "lastUpdated": "2025-12-29T19:09:50.121Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18503,16 +18503,6 @@
         "injuryNotes": null
       },
       {
-        "id": "8303",
-        "name": "Roger McCreary",
-        "team": "LAR",
-        "position": "DB",
-        "depthChartPosition": "LCB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Hip",
-        "injuryNotes": null
-      },
-      {
         "id": "8330",
         "name": "Quentin Lake",
         "team": "LAR",
@@ -23714,7 +23704,7 @@
   "summary": {
     "totalGames": 255,
     "upcomingGames": 1,
-    "injuredPlayers": 1223,
-    "lastUpdate": "2025-12-29T18:55:11.641Z"
+    "injuredPlayers": 1222,
+    "lastUpdate": "2025-12-29T19:09:50.121Z"
   }
 }
