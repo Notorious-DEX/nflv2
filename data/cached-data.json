@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T04:11:15.593Z",
+  "lastUpdated": "2025-12-29T05:30:53.827Z",
   "season": 2025,
   "gameStats": [
     {
@@ -9847,6 +9847,211 @@
       }
     },
     {
+      "id": "401772710",
+      "date": "2025-12-25T18:00Z",
+      "week": 17,
+      "homeTeam": "Washington Commanders",
+      "awayTeam": "Dallas Cowboys",
+      "scores": {
+        "Washington Commanders": 23,
+        "Dallas Cowboys": 30
+      },
+      "stats": {
+        "Dallas Cowboys": {
+          "passingYards": 269,
+          "rushingYards": 211,
+          "totalYards": 480,
+          "turnovers": 0,
+          "thirdDownEff": {
+            "made": 8,
+            "attempts": 20,
+            "percentage": 40
+          },
+          "redZoneEff": null,
+          "possessionTime": 2324,
+          "sacks": 0
+        },
+        "Washington Commanders": {
+          "passingYards": 190,
+          "rushingYards": 138,
+          "totalYards": 328,
+          "turnovers": 0,
+          "thirdDownEff": {
+            "made": 1,
+            "attempts": 6,
+            "percentage": 16.666666666666664
+          },
+          "redZoneEff": null,
+          "possessionTime": 1276,
+          "sacks": 0
+        }
+      }
+    },
+    {
+      "id": "401772711",
+      "date": "2025-12-25T21:30Z",
+      "week": 17,
+      "homeTeam": "Minnesota Vikings",
+      "awayTeam": "Detroit Lions",
+      "scores": {
+        "Minnesota Vikings": 23,
+        "Detroit Lions": 10
+      },
+      "stats": {
+        "Detroit Lions": {
+          "passingYards": 163,
+          "rushingYards": 68,
+          "totalYards": 231,
+          "turnovers": 6,
+          "thirdDownEff": {
+            "made": 5,
+            "attempts": 14,
+            "percentage": 35.714285714285715
+          },
+          "redZoneEff": null,
+          "possessionTime": 1950,
+          "sacks": 0
+        },
+        "Minnesota Vikings": {
+          "passingYards": 3,
+          "rushingYards": 158,
+          "totalYards": 161,
+          "turnovers": 0,
+          "thirdDownEff": {
+            "made": 3,
+            "attempts": 13,
+            "percentage": 23.076923076923077
+          },
+          "redZoneEff": null,
+          "possessionTime": 1650,
+          "sacks": 0
+        }
+      }
+    },
+    {
+      "id": "401772622",
+      "date": "2025-12-26T01:15Z",
+      "week": 17,
+      "homeTeam": "Kansas City Chiefs",
+      "awayTeam": "Denver Broncos",
+      "scores": {
+        "Kansas City Chiefs": 13,
+        "Denver Broncos": 20
+      },
+      "stats": {
+        "Denver Broncos": {
+          "passingYards": 175,
+          "rushingYards": 128,
+          "totalYards": 303,
+          "turnovers": 1,
+          "thirdDownEff": {
+            "made": 11,
+            "attempts": 18,
+            "percentage": 61.111111111111114
+          },
+          "redZoneEff": null,
+          "possessionTime": 2368,
+          "sacks": 0
+        },
+        "Kansas City Chiefs": {
+          "passingYards": 57,
+          "rushingYards": 82,
+          "totalYards": 139,
+          "turnovers": 0,
+          "thirdDownEff": {
+            "made": 4,
+            "attempts": 11,
+            "percentage": 36.36363636363637
+          },
+          "redZoneEff": null,
+          "possessionTime": 1232,
+          "sacks": 0
+        }
+      }
+    },
+    {
+      "id": "401772951",
+      "date": "2025-12-27T21:30Z",
+      "week": 17,
+      "homeTeam": "Los Angeles Chargers",
+      "awayTeam": "Houston Texans",
+      "scores": {
+        "Los Angeles Chargers": 16,
+        "Houston Texans": 20
+      },
+      "stats": {
+        "Houston Texans": {
+          "passingYards": 244,
+          "rushingYards": 118,
+          "totalYards": 362,
+          "turnovers": 2,
+          "thirdDownEff": {
+            "made": 3,
+            "attempts": 11,
+            "percentage": 27.27272727272727
+          },
+          "redZoneEff": null,
+          "possessionTime": 1821,
+          "sacks": 0
+        },
+        "Los Angeles Chargers": {
+          "passingYards": 201,
+          "rushingYards": 74,
+          "totalYards": 275,
+          "turnovers": 1,
+          "thirdDownEff": {
+            "made": 6,
+            "attempts": 15,
+            "percentage": 40
+          },
+          "redZoneEff": null,
+          "possessionTime": 1779,
+          "sacks": 0
+        }
+      }
+    },
+    {
+      "id": "401772953",
+      "date": "2025-12-28T01:00Z",
+      "week": 17,
+      "homeTeam": "Green Bay Packers",
+      "awayTeam": "Baltimore Ravens",
+      "scores": {
+        "Green Bay Packers": 24,
+        "Baltimore Ravens": 41
+      },
+      "stats": {
+        "Baltimore Ravens": {
+          "passingYards": 107,
+          "rushingYards": 307,
+          "totalYards": 414,
+          "turnovers": 0,
+          "thirdDownEff": {
+            "made": 10,
+            "attempts": 14,
+            "percentage": 71.42857142857143
+          },
+          "redZoneEff": null,
+          "possessionTime": 2416,
+          "sacks": 0
+        },
+        "Green Bay Packers": {
+          "passingYards": 284,
+          "rushingYards": 79,
+          "totalYards": 363,
+          "turnovers": 2,
+          "thirdDownEff": {
+            "made": 3,
+            "attempts": 6,
+            "percentage": 50
+          },
+          "redZoneEff": null,
+          "possessionTime": 1184,
+          "sacks": 0
+        }
+      }
+    },
+    {
       "id": "401772954",
       "date": "2025-12-28T18:00Z",
       "week": 17,
@@ -10216,206 +10421,42 @@
       }
     },
     {
-      "id": "401772710",
-      "date": "2025-12-25T18:00Z",
+      "id": "401772935",
+      "date": "2025-12-29T01:20Z",
       "week": 17,
-      "homeTeam": "Washington Commanders",
-      "awayTeam": "Dallas Cowboys",
+      "homeTeam": "San Francisco 49ers",
+      "awayTeam": "Chicago Bears",
       "scores": {
-        "Washington Commanders": 23,
-        "Dallas Cowboys": 30
+        "San Francisco 49ers": 42,
+        "Chicago Bears": 38
       },
       "stats": {
-        "Dallas Cowboys": {
-          "passingYards": 269,
-          "rushingYards": 211,
-          "totalYards": 480,
+        "Chicago Bears": {
+          "passingYards": 330,
+          "rushingYards": 110,
+          "totalYards": 440,
           "turnovers": 0,
-          "thirdDownEff": {
-            "made": 8,
-            "attempts": 20,
-            "percentage": 40
-          },
-          "redZoneEff": null,
-          "possessionTime": 2324,
-          "sacks": 0
-        },
-        "Washington Commanders": {
-          "passingYards": 190,
-          "rushingYards": 138,
-          "totalYards": 328,
-          "turnovers": 0,
-          "thirdDownEff": {
-            "made": 1,
-            "attempts": 6,
-            "percentage": 16.666666666666664
-          },
-          "redZoneEff": null,
-          "possessionTime": 1276,
-          "sacks": 0
-        }
-      }
-    },
-    {
-      "id": "401772711",
-      "date": "2025-12-25T21:30Z",
-      "week": 17,
-      "homeTeam": "Minnesota Vikings",
-      "awayTeam": "Detroit Lions",
-      "scores": {
-        "Minnesota Vikings": 23,
-        "Detroit Lions": 10
-      },
-      "stats": {
-        "Detroit Lions": {
-          "passingYards": 163,
-          "rushingYards": 68,
-          "totalYards": 231,
-          "turnovers": 6,
-          "thirdDownEff": {
-            "made": 5,
-            "attempts": 14,
-            "percentage": 35.714285714285715
-          },
-          "redZoneEff": null,
-          "possessionTime": 1950,
-          "sacks": 0
-        },
-        "Minnesota Vikings": {
-          "passingYards": 3,
-          "rushingYards": 158,
-          "totalYards": 161,
-          "turnovers": 0,
-          "thirdDownEff": {
-            "made": 3,
-            "attempts": 13,
-            "percentage": 23.076923076923077
-          },
-          "redZoneEff": null,
-          "possessionTime": 1650,
-          "sacks": 0
-        }
-      }
-    },
-    {
-      "id": "401772622",
-      "date": "2025-12-26T01:15Z",
-      "week": 17,
-      "homeTeam": "Kansas City Chiefs",
-      "awayTeam": "Denver Broncos",
-      "scores": {
-        "Kansas City Chiefs": 13,
-        "Denver Broncos": 20
-      },
-      "stats": {
-        "Denver Broncos": {
-          "passingYards": 175,
-          "rushingYards": 128,
-          "totalYards": 303,
-          "turnovers": 1,
-          "thirdDownEff": {
-            "made": 11,
-            "attempts": 18,
-            "percentage": 61.111111111111114
-          },
-          "redZoneEff": null,
-          "possessionTime": 2368,
-          "sacks": 0
-        },
-        "Kansas City Chiefs": {
-          "passingYards": 57,
-          "rushingYards": 82,
-          "totalYards": 139,
-          "turnovers": 0,
-          "thirdDownEff": {
-            "made": 4,
-            "attempts": 11,
-            "percentage": 36.36363636363637
-          },
-          "redZoneEff": null,
-          "possessionTime": 1232,
-          "sacks": 0
-        }
-      }
-    },
-    {
-      "id": "401772951",
-      "date": "2025-12-27T21:30Z",
-      "week": 17,
-      "homeTeam": "Los Angeles Chargers",
-      "awayTeam": "Houston Texans",
-      "scores": {
-        "Los Angeles Chargers": 16,
-        "Houston Texans": 20
-      },
-      "stats": {
-        "Houston Texans": {
-          "passingYards": 244,
-          "rushingYards": 118,
-          "totalYards": 362,
-          "turnovers": 2,
-          "thirdDownEff": {
-            "made": 3,
-            "attempts": 11,
-            "percentage": 27.27272727272727
-          },
-          "redZoneEff": null,
-          "possessionTime": 1821,
-          "sacks": 0
-        },
-        "Los Angeles Chargers": {
-          "passingYards": 201,
-          "rushingYards": 74,
-          "totalYards": 275,
-          "turnovers": 1,
           "thirdDownEff": {
             "made": 6,
-            "attempts": 15,
-            "percentage": 40
-          },
-          "redZoneEff": null,
-          "possessionTime": 1779,
-          "sacks": 0
-        }
-      }
-    },
-    {
-      "id": "401772953",
-      "date": "2025-12-28T01:00Z",
-      "week": 17,
-      "homeTeam": "Green Bay Packers",
-      "awayTeam": "Baltimore Ravens",
-      "scores": {
-        "Green Bay Packers": 24,
-        "Baltimore Ravens": 41
-      },
-      "stats": {
-        "Baltimore Ravens": {
-          "passingYards": 107,
-          "rushingYards": 307,
-          "totalYards": 414,
-          "turnovers": 0,
-          "thirdDownEff": {
-            "made": 10,
-            "attempts": 14,
-            "percentage": 71.42857142857143
-          },
-          "redZoneEff": null,
-          "possessionTime": 2416,
-          "sacks": 0
-        },
-        "Green Bay Packers": {
-          "passingYards": 284,
-          "rushingYards": 79,
-          "totalYards": 363,
-          "turnovers": 2,
-          "thirdDownEff": {
-            "made": 3,
-            "attempts": 6,
+            "attempts": 12,
             "percentage": 50
           },
           "redZoneEff": null,
-          "possessionTime": 1184,
+          "possessionTime": 1587,
+          "sacks": 0
+        },
+        "San Francisco 49ers": {
+          "passingYards": 296,
+          "rushingYards": 200,
+          "totalYards": 496,
+          "turnovers": 1,
+          "thirdDownEff": {
+            "made": 7,
+            "attempts": 10,
+            "percentage": 70
+          },
+          "redZoneEff": null,
+          "possessionTime": 2013,
           "sacks": 0
         }
       }
@@ -10548,29 +10589,29 @@
       "record": "8-8"
     },
     "Chicago Bears": {
-      "games": 15,
-      "passingYards": 3291,
-      "rushingYards": 2281,
-      "totalYards": 5572,
+      "games": 16,
+      "passingYards": 3621,
+      "rushingYards": 2391,
+      "totalYards": 6012,
       "turnovers": 10,
-      "thirdDownAttempts": 204,
-      "thirdDownConversions": 87,
+      "thirdDownAttempts": 216,
+      "thirdDownConversions": 93,
       "redZoneAttempts": 0,
       "redZoneScores": 0,
-      "possessionTime": 28554,
+      "possessionTime": 30141,
       "sacks": 0,
-      "pointsFor": 387,
-      "pointsAgainst": 354,
+      "pointsFor": 425,
+      "pointsAgainst": 396,
       "wins": 11,
-      "losses": 4,
-      "avgPassingYards": 219.4,
-      "avgRushingYards": 152.06666666666666,
-      "avgTotalYards": 371.46666666666664,
-      "avgPointsFor": 25.8,
-      "avgPointsAgainst": 23.6,
-      "thirdDownPct": 42.64705882352941,
+      "losses": 5,
+      "avgPassingYards": 226.3125,
+      "avgRushingYards": 149.4375,
+      "avgTotalYards": 375.75,
+      "avgPointsFor": 26.5625,
+      "avgPointsAgainst": 24.75,
+      "thirdDownPct": 43.05555555555556,
       "redZonePct": 0,
-      "record": "11-4"
+      "record": "11-5"
     },
     "Cincinnati Bengals": {
       "games": 16,
@@ -11098,29 +11139,29 @@
       "record": "9-7"
     },
     "San Francisco 49ers": {
-      "games": 15,
-      "passingYards": 3741,
-      "rushingYards": 1564,
-      "totalYards": 5305,
-      "turnovers": 20,
-      "thirdDownAttempts": 194,
-      "thirdDownConversions": 97,
+      "games": 16,
+      "passingYards": 4037,
+      "rushingYards": 1764,
+      "totalYards": 5801,
+      "turnovers": 21,
+      "thirdDownAttempts": 204,
+      "thirdDownConversions": 104,
       "redZoneAttempts": 0,
       "redZoneScores": 0,
-      "possessionTime": 28166,
+      "possessionTime": 30179,
       "sacks": 0,
-      "pointsFor": 392,
-      "pointsAgainst": 320,
-      "wins": 11,
+      "pointsFor": 434,
+      "pointsAgainst": 358,
+      "wins": 12,
       "losses": 4,
-      "avgPassingYards": 249.4,
-      "avgRushingYards": 104.26666666666667,
-      "avgTotalYards": 353.6666666666667,
-      "avgPointsFor": 26.133333333333333,
-      "avgPointsAgainst": 21.333333333333332,
-      "thirdDownPct": 50,
+      "avgPassingYards": 252.3125,
+      "avgRushingYards": 110.25,
+      "avgTotalYards": 362.5625,
+      "avgPointsFor": 27.125,
+      "avgPointsAgainst": 22.375,
+      "thirdDownPct": 50.98039215686274,
       "redZonePct": 0,
-      "record": "11-4"
+      "record": "12-4"
     },
     "Seattle Seahawks": {
       "games": 16,
@@ -11227,8 +11268,8 @@
     "offensive": {
       "Dallas Cowboys": 1,
       "Los Angeles Rams": 2,
-      "New England Patriots": 3,
-      "Chicago Bears": 4,
+      "Chicago Bears": 3,
+      "New England Patriots": 4,
       "Buffalo Bills": 5,
       "Detroit Lions": 6,
       "San Francisco 49ers": 7,
@@ -11269,18 +11310,18 @@
       "Los Angeles Chargers": 8,
       "Jacksonville Jaguars": 9,
       "Minnesota Vikings": 10,
-      "San Francisco 49ers": 11,
-      "Green Bay Packers": 12,
-      "Buffalo Bills": 13,
+      "Green Bay Packers": 11,
+      "Buffalo Bills": 12,
+      "San Francisco 49ers": 13,
       "Cleveland Browns": 14,
       "Pittsburgh Steelers": 15,
       "Carolina Panthers": 16,
       "New Orleans Saints": 17,
       "Baltimore Ravens": 18,
       "Indianapolis Colts": 19,
-      "Chicago Bears": 20,
-      "Atlanta Falcons": 21,
-      "Miami Dolphins": 22,
+      "Atlanta Falcons": 20,
+      "Miami Dolphins": 21,
+      "Chicago Bears": 22,
       "Detroit Lions": 23,
       "Tampa Bay Buccaneers": 24,
       "Las Vegas Raiders": 25,
@@ -11314,10 +11355,10 @@
       "Denver Broncos": 19,
       "Jacksonville Jaguars": 20,
       "Tampa Bay Buccaneers": 21,
-      "Kansas City Chiefs": 22,
-      "Houston Texans": 23,
-      "Minnesota Vikings": 24,
-      "San Francisco 49ers": 25,
+      "San Francisco 49ers": 22,
+      "Kansas City Chiefs": 23,
+      "Houston Texans": 24,
+      "Minnesota Vikings": 25,
       "Pittsburgh Steelers": 26,
       "Cleveland Browns": 27,
       "Tennessee Titans": 28,
@@ -11344,17 +11385,17 @@
       "New Orleans Saints": 15,
       "Houston Texans": 16,
       "Los Angeles Chargers": 17,
-      "Chicago Bears": 18,
-      "Jacksonville Jaguars": 19,
-      "Kansas City Chiefs": 20,
-      "Indianapolis Colts": 21,
+      "Jacksonville Jaguars": 18,
+      "Kansas City Chiefs": 19,
+      "Indianapolis Colts": 20,
+      "Chicago Bears": 21,
       "Green Bay Packers": 22,
       "Denver Broncos": 23,
       "Seattle Seahawks": 24,
       "Arizona Cardinals": 25,
       "Cincinnati Bengals": 26,
-      "San Francisco 49ers": 27,
-      "Detroit Lions": 28,
+      "Detroit Lions": 27,
+      "San Francisco 49ers": 28,
       "New England Patriots": 29,
       "Los Angeles Rams": 30,
       "Dallas Cowboys": 31,
@@ -17250,6 +17291,16 @@
         "injuryNotes": "Surgery"
       },
       {
+        "id": "12631",
+        "name": "Upton Stout",
+        "team": "SF",
+        "position": "CB",
+        "depthChartPosition": "NB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Concussion",
+        "injuryNotes": null
+      },
+      {
         "id": "12634",
         "name": "Jordan Watkins",
         "team": "SF",
@@ -18317,6 +18368,16 @@
         "depthChartPosition": "TE",
         "injuryStatus": "Out",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "12519",
+        "name": "Luther Burden",
+        "team": "CHI",
+        "position": "WR",
+        "depthChartPosition": "SWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Leg",
         "injuryNotes": null
       },
       {
@@ -23637,13 +23698,13 @@
       "homeTeam": "San Francisco 49ers",
       "awayTeam": "Chicago Bears",
       "homeScore": 35,
-      "awayScore": 35
+      "awayScore": 38
     }
   ],
   "summary": {
-    "totalGames": 254,
+    "totalGames": 255,
     "upcomingGames": 1,
-    "injuredPlayers": 1220,
-    "lastUpdate": "2025-12-29T04:11:15.593Z"
+    "injuredPlayers": 1222,
+    "lastUpdate": "2025-12-29T05:30:53.827Z"
   }
 }

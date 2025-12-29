@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T04:11:15.817Z",
+  "lastUpdated": "2025-12-29T05:30:54.048Z",
   "season": 2025,
   "predictions": [
     {
@@ -375,7 +375,7 @@
       "predictedScore": "25-24",
       "spread": 1,
       "confidence": "low",
-      "timestamp": "2025-12-29T04:11:15.816Z",
+      "timestamp": "2025-12-29T05:30:54.048Z",
       "checked": false,
       "models": {
         "elo": {
@@ -387,7 +387,7 @@
         },
         "efficiency": {
           "winner": "Chicago Bears",
-          "score": "26-28",
+          "score": "27-28",
           "confidence": "low"
         }
       }
