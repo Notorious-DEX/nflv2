@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T23:55:36.883Z",
+  "lastUpdated": "2025-12-29T01:48:20.046Z",
   "season": 2025,
   "gameStats": [
     {
@@ -10134,6 +10134,88 @@
       }
     },
     {
+      "id": "401772950",
+      "date": "2025-12-28T21:05Z",
+      "week": 17,
+      "homeTeam": "Las Vegas Raiders",
+      "awayTeam": "New York Giants",
+      "scores": {
+        "Las Vegas Raiders": 10,
+        "New York Giants": 34
+      },
+      "stats": {
+        "New York Giants": {
+          "passingYards": 188,
+          "rushingYards": 155,
+          "totalYards": 343,
+          "turnovers": 0,
+          "thirdDownEff": {
+            "made": 6,
+            "attempts": 13,
+            "percentage": 46.15384615384615
+          },
+          "redZoneEff": null,
+          "possessionTime": 1848,
+          "sacks": 0
+        },
+        "Las Vegas Raiders": {
+          "passingYards": 168,
+          "rushingYards": 63,
+          "totalYards": 231,
+          "turnovers": 2,
+          "thirdDownEff": {
+            "made": 3,
+            "attempts": 13,
+            "percentage": 23.076923076923077
+          },
+          "redZoneEff": null,
+          "possessionTime": 1752,
+          "sacks": 0
+        }
+      }
+    },
+    {
+      "id": "401772917",
+      "date": "2025-12-28T21:25Z",
+      "week": 17,
+      "homeTeam": "Buffalo Bills",
+      "awayTeam": "Philadelphia Eagles",
+      "scores": {
+        "Buffalo Bills": 12,
+        "Philadelphia Eagles": 13
+      },
+      "stats": {
+        "Philadelphia Eagles": {
+          "passingYards": 108,
+          "rushingYards": 82,
+          "totalYards": 190,
+          "turnovers": 0,
+          "thirdDownEff": {
+            "made": 3,
+            "attempts": 13,
+            "percentage": 23.076923076923077
+          },
+          "redZoneEff": null,
+          "possessionTime": 1485,
+          "sacks": 0
+        },
+        "Buffalo Bills": {
+          "passingYards": 211,
+          "rushingYards": 120,
+          "totalYards": 331,
+          "turnovers": 1,
+          "thirdDownEff": {
+            "made": 6,
+            "attempts": 15,
+            "percentage": 40
+          },
+          "redZoneEff": null,
+          "possessionTime": 2115,
+          "sacks": 0
+        }
+      }
+    },
+    {
       "id": "401772710",
       "date": "2025-12-25T18:00Z",
       "week": 17,
@@ -10416,29 +10498,29 @@
       "record": "8-8"
     },
     "Buffalo Bills": {
-      "games": 15,
-      "passingYards": 3213,
-      "rushingYards": 2383,
-      "totalYards": 5596,
-      "turnovers": 18,
-      "thirdDownAttempts": 182,
-      "thirdDownConversions": 82,
+      "games": 16,
+      "passingYards": 3424,
+      "rushingYards": 2503,
+      "totalYards": 5927,
+      "turnovers": 19,
+      "thirdDownAttempts": 197,
+      "thirdDownConversions": 88,
       "redZoneAttempts": 0,
       "redZoneScores": 0,
-      "possessionTime": 29390,
+      "possessionTime": 31505,
       "sacks": 0,
-      "pointsFor": 434,
-      "pointsAgainst": 344,
+      "pointsFor": 446,
+      "pointsAgainst": 357,
       "wins": 11,
-      "losses": 4,
-      "avgPassingYards": 214.2,
-      "avgRushingYards": 158.86666666666667,
-      "avgTotalYards": 373.06666666666666,
-      "avgPointsFor": 28.933333333333334,
-      "avgPointsAgainst": 22.933333333333334,
-      "thirdDownPct": 45.05494505494506,
+      "losses": 5,
+      "avgPassingYards": 214,
+      "avgRushingYards": 156.4375,
+      "avgTotalYards": 370.4375,
+      "avgPointsFor": 27.875,
+      "avgPointsAgainst": 22.3125,
+      "thirdDownPct": 44.67005076142132,
       "redZonePct": 0,
-      "record": "11-4"
+      "record": "11-5"
     },
     "Carolina Panthers": {
       "games": 16,
@@ -10741,29 +10823,29 @@
       "record": "6-10"
     },
     "Las Vegas Raiders": {
-      "games": 15,
-      "passingYards": 2597,
-      "rushingYards": 1136,
-      "totalYards": 3733,
-      "turnovers": 19,
-      "thirdDownAttempts": 184,
-      "thirdDownConversions": 65,
+      "games": 16,
+      "passingYards": 2765,
+      "rushingYards": 1199,
+      "totalYards": 3964,
+      "turnovers": 21,
+      "thirdDownAttempts": 197,
+      "thirdDownConversions": 68,
       "redZoneAttempts": 0,
       "redZoneScores": 0,
-      "possessionTime": 25013,
+      "possessionTime": 26765,
       "sacks": 0,
-      "pointsFor": 217,
-      "pointsAgainst": 386,
+      "pointsFor": 227,
+      "pointsAgainst": 420,
       "wins": 2,
-      "losses": 13,
-      "avgPassingYards": 173.13333333333333,
-      "avgRushingYards": 75.73333333333333,
-      "avgTotalYards": 248.86666666666667,
-      "avgPointsFor": 14.466666666666667,
-      "avgPointsAgainst": 25.733333333333334,
-      "thirdDownPct": 35.32608695652174,
+      "losses": 14,
+      "avgPassingYards": 172.8125,
+      "avgRushingYards": 74.9375,
+      "avgTotalYards": 247.75,
+      "avgPointsFor": 14.1875,
+      "avgPointsAgainst": 26.25,
+      "thirdDownPct": 34.51776649746193,
       "redZonePct": 0,
-      "record": "2-13"
+      "record": "2-14"
     },
     "Los Angeles Chargers": {
       "games": 16,
@@ -10916,29 +10998,29 @@
       "record": "6-10"
     },
     "New York Giants": {
-      "games": 15,
-      "passingYards": 3067,
-      "rushingYards": 1879,
-      "totalYards": 4946,
+      "games": 16,
+      "passingYards": 3255,
+      "rushingYards": 2034,
+      "totalYards": 5289,
       "turnovers": 16,
-      "thirdDownAttempts": 197,
-      "thirdDownConversions": 76,
+      "thirdDownAttempts": 210,
+      "thirdDownConversions": 82,
       "redZoneAttempts": 0,
       "redZoneScores": 0,
-      "possessionTime": 27753,
+      "possessionTime": 29601,
       "sacks": 0,
-      "pointsFor": 313,
-      "pointsAgainst": 412,
-      "wins": 2,
+      "pointsFor": 347,
+      "pointsAgainst": 422,
+      "wins": 3,
       "losses": 13,
-      "avgPassingYards": 204.46666666666667,
-      "avgRushingYards": 125.26666666666667,
-      "avgTotalYards": 329.73333333333335,
-      "avgPointsFor": 20.866666666666667,
-      "avgPointsAgainst": 27.466666666666665,
-      "thirdDownPct": 38.578680203045685,
+      "avgPassingYards": 203.4375,
+      "avgRushingYards": 127.125,
+      "avgTotalYards": 330.5625,
+      "avgPointsFor": 21.6875,
+      "avgPointsAgainst": 26.375,
+      "thirdDownPct": 39.04761904761905,
       "redZonePct": 0,
-      "record": "2-13"
+      "record": "3-13"
     },
     "New York Jets": {
       "games": 16,
@@ -10966,29 +11048,29 @@
       "record": "3-13"
     },
     "Philadelphia Eagles": {
-      "games": 15,
-      "passingYards": 2968,
-      "rushingYards": 1826,
-      "totalYards": 4794,
+      "games": 16,
+      "passingYards": 3076,
+      "rushingYards": 1908,
+      "totalYards": 4984,
       "turnovers": 14,
-      "thirdDownAttempts": 183,
-      "thirdDownConversions": 69,
+      "thirdDownAttempts": 196,
+      "thirdDownConversions": 72,
       "redZoneAttempts": 0,
       "redZoneScores": 0,
-      "possessionTime": 27757,
+      "possessionTime": 29242,
       "sacks": 0,
-      "pointsFor": 349,
-      "pointsAgainst": 289,
-      "wins": 10,
+      "pointsFor": 362,
+      "pointsAgainst": 301,
+      "wins": 11,
       "losses": 5,
-      "avgPassingYards": 197.86666666666667,
-      "avgRushingYards": 121.73333333333333,
-      "avgTotalYards": 319.6,
-      "avgPointsFor": 23.266666666666666,
-      "avgPointsAgainst": 19.266666666666666,
-      "thirdDownPct": 37.704918032786885,
+      "avgPassingYards": 192.25,
+      "avgRushingYards": 119.25,
+      "avgTotalYards": 311.5,
+      "avgPointsFor": 22.625,
+      "avgPointsAgainst": 18.8125,
+      "thirdDownPct": 36.734693877551024,
       "redZonePct": 0,
-      "record": "10-5"
+      "record": "11-5"
     },
     "Pittsburgh Steelers": {
       "games": 16,
@@ -11146,8 +11228,8 @@
       "Dallas Cowboys": 1,
       "Los Angeles Rams": 2,
       "New England Patriots": 3,
-      "Buffalo Bills": 4,
-      "Chicago Bears": 5,
+      "Chicago Bears": 4,
+      "Buffalo Bills": 5,
       "Detroit Lions": 6,
       "San Francisco 49ers": 7,
       "Seattle Seahawks": 8,
@@ -11157,16 +11239,16 @@
       "Los Angeles Chargers": 12,
       "Atlanta Falcons": 13,
       "Jacksonville Jaguars": 14,
-      "Baltimore Ravens": 15,
-      "Kansas City Chiefs": 16,
-      "New York Giants": 17,
+      "New York Giants": 15,
+      "Baltimore Ravens": 16,
+      "Kansas City Chiefs": 17,
       "Cincinnati Bengals": 18,
       "Arizona Cardinals": 19,
       "Houston Texans": 20,
       "Washington Commanders": 21,
-      "Philadelphia Eagles": 22,
-      "Tampa Bay Buccaneers": 23,
-      "New Orleans Saints": 24,
+      "Tampa Bay Buccaneers": 22,
+      "New Orleans Saints": 23,
+      "Philadelphia Eagles": 24,
       "Miami Dolphins": 25,
       "Pittsburgh Steelers": 26,
       "Carolina Panthers": 27,
@@ -11179,8 +11261,8 @@
     "defensive": {
       "Houston Texans": 1,
       "Seattle Seahawks": 2,
-      "Denver Broncos": 3,
-      "Philadelphia Eagles": 4,
+      "Philadelphia Eagles": 3,
+      "Denver Broncos": 4,
       "New England Patriots": 5,
       "Kansas City Chiefs": 6,
       "Los Angeles Rams": 7,
@@ -11189,11 +11271,11 @@
       "Minnesota Vikings": 10,
       "San Francisco 49ers": 11,
       "Green Bay Packers": 12,
-      "Cleveland Browns": 13,
-      "Pittsburgh Steelers": 14,
-      "Carolina Panthers": 15,
-      "New Orleans Saints": 16,
-      "Buffalo Bills": 17,
+      "Buffalo Bills": 13,
+      "Cleveland Browns": 14,
+      "Pittsburgh Steelers": 15,
+      "Carolina Panthers": 16,
+      "New Orleans Saints": 17,
       "Baltimore Ravens": 18,
       "Indianapolis Colts": 19,
       "Chicago Bears": 20,
@@ -11202,33 +11284,33 @@
       "Detroit Lions": 23,
       "Tampa Bay Buccaneers": 24,
       "Las Vegas Raiders": 25,
-      "Washington Commanders": 26,
-      "Tennessee Titans": 27,
-      "New York Giants": 28,
+      "New York Giants": 26,
+      "Washington Commanders": 27,
+      "Tennessee Titans": 28,
       "Arizona Cardinals": 29,
       "New York Jets": 30,
       "Cincinnati Bengals": 31,
       "Dallas Cowboys": 32
     },
     "rushOffense": {
-      "Buffalo Bills": 1,
-      "Baltimore Ravens": 2,
+      "Baltimore Ravens": 1,
+      "Buffalo Bills": 2,
       "Chicago Bears": 3,
       "Washington Commanders": 4,
-      "New York Jets": 5,
-      "Los Angeles Rams": 6,
-      "New York Giants": 7,
+      "New York Giants": 5,
+      "New York Jets": 6,
+      "Los Angeles Rams": 7,
       "Atlanta Falcons": 8,
       "Dallas Cowboys": 9,
       "Miami Dolphins": 10,
       "Carolina Panthers": 11,
       "Los Angeles Chargers": 12,
       "New England Patriots": 13,
-      "Philadelphia Eagles": 14,
-      "Indianapolis Colts": 15,
-      "Detroit Lions": 16,
-      "Seattle Seahawks": 17,
-      "Green Bay Packers": 18,
+      "Indianapolis Colts": 14,
+      "Detroit Lions": 15,
+      "Seattle Seahawks": 16,
+      "Green Bay Packers": 17,
+      "Philadelphia Eagles": 18,
       "Denver Broncos": 19,
       "Jacksonville Jaguars": 20,
       "Tampa Bay Buccaneers": 21,
@@ -11253,8 +11335,8 @@
       "Carolina Panthers": 6,
       "Miami Dolphins": 7,
       "Washington Commanders": 8,
-      "Pittsburgh Steelers": 9,
-      "Philadelphia Eagles": 10,
+      "Philadelphia Eagles": 9,
+      "Pittsburgh Steelers": 10,
       "New York Giants": 11,
       "Tampa Bay Buccaneers": 12,
       "Buffalo Bills": 13,
@@ -17537,9 +17619,9 @@
         "team": "SF",
         "position": "TE",
         "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
-        "injuryNotes": null
+        "injuryNotes": "Sprain"
       },
       {
         "id": "4218",
@@ -17570,6 +17652,16 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee - ACL",
         "injuryNotes": "Surgery"
+      },
+      {
+        "id": "6005",
+        "name": "Kevin Givens",
+        "team": "SF",
+        "position": "DT",
+        "depthChartPosition": "LDT",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
       },
       {
         "id": "6803",
@@ -17612,6 +17704,26 @@
         "injuryNotes": null
       },
       {
+        "id": "8020",
+        "name": "Curtis Robinson",
+        "team": "SF",
+        "position": "LB",
+        "depthChartPosition": "MLB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "10966",
+        "name": "Robert Beal",
+        "team": "SF",
+        "position": "LB",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "10995",
         "name": "Tre Tomlinson",
         "team": "SF",
@@ -17632,14 +17744,14 @@
         "injuryNotes": null
       },
       {
-        "id": "11638",
-        "name": "Ricky Pearsall",
+        "id": "11651",
+        "name": "Isaac Guerendo",
         "team": "SF",
-        "position": "WR",
-        "depthChartPosition": "LWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": "Sprain"
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
       },
       {
         "id": "11697",
@@ -17670,6 +17782,16 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee - ACL",
         "injuryNotes": "Surgery"
+      },
+      {
+        "id": "12634",
+        "name": "Jordan Watkins",
+        "team": "SF",
+        "position": "WR",
+        "depthChartPosition": "SWR",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
       },
       {
         "id": "12763",
@@ -17841,7 +17963,7 @@
         "team": "LV",
         "position": "QB",
         "depthChartPosition": "QB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -18013,6 +18135,208 @@
         "depthChartPosition": "LWR",
         "injuryStatus": "Out",
         "injuryBodyPart": "Back",
+        "injuryNotes": null
+      }
+    ],
+    "CHI": [
+      {
+        "id": "1737",
+        "name": "Case Keenum",
+        "team": "CHI",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "6271",
+        "name": "Olamide Zaccheaus",
+        "team": "CHI",
+        "position": "WR",
+        "depthChartPosition": "LWR",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Illness",
+        "injuryNotes": null
+      },
+      {
+        "id": "6465",
+        "name": "Thomas Ives",
+        "team": "CHI",
+        "position": "WR",
+        "depthChartPosition": null,
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "7649",
+        "name": "Dayo Odeyingbo",
+        "team": "CHI",
+        "position": "DE",
+        "depthChartPosition": "DL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Achilles",
+        "injuryNotes": "Surgery"
+      },
+      {
+        "id": "7974",
+        "name": "Nick McCloud",
+        "team": "CHI",
+        "position": "CB",
+        "depthChartPosition": "LCB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Illness",
+        "injuryNotes": null
+      },
+      {
+        "id": "8107",
+        "name": "Nikola Kalinic",
+        "team": "CHI",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "8365",
+        "name": "Kyler Gordon",
+        "team": "CHI",
+        "position": "DB",
+        "depthChartPosition": "NB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Groin",
+        "injuryNotes": null
+      },
+      {
+        "id": "8479",
+        "name": "Braxton Jones",
+        "team": "CHI",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "8833",
+        "name": "Dallis Flowers",
+        "team": "CHI",
+        "position": "CB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "10235",
+        "name": "Roschon Johnson",
+        "team": "CHI",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Thumb",
+        "injuryNotes": null
+      },
+      {
+        "id": "10915",
+        "name": "Ricky Stromberg",
+        "team": "CHI",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "10972",
+        "name": "Terell Smith",
+        "team": "CHI",
+        "position": "DB",
+        "depthChartPosition": "DB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "11620",
+        "name": "Rome Odunze",
+        "team": "CHI",
+        "position": "WR",
+        "depthChartPosition": "LWR",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Foot",
+        "injuryNotes": "Fracture"
+      },
+      {
+        "id": "11707",
+        "name": "Kiran Amegadjie",
+        "team": "CHI",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Elbow",
+        "injuryNotes": null
+      },
+      {
+        "id": "12267",
+        "name": "Qadir Ismail",
+        "team": "CHI",
+        "position": "WR",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "12616",
+        "name": "Shemar Turner",
+        "team": "CHI",
+        "position": "DE",
+        "depthChartPosition": "DL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee - ACL",
+        "injuryNotes": null
+      },
+      {
+        "id": "12637",
+        "name": "Ruben Hyppolite",
+        "team": "CHI",
+        "position": "LB",
+        "depthChartPosition": "ROLB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "12662",
+        "name": "Zah Frazier",
+        "team": "CHI",
+        "position": "CB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "PUP",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "12707",
+        "name": "Luke Newman",
+        "team": "CHI",
+        "position": "OG",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Foot",
+        "injuryNotes": null
+      },
+      {
+        "id": "13080",
+        "name": "Deion Hankins",
+        "team": "CHI",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
         "injuryNotes": null
       }
     ],
@@ -22628,238 +22952,6 @@
         "injuryNotes": null
       }
     ],
-    "CHI": [
-      {
-        "id": "4983",
-        "name": "DJ Moore",
-        "team": "CHI",
-        "position": "WR",
-        "depthChartPosition": "RWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
-        "injuryNotes": null
-      },
-      {
-        "id": "5893",
-        "name": "C.J. Gardner-Johnson",
-        "team": "CHI",
-        "position": "DB",
-        "depthChartPosition": "NB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "5960",
-        "name": "T.J. Edwards",
-        "team": "CHI",
-        "position": "LB",
-        "depthChartPosition": "LOLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Lower Body",
-        "injuryNotes": null
-      },
-      {
-        "id": "6271",
-        "name": "Olamide Zaccheaus",
-        "team": "CHI",
-        "position": "WR",
-        "depthChartPosition": "LWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
-        "injuryNotes": null
-      },
-      {
-        "id": "6465",
-        "name": "Thomas Ives",
-        "team": "CHI",
-        "position": "WR",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "7649",
-        "name": "Dayo Odeyingbo",
-        "team": "CHI",
-        "position": "DE",
-        "depthChartPosition": "DL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Achilles",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "7687",
-        "name": "Nahshon Wright",
-        "team": "CHI",
-        "position": "CB",
-        "depthChartPosition": "RCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hamstring",
-        "injuryNotes": null
-      },
-      {
-        "id": "7974",
-        "name": "Nick McCloud",
-        "team": "CHI",
-        "position": "CB",
-        "depthChartPosition": "LCB",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Illness",
-        "injuryNotes": null
-      },
-      {
-        "id": "8107",
-        "name": "Nikola Kalinic",
-        "team": "CHI",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "8365",
-        "name": "Kyler Gordon",
-        "team": "CHI",
-        "position": "DB",
-        "depthChartPosition": "NB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Groin",
-        "injuryNotes": null
-      },
-      {
-        "id": "8479",
-        "name": "Braxton Jones",
-        "team": "CHI",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "8714",
-        "name": "Josh Blackwell",
-        "team": "CHI",
-        "position": "CB",
-        "depthChartPosition": "NB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
-        "injuryNotes": null
-      },
-      {
-        "id": "10235",
-        "name": "Roschon Johnson",
-        "team": "CHI",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Thumb",
-        "injuryNotes": null
-      },
-      {
-        "id": "10887",
-        "name": "Darnell Wright",
-        "team": "CHI",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
-        "injuryNotes": null
-      },
-      {
-        "id": "10915",
-        "name": "Ricky Stromberg",
-        "team": "CHI",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "10972",
-        "name": "Terell Smith",
-        "team": "CHI",
-        "position": "DB",
-        "depthChartPosition": "DB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "11620",
-        "name": "Rome Odunze",
-        "team": "CHI",
-        "position": "WR",
-        "depthChartPosition": "LWR",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Foot",
-        "injuryNotes": "Fracture"
-      },
-      {
-        "id": "11707",
-        "name": "Kiran Amegadjie",
-        "team": "CHI",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Elbow",
-        "injuryNotes": null
-      },
-      {
-        "id": "12267",
-        "name": "Qadir Ismail",
-        "team": "CHI",
-        "position": "WR",
-        "depthChartPosition": "TE",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "12616",
-        "name": "Shemar Turner",
-        "team": "CHI",
-        "position": "DE",
-        "depthChartPosition": "DL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee - ACL",
-        "injuryNotes": null
-      },
-      {
-        "id": "12662",
-        "name": "Zah Frazier",
-        "team": "CHI",
-        "position": "CB",
-        "depthChartPosition": "RCB",
-        "injuryStatus": "PUP",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "12707",
-        "name": "Luke Newman",
-        "team": "CHI",
-        "position": "OG",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Foot",
-        "injuryNotes": null
-      },
-      {
-        "id": "13080",
-        "name": "Deion Hankins",
-        "team": "CHI",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      }
-    ],
     "GB": [
       {
         "id": "5877",
@@ -23509,15 +23601,6 @@
   },
   "upcomingGames": [
     {
-      "id": "401772950",
-      "date": "2025-12-28T21:05Z",
-      "status": "in",
-      "homeTeam": "Las Vegas Raiders",
-      "awayTeam": "New York Giants",
-      "homeScore": 10,
-      "awayScore": 34
-    },
-    {
       "id": "401772917",
       "date": "2025-12-28T21:25Z",
       "status": "in",
@@ -23537,9 +23620,9 @@
     }
   ],
   "summary": {
-    "totalGames": 252,
-    "upcomingGames": 3,
-    "injuredPlayers": 1216,
-    "lastUpdate": "2025-12-28T23:55:36.883Z"
+    "totalGames": 254,
+    "upcomingGames": 2,
+    "injuredPlayers": 1217,
+    "lastUpdate": "2025-12-29T01:48:20.046Z"
   }
 }

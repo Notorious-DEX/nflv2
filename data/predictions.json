@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T23:55:37.099Z",
+  "lastUpdated": "2025-12-29T01:48:20.273Z",
   "season": 2025,
   "predictions": [
     {
@@ -349,7 +349,7 @@
       "predictedScore": "27-22",
       "spread": 5,
       "confidence": "high",
-      "timestamp": "2025-12-28T23:55:37.098Z",
+      "timestamp": "2025-12-29T01:48:20.273Z",
       "checked": false,
       "models": {
         "elo": {
@@ -361,7 +361,7 @@
         },
         "efficiency": {
           "winner": "Buffalo Bills",
-          "score": "31-23",
+          "score": "31-22",
           "confidence": "high"
         }
       }
@@ -375,7 +375,7 @@
       "predictedScore": "25-24",
       "spread": 1,
       "confidence": "low",
-      "timestamp": "2025-12-28T23:55:37.098Z",
+      "timestamp": "2025-12-29T01:48:20.273Z",
       "checked": false,
       "models": {
         "elo": {
@@ -395,8 +395,8 @@
   ],
   "summary": {
     "total": 15,
-    "new": 3,
-    "carried": 12,
+    "new": 2,
+    "carried": 13,
     "byConfidence": {
       "high": 1,
       "medium": 5,
