@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T18:36:34.648Z",
+  "lastUpdated": "2025-12-29T18:55:11.641Z",
   "season": 2025,
   "gameStats": [
     {
@@ -11927,16 +11927,6 @@
         "injuryNotes": null
       },
       {
-        "id": "2015",
-        "name": "Dee Ford",
-        "team": null,
-        "position": "DE",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Back",
-        "injuryNotes": null
-      },
-      {
         "id": "2028",
         "name": "Derek Carr",
         "team": null,
@@ -23724,7 +23714,7 @@
   "summary": {
     "totalGames": 255,
     "upcomingGames": 1,
-    "injuredPlayers": 1224,
-    "lastUpdate": "2025-12-29T18:36:34.648Z"
+    "injuredPlayers": 1223,
+    "lastUpdate": "2025-12-29T18:55:11.641Z"
   }
 }
