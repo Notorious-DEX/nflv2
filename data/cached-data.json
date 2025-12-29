@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T21:21:05.891Z",
+  "lastUpdated": "2025-12-29T21:35:12.438Z",
   "season": 2025,
   "gameStats": [
     {
@@ -11530,7 +11530,7 @@
         "team": "BUF",
         "position": "LB",
         "depthChartPosition": "MLB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Calf",
         "injuryNotes": null
       },
@@ -19940,7 +19940,7 @@
         "team": "MIN",
         "position": "DL",
         "depthChartPosition": "LDE",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       }
@@ -23705,6 +23705,6 @@
     "totalGames": 255,
     "upcomingGames": 1,
     "injuredPlayers": 1222,
-    "lastUpdate": "2025-12-29T21:21:05.891Z"
+    "lastUpdate": "2025-12-29T21:35:12.438Z"
   }
 }
