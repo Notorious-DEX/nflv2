@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T01:48:20.046Z",
+  "lastUpdated": "2025-12-29T02:00:53.703Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17058,6 +17058,218 @@
         "injuryNotes": "Surgery"
       }
     ],
+    "SF": [
+      {
+        "id": "734",
+        "name": "Trent Williams",
+        "team": "SF",
+        "position": "T",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
+        "id": "1039",
+        "name": "Tavon Wilson",
+        "team": "SF",
+        "position": "DB",
+        "depthChartPosition": null,
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Foot",
+        "injuryNotes": null
+      },
+      {
+        "id": "4217",
+        "name": "George Kittle",
+        "team": "SF",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": "Sprain"
+      },
+      {
+        "id": "4218",
+        "name": "Trent Taylor",
+        "team": "SF",
+        "position": "WR",
+        "depthChartPosition": null,
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "5041",
+        "name": "Fred Warner",
+        "team": "SF",
+        "position": "LB",
+        "depthChartPosition": "LB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": "Dislocated"
+      },
+      {
+        "id": "5816",
+        "name": "Nick Bosa",
+        "team": "SF",
+        "position": "DE",
+        "depthChartPosition": "DL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee - ACL",
+        "injuryNotes": "Surgery"
+      },
+      {
+        "id": "6005",
+        "name": "Kevin Givens",
+        "team": "SF",
+        "position": "DT",
+        "depthChartPosition": "LDT",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "6803",
+        "name": "Brandon Aiyuk",
+        "team": "SF",
+        "position": "WR",
+        "depthChartPosition": null,
+        "injuryStatus": "DNR",
+        "injuryBodyPart": "Knee - ACL + MCL",
+        "injuryNotes": "Surgery"
+      },
+      {
+        "id": "6963",
+        "name": "Patrick Taylor",
+        "team": "SF",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Shoulder",
+        "injuryNotes": "Dislocated"
+      },
+      {
+        "id": "7060",
+        "name": "Ben Bartch",
+        "team": "SF",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Foot",
+        "injuryNotes": "Sprain"
+      },
+      {
+        "id": "7802",
+        "name": "Tarron Jackson",
+        "team": "SF",
+        "position": "DE",
+        "depthChartPosition": "LB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "8020",
+        "name": "Curtis Robinson",
+        "team": "SF",
+        "position": "LB",
+        "depthChartPosition": "MLB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "10966",
+        "name": "Robert Beal",
+        "team": "SF",
+        "position": "LB",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "10995",
+        "name": "Tre Tomlinson",
+        "team": "SF",
+        "position": "CB",
+        "depthChartPosition": "DB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "11616",
+        "name": "Jacob Cowing",
+        "team": "SF",
+        "position": "WR",
+        "depthChartPosition": "SWR",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
+        "id": "11651",
+        "name": "Isaac Guerendo",
+        "team": "SF",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "11697",
+        "name": "Renardo Green",
+        "team": "SF",
+        "position": "DB",
+        "depthChartPosition": "LCB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Neck",
+        "injuryNotes": null
+      },
+      {
+        "id": "12477",
+        "name": "Kurtis Rourke",
+        "team": "SF",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "PUP",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": "Surgery"
+      },
+      {
+        "id": "12602",
+        "name": "Mykel Williams",
+        "team": "SF",
+        "position": "DL",
+        "depthChartPosition": "DL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee - ACL",
+        "injuryNotes": "Surgery"
+      },
+      {
+        "id": "12634",
+        "name": "Jordan Watkins",
+        "team": "SF",
+        "position": "WR",
+        "depthChartPosition": "SWR",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "12763",
+        "name": "Jakob Robinson",
+        "team": "SF",
+        "position": "CB",
+        "depthChartPosition": "DB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Forearm",
+        "injuryNotes": null
+      }
+    ],
     "WAS": [
       {
         "id": "815",
@@ -17599,208 +17811,6 @@
         "depthChartPosition": "OL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      }
-    ],
-    "SF": [
-      {
-        "id": "1039",
-        "name": "Tavon Wilson",
-        "team": "SF",
-        "position": "DB",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Foot",
-        "injuryNotes": null
-      },
-      {
-        "id": "4217",
-        "name": "George Kittle",
-        "team": "SF",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": "Sprain"
-      },
-      {
-        "id": "4218",
-        "name": "Trent Taylor",
-        "team": "SF",
-        "position": "WR",
-        "depthChartPosition": null,
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "5041",
-        "name": "Fred Warner",
-        "team": "SF",
-        "position": "LB",
-        "depthChartPosition": "LB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": "Dislocated"
-      },
-      {
-        "id": "5816",
-        "name": "Nick Bosa",
-        "team": "SF",
-        "position": "DE",
-        "depthChartPosition": "DL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee - ACL",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "6005",
-        "name": "Kevin Givens",
-        "team": "SF",
-        "position": "DT",
-        "depthChartPosition": "LDT",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Coach's Decision",
-        "injuryNotes": null
-      },
-      {
-        "id": "6803",
-        "name": "Brandon Aiyuk",
-        "team": "SF",
-        "position": "WR",
-        "depthChartPosition": null,
-        "injuryStatus": "DNR",
-        "injuryBodyPart": "Knee - ACL + MCL",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "6963",
-        "name": "Patrick Taylor",
-        "team": "SF",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Shoulder",
-        "injuryNotes": "Dislocated"
-      },
-      {
-        "id": "7060",
-        "name": "Ben Bartch",
-        "team": "SF",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Foot",
-        "injuryNotes": "Sprain"
-      },
-      {
-        "id": "7802",
-        "name": "Tarron Jackson",
-        "team": "SF",
-        "position": "DE",
-        "depthChartPosition": "LB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "8020",
-        "name": "Curtis Robinson",
-        "team": "SF",
-        "position": "LB",
-        "depthChartPosition": "MLB",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Coach's Decision",
-        "injuryNotes": null
-      },
-      {
-        "id": "10966",
-        "name": "Robert Beal",
-        "team": "SF",
-        "position": "LB",
-        "depthChartPosition": "LDE",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Coach's Decision",
-        "injuryNotes": null
-      },
-      {
-        "id": "10995",
-        "name": "Tre Tomlinson",
-        "team": "SF",
-        "position": "CB",
-        "depthChartPosition": "DB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "11616",
-        "name": "Jacob Cowing",
-        "team": "SF",
-        "position": "WR",
-        "depthChartPosition": "SWR",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Hamstring",
-        "injuryNotes": null
-      },
-      {
-        "id": "11651",
-        "name": "Isaac Guerendo",
-        "team": "SF",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Coach's Decision",
-        "injuryNotes": null
-      },
-      {
-        "id": "11697",
-        "name": "Renardo Green",
-        "team": "SF",
-        "position": "DB",
-        "depthChartPosition": "LCB",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Neck",
-        "injuryNotes": null
-      },
-      {
-        "id": "12477",
-        "name": "Kurtis Rourke",
-        "team": "SF",
-        "position": "QB",
-        "depthChartPosition": "QB",
-        "injuryStatus": "PUP",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "12602",
-        "name": "Mykel Williams",
-        "team": "SF",
-        "position": "DL",
-        "depthChartPosition": "DL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee - ACL",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "12634",
-        "name": "Jordan Watkins",
-        "team": "SF",
-        "position": "WR",
-        "depthChartPosition": "SWR",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Coach's Decision",
-        "injuryNotes": null
-      },
-      {
-        "id": "12763",
-        "name": "Jakob Robinson",
-        "team": "SF",
-        "position": "CB",
-        "depthChartPosition": "DB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Forearm",
         "injuryNotes": null
       }
     ],
@@ -23601,28 +23611,19 @@
   },
   "upcomingGames": [
     {
-      "id": "401772917",
-      "date": "2025-12-28T21:25Z",
-      "status": "in",
-      "homeTeam": "Buffalo Bills",
-      "awayTeam": "Philadelphia Eagles",
-      "homeScore": 0,
-      "awayScore": 13
-    },
-    {
       "id": "401772935",
       "date": "2025-12-29T01:20Z",
-      "status": "pre",
+      "status": "in",
       "homeTeam": "San Francisco 49ers",
       "awayTeam": "Chicago Bears",
-      "homeScore": 0,
-      "awayScore": 0
+      "homeScore": 7,
+      "awayScore": 7
     }
   ],
   "summary": {
     "totalGames": 254,
-    "upcomingGames": 2,
-    "injuredPlayers": 1217,
-    "lastUpdate": "2025-12-29T01:48:20.046Z"
+    "upcomingGames": 1,
+    "injuredPlayers": 1218,
+    "lastUpdate": "2025-12-29T02:00:53.703Z"
   }
 }
