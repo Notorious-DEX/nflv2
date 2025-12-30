@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-30T20:26:49.767Z",
+  "lastUpdated": "2025-12-30T21:22:09.968Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18104,7 +18104,7 @@
         "name": "Terrell Edmunds",
         "team": "LV",
         "position": "DB",
-        "depthChartPosition": "NB",
+        "depthChartPosition": "SS",
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
@@ -19688,7 +19688,7 @@
         "name": "Dee Eskridge",
         "team": "MIA",
         "position": "WR",
-        "depthChartPosition": "KR",
+        "depthChartPosition": null,
         "injuryStatus": "IR",
         "injuryBodyPart": "Toe",
         "injuryNotes": null
@@ -20072,7 +20072,7 @@
         "name": "Charvarius Ward",
         "team": "IND",
         "position": "CB",
-        "depthChartPosition": "LCB",
+        "depthChartPosition": "DB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Concussion",
         "injuryNotes": null
@@ -20212,7 +20212,7 @@
         "name": "Anthony Gould",
         "team": "IND",
         "position": "WR",
-        "depthChartPosition": "KR",
+        "depthChartPosition": "SWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
@@ -20562,6 +20562,16 @@
         "injuryNotes": null
       },
       {
+        "id": "4892",
+        "name": "Baker Mayfield",
+        "team": "TB",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Shoulder",
+        "injuryNotes": null
+      },
+      {
         "id": "5869",
         "name": "Michael Jordan",
         "team": "TB",
@@ -20622,6 +20632,16 @@
         "injuryNotes": null
       },
       {
+        "id": "8454",
+        "name": "Luke Goedeke",
+        "team": "TB",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
         "id": "8484",
         "name": "Ko Kieft",
         "team": "TB",
@@ -20669,6 +20689,16 @@
         "depthChartPosition": "FS",
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "12576",
+        "name": "Benjamin Morrison",
+        "team": "TB",
+        "position": "DB",
+        "depthChartPosition": "LCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
       {
@@ -20960,7 +20990,7 @@
         "name": "Derrick Nnadi",
         "team": "KC",
         "position": "DT",
-        "depthChartPosition": "RDT",
+        "depthChartPosition": "LDT",
         "injuryStatus": "Out",
         "injuryBodyPart": "Illness",
         "injuryNotes": null
@@ -21030,7 +21060,7 @@
         "name": "Tyquan Thornton",
         "team": "KC",
         "position": "WR",
-        "depthChartPosition": "PR",
+        "depthChartPosition": null,
         "injuryStatus": "IR",
         "injuryBodyPart": "Concussion",
         "injuryNotes": null
@@ -21130,7 +21160,7 @@
         "name": "Nikko Remigio",
         "team": "KC",
         "position": "WR",
-        "depthChartPosition": "KR",
+        "depthChartPosition": "RWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -21220,7 +21250,7 @@
         "name": "Melvin Smith",
         "team": "KC",
         "position": "DB",
-        "depthChartPosition": "NB",
+        "depthChartPosition": "RCB",
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
@@ -22600,6 +22630,16 @@
         "injuryNotes": null
       },
       {
+        "id": "7021",
+        "name": "Rico Dowdle",
+        "team": "CAR",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Toe",
+        "injuryNotes": "Soreness"
+      },
+      {
         "id": "7041",
         "name": "Robert Hunt",
         "team": "CAR",
@@ -22607,6 +22647,16 @@
         "depthChartPosition": "OL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Biceps",
+        "injuryNotes": null
+      },
+      {
+        "id": "7268",
+        "name": "Krys Barnes",
+        "team": "CAR",
+        "position": "LB",
+        "depthChartPosition": "LILB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Back",
         "injuryNotes": null
       },
       {
@@ -23462,7 +23512,7 @@
         "name": "Payton Turner",
         "team": "DAL",
         "position": "DE",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "LDE",
         "injuryStatus": "IR",
         "injuryBodyPart": "Ribs",
         "injuryNotes": "Fracture"
@@ -23835,7 +23885,7 @@
   "summary": {
     "totalGames": 256,
     "upcomingGames": 0,
-    "injuredPlayers": 1232,
-    "lastUpdate": "2025-12-30T20:26:49.767Z"
+    "injuredPlayers": 1237,
+    "lastUpdate": "2025-12-30T21:22:09.968Z"
   }
 }
