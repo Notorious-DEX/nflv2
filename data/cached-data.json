@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-30T22:22:33.295Z",
+  "lastUpdated": "2025-12-30T23:21:03.642Z",
   "season": 2025,
   "gameStats": [
     {
@@ -12958,16 +12958,6 @@
         "injuryNotes": null
       },
       {
-        "id": "4605",
-        "name": "Evan Baylis",
-        "team": null,
-        "position": "TE",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
         "id": "4611",
         "name": "Justin Hardee",
         "team": null,
@@ -14538,16 +14528,6 @@
         "injuryNotes": null
       },
       {
-        "id": "7009",
-        "name": "Trishton Jackson",
-        "team": null,
-        "position": "WR",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Thumb",
-        "injuryNotes": null
-      },
-      {
         "id": "7011",
         "name": "Carter Coughlin",
         "team": null,
@@ -15308,16 +15288,6 @@
         "injuryNotes": null
       },
       {
-        "id": "7924",
-        "name": "Jaytlin Askew",
-        "team": null,
-        "position": "CB",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Quadriceps",
-        "injuryNotes": null
-      },
-      {
         "id": "7931",
         "name": "Forrest Merrill",
         "team": null,
@@ -15718,16 +15688,6 @@
         "injuryNotes": null
       },
       {
-        "id": "8641",
-        "name": "De'Shaan Dixon",
-        "team": null,
-        "position": "LB",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee - ACL",
-        "injuryNotes": "Surgery"
-      },
-      {
         "id": "8661",
         "name": "Matt Hankins",
         "team": null,
@@ -15756,16 +15716,6 @@
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Achilles",
         "injuryNotes": "Surgery"
-      },
-      {
-        "id": "8696",
-        "name": "C.J. Avery",
-        "team": null,
-        "position": "LB",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
       },
       {
         "id": "8727",
@@ -23885,7 +23835,7 @@
   "summary": {
     "totalGames": 256,
     "upcomingGames": 0,
-    "injuredPlayers": 1237,
-    "lastUpdate": "2025-12-30T22:22:33.295Z"
+    "injuredPlayers": 1232,
+    "lastUpdate": "2025-12-30T23:21:03.642Z"
   }
 }
