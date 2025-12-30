@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-30T01:17:34.366Z",
+  "lastUpdated": "2025-12-30T01:52:44.496Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18739,7 +18739,7 @@
         "name": "Solomon Byrd",
         "team": "HOU",
         "position": "DE",
-        "depthChartPosition": "LDE",
+        "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
@@ -19969,7 +19969,7 @@
         "name": "Elijah Williams",
         "team": "MIN",
         "position": "DL",
-        "depthChartPosition": "LDE",
+        "depthChartPosition": "DL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
@@ -23329,7 +23329,7 @@
         "name": "Barryn Sorrell",
         "team": "GB",
         "position": "DE",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "LDE",
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
@@ -23764,7 +23764,7 @@
     {
       "id": "401772825",
       "date": "2025-12-30T01:15Z",
-      "status": "pre",
+      "status": "in",
       "homeTeam": "Atlanta Falcons",
       "awayTeam": "Los Angeles Rams",
       "homeScore": 0,
@@ -23775,6 +23775,6 @@
     "totalGames": 255,
     "upcomingGames": 1,
     "injuredPlayers": 1229,
-    "lastUpdate": "2025-12-30T01:17:34.366Z"
+    "lastUpdate": "2025-12-30T01:52:44.496Z"
   }
 }
