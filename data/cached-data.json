@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-30T03:39:28.999Z",
+  "lastUpdated": "2025-12-30T04:40:42.682Z",
   "season": 2025,
   "gameStats": [
     {
@@ -23808,13 +23808,13 @@
       "homeTeam": "Atlanta Falcons",
       "awayTeam": "Los Angeles Rams",
       "homeScore": 24,
-      "awayScore": 3
+      "awayScore": 17
     }
   ],
   "summary": {
     "totalGames": 255,
     "upcomingGames": 1,
     "injuredPlayers": 1233,
-    "lastUpdate": "2025-12-30T03:39:28.999Z"
+    "lastUpdate": "2025-12-30T04:40:42.682Z"
   }
 }
