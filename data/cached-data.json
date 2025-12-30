@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-30T03:04:52.121Z",
+  "lastUpdated": "2025-12-30T03:39:28.999Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18571,6 +18571,16 @@
         "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
+      },
+      {
+        "id": "12142",
+        "name": "Jaylen McCollough",
+        "team": "LAR",
+        "position": "DB",
+        "depthChartPosition": "SS",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hip",
+        "injuryNotes": null
       }
     ],
     "HOU": [
@@ -22911,6 +22921,16 @@
         "injuryNotes": null
       },
       {
+        "id": "11740",
+        "name": "Brandon Dorlus",
+        "team": "ATL",
+        "position": "DE",
+        "depthChartPosition": "RDE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "11806",
         "name": "Casey Washington",
         "team": "ATL",
@@ -23787,14 +23807,14 @@
       "status": "in",
       "homeTeam": "Atlanta Falcons",
       "awayTeam": "Los Angeles Rams",
-      "homeScore": 7,
-      "awayScore": 0
+      "homeScore": 24,
+      "awayScore": 3
     }
   ],
   "summary": {
     "totalGames": 255,
     "upcomingGames": 1,
-    "injuredPlayers": 1231,
-    "lastUpdate": "2025-12-30T03:04:52.121Z"
+    "injuredPlayers": 1233,
+    "lastUpdate": "2025-12-30T03:39:28.999Z"
   }
 }
