@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-30T10:26:51.294Z",
+  "lastUpdated": "2025-12-30T11:21:26.396Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17074,7 +17074,7 @@
         "name": "Dante Miller",
         "team": "NYG",
         "position": "RB",
-        "depthChartPosition": "RB",
+        "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
@@ -18074,7 +18074,7 @@
         "name": "Phillip Dorsett",
         "team": "LV",
         "position": "WR",
-        "depthChartPosition": "LWR",
+        "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
@@ -18224,7 +18224,7 @@
         "name": "Chris Collier",
         "team": "LV",
         "position": "RB",
-        "depthChartPosition": "RB",
+        "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
@@ -18336,7 +18336,7 @@
         "name": "Dallis Flowers",
         "team": "CHI",
         "position": "CB",
-        "depthChartPosition": "RCB",
+        "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
@@ -19778,7 +19778,7 @@
         "name": "Derrick McLendon",
         "team": "MIA",
         "position": "LB",
-        "depthChartPosition": "ROLB",
+        "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
@@ -23846,6 +23846,6 @@
     "totalGames": 256,
     "upcomingGames": 0,
     "injuredPlayers": 1233,
-    "lastUpdate": "2025-12-30T10:26:51.294Z"
+    "lastUpdate": "2025-12-30T11:21:26.396Z"
   }
 }
