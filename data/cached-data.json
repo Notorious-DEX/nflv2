@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-30T04:40:42.682Z",
+  "lastUpdated": "2025-12-30T05:26:40.476Z",
   "season": 2025,
   "gameStats": [
     {
@@ -10460,6 +10460,47 @@
           "sacks": 0
         }
       }
+    },
+    {
+      "id": "401772825",
+      "date": "2025-12-30T01:15Z",
+      "week": 17,
+      "homeTeam": "Atlanta Falcons",
+      "awayTeam": "Los Angeles Rams",
+      "scores": {
+        "Atlanta Falcons": 27,
+        "Los Angeles Rams": 24
+      },
+      "stats": {
+        "Los Angeles Rams": {
+          "passingYards": 248,
+          "rushingYards": 115,
+          "totalYards": 363,
+          "turnovers": 3,
+          "thirdDownEff": {
+            "made": 5,
+            "attempts": 13,
+            "percentage": 38.46153846153847
+          },
+          "redZoneEff": null,
+          "possessionTime": 1815,
+          "sacks": 0
+        },
+        "Atlanta Falcons": {
+          "passingYards": 126,
+          "rushingYards": 219,
+          "totalYards": 345,
+          "turnovers": 0,
+          "thirdDownEff": {
+            "made": 5,
+            "attempts": 13,
+            "percentage": 38.46153846153847
+          },
+          "redZoneEff": null,
+          "possessionTime": 1785,
+          "sacks": 0
+        }
+      }
     }
   ],
   "teamStats": {
@@ -10489,29 +10530,29 @@
       "record": "3-13"
     },
     "Atlanta Falcons": {
-      "games": 15,
-      "passingYards": 3238,
-      "rushingYards": 1870,
-      "totalYards": 5108,
+      "games": 16,
+      "passingYards": 3364,
+      "rushingYards": 2089,
+      "totalYards": 5453,
       "turnovers": 17,
-      "thirdDownAttempts": 180,
-      "thirdDownConversions": 60,
+      "thirdDownAttempts": 193,
+      "thirdDownConversions": 65,
       "redZoneAttempts": 0,
       "redZoneScores": 0,
-      "possessionTime": 27088,
+      "possessionTime": 28873,
       "sacks": 0,
-      "pointsFor": 307,
-      "pointsAgainst": 360,
-      "wins": 6,
+      "pointsFor": 334,
+      "pointsAgainst": 384,
+      "wins": 7,
       "losses": 9,
-      "avgPassingYards": 215.86666666666667,
-      "avgRushingYards": 124.66666666666667,
-      "avgTotalYards": 340.53333333333336,
-      "avgPointsFor": 20.466666666666665,
+      "avgPassingYards": 210.25,
+      "avgRushingYards": 130.5625,
+      "avgTotalYards": 340.8125,
+      "avgPointsFor": 20.875,
       "avgPointsAgainst": 24,
-      "thirdDownPct": 33.33333333333333,
+      "thirdDownPct": 33.67875647668394,
       "redZonePct": 0,
-      "record": "6-9"
+      "record": "7-9"
     },
     "Baltimore Ravens": {
       "games": 16,
@@ -10914,29 +10955,29 @@
       "record": "11-5"
     },
     "Los Angeles Rams": {
-      "games": 15,
-      "passingYards": 4057,
-      "rushingYards": 1894,
-      "totalYards": 5951,
-      "turnovers": 12,
-      "thirdDownAttempts": 163,
-      "thirdDownConversions": 62,
+      "games": 16,
+      "passingYards": 4305,
+      "rushingYards": 2009,
+      "totalYards": 6314,
+      "turnovers": 15,
+      "thirdDownAttempts": 176,
+      "thirdDownConversions": 67,
       "redZoneAttempts": 0,
       "redZoneScores": 0,
-      "possessionTime": 27632,
+      "possessionTime": 29447,
       "sacks": 0,
-      "pointsFor": 457,
-      "pointsAgainst": 299,
+      "pointsFor": 481,
+      "pointsAgainst": 326,
       "wins": 11,
-      "losses": 4,
-      "avgPassingYards": 270.46666666666664,
-      "avgRushingYards": 126.26666666666667,
-      "avgTotalYards": 396.73333333333335,
-      "avgPointsFor": 30.466666666666665,
-      "avgPointsAgainst": 19.933333333333334,
-      "thirdDownPct": 38.036809815950924,
+      "losses": 5,
+      "avgPassingYards": 269.0625,
+      "avgRushingYards": 125.5625,
+      "avgTotalYards": 394.625,
+      "avgPointsFor": 30.0625,
+      "avgPointsAgainst": 20.375,
+      "thirdDownPct": 38.06818181818182,
       "redZonePct": 0,
-      "record": "11-4"
+      "record": "11-5"
     },
     "Miami Dolphins": {
       "games": 16,
@@ -11306,8 +11347,8 @@
       "Denver Broncos": 4,
       "New England Patriots": 5,
       "Kansas City Chiefs": 6,
-      "Los Angeles Rams": 7,
-      "Los Angeles Chargers": 8,
+      "Los Angeles Chargers": 7,
+      "Los Angeles Rams": 8,
       "Jacksonville Jaguars": 9,
       "Minnesota Vikings": 10,
       "Green Bay Packers": 11,
@@ -11338,10 +11379,10 @@
       "Buffalo Bills": 2,
       "Chicago Bears": 3,
       "Washington Commanders": 4,
-      "New York Giants": 5,
-      "New York Jets": 6,
-      "Los Angeles Rams": 7,
-      "Atlanta Falcons": 8,
+      "Atlanta Falcons": 5,
+      "New York Giants": 6,
+      "New York Jets": 7,
+      "Los Angeles Rams": 8,
       "Dallas Cowboys": 9,
       "Miami Dolphins": 10,
       "Carolina Panthers": 11,
@@ -11380,8 +11421,8 @@
       "Pittsburgh Steelers": 10,
       "New York Giants": 11,
       "Tampa Bay Buccaneers": 12,
-      "Buffalo Bills": 13,
-      "Atlanta Falcons": 14,
+      "Atlanta Falcons": 13,
+      "Buffalo Bills": 14,
       "New Orleans Saints": 15,
       "Houston Texans": 16,
       "Los Angeles Chargers": 17,
@@ -23800,21 +23841,11 @@
       }
     ]
   },
-  "upcomingGames": [
-    {
-      "id": "401772825",
-      "date": "2025-12-30T01:15Z",
-      "status": "in",
-      "homeTeam": "Atlanta Falcons",
-      "awayTeam": "Los Angeles Rams",
-      "homeScore": 24,
-      "awayScore": 17
-    }
-  ],
+  "upcomingGames": [],
   "summary": {
-    "totalGames": 255,
-    "upcomingGames": 1,
+    "totalGames": 256,
+    "upcomingGames": 0,
     "injuredPlayers": 1233,
-    "lastUpdate": "2025-12-30T04:40:42.682Z"
+    "lastUpdate": "2025-12-30T05:26:40.476Z"
   }
 }
