@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-30T15:25:28.011Z",
+  "lastUpdated": "2025-12-30T16:30:46.001Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18296,7 +18296,7 @@
         "name": "Nick McCloud",
         "team": "CHI",
         "position": "CB",
-        "depthChartPosition": "LCB",
+        "depthChartPosition": "RCB",
         "injuryStatus": "Out",
         "injuryBodyPart": "Illness",
         "injuryNotes": null
@@ -23340,7 +23340,7 @@
         "name": "Dontayvion Wicks",
         "team": "GB",
         "position": "WR",
-        "depthChartPosition": "RWR",
+        "depthChartPosition": "LWR",
         "injuryStatus": "Out",
         "injuryBodyPart": "Concussion",
         "injuryNotes": null
@@ -23846,6 +23846,6 @@
     "totalGames": 256,
     "upcomingGames": 0,
     "injuredPlayers": 1233,
-    "lastUpdate": "2025-12-30T15:25:28.011Z"
+    "lastUpdate": "2025-12-30T16:30:46.001Z"
   }
 }
