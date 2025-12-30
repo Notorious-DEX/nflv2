@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-30T21:22:09.968Z",
+  "lastUpdated": "2025-12-30T22:22:33.295Z",
   "season": 2025,
   "gameStats": [
     {
@@ -21967,7 +21967,7 @@
         "team": "ARI",
         "position": "DB",
         "depthChartPosition": "RCB",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Back",
         "injuryNotes": null
       },
@@ -23391,7 +23391,7 @@
         "team": "GB",
         "position": "DL",
         "depthChartPosition": "RDT",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Achilles",
         "injuryNotes": null
       },
@@ -23411,7 +23411,7 @@
         "team": "GB",
         "position": "DB",
         "depthChartPosition": "LCB",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -23886,6 +23886,6 @@
     "totalGames": 256,
     "upcomingGames": 0,
     "injuredPlayers": 1237,
-    "lastUpdate": "2025-12-30T21:22:09.968Z"
+    "lastUpdate": "2025-12-30T22:22:33.295Z"
   }
 }
