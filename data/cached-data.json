@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-30T16:30:46.001Z",
+  "lastUpdated": "2025-12-30T17:23:16.088Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18796,16 +18796,6 @@
         "injuryNotes": null
       },
       {
-        "id": "11829",
-        "name": "Solomon Byrd",
-        "team": "HOU",
-        "position": "DE",
-        "depthChartPosition": null,
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Coach's Decision",
-        "injuryNotes": null
-      },
-      {
         "id": "12600",
         "name": "Aireontae Ersery",
         "team": "HOU",
@@ -23845,7 +23835,7 @@
   "summary": {
     "totalGames": 256,
     "upcomingGames": 0,
-    "injuredPlayers": 1233,
-    "lastUpdate": "2025-12-30T16:30:46.001Z"
+    "injuredPlayers": 1232,
+    "lastUpdate": "2025-12-30T17:23:16.088Z"
   }
 }
