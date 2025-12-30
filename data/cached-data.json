@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T23:58:52.051Z",
+  "lastUpdated": "2025-12-30T01:17:34.366Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18533,6 +18533,16 @@
         "injuryNotes": null
       },
       {
+        "id": "10857",
+        "name": "Stetson Bennett",
+        "team": "LAR",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "11569",
         "name": "Jarquez Hunter",
         "team": "LAR",
@@ -23764,7 +23774,7 @@
   "summary": {
     "totalGames": 255,
     "upcomingGames": 1,
-    "injuredPlayers": 1228,
-    "lastUpdate": "2025-12-29T23:58:52.051Z"
+    "injuredPlayers": 1229,
+    "lastUpdate": "2025-12-30T01:17:34.366Z"
   }
 }
