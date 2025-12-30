@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-30T01:52:44.496Z",
+  "lastUpdated": "2025-12-30T03:04:52.121Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18553,6 +18553,16 @@
         "injuryNotes": null
       },
       {
+        "id": "11586",
+        "name": "Blake Corum",
+        "team": "LAR",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
         "id": "12132",
         "name": "Josh Wallace",
         "team": "LAR",
@@ -22751,6 +22761,16 @@
         "injuryNotes": null
       },
       {
+        "id": "5691",
+        "name": "Mike Ford",
+        "team": "ATL",
+        "position": "DB",
+        "depthChartPosition": "NB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
         "id": "5757",
         "name": "Josh Woods",
         "team": "ATL",
@@ -23767,14 +23787,14 @@
       "status": "in",
       "homeTeam": "Atlanta Falcons",
       "awayTeam": "Los Angeles Rams",
-      "homeScore": 0,
+      "homeScore": 7,
       "awayScore": 0
     }
   ],
   "summary": {
     "totalGames": 255,
     "upcomingGames": 1,
-    "injuredPlayers": 1229,
-    "lastUpdate": "2025-12-30T01:52:44.496Z"
+    "injuredPlayers": 1231,
+    "lastUpdate": "2025-12-30T03:04:52.121Z"
   }
 }
