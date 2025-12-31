@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-30T23:21:03.642Z",
+  "lastUpdated": "2025-12-31T01:53:13.410Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17112,6 +17112,26 @@
         "injuryNotes": null
       },
       {
+        "id": "1379",
+        "name": "Kyle Juszczyk",
+        "team": "SF",
+        "position": "FB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hip",
+        "injuryNotes": null
+      },
+      {
+        "id": "4034",
+        "name": "Christian McCaffrey",
+        "team": "SF",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Back",
+        "injuryNotes": null
+      },
+      {
         "id": "4217",
         "name": "George Kittle",
         "team": "SF",
@@ -17172,6 +17192,16 @@
         "injuryNotes": "Surgery"
       },
       {
+        "id": "6812",
+        "name": "Yetur Gross-Matos",
+        "team": "SF",
+        "position": "DE",
+        "depthChartPosition": "RDE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
         "id": "6963",
         "name": "Patrick Taylor",
         "team": "SF",
@@ -17212,6 +17242,16 @@
         "injuryNotes": null
       },
       {
+        "id": "10904",
+        "name": "Keion White",
+        "team": "SF",
+        "position": "DL",
+        "depthChartPosition": "RDE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Groin",
+        "injuryNotes": null
+      },
+      {
         "id": "10966",
         "name": "Robert Beal",
         "team": "SF",
@@ -17239,6 +17279,16 @@
         "depthChartPosition": "SWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
+        "id": "11638",
+        "name": "Ricky Pearsall",
+        "team": "SF",
+        "position": "WR",
+        "depthChartPosition": "LWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
       {
@@ -21916,7 +21966,7 @@
         "name": "Kei'Trel Clark",
         "team": "ARI",
         "position": "DB",
-        "depthChartPosition": "RCB",
+        "depthChartPosition": "DB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Back",
         "injuryNotes": null
@@ -23835,7 +23885,7 @@
   "summary": {
     "totalGames": 256,
     "upcomingGames": 0,
-    "injuredPlayers": 1232,
-    "lastUpdate": "2025-12-30T23:21:03.642Z"
+    "injuredPlayers": 1237,
+    "lastUpdate": "2025-12-31T01:53:13.410Z"
   }
 }
