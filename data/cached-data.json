@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-31T16:29:20.772Z",
+  "lastUpdated": "2025-12-31T17:20:33.967Z",
   "season": 2025,
   "gameStats": [
     {
@@ -15248,16 +15248,6 @@
         "injuryNotes": null
       },
       {
-        "id": "7898",
-        "name": "Shakur Brown",
-        "team": null,
-        "position": "CB",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
         "id": "7905",
         "name": "Dylan Soehner",
         "team": null,
@@ -18438,6 +18428,16 @@
         "injuryNotes": "Surgery"
       },
       {
+        "id": "5097",
+        "name": "Wyatt Teller",
+        "team": "CLE",
+        "position": "G",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
         "id": "6851",
         "name": "Julian Okwara",
         "team": "CLE",
@@ -20611,8 +20611,8 @@
         "team": "ARI",
         "position": "WR",
         "depthChartPosition": "LWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Heel",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Foot",
         "injuryNotes": null
       },
       {
@@ -20641,7 +20641,7 @@
         "team": "ARI",
         "position": "DB",
         "depthChartPosition": "SS",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -21493,7 +21493,7 @@
         "team": "ATL",
         "position": "CB",
         "depthChartPosition": "LCB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -22696,6 +22696,6 @@
     "totalGames": 256,
     "upcomingGames": 0,
     "injuredPlayers": 1118,
-    "lastUpdate": "2025-12-31T16:29:20.772Z"
+    "lastUpdate": "2025-12-31T17:20:33.967Z"
   }
 }
