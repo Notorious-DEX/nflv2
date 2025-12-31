@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-31T01:53:13.410Z",
+  "lastUpdated": "2025-12-31T03:38:56.312Z",
   "season": 2025,
   "gameStats": [
     {
@@ -23690,6 +23690,16 @@
     ],
     "SEA": [
       {
+        "id": "6808",
+        "name": "Josh Jones",
+        "team": "SEA",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
         "id": "7022",
         "name": "Shane Lemieux",
         "team": "SEA",
@@ -23885,7 +23895,7 @@
   "summary": {
     "totalGames": 256,
     "upcomingGames": 0,
-    "injuredPlayers": 1237,
-    "lastUpdate": "2025-12-31T01:53:13.410Z"
+    "injuredPlayers": 1238,
+    "lastUpdate": "2025-12-31T03:38:56.312Z"
   }
 }
