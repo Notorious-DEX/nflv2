@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-31T17:20:33.967Z",
+  "lastUpdated": "2025-12-31T18:33:16.175Z",
   "season": 2025,
   "gameStats": [
     {
@@ -11496,6 +11496,16 @@
         "injuryNotes": null
       },
       {
+        "id": "3156",
+        "name": "Joey Bosa",
+        "team": "BUF",
+        "position": "LB",
+        "depthChartPosition": "RDE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
         "id": "4082",
         "name": "Curtis Samuel",
         "team": "BUF",
@@ -11532,6 +11542,16 @@
         "position": "DB",
         "depthChartPosition": "FS",
         "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "5906",
+        "name": "Dawson Knox",
+        "team": "BUF",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Questionable",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -16840,6 +16860,16 @@
         "injuryNotes": null
       },
       {
+        "id": "8126",
+        "name": "Wan'Dale Robinson",
+        "team": "NYG",
+        "position": "WR",
+        "depthChartPosition": "SWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ribs",
+        "injuryNotes": null
+      },
+      {
         "id": "8262",
         "name": "D.J. Davidson",
         "team": "NYG",
@@ -16897,6 +16927,16 @@
         "depthChartPosition": "OL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "9497",
+        "name": "Jalin Hyatt",
+        "team": "NYG",
+        "position": "WR",
+        "depthChartPosition": "RWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
         "injuryNotes": null
       },
       {
@@ -16978,6 +17018,16 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Ankle",
         "injuryNotes": "Surgery"
+      },
+      {
+        "id": "12574",
+        "name": "Abdul Carter",
+        "team": "NYG",
+        "position": "DL",
+        "depthChartPosition": "ROLB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
+        "injuryNotes": null
       },
       {
         "id": "12715",
@@ -19633,9 +19683,9 @@
         "team": "PIT",
         "position": "TE",
         "depthChartPosition": "TE",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Forearm",
-        "injuryNotes": null
+        "injuryNotes": "Surgery"
       },
       {
         "id": "10884",
@@ -19737,6 +19787,16 @@
         "depthChartPosition": "DL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Foot",
+        "injuryNotes": null
+      },
+      {
+        "id": "7777",
+        "name": "Trey Smith",
+        "team": "KC",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
       {
@@ -19847,6 +19907,16 @@
         "depthChartPosition": "RWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "11624",
+        "name": "Xavier Worthy",
+        "team": "KC",
+        "position": "WR",
+        "depthChartPosition": "RWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
         "injuryNotes": null
       },
       {
@@ -22029,7 +22099,7 @@
         "team": "GB",
         "position": "CB",
         "depthChartPosition": "RCB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Doubtful",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -22039,7 +22109,7 @@
         "team": "GB",
         "position": "DB",
         "depthChartPosition": "FS",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Doubtful",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -22463,7 +22533,7 @@
         "team": "CHI",
         "position": "LB",
         "depthChartPosition": "MLB",
-        "injuryStatus": "Doubtful",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Achilles",
         "injuryNotes": null
       },
@@ -22695,7 +22765,7 @@
   "summary": {
     "totalGames": 256,
     "upcomingGames": 0,
-    "injuredPlayers": 1118,
-    "lastUpdate": "2025-12-31T17:20:33.967Z"
+    "injuredPlayers": 1125,
+    "lastUpdate": "2025-12-31T18:33:16.175Z"
   }
 }
