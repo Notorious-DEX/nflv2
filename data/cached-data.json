@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-31T15:23:54.573Z",
+  "lastUpdated": "2025-12-31T16:29:20.772Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17369,9 +17369,9 @@
         "team": "WAS",
         "position": "C",
         "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
-        "injuryNotes": null
+        "injuryNotes": "Sprain"
       },
       {
         "id": "6883",
@@ -22696,6 +22696,6 @@
     "totalGames": 256,
     "upcomingGames": 0,
     "injuredPlayers": 1118,
-    "lastUpdate": "2025-12-31T15:23:54.573Z"
+    "lastUpdate": "2025-12-31T16:29:20.772Z"
   }
 }
