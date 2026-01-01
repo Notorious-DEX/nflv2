@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-01T20:49:33.284Z",
+  "lastUpdated": "2026-01-01T20:56:47.278Z",
   "season": 2025,
   "gameStats": [
     {
@@ -23248,16 +23248,6 @@
         "injuryNotes": null
       },
       {
-        "id": "12519",
-        "name": "Luther Burden",
-        "team": "CHI",
-        "position": "WR",
-        "depthChartPosition": "SWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Leg",
-        "injuryNotes": null
-      },
-      {
         "id": "12606",
         "name": "Ozzy Trapilo",
         "team": "CHI",
@@ -23445,7 +23435,7 @@
   "summary": {
     "totalGames": 256,
     "upcomingGames": 0,
-    "injuredPlayers": 1193,
-    "lastUpdate": "2026-01-01T20:49:33.284Z"
+    "injuredPlayers": 1192,
+    "lastUpdate": "2026-01-01T20:56:47.278Z"
   }
 }
