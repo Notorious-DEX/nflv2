@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-01T21:21:25.007Z",
+  "lastUpdated": "2026-01-01T21:31:06.863Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17222,6 +17222,16 @@
         "injuryNotes": null
       },
       {
+        "id": "8135",
+        "name": "Treylon Burks",
+        "team": "WAS",
+        "position": "WR",
+        "depthChartPosition": "RWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
+        "injuryNotes": null
+      },
+      {
         "id": "10990",
         "name": "Darius Rush",
         "team": "WAS",
@@ -17269,16 +17279,6 @@
         "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "12533",
-        "name": "Jacory Croskey-Merritt",
-        "team": "WAS",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
         "injuryNotes": null
       },
       {
@@ -17885,16 +17885,6 @@
         "depthChartPosition": "OL",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Hip",
-        "injuryNotes": null
-      },
-      {
-        "id": "3217",
-        "name": "Jihad Ward",
-        "team": "TEN",
-        "position": "DE",
-        "depthChartPosition": "ROLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
       {
@@ -20562,16 +20552,6 @@
         "injuryNotes": null
       },
       {
-        "id": "11565",
-        "name": "J.J. McCarthy",
-        "team": "MIN",
-        "position": "QB",
-        "depthChartPosition": "QB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hand",
-        "injuryNotes": "Fracture"
-      },
-      {
         "id": "11819",
         "name": "Levi Drake Rodriguez",
         "team": "MIN",
@@ -21178,16 +21158,6 @@
         "injuryNotes": null
       },
       {
-        "id": "6800",
-        "name": "K'Lavon Chaisson",
-        "team": "NE",
-        "position": "LB",
-        "depthChartPosition": "LOLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
-        "injuryNotes": null
-      },
-      {
         "id": "6945",
         "name": "Antonio Gibson",
         "team": "NE",
@@ -21235,16 +21205,6 @@
         "depthChartPosition": "NT",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Foot",
-        "injuryNotes": null
-      },
-      {
-        "id": "8518",
-        "name": "Thayer Munford",
-        "team": "NE",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
         "injuryNotes": null
       },
       {
@@ -21389,16 +21349,6 @@
       }
     ],
     "PIT": [
-      {
-        "id": "3248",
-        "name": "Isaac Seumalo",
-        "team": "PIT",
-        "position": "G",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Triceps",
-        "injuryNotes": null
-      },
       {
         "id": "3272",
         "name": "Miles Killebrew",
@@ -23425,7 +23375,7 @@
   "summary": {
     "totalGames": 256,
     "upcomingGames": 0,
-    "injuredPlayers": 1191,
-    "lastUpdate": "2026-01-01T21:21:25.007Z"
+    "injuredPlayers": 1186,
+    "lastUpdate": "2026-01-01T21:31:06.863Z"
   }
 }
