@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-01T22:41:08.004Z",
+  "lastUpdated": "2026-01-01T22:51:24.387Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18190,16 +18190,6 @@
         "injuryNotes": null
       },
       {
-        "id": "12586",
-        "name": "Cameron Williams",
-        "team": "PHI",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Shoulder",
-        "injuryNotes": null
-      },
-      {
         "id": "12604",
         "name": "Andrew Mukuba",
         "team": "PHI",
@@ -23265,7 +23255,7 @@
   "summary": {
     "totalGames": 256,
     "upcomingGames": 0,
-    "injuredPlayers": 1175,
-    "lastUpdate": "2026-01-01T22:41:08.005Z"
+    "injuredPlayers": 1174,
+    "lastUpdate": "2026-01-01T22:51:24.387Z"
   }
 }
