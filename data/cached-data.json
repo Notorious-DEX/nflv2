@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-01T21:31:06.863Z",
+  "lastUpdated": "2026-01-01T21:42:16.416Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18898,6 +18898,16 @@
         "injuryNotes": "Surgery"
       },
       {
+        "id": "3973",
+        "name": "Myles Garrett",
+        "team": "CLE",
+        "position": "DE",
+        "depthChartPosition": "RDE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hip",
+        "injuryNotes": null
+      },
+      {
         "id": "4017",
         "name": "Deshaun Watson",
         "team": "CLE",
@@ -18978,16 +18988,6 @@
         "injuryNotes": null
       },
       {
-        "id": "7667",
-        "name": "Tyson Campbell",
-        "team": "CLE",
-        "position": "CB",
-        "depthChartPosition": "RCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Shoulder",
-        "injuryNotes": null
-      },
-      {
         "id": "7844",
         "name": "Sam Kamara",
         "team": "CLE",
@@ -19038,16 +19038,6 @@
         "injuryNotes": null
       },
       {
-        "id": "11817",
-        "name": "KT Leveston",
-        "team": "CLE",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Shoulder",
-        "injuryNotes": null
-      },
-      {
         "id": "11836",
         "name": "Myles Harden",
         "team": "CLE",
@@ -19065,26 +19055,6 @@
         "depthChartPosition": "LOLB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Back",
-        "injuryNotes": null
-      },
-      {
-        "id": "12374",
-        "name": "Brenden Bates",
-        "team": "CLE",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Shoulder",
-        "injuryNotes": null
-      },
-      {
-        "id": "12486",
-        "name": "Dillon Gabriel",
-        "team": "CLE",
-        "position": "QB",
-        "depthChartPosition": "QB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Shoulder",
         "injuryNotes": null
       },
       {
@@ -19106,16 +19076,6 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Lower Leg",
         "injuryNotes": "Surgery"
-      },
-      {
-        "id": "12573",
-        "name": "Mason Graham",
-        "team": "CLE",
-        "position": "DL",
-        "depthChartPosition": "RDT",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ribs",
-        "injuryNotes": null
       },
       {
         "id": "12578",
@@ -23375,7 +23335,7 @@
   "summary": {
     "totalGames": 256,
     "upcomingGames": 0,
-    "injuredPlayers": 1186,
-    "lastUpdate": "2026-01-01T21:31:06.863Z"
+    "injuredPlayers": 1182,
+    "lastUpdate": "2026-01-01T21:42:16.416Z"
   }
 }
