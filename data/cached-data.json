@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-01T22:51:24.387Z",
+  "lastUpdated": "2026-01-01T22:57:23.351Z",
   "season": 2025,
   "gameStats": [
     {
@@ -16900,16 +16900,6 @@
         "injuryNotes": null
       },
       {
-        "id": "4034",
-        "name": "Christian McCaffrey",
-        "team": "SF",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Back",
-        "injuryNotes": null
-      },
-      {
         "id": "4217",
         "name": "George Kittle",
         "team": "SF",
@@ -18462,6 +18452,16 @@
         "injuryStatus": "Doubtful",
         "injuryBodyPart": "Ankle",
         "injuryNotes": "Sprain"
+      },
+      {
+        "id": "2749",
+        "name": "Raheem Mostert",
+        "team": "LV",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
       },
       {
         "id": "4415",
@@ -21687,7 +21687,7 @@
         "team": "ARI",
         "position": "DB",
         "depthChartPosition": "SS",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -22165,7 +22165,7 @@
         "team": "ATL",
         "position": "CB",
         "depthChartPosition": "LCB",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -22612,6 +22612,16 @@
         "injuryNotes": null
       },
       {
+        "id": "12070",
+        "name": "McCallan Castles",
+        "team": "GB",
+        "position": "TE",
+        "depthChartPosition": null,
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
         "id": "12482",
         "name": "Savion Williams",
         "team": "GB",
@@ -22884,16 +22894,6 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Neck",
         "injuryNotes": null
-      },
-      {
-        "id": "11783",
-        "name": "Ryan Flournoy",
-        "team": "DAL",
-        "position": "WR",
-        "depthChartPosition": "SWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": "Sprain"
       },
       {
         "id": "12559",
@@ -23256,6 +23256,6 @@
     "totalGames": 256,
     "upcomingGames": 0,
     "injuredPlayers": 1174,
-    "lastUpdate": "2026-01-01T22:51:24.387Z"
+    "lastUpdate": "2026-01-01T22:57:23.351Z"
   }
 }
