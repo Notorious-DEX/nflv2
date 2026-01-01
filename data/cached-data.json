@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-01T20:27:11.681Z",
+  "lastUpdated": "2026-01-01T20:37:14.998Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17990,6 +17990,16 @@
         "injuryNotes": null
       },
       {
+        "id": "4072",
+        "name": "Tre'Davious White",
+        "team": "BUF",
+        "position": "CB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
+        "injuryNotes": null
+      },
+      {
         "id": "4082",
         "name": "Curtis Samuel",
         "team": "BUF",
@@ -18067,16 +18077,6 @@
         "depthChartPosition": "K",
         "injuryStatus": "IR",
         "injuryBodyPart": "Hip",
-        "injuryNotes": null
-      },
-      {
-        "id": "7204",
-        "name": "Reggie Gilliam",
-        "team": "BUF",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
         "injuryNotes": null
       },
       {
@@ -23446,6 +23446,6 @@
     "totalGames": 256,
     "upcomingGames": 0,
     "injuredPlayers": 1193,
-    "lastUpdate": "2026-01-01T20:27:11.681Z"
+    "lastUpdate": "2026-01-01T20:37:14.998Z"
   }
 }
