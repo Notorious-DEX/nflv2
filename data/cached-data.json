@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-01T19:19:18.611Z",
+  "lastUpdated": "2026-01-01T19:29:26.090Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22799,7 +22799,7 @@
         "team": "TB",
         "position": "CB",
         "depthChartPosition": "RCB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Shoulder",
         "injuryNotes": null
       },
@@ -22809,18 +22809,8 @@
         "team": "TB",
         "position": "LB",
         "depthChartPosition": "LOLB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "6793",
-        "name": "Tristan Wirfs",
-        "team": "TB",
-        "position": "T",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Toe",
         "injuryNotes": null
       },
       {
@@ -22841,16 +22831,6 @@
         "depthChartPosition": "DB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Hip",
-        "injuryNotes": null
-      },
-      {
-        "id": "8454",
-        "name": "Luke Goedeke",
-        "team": "TB",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
       {
@@ -23455,7 +23435,7 @@
   "summary": {
     "totalGames": 256,
     "upcomingGames": 0,
-    "injuredPlayers": 1194,
-    "lastUpdate": "2026-01-01T19:19:18.611Z"
+    "injuredPlayers": 1192,
+    "lastUpdate": "2026-01-01T19:29:26.090Z"
   }
 }
