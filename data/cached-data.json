@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-01T20:15:29.618Z",
+  "lastUpdated": "2026-01-01T20:27:11.681Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18050,6 +18050,16 @@
         "injuryNotes": null
       },
       {
+        "id": "6802",
+        "name": "A.J. Epenesa",
+        "team": "BUF",
+        "position": "DE",
+        "depthChartPosition": "RDE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
+        "injuryNotes": null
+      },
+      {
         "id": "7042",
         "name": "Tyler Bass",
         "team": "BUF",
@@ -23435,7 +23445,7 @@
   "summary": {
     "totalGames": 256,
     "upcomingGames": 0,
-    "injuredPlayers": 1192,
-    "lastUpdate": "2026-01-01T20:15:29.618Z"
+    "injuredPlayers": 1193,
+    "lastUpdate": "2026-01-01T20:27:11.681Z"
   }
 }
