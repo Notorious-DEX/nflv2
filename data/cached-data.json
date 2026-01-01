@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-01T21:49:22.097Z",
+  "lastUpdated": "2026-01-01T21:55:23.857Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19150,16 +19150,6 @@
         "injuryNotes": null
       },
       {
-        "id": "3451",
-        "name": "Ka'imi Fairbairn",
-        "team": "HOU",
-        "position": "K",
-        "depthChartPosition": "K",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
-        "injuryNotes": null
-      },
-      {
         "id": "4018",
         "name": "Joe Mixon",
         "team": "HOU",
@@ -19300,16 +19290,6 @@
         "injuryNotes": null
       },
       {
-        "id": "12600",
-        "name": "Aireontae Ersery",
-        "team": "HOU",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Thumb",
-        "injuryNotes": "Surgery"
-      },
-      {
         "id": "12626",
         "name": "Jaylin Smith",
         "team": "HOU",
@@ -19360,36 +19340,6 @@
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Quadriceps",
         "injuryNotes": null
-      },
-      {
-        "id": "3162",
-        "name": "Ronnie Stanley",
-        "team": "BAL",
-        "position": "T",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "4353",
-        "name": "Patrick Ricard",
-        "team": "BAL",
-        "position": "FB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
-        "id": "4881",
-        "name": "Lamar Jackson",
-        "team": "BAL",
-        "position": "QB",
-        "depthChartPosition": "QB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Back",
-        "injuryNotes": "Bruise"
       },
       {
         "id": "4960",
@@ -19449,26 +19399,6 @@
         "depthChartPosition": "RWR",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Illness",
-        "injuryNotes": null
-      },
-      {
-        "id": "8127",
-        "name": "Charlie Kolar",
-        "team": "BAL",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Nose",
-        "injuryNotes": null
-      },
-      {
-        "id": "11045",
-        "name": "Andrew Vorhees",
-        "team": "BAL",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Foot",
         "injuryNotes": null
       },
       {
@@ -20499,16 +20429,6 @@
         "depthChartPosition": "OL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "8408",
-        "name": "Jordan Mason",
-        "team": "MIN",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
       {
@@ -23335,7 +23255,7 @@
   "summary": {
     "totalGames": 256,
     "upcomingGames": 0,
-    "injuredPlayers": 1182,
-    "lastUpdate": "2026-01-01T21:49:22.097Z"
+    "injuredPlayers": 1174,
+    "lastUpdate": "2026-01-01T21:55:23.857Z"
   }
 }
