@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-01T22:01:22.431Z",
+  "lastUpdated": "2026-01-01T22:22:43.648Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22210,6 +22210,16 @@
         "injuryNotes": null
       },
       {
+        "id": "7090",
+        "name": "Darnell Mooney",
+        "team": "ATL",
+        "position": "WR",
+        "depthChartPosition": "RWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "7553",
         "name": "Kyle Pitts",
         "team": "ATL",
@@ -23255,7 +23265,7 @@
   "summary": {
     "totalGames": 256,
     "upcomingGames": 0,
-    "injuredPlayers": 1174,
-    "lastUpdate": "2026-01-01T22:01:22.431Z"
+    "injuredPlayers": 1175,
+    "lastUpdate": "2026-01-01T22:22:43.648Z"
   }
 }
