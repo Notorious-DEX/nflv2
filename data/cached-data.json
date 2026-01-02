@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-02T01:54:25.681Z",
+  "lastUpdated": "2026-01-02T03:03:56.530Z",
   "season": 2025,
   "gameStats": [
     {
@@ -16900,16 +16900,6 @@
         "injuryNotes": null
       },
       {
-        "id": "1379",
-        "name": "Kyle Juszczyk",
-        "team": "SF",
-        "position": "FB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hip",
-        "injuryNotes": null
-      },
-      {
         "id": "4217",
         "name": "George Kittle",
         "team": "SF",
@@ -16958,16 +16948,6 @@
         "injuryStatus": "DNR",
         "injuryBodyPart": "Knee - ACL + MCL",
         "injuryNotes": "Surgery"
-      },
-      {
-        "id": "6812",
-        "name": "Yetur Gross-Matos",
-        "team": "SF",
-        "position": "DE",
-        "depthChartPosition": "RDE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hamstring",
-        "injuryNotes": null
       },
       {
         "id": "6963",
@@ -21392,16 +21372,6 @@
         "injuryNotes": "Surgery"
       },
       {
-        "id": "4081",
-        "name": "Budda Baker",
-        "team": "ARI",
-        "position": "DB",
-        "depthChartPosition": "FS",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Concussion",
-        "injuryNotes": null
-      },
-      {
         "id": "4137",
         "name": "James Conner",
         "team": "ARI",
@@ -22746,6 +22716,16 @@
         "injuryNotes": "Surgery"
       },
       {
+        "id": "7588",
+        "name": "Javonte Williams",
+        "team": "DAL",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Shoulder",
+        "injuryNotes": null
+      },
+      {
         "id": "7629",
         "name": "Payton Turner",
         "team": "DAL",
@@ -22793,16 +22773,6 @@
         "depthChartPosition": "FS",
         "injuryStatus": "PUP",
         "injuryBodyPart": "Migraine",
-        "injuryNotes": null
-      },
-      {
-        "id": "8449",
-        "name": "Tyler Smith",
-        "team": "DAL",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
       {
@@ -23225,7 +23195,7 @@
   "summary": {
     "totalGames": 256,
     "upcomingGames": 0,
-    "injuredPlayers": 1171,
-    "lastUpdate": "2026-01-02T01:54:25.681Z"
+    "injuredPlayers": 1168,
+    "lastUpdate": "2026-01-02T03:03:56.530Z"
   }
 }
