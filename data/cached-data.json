@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-02T21:18:15.984Z",
+  "lastUpdated": "2026-01-02T22:23:02.849Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17030,238 +17030,6 @@
         "injuryNotes": null
       }
     ],
-    "WAS": [
-      {
-        "id": "815",
-        "name": "Nick Bellore",
-        "team": "WAS",
-        "position": "LB",
-        "depthChartPosition": "ROLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Concussion",
-        "injuryNotes": null
-      },
-      {
-        "id": "1339",
-        "name": "Zach Ertz",
-        "team": "WAS",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "2307",
-        "name": "Marcus Mariota",
-        "team": "WAS",
-        "position": "QB",
-        "depthChartPosition": "QB",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Hand",
-        "injuryNotes": null
-      },
-      {
-        "id": "2344",
-        "name": "Eddie Goldman",
-        "team": "WAS",
-        "position": "DT",
-        "depthChartPosition": "DL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Concussion",
-        "injuryNotes": null
-      },
-      {
-        "id": "3159",
-        "name": "Laremy Tunsil",
-        "team": "WAS",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Oblique",
-        "injuryNotes": "Strain"
-      },
-      {
-        "id": "4059",
-        "name": "Marshon Lattimore",
-        "team": "WAS",
-        "position": "CB",
-        "depthChartPosition": "DB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee - ACL",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "4174",
-        "name": "Deatrich Wise",
-        "team": "WAS",
-        "position": "DE",
-        "depthChartPosition": "DL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Quadriceps",
-        "injuryNotes": null
-      },
-      {
-        "id": "4234",
-        "name": "Noah Brown",
-        "team": "WAS",
-        "position": "WR",
-        "depthChartPosition": null,
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Ribs",
-        "injuryNotes": null
-      },
-      {
-        "id": "4663",
-        "name": "Austin Ekeler",
-        "team": "WAS",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Achilles",
-        "injuryNotes": null
-      },
-      {
-        "id": "5330",
-        "name": "Dorance Armstrong",
-        "team": "WAS",
-        "position": "DE",
-        "depthChartPosition": "DL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "6040",
-        "name": "Tyree Jackson",
-        "team": "WAS",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "6835",
-        "name": "Tyler Biadasz",
-        "team": "WAS",
-        "position": "C",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": "Sprain"
-      },
-      {
-        "id": "6883",
-        "name": "Lucas Niang",
-        "team": "WAS",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee - ACL",
-        "injuryNotes": null
-      },
-      {
-        "id": "7652",
-        "name": "Sam Cosmi",
-        "team": "WAS",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Concussion",
-        "injuryNotes": null
-      },
-      {
-        "id": "8135",
-        "name": "Treylon Burks",
-        "team": "WAS",
-        "position": "WR",
-        "depthChartPosition": "RWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
-        "injuryNotes": null
-      },
-      {
-        "id": "10990",
-        "name": "Darius Rush",
-        "team": "WAS",
-        "position": "DB",
-        "depthChartPosition": "DB",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Groin",
-        "injuryNotes": null
-      },
-      {
-        "id": "11566",
-        "name": "Jayden Daniels",
-        "team": "WAS",
-        "position": "QB",
-        "depthChartPosition": "QB",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Elbow",
-        "injuryNotes": null
-      },
-      {
-        "id": "11650",
-        "name": "Luke McCaffrey",
-        "team": "WAS",
-        "position": "WR",
-        "depthChartPosition": null,
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Collarbone",
-        "injuryNotes": "Fracture"
-      },
-      {
-        "id": "11702",
-        "name": "Brandon Coleman",
-        "team": "WAS",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "11816",
-        "name": "Javontae Jean-Baptiste",
-        "team": "WAS",
-        "position": "DL",
-        "depthChartPosition": "LDE",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Pectoral",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "12532",
-        "name": "Ja'Corey Brooks",
-        "team": "WAS",
-        "position": "WR",
-        "depthChartPosition": null,
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "12595",
-        "name": "Trey Amos",
-        "team": "WAS",
-        "position": "DB",
-        "depthChartPosition": "LCB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Lower Leg",
-        "injuryNotes": "Fracture"
-      },
-      {
-        "id": "12641",
-        "name": "Jaylin Lane",
-        "team": "WAS",
-        "position": "WR",
-        "depthChartPosition": null,
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      }
-    ],
     "NYJ": [
       {
         "id": "827",
@@ -17826,6 +17594,218 @@
         "injuryNotes": null
       }
     ],
+    "WAS": [
+      {
+        "id": "1339",
+        "name": "Zach Ertz",
+        "team": "WAS",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "2307",
+        "name": "Marcus Mariota",
+        "team": "WAS",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Hand",
+        "injuryNotes": null
+      },
+      {
+        "id": "2344",
+        "name": "Eddie Goldman",
+        "team": "WAS",
+        "position": "DT",
+        "depthChartPosition": "DL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Concussion",
+        "injuryNotes": null
+      },
+      {
+        "id": "3159",
+        "name": "Laremy Tunsil",
+        "team": "WAS",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Oblique",
+        "injuryNotes": "Strain"
+      },
+      {
+        "id": "4059",
+        "name": "Marshon Lattimore",
+        "team": "WAS",
+        "position": "CB",
+        "depthChartPosition": "DB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee - ACL",
+        "injuryNotes": "Surgery"
+      },
+      {
+        "id": "4174",
+        "name": "Deatrich Wise",
+        "team": "WAS",
+        "position": "DE",
+        "depthChartPosition": "DL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Quadriceps",
+        "injuryNotes": null
+      },
+      {
+        "id": "4234",
+        "name": "Noah Brown",
+        "team": "WAS",
+        "position": "WR",
+        "depthChartPosition": null,
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Ribs",
+        "injuryNotes": null
+      },
+      {
+        "id": "4663",
+        "name": "Austin Ekeler",
+        "team": "WAS",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Achilles",
+        "injuryNotes": null
+      },
+      {
+        "id": "5330",
+        "name": "Dorance Armstrong",
+        "team": "WAS",
+        "position": "DE",
+        "depthChartPosition": "DL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "6040",
+        "name": "Tyree Jackson",
+        "team": "WAS",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "6835",
+        "name": "Tyler Biadasz",
+        "team": "WAS",
+        "position": "C",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": "Sprain"
+      },
+      {
+        "id": "6883",
+        "name": "Lucas Niang",
+        "team": "WAS",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee - ACL",
+        "injuryNotes": null
+      },
+      {
+        "id": "7652",
+        "name": "Sam Cosmi",
+        "team": "WAS",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Concussion",
+        "injuryNotes": null
+      },
+      {
+        "id": "10990",
+        "name": "Darius Rush",
+        "team": "WAS",
+        "position": "DB",
+        "depthChartPosition": "DB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Groin",
+        "injuryNotes": null
+      },
+      {
+        "id": "11566",
+        "name": "Jayden Daniels",
+        "team": "WAS",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Elbow",
+        "injuryNotes": null
+      },
+      {
+        "id": "11650",
+        "name": "Luke McCaffrey",
+        "team": "WAS",
+        "position": "WR",
+        "depthChartPosition": null,
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Collarbone",
+        "injuryNotes": "Fracture"
+      },
+      {
+        "id": "11702",
+        "name": "Brandon Coleman",
+        "team": "WAS",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "11816",
+        "name": "Javontae Jean-Baptiste",
+        "team": "WAS",
+        "position": "DL",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Pectoral",
+        "injuryNotes": "Surgery"
+      },
+      {
+        "id": "12532",
+        "name": "Ja'Corey Brooks",
+        "team": "WAS",
+        "position": "WR",
+        "depthChartPosition": null,
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "12595",
+        "name": "Trey Amos",
+        "team": "WAS",
+        "position": "DB",
+        "depthChartPosition": "LCB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Lower Leg",
+        "injuryNotes": "Fracture"
+      },
+      {
+        "id": "12641",
+        "name": "Jaylin Lane",
+        "team": "WAS",
+        "position": "WR",
+        "depthChartPosition": null,
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      }
+    ],
     "PHI": [
       {
         "id": "1340",
@@ -17833,7 +17813,7 @@
         "team": "PHI",
         "position": "T",
         "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Foot",
         "injuryNotes": "Sprain"
       },
@@ -17843,8 +17823,8 @@
         "team": "PHI",
         "position": "TE",
         "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Shoulder",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
       {
@@ -17863,7 +17843,7 @@
         "team": "PHI",
         "position": "DB",
         "depthChartPosition": "SS",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Concussion",
         "injuryNotes": null
       },
@@ -17883,7 +17863,7 @@
         "team": "PHI",
         "position": "LB",
         "depthChartPosition": "LOLB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -17903,7 +17883,7 @@
         "team": "PHI",
         "position": "LB",
         "depthChartPosition": "RILB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
@@ -17913,7 +17893,7 @@
         "team": "PHI",
         "position": "DL",
         "depthChartPosition": "RDE",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Hip",
         "injuryNotes": null
       },
@@ -18177,8 +18157,8 @@
         "team": "LV",
         "position": "DT",
         "depthChartPosition": "LDT",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Arm",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Biceps",
         "injuryNotes": null
       },
       {
@@ -18270,370 +18250,6 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
-      }
-    ],
-    "HOU": [
-      {
-        "id": "2027",
-        "name": "Denico Autry",
-        "team": "HOU",
-        "position": "DE",
-        "depthChartPosition": "RDE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "2267",
-        "name": "Jimmie Ward",
-        "team": "HOU",
-        "position": "DB",
-        "depthChartPosition": "FS",
-        "injuryStatus": "PUP",
-        "injuryBodyPart": "Foot",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "2340",
-        "name": "Mario Edwards",
-        "team": "HOU",
-        "position": "DE",
-        "depthChartPosition": "DL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Pectoral",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "2543",
-        "name": "Trent Brown",
-        "team": "HOU",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
-        "id": "3188",
-        "name": "Sheldon Rankins",
-        "team": "HOU",
-        "position": "DT",
-        "depthChartPosition": "LDT",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Elbow",
-        "injuryNotes": null
-      },
-      {
-        "id": "4018",
-        "name": "Joe Mixon",
-        "team": "HOU",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "PUP",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
-        "id": "5055",
-        "name": "M.J. Stewart",
-        "team": "HOU",
-        "position": "DB",
-        "depthChartPosition": "DB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Quadriceps",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "5090",
-        "name": "Folorunso Fatukasi",
-        "team": "HOU",
-        "position": "DT",
-        "depthChartPosition": "RDT",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Shoulder",
-        "injuryNotes": null
-      },
-      {
-        "id": "5366",
-        "name": "Tim Settle",
-        "team": "HOU",
-        "position": "DT",
-        "depthChartPosition": "DL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Foot",
-        "injuryNotes": null
-      },
-      {
-        "id": "6485",
-        "name": "Azeez Al-Shaair",
-        "team": "HOU",
-        "position": "LB",
-        "depthChartPosition": "MLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "6910",
-        "name": "Darrell Taylor",
-        "team": "HOU",
-        "position": "DE",
-        "depthChartPosition": "LDE",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
-        "id": "7568",
-        "name": "Brevin Jordan",
-        "team": "HOU",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "8308",
-        "name": "Derek Stingley",
-        "team": "HOU",
-        "position": "DB",
-        "depthChartPosition": "LCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Oblique",
-        "injuryNotes": null
-      },
-      {
-        "id": "8349",
-        "name": "Jake Hansen",
-        "team": "HOU",
-        "position": "LB",
-        "depthChartPosition": "MLB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Chest",
-        "injuryNotes": null
-      },
-      {
-        "id": "8452",
-        "name": "Ed Ingram",
-        "team": "HOU",
-        "position": "G",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
-        "id": "8547",
-        "name": "Kurt Hinish",
-        "team": "HOU",
-        "position": "DT",
-        "depthChartPosition": "LDT",
-        "injuryStatus": "PUP",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "9502",
-        "name": "Tank Dell",
-        "team": "HOU",
-        "position": "WR",
-        "depthChartPosition": null,
-        "injuryStatus": "PUP",
-        "injuryBodyPart": "Knee - ACL + MCL",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "11685",
-        "name": "Kamari Lassiter",
-        "team": "HOU",
-        "position": "DB",
-        "depthChartPosition": "RCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
-        "id": "11805",
-        "name": "Jamal Hill",
-        "team": "HOU",
-        "position": "LB",
-        "depthChartPosition": "LOLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Wrist",
-        "injuryNotes": null
-      },
-      {
-        "id": "12626",
-        "name": "Jaylin Smith",
-        "team": "HOU",
-        "position": "CB",
-        "depthChartPosition": "DB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "12710",
-        "name": "Jaylen Reed",
-        "team": "HOU",
-        "position": "DB",
-        "depthChartPosition": "SS",
-        "injuryStatus": "IR",
-        "injuryBodyPart": null,
-        "injuryNotes": null
-      },
-      {
-        "id": "12724",
-        "name": "Kyonte Hamilton",
-        "team": "HOU",
-        "position": "DL",
-        "depthChartPosition": "DL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Leg",
-        "injuryNotes": null
-      },
-      {
-        "id": "13247",
-        "name": "Ajani Carter",
-        "team": "HOU",
-        "position": "DB",
-        "depthChartPosition": "NB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Hamstring",
-        "injuryNotes": null
-      }
-    ],
-    "BAL": [
-      {
-        "id": "2130",
-        "name": "Kyle Van Noy",
-        "team": "BAL",
-        "position": "LB",
-        "depthChartPosition": "ROLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Quadriceps",
-        "injuryNotes": null
-      },
-      {
-        "id": "4960",
-        "name": "Roquan Smith",
-        "team": "BAL",
-        "position": "LB",
-        "depthChartPosition": "RILB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hamstring",
-        "injuryNotes": null
-      },
-      {
-        "id": "4975",
-        "name": "Taven Bryan",
-        "team": "BAL",
-        "position": "DE",
-        "depthChartPosition": "RDE",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "5995",
-        "name": "Justice Hill",
-        "team": "BAL",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Neck",
-        "injuryNotes": null
-      },
-      {
-        "id": "6818",
-        "name": "Nnamdi Madubuike",
-        "team": "BAL",
-        "position": "DT",
-        "depthChartPosition": "DL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Neck",
-        "injuryNotes": null
-      },
-      {
-        "id": "7122",
-        "name": "Broderick Washington",
-        "team": "BAL",
-        "position": "DT",
-        "depthChartPosition": "LDE",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
-        "id": "7571",
-        "name": "Rashod Bateman",
-        "team": "BAL",
-        "position": "WR",
-        "depthChartPosition": "RWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
-        "injuryNotes": null
-      },
-      {
-        "id": "11722",
-        "name": "Adisa Isaac",
-        "team": "BAL",
-        "position": "DE",
-        "depthChartPosition": "ROLB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Elbow",
-        "injuryNotes": "Dislocated"
-      },
-      {
-        "id": "11964",
-        "name": "Dayton Wade",
-        "team": "BAL",
-        "position": "WR",
-        "depthChartPosition": "PR",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Ribs",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "12640",
-        "name": "Teddye Buchanan",
-        "team": "BAL",
-        "position": "LB",
-        "depthChartPosition": "LB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee - ACL",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "12695",
-        "name": "Robert Longerbeam",
-        "team": "BAL",
-        "position": "DB",
-        "depthChartPosition": "DB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "12714",
-        "name": "Bilhal Kone",
-        "team": "BAL",
-        "position": "CB",
-        "depthChartPosition": "DB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": "Strain"
-      },
-      {
-        "id": "13155",
-        "name": "Chandler Martin",
-        "team": "BAL",
-        "position": "LB",
-        "depthChartPosition": "LB",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Knee - ACL",
-        "injuryNotes": "Surgery"
       }
     ],
     "LAR": [
@@ -18748,22 +18364,12 @@
         "injuryNotes": null
       },
       {
-        "id": "11677",
-        "name": "Braden Fiske",
-        "team": "LAR",
-        "position": "DL",
-        "depthChartPosition": "LDE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
         "id": "12132",
         "name": "Josh Wallace",
         "team": "LAR",
         "position": "DB",
         "depthChartPosition": "NB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -18776,15 +18382,187 @@
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
+      }
+    ],
+    "HOU": [
+      {
+        "id": "2267",
+        "name": "Jimmie Ward",
+        "team": "HOU",
+        "position": "DB",
+        "depthChartPosition": "FS",
+        "injuryStatus": "PUP",
+        "injuryBodyPart": "Foot",
+        "injuryNotes": "Surgery"
       },
       {
-        "id": "12142",
-        "name": "Jaylen McCollough",
-        "team": "LAR",
+        "id": "2340",
+        "name": "Mario Edwards",
+        "team": "HOU",
+        "position": "DE",
+        "depthChartPosition": "DL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Pectoral",
+        "injuryNotes": "Surgery"
+      },
+      {
+        "id": "2543",
+        "name": "Trent Brown",
+        "team": "HOU",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
+        "id": "4018",
+        "name": "Joe Mixon",
+        "team": "HOU",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "PUP",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
+        "id": "5055",
+        "name": "M.J. Stewart",
+        "team": "HOU",
+        "position": "DB",
+        "depthChartPosition": "DB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Quadriceps",
+        "injuryNotes": "Surgery"
+      },
+      {
+        "id": "5090",
+        "name": "Folorunso Fatukasi",
+        "team": "HOU",
+        "position": "DT",
+        "depthChartPosition": "RDT",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Shoulder",
+        "injuryNotes": null
+      },
+      {
+        "id": "5366",
+        "name": "Tim Settle",
+        "team": "HOU",
+        "position": "DT",
+        "depthChartPosition": "DL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Foot",
+        "injuryNotes": null
+      },
+      {
+        "id": "6910",
+        "name": "Darrell Taylor",
+        "team": "HOU",
+        "position": "DE",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
+        "id": "7568",
+        "name": "Brevin Jordan",
+        "team": "HOU",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "8349",
+        "name": "Jake Hansen",
+        "team": "HOU",
+        "position": "LB",
+        "depthChartPosition": "MLB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Chest",
+        "injuryNotes": null
+      },
+      {
+        "id": "8547",
+        "name": "Kurt Hinish",
+        "team": "HOU",
+        "position": "DT",
+        "depthChartPosition": "LDT",
+        "injuryStatus": "PUP",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "9502",
+        "name": "Tank Dell",
+        "team": "HOU",
+        "position": "WR",
+        "depthChartPosition": null,
+        "injuryStatus": "PUP",
+        "injuryBodyPart": "Knee - ACL + MCL",
+        "injuryNotes": "Surgery"
+      },
+      {
+        "id": "11685",
+        "name": "Kamari Lassiter",
+        "team": "HOU",
+        "position": "DB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
+        "id": "11805",
+        "name": "Jamal Hill",
+        "team": "HOU",
+        "position": "LB",
+        "depthChartPosition": "LOLB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Calf",
+        "injuryNotes": null
+      },
+      {
+        "id": "12626",
+        "name": "Jaylin Smith",
+        "team": "HOU",
+        "position": "CB",
+        "depthChartPosition": "DB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "12710",
+        "name": "Jaylen Reed",
+        "team": "HOU",
         "position": "DB",
         "depthChartPosition": "SS",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hip",
+        "injuryStatus": "IR",
+        "injuryBodyPart": null,
+        "injuryNotes": null
+      },
+      {
+        "id": "12724",
+        "name": "Kyonte Hamilton",
+        "team": "HOU",
+        "position": "DL",
+        "depthChartPosition": "DL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Leg",
+        "injuryNotes": null
+      },
+      {
+        "id": "13247",
+        "name": "Ajani Carter",
+        "team": "HOU",
+        "position": "DB",
+        "depthChartPosition": "NB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       }
     ],
@@ -18807,16 +18585,6 @@
         "depthChartPosition": "OL",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Concussion",
-        "injuryNotes": null
-      },
-      {
-        "id": "6797",
-        "name": "Justin Herbert",
-        "team": "LAC",
-        "position": "QB",
-        "depthChartPosition": "QB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hand",
         "injuryNotes": null
       },
       {
@@ -18855,7 +18623,7 @@
         "team": "LAC",
         "position": "CB",
         "depthChartPosition": "SS",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Doubtful",
         "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
@@ -18875,7 +18643,7 @@
         "team": "LAC",
         "position": "OL",
         "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Doubtful",
         "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
@@ -18890,13 +18658,13 @@
         "injuryNotes": null
       },
       {
-        "id": "10234",
-        "name": "Derius Davis",
+        "id": "11647",
+        "name": "Kimani Vidal",
         "team": "LAC",
-        "position": "WR",
-        "depthChartPosition": "SWR",
+        "position": "RB",
+        "depthChartPosition": "RB",
         "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
+        "injuryBodyPart": "Neck",
         "injuryNotes": null
       },
       {
@@ -18925,7 +18693,7 @@
         "team": "LAC",
         "position": "RB",
         "depthChartPosition": "RB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -18975,7 +18743,7 @@
         "team": "LAC",
         "position": "DB",
         "depthChartPosition": "NB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
@@ -19037,7 +18805,7 @@
         "team": "DEN",
         "position": "LB",
         "depthChartPosition": "LILB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
@@ -19149,16 +18917,6 @@
         "depthChartPosition": "OL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "12492",
-        "name": "Pat Bryant",
-        "team": "DEN",
-        "position": "WR",
-        "depthChartPosition": "LWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Concussion",
         "injuryNotes": null
       },
       {
@@ -19890,16 +19648,6 @@
         "injuryNotes": null
       },
       {
-        "id": "5346",
-        "name": "Zaire Franklin",
-        "team": "IND",
-        "position": "LB",
-        "depthChartPosition": "MLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
-        "injuryNotes": null
-      },
-      {
         "id": "5493",
         "name": "Charvarius Ward",
         "team": "IND",
@@ -20017,16 +19765,6 @@
         "depthChartPosition": "SS",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "11735",
-        "name": "Tanor Bortolini",
-        "team": "IND",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Concussion",
         "injuryNotes": null
       },
       {
@@ -20344,16 +20082,6 @@
         "injuryNotes": null
       },
       {
-        "id": "4070",
-        "name": "T.J. Watt",
-        "team": "PIT",
-        "position": "LB",
-        "depthChartPosition": "LOLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Chest",
-        "injuryNotes": "Surgery"
-      },
-      {
         "id": "5071",
         "name": "DeShon Elliott",
         "team": "PIT",
@@ -20411,36 +20139,6 @@
         "depthChartPosition": "OL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "6867",
-        "name": "Malik Harrison",
-        "team": "PIT",
-        "position": "LB",
-        "depthChartPosition": "LILB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "7419",
-        "name": "James Pierre",
-        "team": "PIT",
-        "position": "CB",
-        "depthChartPosition": "LCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Calf",
-        "injuryNotes": null
-      },
-      {
-        "id": "7796",
-        "name": "Brandin Echols",
-        "team": "PIT",
-        "position": "CB",
-        "depthChartPosition": "NB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Groin",
         "injuryNotes": null
       },
       {
@@ -21018,6 +20716,128 @@
         "injuryNotes": null
       }
     ],
+    "BAL": [
+      {
+        "id": "4071",
+        "name": "Marlon Humphrey",
+        "team": "BAL",
+        "position": "CB",
+        "depthChartPosition": "LCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
+        "injuryNotes": null
+      },
+      {
+        "id": "4975",
+        "name": "Taven Bryan",
+        "team": "BAL",
+        "position": "DE",
+        "depthChartPosition": "RDE",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "5995",
+        "name": "Justice Hill",
+        "team": "BAL",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Neck",
+        "injuryNotes": null
+      },
+      {
+        "id": "6818",
+        "name": "Nnamdi Madubuike",
+        "team": "BAL",
+        "position": "DT",
+        "depthChartPosition": "DL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Neck",
+        "injuryNotes": null
+      },
+      {
+        "id": "7122",
+        "name": "Broderick Washington",
+        "team": "BAL",
+        "position": "DT",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
+        "id": "7571",
+        "name": "Rashod Bateman",
+        "team": "BAL",
+        "position": "WR",
+        "depthChartPosition": "RWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
+        "injuryNotes": null
+      },
+      {
+        "id": "11722",
+        "name": "Adisa Isaac",
+        "team": "BAL",
+        "position": "DE",
+        "depthChartPosition": "ROLB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Elbow",
+        "injuryNotes": "Dislocated"
+      },
+      {
+        "id": "11964",
+        "name": "Dayton Wade",
+        "team": "BAL",
+        "position": "WR",
+        "depthChartPosition": "PR",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Ribs",
+        "injuryNotes": "Surgery"
+      },
+      {
+        "id": "12640",
+        "name": "Teddye Buchanan",
+        "team": "BAL",
+        "position": "LB",
+        "depthChartPosition": "LB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee - ACL",
+        "injuryNotes": "Surgery"
+      },
+      {
+        "id": "12695",
+        "name": "Robert Longerbeam",
+        "team": "BAL",
+        "position": "DB",
+        "depthChartPosition": "DB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "12714",
+        "name": "Bilhal Kone",
+        "team": "BAL",
+        "position": "CB",
+        "depthChartPosition": "DB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": "Strain"
+      },
+      {
+        "id": "13155",
+        "name": "Chandler Martin",
+        "team": "BAL",
+        "position": "LB",
+        "depthChartPosition": "LB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Knee - ACL",
+        "injuryNotes": "Surgery"
+      }
+    ],
     "ARI": [
       {
         "id": "4080",
@@ -21075,7 +20895,7 @@
         "team": "ARI",
         "position": "C",
         "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Personal",
         "injuryNotes": null
       },
@@ -21317,58 +21137,8 @@
         "team": "JAX",
         "position": "OL",
         "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Back",
-        "injuryNotes": null
-      },
-      {
-        "id": "6922",
-        "name": "Ezra Cleveland",
-        "team": "JAX",
-        "position": "G",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Shoulder",
-        "injuryNotes": null
-      },
-      {
-        "id": "7630",
-        "name": "Greg Newsome",
-        "team": "JAX",
-        "position": "CB",
-        "depthChartPosition": "RCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Shoulder",
-        "injuryNotes": null
-      },
-      {
-        "id": "7689",
-        "name": "Robert Hainsey",
-        "team": "JAX",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Groin",
-        "injuryNotes": null
-      },
-      {
-        "id": "8305",
-        "name": "Montaric Brown",
-        "team": "JAX",
-        "position": "DB",
-        "depthChartPosition": "LCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Neck",
-        "injuryNotes": null
-      },
-      {
-        "id": "10876",
-        "name": "Anton Harrison",
-        "team": "JAX",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
         "injuryNotes": null
       },
       {
@@ -21429,16 +21199,6 @@
         "depthChartPosition": "LOLB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Lower Body",
-        "injuryNotes": null
-      },
-      {
-        "id": "12900",
-        "name": "Danny Striggow",
-        "team": "JAX",
-        "position": "DL",
-        "depthChartPosition": "RDE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       }
     ],
@@ -22975,7 +22735,7 @@
   "summary": {
     "totalGames": 256,
     "upcomingGames": 0,
-    "injuredPlayers": 1146,
-    "lastUpdate": "2026-01-02T21:18:15.984Z"
+    "injuredPlayers": 1122,
+    "lastUpdate": "2026-01-02T22:23:02.849Z"
   }
 }
