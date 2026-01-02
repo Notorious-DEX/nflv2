@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-02T17:19:56.844Z",
+  "lastUpdated": "2026-01-02T18:33:31.250Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17087,7 +17087,7 @@
         "team": "WAS",
         "position": "QB",
         "depthChartPosition": "QB",
-        "injuryStatus": "Doubtful",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Hand",
         "injuryNotes": null
       },
@@ -17107,7 +17107,7 @@
         "team": "WAS",
         "position": "OL",
         "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Oblique",
         "injuryNotes": "Strain"
       },
@@ -20015,7 +20015,7 @@
         "team": "MIA",
         "position": "TE",
         "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Groin",
         "injuryNotes": null
       },
@@ -20569,7 +20569,7 @@
         "team": "IND",
         "position": "DB",
         "depthChartPosition": "RCB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Calf",
         "injuryNotes": null
       },
@@ -20599,7 +20599,7 @@
         "team": "IND",
         "position": "TE",
         "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Chest",
         "injuryNotes": null
       },
@@ -20963,7 +20963,7 @@
         "team": "NE",
         "position": "LB",
         "depthChartPosition": "ROLB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -20973,7 +20973,7 @@
         "team": "NE",
         "position": "LB",
         "depthChartPosition": "LILB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -21043,7 +21043,7 @@
         "team": "NE",
         "position": "DT",
         "depthChartPosition": "NT",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
       },
@@ -21163,7 +21163,7 @@
         "team": "NE",
         "position": "OL",
         "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Concussion",
         "injuryNotes": null
       },
@@ -21831,7 +21831,7 @@
         "team": "CIN",
         "position": "DE",
         "depthChartPosition": "LDE",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -21891,7 +21891,7 @@
         "team": "CIN",
         "position": "WR",
         "depthChartPosition": "SWR",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -21931,7 +21931,7 @@
         "team": "CIN",
         "position": "CB",
         "depthChartPosition": "LCB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
@@ -23216,6 +23216,6 @@
     "totalGames": 256,
     "upcomingGames": 0,
     "injuredPlayers": 1170,
-    "lastUpdate": "2026-01-02T17:19:56.844Z"
+    "lastUpdate": "2026-01-02T18:33:31.250Z"
   }
 }
