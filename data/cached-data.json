@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-02T01:05:39.315Z",
+  "lastUpdated": "2026-01-02T01:54:25.681Z",
   "season": 2025,
   "gameStats": [
     {
@@ -16618,6 +16618,16 @@
         "injuryNotes": null
       },
       {
+        "id": "5847",
+        "name": "Dexter Lawrence",
+        "team": "NYG",
+        "position": "DT",
+        "depthChartPosition": "NT",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
+        "injuryNotes": null
+      },
+      {
         "id": "6810",
         "name": "Andrew Thomas",
         "team": "NYG",
@@ -17252,6 +17262,16 @@
         "injuryNotes": "Fracture"
       },
       {
+        "id": "11702",
+        "name": "Brandon Coleman",
+        "team": "WAS",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "11816",
         "name": "Javontae Jean-Baptiste",
         "team": "WAS",
@@ -17672,16 +17692,6 @@
         "position": "TE",
         "depthChartPosition": "TE",
         "injuryStatus": "IR",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
-        "id": "6816",
-        "name": "Cesar Ruiz",
-        "team": "NO",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -18160,6 +18170,16 @@
         "injuryNotes": null
       },
       {
+        "id": "10888",
+        "name": "Jalen Carter",
+        "team": "PHI",
+        "position": "DL",
+        "depthChartPosition": "RDE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hip",
+        "injuryNotes": null
+      },
+      {
         "id": "11273",
         "name": "Ben VanSumeren",
         "team": "PHI",
@@ -18178,16 +18198,6 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": "Surgery"
-      },
-      {
-        "id": "12566",
-        "name": "Jihaad Campbell",
-        "team": "PHI",
-        "position": "LB",
-        "depthChartPosition": "RILB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Back",
-        "injuryNotes": null
       },
       {
         "id": "12604",
@@ -19564,16 +19574,6 @@
         "injuryNotes": null
       },
       {
-        "id": "11168",
-        "name": "Xavier Smith",
-        "team": "LAR",
-        "position": "WR",
-        "depthChartPosition": "SWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Chest",
-        "injuryNotes": null
-      },
-      {
         "id": "11586",
         "name": "Blake Corum",
         "team": "LAR",
@@ -19676,6 +19676,16 @@
         "injuryNotes": null
       },
       {
+        "id": "7682",
+        "name": "Elijah Molden",
+        "team": "LAC",
+        "position": "CB",
+        "depthChartPosition": "SS",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
         "id": "8123",
         "name": "Hassan Haskins",
         "team": "LAC",
@@ -19714,16 +19724,6 @@
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
-      },
-      {
-        "id": "11647",
-        "name": "Kimani Vidal",
-        "team": "LAC",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Neck",
-        "injuryNotes": "Strain"
       },
       {
         "id": "11673",
@@ -19966,16 +19966,6 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Foot",
         "injuryNotes": "Surgery"
-      },
-      {
-        "id": "11433",
-        "name": "Nate Adkins",
-        "team": "DEN",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
       },
       {
         "id": "11833",
@@ -20362,16 +20352,6 @@
         "injuryNotes": null
       },
       {
-        "id": "6217",
-        "name": "Blake Cashman",
-        "team": "MIN",
-        "position": "LB",
-        "depthChartPosition": "RILB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Elbow",
-        "injuryNotes": null
-      },
-      {
         "id": "6633",
         "name": "Matt Nelson",
         "team": "MIN",
@@ -20429,16 +20409,6 @@
         "depthChartPosition": "OL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "11819",
-        "name": "Levi Drake Rodriguez",
-        "team": "MIN",
-        "position": "DT",
-        "depthChartPosition": "NT",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ribs",
         "injuryNotes": null
       },
       {
@@ -20753,16 +20723,6 @@
         "depthChartPosition": "LOLB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Foot",
-        "injuryNotes": null
-      },
-      {
-        "id": "5361",
-        "name": "Avonte Maddox",
-        "team": "DET",
-        "position": "CB",
-        "depthChartPosition": "FS",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Back",
         "injuryNotes": null
       },
       {
@@ -22174,7 +22134,7 @@
         "name": "Mike Hughes",
         "team": "ATL",
         "position": "CB",
-        "depthChartPosition": "LCB",
+        "depthChartPosition": "DB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
@@ -22629,6 +22589,16 @@
         "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "12153",
+        "name": "Donovan Jennings",
+        "team": "GB",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Upper Body",
         "injuryNotes": null
       },
       {
@@ -23165,7 +23135,7 @@
         "team": "SEA",
         "position": "DB",
         "depthChartPosition": "FS",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Doubtful",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -23175,7 +23145,7 @@
         "team": "SEA",
         "position": "OL",
         "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
@@ -23255,7 +23225,7 @@
   "summary": {
     "totalGames": 256,
     "upcomingGames": 0,
-    "injuredPlayers": 1174,
-    "lastUpdate": "2026-01-02T01:05:39.315Z"
+    "injuredPlayers": 1171,
+    "lastUpdate": "2026-01-02T01:54:25.681Z"
   }
 }
