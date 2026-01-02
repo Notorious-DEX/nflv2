@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-02T12:47:01.492Z",
+  "lastUpdated": "2026-01-02T13:34:30.631Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19018,6 +19018,16 @@
         "injuryNotes": "Surgery"
       },
       {
+        "id": "11692",
+        "name": "Mike Hall",
+        "team": "CLE",
+        "position": "DT",
+        "depthChartPosition": "RDT",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "11790",
         "name": "Nathaniel Watson",
         "team": "CLE",
@@ -19623,6 +19633,16 @@
         "depthChartPosition": "OL",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Concussion",
+        "injuryNotes": null
+      },
+      {
+        "id": "6797",
+        "name": "Justin Herbert",
+        "team": "LAC",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hand",
         "injuryNotes": null
       },
       {
@@ -23195,7 +23215,7 @@
   "summary": {
     "totalGames": 256,
     "upcomingGames": 0,
-    "injuredPlayers": 1168,
-    "lastUpdate": "2026-01-02T12:47:01.492Z"
+    "injuredPlayers": 1170,
+    "lastUpdate": "2026-01-02T13:34:30.631Z"
   }
 }
