@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-02T18:33:31.250Z",
+  "lastUpdated": "2026-01-02T19:15:38.701Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17721,7 +17721,7 @@
         "team": "NO",
         "position": "WR",
         "depthChartPosition": "SWR",
-        "injuryStatus": "Doubtful",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Illness",
         "injuryNotes": null
       },
@@ -17893,8 +17893,8 @@
         "team": "TEN",
         "position": "DE",
         "depthChartPosition": "LOLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Back",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Hip",
         "injuryNotes": null
       },
       {
@@ -18033,7 +18033,7 @@
         "team": "TEN",
         "position": "TE",
         "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Toe",
         "injuryNotes": null
       },
@@ -18913,7 +18913,7 @@
         "team": "CLE",
         "position": "TE",
         "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -19063,7 +19063,7 @@
         "team": "CLE",
         "position": "TE",
         "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Groin",
         "injuryNotes": null
       },
@@ -19083,7 +19083,7 @@
         "team": "CLE",
         "position": "LB",
         "depthChartPosition": "MLB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Quadriceps",
         "injuryNotes": null
       },
@@ -20055,7 +20055,7 @@
         "team": "MIA",
         "position": "DB",
         "depthChartPosition": "NB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Calf",
         "injuryNotes": null
       },
@@ -23216,6 +23216,6 @@
     "totalGames": 256,
     "upcomingGames": 0,
     "injuredPlayers": 1170,
-    "lastUpdate": "2026-01-02T18:33:31.250Z"
+    "lastUpdate": "2026-01-02T19:15:38.701Z"
   }
 }
