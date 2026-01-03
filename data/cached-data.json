@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-03T19:17:32.465Z",
+  "lastUpdated": "2026-01-03T20:25:25.710Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17107,7 +17107,7 @@
         "team": "NYJ",
         "position": "DB",
         "depthChartPosition": "RCB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Neck",
         "injuryNotes": null
       },
@@ -17147,7 +17147,7 @@
         "team": "NYJ",
         "position": "RB",
         "depthChartPosition": "RB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -18279,7 +18279,7 @@
         "team": "LAR",
         "position": "TE",
         "depthChartPosition": "TE",
-        "injuryStatus": "IR",
+        "injuryStatus": "Questionable",
         "injuryBodyPart": "Ankle",
         "injuryNotes": "Sprain"
       },
@@ -18381,6 +18381,16 @@
         "depthChartPosition": "RILB",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
+        "id": "12487",
+        "name": "Terrance Ferguson",
+        "team": "LAR",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Doubtful",
+        "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       }
     ],
@@ -20050,6 +20060,148 @@
         "injuryNotes": null
       }
     ],
+    "TB": [
+      {
+        "id": "3200",
+        "name": "Sterling Shepard",
+        "team": "TB",
+        "position": "WR",
+        "depthChartPosition": "SWR",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "5946",
+        "name": "Jamel Dean",
+        "team": "TB",
+        "position": "CB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Shoulder",
+        "injuryNotes": null
+      },
+      {
+        "id": "6003",
+        "name": "Anthony Nelson",
+        "team": "TB",
+        "position": "LB",
+        "depthChartPosition": "LOLB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "6934",
+        "name": "Ben Bredeson",
+        "team": "TB",
+        "position": "G",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "8384",
+        "name": "Zyon McCollum",
+        "team": "TB",
+        "position": "DB",
+        "depthChartPosition": "DB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Hip",
+        "injuryNotes": null
+      },
+      {
+        "id": "8484",
+        "name": "Ko Kieft",
+        "team": "TB",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Leg",
+        "injuryNotes": null
+      },
+      {
+        "id": "10902",
+        "name": "Cody Mauch",
+        "team": "TB",
+        "position": "T",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "11780",
+        "name": "Elijah Klein",
+        "team": "TB",
+        "position": "OG",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "11866",
+        "name": "Tyler McLellan",
+        "team": "TB",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "12645",
+        "name": "David Walker",
+        "team": "TB",
+        "position": "LB",
+        "depthChartPosition": "LB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "12776",
+        "name": "Connor Bazelak",
+        "team": "TB",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "12919",
+        "name": "Elijah Simmons",
+        "team": "TB",
+        "position": "DL",
+        "depthChartPosition": "NT",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "13020",
+        "name": "Jayson Jones",
+        "team": "TB",
+        "position": "DL",
+        "depthChartPosition": "DL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "13132",
+        "name": "JJ Roberts",
+        "team": "TB",
+        "position": "DB",
+        "depthChartPosition": "DB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      }
+    ],
     "PIT": [
       {
         "id": "3272",
@@ -21411,7 +21563,7 @@
         "team": "TEN",
         "position": "WR",
         "depthChartPosition": "RWR",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Forearm",
         "injuryNotes": null
       },
@@ -21431,7 +21583,7 @@
         "team": "TEN",
         "position": "DB",
         "depthChartPosition": "RCB",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Achilles",
         "injuryNotes": null
       },
@@ -21461,7 +21613,7 @@
         "team": "TEN",
         "position": "DE",
         "depthChartPosition": "ROLB",
-        "injuryStatus": "IR",
+        "injuryStatus": "Questionable",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -21501,7 +21653,7 @@
         "team": "TEN",
         "position": "WR",
         "depthChartPosition": "LWR",
-        "injuryStatus": "IR",
+        "injuryStatus": "Questionable",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -21558,6 +21710,16 @@
         "injuryNotes": null
       },
       {
+        "id": "5955",
+        "name": "Hunter Renfrow",
+        "team": "CAR",
+        "position": "WR",
+        "depthChartPosition": "SWR",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "7041",
         "name": "Robert Hunt",
         "team": "CAR",
@@ -21568,22 +21730,12 @@
         "injuryNotes": null
       },
       {
-        "id": "7268",
-        "name": "Krys Barnes",
-        "team": "CAR",
-        "position": "LB",
-        "depthChartPosition": "LILB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Back",
-        "injuryNotes": null
-      },
-      {
         "id": "7301",
         "name": "Tershawn Wharton",
         "team": "CAR",
         "position": "DT",
         "depthChartPosition": "NT",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
@@ -21626,6 +21778,16 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": "Surgery"
+      },
+      {
+        "id": "8795",
+        "name": "D'Anthony Bell",
+        "team": "CAR",
+        "position": "DB",
+        "depthChartPosition": "NB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
       },
       {
         "id": "10953",
@@ -21688,6 +21850,16 @@
         "injuryNotes": null
       },
       {
+        "id": "12011",
+        "name": "Demani Richardson",
+        "team": "CAR",
+        "position": "DB",
+        "depthChartPosition": "FS",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "12957",
         "name": "Corey Thornton",
         "team": "CAR",
@@ -21696,6 +21868,16 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Lower Leg",
         "injuryNotes": "Surgery"
+      },
+      {
+        "id": "13094",
+        "name": "Jared Harrison-Hunte",
+        "team": "CAR",
+        "position": "DT",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
       }
     ],
     "ATL": [
@@ -22127,8 +22309,8 @@
         "team": "GB",
         "position": "OL",
         "depthChartPosition": "OL",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Upper Body",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Neck",
         "injuryNotes": null
       },
       {
@@ -22137,7 +22319,7 @@
         "team": "GB",
         "position": "WR",
         "depthChartPosition": "SWR",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
       },
@@ -22149,118 +22331,6 @@
         "depthChartPosition": "OL",
         "injuryStatus": "PUP",
         "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      }
-    ],
-    "TB": [
-      {
-        "id": "5946",
-        "name": "Jamel Dean",
-        "team": "TB",
-        "position": "CB",
-        "depthChartPosition": "RCB",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Shoulder",
-        "injuryNotes": null
-      },
-      {
-        "id": "6003",
-        "name": "Anthony Nelson",
-        "team": "TB",
-        "position": "LB",
-        "depthChartPosition": "LOLB",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "6934",
-        "name": "Ben Bredeson",
-        "team": "TB",
-        "position": "G",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "8384",
-        "name": "Zyon McCollum",
-        "team": "TB",
-        "position": "DB",
-        "depthChartPosition": "DB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Hip",
-        "injuryNotes": null
-      },
-      {
-        "id": "8484",
-        "name": "Ko Kieft",
-        "team": "TB",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Leg",
-        "injuryNotes": null
-      },
-      {
-        "id": "10879",
-        "name": "Calijah Kancey",
-        "team": "TB",
-        "position": "DL",
-        "depthChartPosition": "LDE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Pectoral",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "10902",
-        "name": "Cody Mauch",
-        "team": "TB",
-        "position": "T",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "11866",
-        "name": "Tyler McLellan",
-        "team": "TB",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "12645",
-        "name": "David Walker",
-        "team": "TB",
-        "position": "LB",
-        "depthChartPosition": "LB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "13020",
-        "name": "Jayson Jones",
-        "team": "TB",
-        "position": "DL",
-        "depthChartPosition": "DL",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "13132",
-        "name": "JJ Roberts",
-        "team": "TB",
-        "position": "DB",
-        "depthChartPosition": "DB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
         "injuryNotes": null
       }
     ],
@@ -22745,7 +22815,7 @@
   "summary": {
     "totalGames": 256,
     "upcomingGames": 0,
-    "injuredPlayers": 1123,
-    "lastUpdate": "2026-01-03T19:17:32.465Z"
+    "injuredPlayers": 1130,
+    "lastUpdate": "2026-01-03T20:25:25.710Z"
   }
 }
