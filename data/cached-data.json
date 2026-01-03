@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-02T23:21:39.651Z",
+  "lastUpdated": "2026-01-03T01:48:26.504Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17207,7 +17207,7 @@
         "team": "NYJ",
         "position": "OL",
         "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -19354,16 +19354,6 @@
         "injuryNotes": null
       },
       {
-        "id": "7844",
-        "name": "Sam Kamara",
-        "team": "CLE",
-        "position": "LB",
-        "depthChartPosition": "LDT",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Elbow",
-        "injuryNotes": null
-      },
-      {
         "id": "8143",
         "name": "Jerome Ford",
         "team": "CLE",
@@ -20279,7 +20269,7 @@
         "team": "KC",
         "position": "OL",
         "depthChartPosition": "OL",
-        "injuryStatus": "Doubtful",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -20974,7 +20964,7 @@
         "name": "Simi Fehoko",
         "team": "ARI",
         "position": "WR",
-        "depthChartPosition": "RWR",
+        "depthChartPosition": "LWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Wrist",
         "injuryNotes": null
@@ -21074,7 +21064,7 @@
         "name": "Marvin Harrison",
         "team": "ARI",
         "position": "WR",
-        "depthChartPosition": "LWR",
+        "depthChartPosition": null,
         "injuryStatus": "IR",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
@@ -22204,6 +22194,16 @@
         "injuryNotes": null
       },
       {
+        "id": "10879",
+        "name": "Calijah Kancey",
+        "team": "TB",
+        "position": "DL",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Pectoral",
+        "injuryNotes": "Surgery"
+      },
+      {
         "id": "10902",
         "name": "Cody Mauch",
         "team": "TB",
@@ -22736,6 +22736,6 @@
     "totalGames": 256,
     "upcomingGames": 0,
     "injuredPlayers": 1122,
-    "lastUpdate": "2026-01-02T23:21:39.651Z"
+    "lastUpdate": "2026-01-03T01:48:26.504Z"
   }
 }
