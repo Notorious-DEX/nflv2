@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-03T20:25:25.710Z",
+  "lastUpdated": "2026-01-03T21:20:28.778Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18100,6 +18100,16 @@
         "injuryNotes": null
       },
       {
+        "id": "12652",
+        "name": "Deone Walker",
+        "team": "BUF",
+        "position": "DT",
+        "depthChartPosition": "LDT",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
+        "injuryNotes": null
+      },
+      {
         "id": "12686",
         "name": "Chase Lundt",
         "team": "BUF",
@@ -21562,7 +21572,7 @@
         "name": "Van Jefferson",
         "team": "TEN",
         "position": "WR",
-        "depthChartPosition": "RWR",
+        "depthChartPosition": null,
         "injuryStatus": "IR",
         "injuryBodyPart": "Forearm",
         "injuryNotes": null
@@ -21582,7 +21592,7 @@
         "name": "Jalyn Armour-Davis",
         "team": "TEN",
         "position": "DB",
-        "depthChartPosition": "RCB",
+        "depthChartPosition": "DB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Achilles",
         "injuryNotes": null
@@ -22318,7 +22328,7 @@
         "name": "Savion Williams",
         "team": "GB",
         "position": "WR",
-        "depthChartPosition": "SWR",
+        "depthChartPosition": "KR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
@@ -22380,7 +22390,7 @@
         "name": "Jack Sanborn",
         "team": "DAL",
         "position": "LB",
-        "depthChartPosition": "LOLB",
+        "depthChartPosition": "LB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Groin",
         "injuryNotes": null
@@ -22815,7 +22825,7 @@
   "summary": {
     "totalGames": 256,
     "upcomingGames": 0,
-    "injuredPlayers": 1130,
-    "lastUpdate": "2026-01-03T20:25:25.710Z"
+    "injuredPlayers": 1131,
+    "lastUpdate": "2026-01-03T21:20:28.778Z"
   }
 }
