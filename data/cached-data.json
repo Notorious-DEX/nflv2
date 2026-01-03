@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-03T22:21:49.100Z",
+  "lastUpdated": "2026-01-03T23:21:45.628Z",
   "season": 2025,
   "gameStats": [
     {
@@ -20738,16 +20738,6 @@
         "injuryNotes": null
       },
       {
-        "id": "7696",
-        "name": "Milton Williams",
-        "team": "NE",
-        "position": "DT",
-        "depthChartPosition": "RDE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": "Sprain"
-      },
-      {
         "id": "7756",
         "name": "Khyiris Tonga",
         "team": "NE",
@@ -20846,16 +20836,6 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Concussion",
         "injuryNotes": null
-      },
-      {
-        "id": "12570",
-        "name": "Will Campbell",
-        "team": "NE",
-        "position": "OT",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee - MCL",
-        "injuryNotes": "Sprain"
       },
       {
         "id": "12587",
@@ -21776,6 +21756,16 @@
         "position": "DB",
         "depthChartPosition": "RCB",
         "injuryStatus": "Out",
+        "injuryBodyPart": "Concussion",
+        "injuryNotes": null
+      },
+      {
+        "id": "7722",
+        "name": "Bobby Brown",
+        "team": "CAR",
+        "position": "DT",
+        "depthChartPosition": "NT",
+        "injuryStatus": "Questionable",
         "injuryBodyPart": "Concussion",
         "injuryNotes": null
       },
@@ -22855,7 +22845,7 @@
   "summary": {
     "totalGames": 256,
     "upcomingGames": 0,
-    "injuredPlayers": 1134,
-    "lastUpdate": "2026-01-03T22:21:49.100Z"
+    "injuredPlayers": 1133,
+    "lastUpdate": "2026-01-03T23:21:45.628Z"
   }
 }
