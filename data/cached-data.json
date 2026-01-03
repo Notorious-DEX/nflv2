@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-03T17:19:49.670Z",
+  "lastUpdated": "2026-01-03T18:31:51.832Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19344,16 +19344,6 @@
         "injuryNotes": null
       },
       {
-        "id": "7663",
-        "name": "Teven Jenkins",
-        "team": "CLE",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Concussion",
-        "injuryNotes": null
-      },
-      {
         "id": "8143",
         "name": "Jerome Ford",
         "team": "CLE",
@@ -19439,8 +19429,8 @@
         "team": "CLE",
         "position": "LB",
         "depthChartPosition": "MLB",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Quadriceps",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
       {
@@ -22291,7 +22281,7 @@
         "team": "DAL",
         "position": "RB",
         "depthChartPosition": "RB",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Shoulder",
         "injuryNotes": null
       },
@@ -22351,7 +22341,7 @@
         "team": "DAL",
         "position": "RB",
         "depthChartPosition": "RB",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Eye",
         "injuryNotes": null
       },
@@ -22371,7 +22361,7 @@
         "team": "DAL",
         "position": "OL",
         "depthChartPosition": "OL",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -22381,7 +22371,7 @@
         "team": "DAL",
         "position": "CB",
         "depthChartPosition": "RCB",
-        "injuryStatus": "PUP",
+        "injuryStatus": "Questionable",
         "injuryBodyPart": "Knee - ACL",
         "injuryNotes": "Surgery"
       },
@@ -22431,7 +22421,7 @@
         "team": "DAL",
         "position": "RB",
         "depthChartPosition": "RB",
-        "injuryStatus": "IR",
+        "injuryStatus": "Questionable",
         "injuryBodyPart": "Shoulder",
         "injuryNotes": null
       }
@@ -22755,7 +22745,7 @@
   "summary": {
     "totalGames": 256,
     "upcomingGames": 0,
-    "injuredPlayers": 1124,
-    "lastUpdate": "2026-01-03T17:19:49.670Z"
+    "injuredPlayers": 1123,
+    "lastUpdate": "2026-01-03T18:31:51.832Z"
   }
 }
