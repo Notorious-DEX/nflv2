@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-03T01:48:26.504Z",
+  "lastUpdated": "2026-01-03T03:24:17.564Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19556,6 +19556,16 @@
         "injuryNotes": null
       },
       {
+        "id": "11905",
+        "name": "Dwight McGlothern",
+        "team": "MIN",
+        "position": "DB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hip",
+        "injuryNotes": null
+      },
+      {
         "id": "11908",
         "name": "Gabriel Murphy",
         "team": "MIN",
@@ -20341,6 +20351,16 @@
         "depthChartPosition": "DB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Groin",
+        "injuryNotes": null
+      },
+      {
+        "id": "8385",
+        "name": "George Karlaftis",
+        "team": "KC",
+        "position": "DL",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Rest",
         "injuryNotes": null
       },
       {
@@ -22735,7 +22755,7 @@
   "summary": {
     "totalGames": 256,
     "upcomingGames": 0,
-    "injuredPlayers": 1122,
-    "lastUpdate": "2026-01-03T01:48:26.504Z"
+    "injuredPlayers": 1124,
+    "lastUpdate": "2026-01-03T03:24:17.564Z"
   }
 }
