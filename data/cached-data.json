@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-03T21:20:28.778Z",
+  "lastUpdated": "2026-01-03T22:21:49.100Z",
   "season": 2025,
   "gameStats": [
     {
@@ -16583,7 +16583,7 @@
         "team": "NYG",
         "position": "DT",
         "depthChartPosition": "RDE",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -16653,7 +16653,7 @@
         "team": "NYG",
         "position": "WR",
         "depthChartPosition": "SWR",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Ribs",
         "injuryNotes": null
       },
@@ -16673,7 +16673,7 @@
         "team": "NYG",
         "position": "DB",
         "depthChartPosition": "RCB",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -17207,7 +17207,7 @@
         "team": "NYJ",
         "position": "OL",
         "depthChartPosition": "OL",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -17237,7 +17237,7 @@
         "team": "NYJ",
         "position": "RB",
         "depthChartPosition": "RB",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Concussion",
         "injuryNotes": null
       },
@@ -17287,7 +17287,7 @@
         "team": "NYJ",
         "position": "TE",
         "depthChartPosition": "TE",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Neck",
         "injuryNotes": null
       },
@@ -18608,6 +18608,16 @@
         "injuryNotes": null
       },
       {
+        "id": "6348",
+        "name": "Del'Shawn Phillips",
+        "team": "LAC",
+        "position": "LB",
+        "depthChartPosition": "RILB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
         "id": "7528",
         "name": "Najee Harris",
         "team": "LAC",
@@ -18643,7 +18653,7 @@
         "team": "LAC",
         "position": "CB",
         "depthChartPosition": "SS",
-        "injuryStatus": "Doubtful",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
@@ -18763,7 +18773,7 @@
         "team": "LAC",
         "position": "DB",
         "depthChartPosition": "NB",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
@@ -19885,7 +19895,7 @@
         "team": "DET",
         "position": "C",
         "depthChartPosition": "OL",
-        "injuryStatus": "Out",
+        "injuryStatus": "IR",
         "injuryBodyPart": "Wrist",
         "injuryNotes": null
       },
@@ -20079,6 +20089,16 @@
         "depthChartPosition": "SWR",
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "4203",
+        "name": "Anthony Walker",
+        "team": "TB",
+        "position": "LB",
+        "depthChartPosition": "LILB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
       {
@@ -20723,9 +20743,9 @@
         "team": "NE",
         "position": "DT",
         "depthChartPosition": "RDE",
-        "injuryStatus": "IR",
+        "injuryStatus": "Questionable",
         "injuryBodyPart": "Ankle",
-        "injuryNotes": null
+        "injuryNotes": "Sprain"
       },
       {
         "id": "7756",
@@ -20833,7 +20853,7 @@
         "team": "NE",
         "position": "OT",
         "depthChartPosition": "OL",
-        "injuryStatus": "IR",
+        "injuryStatus": "Questionable",
         "injuryBodyPart": "Knee - MCL",
         "injuryNotes": "Sprain"
       },
@@ -20935,7 +20955,7 @@
         "team": "BAL",
         "position": "WR",
         "depthChartPosition": "RWR",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Illness",
         "injuryNotes": null
       },
@@ -21618,16 +21638,6 @@
         "injuryNotes": "Surgery"
       },
       {
-        "id": "11062",
-        "name": "Ali Gaye",
-        "team": "TEN",
-        "position": "DE",
-        "depthChartPosition": "ROLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
         "id": "11108",
         "name": "Anfernee Orji",
         "team": "TEN",
@@ -21655,16 +21665,6 @@
         "depthChartPosition": "RB",
         "injuryStatus": "Out",
         "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "11959",
-        "name": "Bryce Oliver",
-        "team": "TEN",
-        "position": "WR",
-        "depthChartPosition": "LWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
       {
@@ -21942,6 +21942,16 @@
         "injuryNotes": null
       },
       {
+        "id": "6836",
+        "name": "A.J. Terrell",
+        "team": "ATL",
+        "position": "CB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
+        "injuryNotes": null
+      },
+      {
         "id": "7090",
         "name": "Darnell Mooney",
         "team": "ATL",
@@ -21949,6 +21959,16 @@
         "depthChartPosition": "RWR",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "7313",
+        "name": "Liam McCullough",
+        "team": "ATL",
+        "position": "LS",
+        "depthChartPosition": "LS",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
         "injuryNotes": null
       },
       {
@@ -22059,6 +22079,16 @@
         "depthChartPosition": "QB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "11695",
+        "name": "Ruke Orhorhoro",
+        "team": "ATL",
+        "position": "DT",
+        "depthChartPosition": "NT",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
         "injuryNotes": null
       },
       {
@@ -22825,7 +22855,7 @@
   "summary": {
     "totalGames": 256,
     "upcomingGames": 0,
-    "injuredPlayers": 1131,
-    "lastUpdate": "2026-01-03T21:20:28.778Z"
+    "injuredPlayers": 1134,
+    "lastUpdate": "2026-01-03T22:21:49.100Z"
   }
 }
