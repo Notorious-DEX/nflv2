@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T16:27:39.897Z",
+  "lastUpdated": "2026-01-04T16:43:17.550Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22034,6 +22034,16 @@
         "injuryNotes": null
       },
       {
+        "id": "5025",
+        "name": "Ronnie Harrison",
+        "team": "ATL",
+        "position": "DB",
+        "depthChartPosition": "FS",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Illness",
+        "injuryNotes": null
+      },
+      {
         "id": "5088",
         "name": "Duke Ejiofor",
         "team": "ATL",
@@ -23017,7 +23027,7 @@
   "summary": {
     "totalGames": 258,
     "upcomingGames": 0,
-    "injuredPlayers": 1142,
-    "lastUpdate": "2026-01-04T16:27:39.897Z"
+    "injuredPlayers": 1143,
+    "lastUpdate": "2026-01-04T16:43:17.550Z"
   }
 }
