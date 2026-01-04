@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T22:23:28.447Z",
+  "lastUpdated": "2026-01-04T22:39:31.912Z",
   "season": 2025,
   "gameStats": [
     {
@@ -20510,6 +20510,16 @@
         "injuryNotes": "Surgery"
       },
       {
+        "id": "11610",
+        "name": "Malik Washington",
+        "team": "MIA",
+        "position": "WR",
+        "depthChartPosition": "SWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Thumb",
+        "injuryNotes": null
+      },
+      {
         "id": "11663",
         "name": "Chop Robinson",
         "team": "MIA",
@@ -23977,7 +23987,7 @@
   "summary": {
     "totalGames": 264,
     "upcomingGames": 0,
-    "injuredPlayers": 1213,
-    "lastUpdate": "2026-01-04T22:23:28.447Z"
+    "injuredPlayers": 1214,
+    "lastUpdate": "2026-01-04T22:39:31.912Z"
   }
 }
