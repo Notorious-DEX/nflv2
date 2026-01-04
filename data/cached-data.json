@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T22:52:38.343Z",
+  "lastUpdated": "2026-01-04T23:12:03.386Z",
   "season": 2025,
   "gameStats": [
     {
@@ -16910,6 +16910,16 @@
         "injuryNotes": null
       },
       {
+        "id": "4053",
+        "name": "Garett Bolles",
+        "team": "DEN",
+        "position": "OT",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
         "id": "4579",
         "name": "Josh Banderas",
         "team": "DEN",
@@ -16957,6 +16967,16 @@
         "depthChartPosition": "LILB",
         "injuryStatus": "Out",
         "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
+        "id": "6419",
+        "name": "P.J. Locke",
+        "team": "DEN",
+        "position": "DB",
+        "depthChartPosition": "SS",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Leg",
         "injuryNotes": null
       },
       {
@@ -23987,7 +24007,7 @@
   "summary": {
     "totalGames": 264,
     "upcomingGames": 0,
-    "injuredPlayers": 1214,
-    "lastUpdate": "2026-01-04T22:52:38.343Z"
+    "injuredPlayers": 1216,
+    "lastUpdate": "2026-01-04T23:12:03.386Z"
   }
 }
