@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T23:12:03.386Z",
+  "lastUpdated": "2026-01-04T23:21:42.801Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18884,6 +18884,16 @@
         "injuryNotes": null
       },
       {
+        "id": "12877",
+        "name": "Brandon Johnson",
+        "team": "PHI",
+        "position": "DB",
+        "depthChartPosition": "RDE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
         "id": "13004",
         "name": "Willie Lampkin",
         "team": "PHI",
@@ -22468,6 +22478,16 @@
         "injuryNotes": null
       },
       {
+        "id": "12565",
+        "name": "Will Johnson",
+        "team": "ARI",
+        "position": "DB",
+        "depthChartPosition": "LCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "12736",
         "name": "Kitan Crawford",
         "team": "ARI",
@@ -24007,7 +24027,7 @@
   "summary": {
     "totalGames": 264,
     "upcomingGames": 0,
-    "injuredPlayers": 1216,
-    "lastUpdate": "2026-01-04T23:12:03.386Z"
+    "injuredPlayers": 1218,
+    "lastUpdate": "2026-01-04T23:21:42.801Z"
   }
 }
