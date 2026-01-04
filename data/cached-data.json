@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T17:19:52.687Z",
+  "lastUpdated": "2026-01-04T17:38:25.669Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19636,6 +19636,16 @@
         "injuryNotes": null
       },
       {
+        "id": "12384",
+        "name": "Kingsley Eguakun",
+        "team": "CLE",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "12506",
         "name": "Harold Fannin",
         "team": "CLE",
@@ -23287,7 +23297,7 @@
   "summary": {
     "totalGames": 258,
     "upcomingGames": 0,
-    "injuredPlayers": 1169,
-    "lastUpdate": "2026-01-04T17:19:52.687Z"
+    "injuredPlayers": 1170,
+    "lastUpdate": "2026-01-04T17:38:25.669Z"
   }
 }
