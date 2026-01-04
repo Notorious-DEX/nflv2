@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T22:15:40.200Z",
+  "lastUpdated": "2026-01-04T22:23:28.447Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17060,6 +17060,16 @@
         "injuryNotes": "Surgery"
       },
       {
+        "id": "11023",
+        "name": "Alex Forsyth",
+        "team": "DEN",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
         "id": "11325",
         "name": "Reese Taylor",
         "team": "DEN",
@@ -23967,7 +23977,7 @@
   "summary": {
     "totalGames": 264,
     "upcomingGames": 0,
-    "injuredPlayers": 1212,
-    "lastUpdate": "2026-01-04T22:15:40.200Z"
+    "injuredPlayers": 1213,
+    "lastUpdate": "2026-01-04T22:23:28.447Z"
   }
 }
