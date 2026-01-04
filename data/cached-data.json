@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T18:32:11.915Z",
+  "lastUpdated": "2026-01-04T18:38:09.418Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22020,6 +22020,16 @@
         "injuryNotes": null
       },
       {
+        "id": "12522",
+        "name": "Cam Ward",
+        "team": "TEN",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Shoulder",
+        "injuryNotes": null
+      },
+      {
         "id": "12583",
         "name": "Oluwafemi Oladejo",
         "team": "TEN",
@@ -23297,7 +23307,7 @@
   "summary": {
     "totalGames": 258,
     "upcomingGames": 0,
-    "injuredPlayers": 1170,
-    "lastUpdate": "2026-01-04T18:32:11.915Z"
+    "injuredPlayers": 1171,
+    "lastUpdate": "2026-01-04T18:38:09.418Z"
   }
 }
