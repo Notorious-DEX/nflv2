@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T20:36:41.913Z",
+  "lastUpdated": "2026-01-04T20:51:22.407Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19706,6 +19706,16 @@
         "injuryNotes": "Surgery"
       },
       {
+        "id": "11429",
+        "name": "Kaevon Merriweather",
+        "team": "HOU",
+        "position": "DB",
+        "depthChartPosition": "FS",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "11588",
         "name": "Jawhar Jordan",
         "team": "HOU",
@@ -20783,6 +20793,16 @@
         "depthChartPosition": "RCB",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Shoulder",
+        "injuryNotes": null
+      },
+      {
+        "id": "7785",
+        "name": "Cole Van Lanen",
+        "team": "JAX",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
       {
@@ -23178,6 +23198,16 @@
         "injuryNotes": null
       },
       {
+        "id": "11686",
+        "name": "Javon Bullard",
+        "team": "GB",
+        "position": "DB",
+        "depthChartPosition": "NB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "11687",
         "name": "Edgerrin Cooper",
         "team": "GB",
@@ -23617,7 +23647,7 @@
   "summary": {
     "totalGames": 258,
     "upcomingGames": 0,
-    "injuredPlayers": 1202,
-    "lastUpdate": "2026-01-04T20:36:41.913Z"
+    "injuredPlayers": 1205,
+    "lastUpdate": "2026-01-04T20:51:22.407Z"
   }
 }
