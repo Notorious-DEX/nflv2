@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-03T23:21:45.628Z",
+  "lastUpdated": "2026-01-04T02:04:05.656Z",
   "season": 2025,
   "gameStats": [
     {
@@ -10501,6 +10501,47 @@
           "sacks": 0
         }
       }
+    },
+    {
+      "id": "401772969",
+      "date": "2026-01-03T21:30Z",
+      "week": 18,
+      "homeTeam": "Tampa Bay Buccaneers",
+      "awayTeam": "Carolina Panthers",
+      "scores": {
+        "Tampa Bay Buccaneers": 16,
+        "Carolina Panthers": 14
+      },
+      "stats": {
+        "Carolina Panthers": {
+          "passingYards": 266,
+          "rushingYards": 19,
+          "totalYards": 285,
+          "turnovers": 3,
+          "thirdDownEff": {
+            "made": 1,
+            "attempts": 8,
+            "percentage": 12.5
+          },
+          "redZoneEff": null,
+          "possessionTime": 1355,
+          "sacks": 0
+        },
+        "Tampa Bay Buccaneers": {
+          "passingYards": 198,
+          "rushingYards": 140,
+          "totalYards": 338,
+          "turnovers": 1,
+          "thirdDownEff": {
+            "made": 8,
+            "attempts": 15,
+            "percentage": 53.333333333333336
+          },
+          "redZoneEff": null,
+          "possessionTime": 2245,
+          "sacks": 0
+        }
+      }
     }
   ],
   "teamStats": {
@@ -10605,29 +10646,29 @@
       "record": "11-5"
     },
     "Carolina Panthers": {
-      "games": 16,
-      "passingYards": 2782,
-      "rushingYards": 1958,
-      "totalYards": 4740,
-      "turnovers": 20,
-      "thirdDownAttempts": 197,
-      "thirdDownConversions": 73,
+      "games": 17,
+      "passingYards": 3048,
+      "rushingYards": 1977,
+      "totalYards": 5025,
+      "turnovers": 23,
+      "thirdDownAttempts": 205,
+      "thirdDownConversions": 74,
       "redZoneAttempts": 0,
       "redZoneScores": 0,
-      "possessionTime": 29088,
+      "possessionTime": 30443,
       "sacks": 0,
-      "pointsFor": 297,
-      "pointsAgainst": 364,
+      "pointsFor": 311,
+      "pointsAgainst": 380,
       "wins": 8,
-      "losses": 8,
-      "avgPassingYards": 173.875,
-      "avgRushingYards": 122.375,
-      "avgTotalYards": 296.25,
-      "avgPointsFor": 18.5625,
-      "avgPointsAgainst": 22.75,
-      "thirdDownPct": 37.055837563451774,
+      "losses": 9,
+      "avgPassingYards": 179.2941176470588,
+      "avgRushingYards": 116.29411764705883,
+      "avgTotalYards": 295.5882352941176,
+      "avgPointsFor": 18.294117647058822,
+      "avgPointsAgainst": 22.352941176470587,
+      "thirdDownPct": 36.09756097560975,
       "redZonePct": 0,
-      "record": "8-8"
+      "record": "8-9"
     },
     "Chicago Bears": {
       "games": 16,
@@ -11230,29 +11271,29 @@
       "record": "13-3"
     },
     "Tampa Bay Buccaneers": {
-      "games": 16,
-      "passingYards": 3302,
-      "rushingYards": 1807,
-      "totalYards": 5109,
-      "turnovers": 15,
-      "thirdDownAttempts": 213,
-      "thirdDownConversions": 86,
+      "games": 17,
+      "passingYards": 3500,
+      "rushingYards": 1947,
+      "totalYards": 5447,
+      "turnovers": 16,
+      "thirdDownAttempts": 228,
+      "thirdDownConversions": 94,
       "redZoneAttempts": 0,
       "redZoneScores": 0,
-      "possessionTime": 30283,
+      "possessionTime": 32528,
       "sacks": 0,
-      "pointsFor": 364,
-      "pointsAgainst": 397,
-      "wins": 7,
+      "pointsFor": 380,
+      "pointsAgainst": 411,
+      "wins": 8,
       "losses": 9,
-      "avgPassingYards": 206.375,
-      "avgRushingYards": 112.9375,
-      "avgTotalYards": 319.3125,
-      "avgPointsFor": 22.75,
-      "avgPointsAgainst": 24.8125,
-      "thirdDownPct": 40.375586854460096,
+      "avgPassingYards": 205.88235294117646,
+      "avgRushingYards": 114.52941176470588,
+      "avgTotalYards": 320.4117647058824,
+      "avgPointsFor": 22.352941176470587,
+      "avgPointsAgainst": 24.176470588235293,
+      "thirdDownPct": 41.228070175438596,
       "redZonePct": 0,
-      "record": "7-9"
+      "record": "8-9"
     },
     "Tennessee Titans": {
       "games": 16,
@@ -11353,18 +11394,18 @@
       "Minnesota Vikings": 10,
       "Green Bay Packers": 11,
       "Buffalo Bills": 12,
-      "San Francisco 49ers": 13,
-      "Cleveland Browns": 14,
-      "Pittsburgh Steelers": 15,
-      "Carolina Panthers": 16,
+      "Carolina Panthers": 13,
+      "San Francisco 49ers": 14,
+      "Cleveland Browns": 15,
+      "Pittsburgh Steelers": 16,
       "New Orleans Saints": 17,
       "Baltimore Ravens": 18,
       "Indianapolis Colts": 19,
       "Atlanta Falcons": 20,
       "Miami Dolphins": 21,
-      "Chicago Bears": 22,
-      "Detroit Lions": 23,
-      "Tampa Bay Buccaneers": 24,
+      "Tampa Bay Buccaneers": 22,
+      "Chicago Bears": 23,
+      "Detroit Lions": 24,
       "Las Vegas Raiders": 25,
       "New York Giants": 26,
       "Washington Commanders": 27,
@@ -11385,16 +11426,16 @@
       "Los Angeles Rams": 8,
       "Dallas Cowboys": 9,
       "Miami Dolphins": 10,
-      "Carolina Panthers": 11,
-      "Los Angeles Chargers": 12,
-      "New England Patriots": 13,
-      "Indianapolis Colts": 14,
-      "Detroit Lions": 15,
-      "Seattle Seahawks": 16,
-      "Green Bay Packers": 17,
-      "Philadelphia Eagles": 18,
-      "Denver Broncos": 19,
-      "Jacksonville Jaguars": 20,
+      "Los Angeles Chargers": 11,
+      "New England Patriots": 12,
+      "Indianapolis Colts": 13,
+      "Detroit Lions": 14,
+      "Seattle Seahawks": 15,
+      "Green Bay Packers": 16,
+      "Philadelphia Eagles": 17,
+      "Denver Broncos": 18,
+      "Jacksonville Jaguars": 19,
+      "Carolina Panthers": 20,
       "Tampa Bay Buccaneers": 21,
       "San Francisco 49ers": 22,
       "Kansas City Chiefs": 23,
@@ -16582,7 +16623,7 @@
         "name": "Rakeem Nunez-Roches",
         "team": "NYG",
         "position": "DT",
-        "depthChartPosition": "RDE",
+        "depthChartPosition": "DL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
@@ -16652,7 +16693,7 @@
         "name": "Wan'Dale Robinson",
         "team": "NYG",
         "position": "WR",
-        "depthChartPosition": "SWR",
+        "depthChartPosition": null,
         "injuryStatus": "IR",
         "injuryBodyPart": "Ribs",
         "injuryNotes": null
@@ -16672,7 +16713,7 @@
         "name": "Cor'Dale Flott",
         "team": "NYG",
         "position": "DB",
-        "depthChartPosition": "RCB",
+        "depthChartPosition": "DB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -16855,7 +16896,7 @@
         "team": "SF",
         "position": "T",
         "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
@@ -16868,16 +16909,6 @@
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
-      },
-      {
-        "id": "4217",
-        "name": "George Kittle",
-        "team": "SF",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": "Sprain"
       },
       {
         "id": "4218",
@@ -16908,6 +16939,16 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee - ACL",
         "injuryNotes": "Surgery"
+      },
+      {
+        "id": "6005",
+        "name": "Kevin Givens",
+        "team": "SF",
+        "position": "DT",
+        "depthChartPosition": "LDT",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
       },
       {
         "id": "6803",
@@ -16950,13 +16991,33 @@
         "injuryNotes": null
       },
       {
-        "id": "10904",
-        "name": "Keion White",
+        "id": "8020",
+        "name": "Curtis Robinson",
         "team": "SF",
-        "position": "DL",
-        "depthChartPosition": "RDE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Groin",
+        "position": "LB",
+        "depthChartPosition": "MLB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "8264",
+        "name": "Chase Lucas",
+        "team": "SF",
+        "position": "DB",
+        "depthChartPosition": "NB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "10966",
+        "name": "Robert Beal",
+        "team": "SF",
+        "position": "LB",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -16985,8 +17046,18 @@
         "team": "SF",
         "position": "WR",
         "depthChartPosition": "LWR",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "11651",
+        "name": "Isaac Guerendo",
+        "team": "SF",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -17008,16 +17079,6 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee - ACL",
         "injuryNotes": "Surgery"
-      },
-      {
-        "id": "12631",
-        "name": "Upton Stout",
-        "team": "SF",
-        "position": "CB",
-        "depthChartPosition": "NB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Concussion",
-        "injuryNotes": null
       },
       {
         "id": "12763",
@@ -22710,16 +22771,6 @@
     ],
     "SEA": [
       {
-        "id": "6808",
-        "name": "Josh Jones",
-        "team": "SEA",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
         "id": "7022",
         "name": "Shane Lemieux",
         "team": "SEA",
@@ -22755,7 +22806,7 @@
         "team": "SEA",
         "position": "DB",
         "depthChartPosition": "FS",
-        "injuryStatus": "Doubtful",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -22810,6 +22861,16 @@
         "injuryNotes": null
       },
       {
+        "id": "12510",
+        "name": "Jalen Milroe",
+        "team": "SEA",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "12521",
         "name": "Elijah Arroyo",
         "team": "SEA",
@@ -22817,6 +22878,26 @@
         "depthChartPosition": "TE",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "12685",
+        "name": "Bryce Cabeldue",
+        "team": "SEA",
+        "position": "OT",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "12719",
+        "name": "Mason Richman",
+        "team": "SEA",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -22838,14 +22919,34 @@
         "injuryStatus": "Out",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
+      },
+      {
+        "id": "13048",
+        "name": "Jared Ivey",
+        "team": "SEA",
+        "position": "DE",
+        "depthChartPosition": "LOLB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "13151",
+        "name": "Nick Kallerup",
+        "team": "SEA",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
       }
     ]
   },
   "upcomingGames": [],
   "summary": {
-    "totalGames": 256,
+    "totalGames": 257,
     "upcomingGames": 0,
-    "injuredPlayers": 1133,
-    "lastUpdate": "2026-01-03T23:21:45.628Z"
+    "injuredPlayers": 1139,
+    "lastUpdate": "2026-01-04T02:04:05.656Z"
   }
 }
