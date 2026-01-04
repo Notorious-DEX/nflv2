@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T20:26:03.751Z",
+  "lastUpdated": "2026-01-04T20:36:41.913Z",
   "season": 2025,
   "gameStats": [
     {
@@ -20422,6 +20422,16 @@
         "injuryNotes": "Surgery"
       },
       {
+        "id": "11013",
+        "name": "Luke Wypler",
+        "team": "CLE",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "11633",
         "name": "Jamari Thrash",
         "team": "CLE",
@@ -21412,6 +21422,16 @@
         "injuryStatus": "Out",
         "injuryBodyPart": "Knee - MCL",
         "injuryNotes": "Sprain"
+      },
+      {
+        "id": "4381",
+        "name": "Taysom Hill",
+        "team": "NO",
+        "position": "TE",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Shoulder",
+        "injuryNotes": null
       },
       {
         "id": "4661",
@@ -22756,6 +22776,16 @@
         "injuryNotes": null
       },
       {
+        "id": "6864",
+        "name": "Khalid Kareem",
+        "team": "ATL",
+        "position": "DE",
+        "depthChartPosition": "RDE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Head",
+        "injuryNotes": null
+      },
+      {
         "id": "8073",
         "name": "Tyrone Wheatley",
         "team": "ATL",
@@ -23587,7 +23617,7 @@
   "summary": {
     "totalGames": 258,
     "upcomingGames": 0,
-    "injuredPlayers": 1199,
-    "lastUpdate": "2026-01-04T20:26:03.752Z"
+    "injuredPlayers": 1202,
+    "lastUpdate": "2026-01-04T20:36:41.913Z"
   }
 }
