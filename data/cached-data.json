@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T02:04:05.656Z",
+  "lastUpdated": "2026-01-04T04:11:46.341Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17031,6 +17031,16 @@
         "injuryNotes": null
       },
       {
+        "id": "11017",
+        "name": "Dee Winters",
+        "team": "SF",
+        "position": "LB",
+        "depthChartPosition": "ROLB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
         "id": "11616",
         "name": "Jacob Cowing",
         "team": "SF",
@@ -17058,6 +17068,16 @@
         "depthChartPosition": "RB",
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "11842",
+        "name": "Tatum Bethune",
+        "team": "SF",
+        "position": "LB",
+        "depthChartPosition": "MLB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Groin",
         "injuryNotes": null
       },
       {
@@ -22946,7 +22966,7 @@
   "summary": {
     "totalGames": 257,
     "upcomingGames": 0,
-    "injuredPlayers": 1139,
-    "lastUpdate": "2026-01-04T02:04:05.656Z"
+    "injuredPlayers": 1141,
+    "lastUpdate": "2026-01-04T04:11:46.341Z"
   }
 }
