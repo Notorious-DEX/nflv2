@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T19:52:00.139Z",
+  "lastUpdated": "2026-01-04T20:12:28.678Z",
   "season": 2025,
   "gameStats": [
     {
@@ -20005,7 +20005,7 @@
         "team": "MIN",
         "position": "TE",
         "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -20077,6 +20077,16 @@
         "depthChartPosition": "OL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "11565",
+        "name": "J.J. McCarthy",
+        "team": "MIN",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hand",
         "injuryNotes": null
       },
       {
@@ -23437,7 +23447,7 @@
   "summary": {
     "totalGames": 258,
     "upcomingGames": 0,
-    "injuredPlayers": 1184,
-    "lastUpdate": "2026-01-04T19:52:00.139Z"
+    "injuredPlayers": 1185,
+    "lastUpdate": "2026-01-04T20:12:28.678Z"
   }
 }
