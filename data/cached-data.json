@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T19:17:41.952Z",
+  "lastUpdated": "2026-01-04T19:29:32.008Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17768,6 +17768,16 @@
         "injuryNotes": null
       },
       {
+        "id": "4282",
+        "name": "Corey Levin",
+        "team": "TEN",
+        "position": "G",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Biceps",
+        "injuryNotes": null
+      },
+      {
         "id": "4981",
         "name": "Calvin Ridley",
         "team": "TEN",
@@ -20391,6 +20401,16 @@
         "depthChartPosition": "TE",
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "7630",
+        "name": "Greg Newsome",
+        "team": "JAX",
+        "position": "CB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Shoulder",
         "injuryNotes": null
       },
       {
@@ -23367,7 +23387,7 @@
   "summary": {
     "totalGames": 258,
     "upcomingGames": 0,
-    "injuredPlayers": 1177,
-    "lastUpdate": "2026-01-04T19:17:41.952Z"
+    "injuredPlayers": 1179,
+    "lastUpdate": "2026-01-04T19:29:32.008Z"
   }
 }
