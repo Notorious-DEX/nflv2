@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T19:41:44.724Z",
+  "lastUpdated": "2026-01-04T19:52:00.139Z",
   "season": 2025,
   "gameStats": [
     {
@@ -16820,6 +16820,16 @@
         "injuryNotes": null
       },
       {
+        "id": "10988",
+        "name": "Cameron Mitchell",
+        "team": "IND",
+        "position": "DB",
+        "depthChartPosition": "LCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Calf",
+        "injuryNotes": null
+      },
+      {
         "id": "11762",
         "name": "Anthony Gould",
         "team": "IND",
@@ -19990,6 +20000,16 @@
         "injuryNotes": null
       },
       {
+        "id": "5973",
+        "name": "Josh Oliver",
+        "team": "MIN",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
         "id": "6037",
         "name": "Brett Rypien",
         "team": "MIN",
@@ -21561,6 +21581,16 @@
         "depthChartPosition": "RB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
+        "id": "12569",
+        "name": "Kelvin Banks",
+        "team": "NO",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
       {
@@ -23407,7 +23437,7 @@
   "summary": {
     "totalGames": 258,
     "upcomingGames": 0,
-    "injuredPlayers": 1181,
-    "lastUpdate": "2026-01-04T19:41:44.724Z"
+    "injuredPlayers": 1184,
+    "lastUpdate": "2026-01-04T19:52:00.139Z"
   }
 }
