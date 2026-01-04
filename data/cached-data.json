@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T19:29:32.008Z",
+  "lastUpdated": "2026-01-04T19:41:44.724Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17773,7 +17773,7 @@
         "team": "TEN",
         "position": "G",
         "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Biceps",
         "injuryNotes": null
       },
@@ -18928,6 +18928,16 @@
         "injuryStatus": "PUP",
         "injuryBodyPart": "Knee - ACL + MCL",
         "injuryNotes": "Surgery"
+      },
+      {
+        "id": "11588",
+        "name": "Jawhar Jordan",
+        "team": "HOU",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
       },
       {
         "id": "11685",
@@ -22928,6 +22938,16 @@
         "injuryNotes": null
       },
       {
+        "id": "8399",
+        "name": "Markquese Bell",
+        "team": "DAL",
+        "position": "DB",
+        "depthChartPosition": "SS",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Concussion",
+        "injuryNotes": null
+      },
+      {
         "id": "8476",
         "name": "DaRon Bland",
         "team": "DAL",
@@ -23387,7 +23407,7 @@
   "summary": {
     "totalGames": 258,
     "upcomingGames": 0,
-    "injuredPlayers": 1179,
-    "lastUpdate": "2026-01-04T19:29:32.008Z"
+    "injuredPlayers": 1181,
+    "lastUpdate": "2026-01-04T19:41:44.724Z"
   }
 }
