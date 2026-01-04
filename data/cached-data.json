@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T18:38:09.418Z",
+  "lastUpdated": "2026-01-04T18:55:22.620Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19566,6 +19566,16 @@
         "injuryNotes": null
       },
       {
+        "id": "7667",
+        "name": "Tyson Campbell",
+        "team": "CLE",
+        "position": "CB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Shoulder",
+        "injuryNotes": null
+      },
+      {
         "id": "7844",
         "name": "Sam Kamara",
         "team": "CLE",
@@ -23307,7 +23317,7 @@
   "summary": {
     "totalGames": 258,
     "upcomingGames": 0,
-    "injuredPlayers": 1171,
-    "lastUpdate": "2026-01-04T18:38:09.418Z"
+    "injuredPlayers": 1172,
+    "lastUpdate": "2026-01-04T18:55:22.620Z"
   }
 }
