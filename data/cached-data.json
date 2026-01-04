@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T13:31:21.664Z",
+  "lastUpdated": "2026-01-04T13:47:53.368Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17042,6 +17042,16 @@
         "injuryNotes": null
       },
       {
+        "id": "8183",
+        "name": "Brock Purdy",
+        "team": "SF",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Shoulder",
+        "injuryNotes": "Stinger"
+      },
+      {
         "id": "8264",
         "name": "Chase Lucas",
         "team": "SF",
@@ -23007,7 +23017,7 @@
   "summary": {
     "totalGames": 258,
     "upcomingGames": 0,
-    "injuredPlayers": 1141,
-    "lastUpdate": "2026-01-04T13:31:21.664Z"
+    "injuredPlayers": 1142,
+    "lastUpdate": "2026-01-04T13:47:53.368Z"
   }
 }
