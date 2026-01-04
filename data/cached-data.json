@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T16:56:42.468Z",
+  "lastUpdated": "2026-01-04T17:19:52.687Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19708,6 +19708,16 @@
         "injuryNotes": null
       },
       {
+        "id": "5806",
+        "name": "John Wolford",
+        "team": "MIN",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "5844",
         "name": "T.J. Hockenson",
         "team": "MIN",
@@ -19715,6 +19725,16 @@
         "depthChartPosition": "TE",
         "injuryStatus": "Out",
         "injuryBodyPart": "Shoulder",
+        "injuryNotes": null
+      },
+      {
+        "id": "6037",
+        "name": "Brett Rypien",
+        "team": "MIN",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -19778,12 +19798,22 @@
         "injuryNotes": null
       },
       {
+        "id": "11812",
+        "name": "Walter Rouse",
+        "team": "MIN",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "11905",
         "name": "Dwight McGlothern",
         "team": "MIN",
         "position": "DB",
         "depthChartPosition": "RCB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Hip",
         "injuryNotes": null
       },
@@ -22768,6 +22798,16 @@
         "injuryNotes": "Fracture"
       },
       {
+        "id": "8279",
+        "name": "Perrion Winfrey",
+        "team": "DAL",
+        "position": "DL",
+        "depthChartPosition": "LDT",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "8363",
         "name": "Jack Sanborn",
         "team": "DAL",
@@ -22828,16 +22868,6 @@
         "injuryNotes": null
       },
       {
-        "id": "11535",
-        "name": "Josh Butler",
-        "team": "DAL",
-        "position": "CB",
-        "depthChartPosition": "RCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee - ACL",
-        "injuryNotes": "Surgery"
-      },
-      {
         "id": "11657",
         "name": "Tyler Guyton",
         "team": "DAL",
@@ -22878,13 +22908,23 @@
         "injuryNotes": null
       },
       {
-        "id": "12738",
-        "name": "Phil Mafah",
+        "id": "12737",
+        "name": "Jay Toia",
         "team": "DAL",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Shoulder",
+        "position": "DT",
+        "depthChartPosition": "RDT",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "12855",
+        "name": "Alijah Clark",
+        "team": "DAL",
+        "position": "DB",
+        "depthChartPosition": "FS",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       }
     ],
@@ -23247,7 +23287,7 @@
   "summary": {
     "totalGames": 258,
     "upcomingGames": 0,
-    "injuredPlayers": 1165,
-    "lastUpdate": "2026-01-04T16:56:42.468Z"
+    "injuredPlayers": 1169,
+    "lastUpdate": "2026-01-04T17:19:52.687Z"
   }
 }
