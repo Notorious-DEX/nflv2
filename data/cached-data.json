@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T23:46:26.314Z",
+  "lastUpdated": "2026-01-04T23:55:59.657Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18230,6 +18230,16 @@
         "injuryNotes": null
       },
       {
+        "id": "6214",
+        "name": "Quincy Williams",
+        "team": "NYJ",
+        "position": "LB",
+        "depthChartPosition": "LOLB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hand",
+        "injuryNotes": null
+      },
+      {
         "id": "6405",
         "name": "Ken Webster",
         "team": "NYJ",
@@ -19033,6 +19043,16 @@
         "depthChartPosition": "OL",
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "8177",
+        "name": "Grant Calcaterra",
+        "team": "PHI",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
       {
@@ -20275,6 +20295,16 @@
         "depthChartPosition": "LOLB",
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "11022",
+        "name": "Kendall Williamson",
+        "team": "LAC",
+        "position": "DB",
+        "depthChartPosition": "FS",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
       {
@@ -22620,6 +22650,16 @@
         "injuryNotes": null
       },
       {
+        "id": "6588",
+        "name": "Tom Kennedy",
+        "team": "DET",
+        "position": "WR",
+        "depthChartPosition": "SWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ribs",
+        "injuryNotes": null
+      },
+      {
         "id": "6930",
         "name": "Trystan Colon",
         "team": "DET",
@@ -24077,7 +24117,7 @@
   "summary": {
     "totalGames": 264,
     "upcomingGames": 0,
-    "injuredPlayers": 1223,
-    "lastUpdate": "2026-01-04T23:46:26.314Z"
+    "injuredPlayers": 1227,
+    "lastUpdate": "2026-01-04T23:55:59.657Z"
   }
 }
