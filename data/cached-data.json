@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T21:33:56.601Z",
+  "lastUpdated": "2026-01-05T21:46:32.212Z",
   "season": 2025,
   "gameStats": [
     {
@@ -12251,7 +12251,7 @@
         "team": "BUF",
         "position": "DB",
         "depthChartPosition": "RCB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Doubtful",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -23476,6 +23476,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1130,
-    "lastUpdate": "2026-01-05T21:33:56.601Z"
+    "lastUpdate": "2026-01-05T21:46:32.212Z"
   }
 }
