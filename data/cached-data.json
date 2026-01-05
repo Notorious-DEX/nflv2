@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T17:46:51.969Z",
+  "lastUpdated": "2026-01-05T17:56:45.008Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18356,6 +18356,16 @@
         "injuryNotes": null
       },
       {
+        "id": "11847",
+        "name": "James Williams",
+        "team": "TEN",
+        "position": "DB",
+        "depthChartPosition": "LILB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Shoulder - AC Joint",
+        "injuryNotes": "Sprain"
+      },
+      {
         "id": "12502",
         "name": "Gunnar Helm",
         "team": "TEN",
@@ -23465,7 +23475,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1129,
-    "lastUpdate": "2026-01-05T17:46:51.969Z"
+    "injuredPlayers": 1130,
+    "lastUpdate": "2026-01-05T17:56:45.008Z"
   }
 }
