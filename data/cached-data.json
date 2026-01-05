@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T20:22:27.845Z",
+  "lastUpdated": "2026-01-05T20:28:35.854Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17802,16 +17802,6 @@
         "injuryNotes": null
       },
       {
-        "id": "8183",
-        "name": "Brock Purdy",
-        "team": "SF",
-        "position": "QB",
-        "depthChartPosition": "QB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Shoulder",
-        "injuryNotes": "Stinger"
-      },
-      {
         "id": "10995",
         "name": "Tre Tomlinson",
         "team": "SF",
@@ -23475,7 +23465,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1130,
-    "lastUpdate": "2026-01-05T20:22:27.845Z"
+    "injuredPlayers": 1129,
+    "lastUpdate": "2026-01-05T20:28:35.854Z"
   }
 }
