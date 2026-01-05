@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T22:26:59.254Z",
+  "lastUpdated": "2026-01-05T22:44:39.278Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18528,16 +18528,6 @@
         "injuryNotes": null
       },
       {
-        "id": "10990",
-        "name": "Darius Rush",
-        "team": "WAS",
-        "position": "DB",
-        "depthChartPosition": null,
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Groin",
-        "injuryNotes": null
-      },
-      {
         "id": "11566",
         "name": "Jayden Daniels",
         "team": "WAS",
@@ -18566,16 +18556,6 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Pectoral",
         "injuryNotes": "Surgery"
-      },
-      {
-        "id": "12532",
-        "name": "Ja'Corey Brooks",
-        "team": "WAS",
-        "position": "WR",
-        "depthChartPosition": null,
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
       },
       {
         "id": "12595",
@@ -23455,7 +23435,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1128,
-    "lastUpdate": "2026-01-05T22:26:59.254Z"
+    "injuredPlayers": 1126,
+    "lastUpdate": "2026-01-05T22:44:39.278Z"
   }
 }
