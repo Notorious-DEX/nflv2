@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T10:28:17.342Z",
+  "lastUpdated": "2026-01-05T11:22:02.068Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18018,7 +18018,7 @@
         "name": "Wan'Dale Robinson",
         "team": "NYG",
         "position": "WR",
-        "depthChartPosition": null,
+        "depthChartPosition": "SWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Ribs",
         "injuryNotes": null
@@ -18098,7 +18098,7 @@
         "name": "Bryce Ford-Wheaton",
         "team": "NYG",
         "position": "WR",
-        "depthChartPosition": null,
+        "depthChartPosition": "SWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Achilles",
         "injuryNotes": null
@@ -18168,7 +18168,7 @@
         "name": "Malik Nabers",
         "team": "NYG",
         "position": "WR",
-        "depthChartPosition": null,
+        "depthChartPosition": "SWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -18248,7 +18248,7 @@
         "name": "Da'Quan Felton",
         "team": "NYG",
         "position": "WR",
-        "depthChartPosition": null,
+        "depthChartPosition": "SWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -18602,7 +18602,7 @@
         "name": "Andre Cisco",
         "team": "NYJ",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": null,
         "injuryStatus": "IR",
         "injuryBodyPart": "Pectoral",
         "injuryNotes": "Surgery"
@@ -18622,7 +18622,7 @@
         "name": "Garrett Wilson",
         "team": "NYJ",
         "position": "WR",
-        "depthChartPosition": null,
+        "depthChartPosition": "SWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": "Sprain"
@@ -18752,7 +18752,7 @@
         "name": "Keilan Robinson",
         "team": "NYJ",
         "position": "RB",
-        "depthChartPosition": "RB",
+        "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -19106,7 +19106,7 @@
         "name": "Noah Brown",
         "team": "WAS",
         "position": "WR",
-        "depthChartPosition": null,
+        "depthChartPosition": "SWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Ribs",
         "injuryNotes": null
@@ -19196,7 +19196,7 @@
         "name": "Darius Rush",
         "team": "WAS",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Groin",
         "injuryNotes": null
@@ -19226,7 +19226,7 @@
         "name": "Luke McCaffrey",
         "team": "WAS",
         "position": "WR",
-        "depthChartPosition": null,
+        "depthChartPosition": "SWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Collarbone",
         "injuryNotes": "Fracture"
@@ -19266,7 +19266,7 @@
         "name": "Jaylin Lane",
         "team": "WAS",
         "position": "WR",
-        "depthChartPosition": null,
+        "depthChartPosition": "SWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
@@ -20046,7 +20046,7 @@
         "name": "Tyquan Thornton",
         "team": "KC",
         "position": "WR",
-        "depthChartPosition": null,
+        "depthChartPosition": "SWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Concussion",
         "injuryNotes": null
@@ -20126,7 +20126,7 @@
         "name": "Rashee Rice",
         "team": "KC",
         "position": "WR",
-        "depthChartPosition": null,
+        "depthChartPosition": "SWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Concussion",
         "injuryNotes": null
@@ -20752,7 +20752,7 @@
         "name": "Tyreek Hill",
         "team": "MIA",
         "position": "WR",
-        "depthChartPosition": null,
+        "depthChartPosition": "SWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee - ACL",
         "injuryNotes": "Surgery"
@@ -20822,7 +20822,7 @@
         "name": "Kendall Sheffield",
         "team": "MIA",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -20872,7 +20872,7 @@
         "name": "Dee Eskridge",
         "team": "MIA",
         "position": "WR",
-        "depthChartPosition": null,
+        "depthChartPosition": "SWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Toe",
         "injuryNotes": null
@@ -22508,7 +22508,7 @@
         "name": "Zay Jones",
         "team": "ARI",
         "position": "WR",
-        "depthChartPosition": null,
+        "depthChartPosition": "SWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Achilles",
         "injuryNotes": "Surgery"
@@ -22608,7 +22608,7 @@
         "name": "Andre Baccellia",
         "team": "ARI",
         "position": "WR",
-        "depthChartPosition": null,
+        "depthChartPosition": "SWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Neck",
         "injuryNotes": null
@@ -22748,7 +22748,7 @@
         "name": "Marvin Harrison",
         "team": "ARI",
         "position": "WR",
-        "depthChartPosition": null,
+        "depthChartPosition": "SWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
@@ -23576,7 +23576,7 @@
         "name": "Dayton Wade",
         "team": "BAL",
         "position": "WR",
-        "depthChartPosition": "PR",
+        "depthChartPosition": "SWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Ribs",
         "injuryNotes": "Surgery"
@@ -23626,7 +23626,7 @@
         "name": "Chandler Martin",
         "team": "BAL",
         "position": "LB",
-        "depthChartPosition": "LB",
+        "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Knee - ACL",
         "injuryNotes": "Surgery"
@@ -24546,6 +24546,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1237,
-    "lastUpdate": "2026-01-05T10:28:17.342Z"
+    "lastUpdate": "2026-01-05T11:22:02.068Z"
   }
 }
