@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T20:28:35.854Z",
+  "lastUpdated": "2026-01-05T20:43:19.327Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17382,7 +17382,7 @@
         "name": "Jaden Smith",
         "team": null,
         "position": "WR",
-        "depthChartPosition": "SWR",
+        "depthChartPosition": "RWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -17424,7 +17424,7 @@
         "name": "Rakeem Nunez-Roches",
         "team": "NYG",
         "position": "DT",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "RDE",
         "injuryStatus": "IR",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
@@ -17494,7 +17494,7 @@
         "name": "Wan'Dale Robinson",
         "team": "NYG",
         "position": "WR",
-        "depthChartPosition": "SWR",
+        "depthChartPosition": "RWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Ribs",
         "injuryNotes": null
@@ -17514,7 +17514,7 @@
         "name": "Cor'Dale Flott",
         "team": "NYG",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "RCB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -17624,7 +17624,7 @@
         "name": "Malik Nabers",
         "team": "NYG",
         "position": "WR",
-        "depthChartPosition": "SWR",
+        "depthChartPosition": "LWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -17760,6 +17760,16 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee - ACL",
         "injuryNotes": "Surgery"
+      },
+      {
+        "id": "6612",
+        "name": "Luke Gifford",
+        "team": "SF",
+        "position": "LB",
+        "depthChartPosition": "LOLB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Quadriceps",
+        "injuryNotes": null
       },
       {
         "id": "6803",
@@ -17898,7 +17908,7 @@
         "name": "Josh Reynolds",
         "team": "NYJ",
         "position": "WR",
-        "depthChartPosition": "RWR",
+        "depthChartPosition": "SWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Hip",
         "injuryNotes": null
@@ -17908,7 +17918,7 @@
         "name": "Isaiah Oliver",
         "team": "NYJ",
         "position": "CB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "FS",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -17918,7 +17928,7 @@
         "name": "Kris Boyd",
         "team": "NYJ",
         "position": "CB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "RCB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Shoulder",
         "injuryNotes": null
@@ -17988,7 +17998,7 @@
         "name": "Jay Tufele",
         "team": "NYJ",
         "position": "DT",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "RDT",
         "injuryStatus": "IR",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
@@ -17998,7 +18008,7 @@
         "name": "Garrett Wilson",
         "team": "NYJ",
         "position": "WR",
-        "depthChartPosition": "SWR",
+        "depthChartPosition": "LWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": "Sprain"
@@ -18048,7 +18058,7 @@
         "name": "Tony Adams",
         "team": "NYJ",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "SS",
         "injuryStatus": "IR",
         "injuryBodyPart": "Groin",
         "injuryNotes": null
@@ -18078,7 +18088,7 @@
         "name": "Will McDonald",
         "team": "NYJ",
         "position": "DE",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "LDE",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -18148,7 +18158,7 @@
         "name": "Azareye'h Thomas",
         "team": "NYJ",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "LCB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Shoulder",
         "injuryNotes": null
@@ -18158,7 +18168,7 @@
         "name": "Tyler Baron",
         "team": "NYJ",
         "position": "DE",
-        "depthChartPosition": "RDE",
+        "depthChartPosition": "LDT",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -18168,7 +18178,7 @@
         "name": "Kiko Mauigoa",
         "team": "NYJ",
         "position": "LB",
-        "depthChartPosition": "LB",
+        "depthChartPosition": "ROLB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Neck",
         "injuryNotes": null
@@ -18220,7 +18230,7 @@
         "name": "Calvin Ridley",
         "team": "TEN",
         "position": "WR",
-        "depthChartPosition": "SWR",
+        "depthChartPosition": "RWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Lower Leg",
         "injuryNotes": "Surgery"
@@ -18270,7 +18280,7 @@
         "name": "Van Jefferson",
         "team": "TEN",
         "position": "WR",
-        "depthChartPosition": "SWR",
+        "depthChartPosition": "RWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Forearm",
         "injuryNotes": null
@@ -18290,7 +18300,7 @@
         "name": "Jalyn Armour-Davis",
         "team": "TEN",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "RCB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Achilles",
         "injuryNotes": null
@@ -18320,7 +18330,7 @@
         "name": "Anfernee Orji",
         "team": "TEN",
         "position": "LB",
-        "depthChartPosition": "LB",
+        "depthChartPosition": "RILB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee - ACL",
         "injuryNotes": null
@@ -18380,7 +18390,7 @@
         "name": "Oluwafemi Oladejo",
         "team": "TEN",
         "position": "DL",
-        "depthChartPosition": "LB",
+        "depthChartPosition": "LOLB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Calf",
         "injuryNotes": null
@@ -18764,7 +18774,7 @@
         "name": "Brandon Johnson",
         "team": "PHI",
         "position": "DB",
-        "depthChartPosition": "RDE",
+        "depthChartPosition": null,
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
@@ -18826,7 +18836,7 @@
         "name": "Maxx Crosby",
         "team": "LV",
         "position": "DE",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "LDE",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -18836,7 +18846,7 @@
         "name": "Jeremy Chinn",
         "team": "LV",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "NB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Back",
         "injuryNotes": null
@@ -18876,7 +18886,7 @@
         "name": "Kyu Blu Kelly",
         "team": "LV",
         "position": "CB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "RCB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": "Ruptured"
@@ -18906,7 +18916,7 @@
         "name": "Brennan Jackson",
         "team": "LV",
         "position": "DE",
-        "depthChartPosition": "LB",
+        "depthChartPosition": "ROLB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
@@ -19150,7 +19160,7 @@
         "name": "Kaevon Merriweather",
         "team": "HOU",
         "position": "DB",
-        "depthChartPosition": "FS",
+        "depthChartPosition": null,
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -19948,7 +19958,7 @@
         "name": "Maliek Collins",
         "team": "CLE",
         "position": "DT",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "LDT",
         "injuryStatus": "IR",
         "injuryBodyPart": "Quadriceps",
         "injuryNotes": "Surgery"
@@ -20128,7 +20138,7 @@
         "name": "Dom Jones",
         "team": "CLE",
         "position": "DB",
-        "depthChartPosition": "LCB",
+        "depthChartPosition": "DB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -20190,7 +20200,7 @@
         "name": "Sione Takitaki",
         "team": "MIN",
         "position": "LB",
-        "depthChartPosition": "LILB",
+        "depthChartPosition": null,
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
@@ -20332,7 +20342,7 @@
         "name": "DeForest Buckner",
         "team": "IND",
         "position": "DT",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "RDT",
         "injuryStatus": "IR",
         "injuryBodyPart": "Neck",
         "injuryNotes": null
@@ -20362,7 +20372,7 @@
         "name": "Charvarius Ward",
         "team": "IND",
         "position": "CB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "LCB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Concussion",
         "injuryNotes": null
@@ -20746,7 +20756,7 @@
         "name": "Tyquan Thornton",
         "team": "KC",
         "position": "WR",
-        "depthChartPosition": "SWR",
+        "depthChartPosition": "RWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Concussion",
         "injuryNotes": null
@@ -20766,7 +20776,7 @@
         "name": "Leo Chenal",
         "team": "KC",
         "position": "LB",
-        "depthChartPosition": "LB",
+        "depthChartPosition": "ROLB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Shoulder",
         "injuryNotes": null
@@ -20776,7 +20786,7 @@
         "name": "Trent McDuffie",
         "team": "KC",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "RCB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -20786,7 +20796,7 @@
         "name": "Jaylen Watson",
         "team": "KC",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "LCB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Groin",
         "injuryNotes": null
@@ -20836,7 +20846,7 @@
         "name": "Nikko Remigio",
         "team": "KC",
         "position": "WR",
-        "depthChartPosition": "RWR",
+        "depthChartPosition": "SWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -20886,7 +20896,7 @@
         "name": "Omarr Norman-Lott",
         "team": "KC",
         "position": "DT",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "RDT",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee - ACL",
         "injuryNotes": "Surgery"
@@ -21140,7 +21150,7 @@
         "name": "Michael Davis",
         "team": "NO",
         "position": "CB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "LCB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Shoulder",
         "injuryNotes": null
@@ -21200,7 +21210,7 @@
         "name": "Julian Blackmon",
         "team": "NO",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "SS",
         "injuryStatus": "IR",
         "injuryBodyPart": "Shoulder - Labrum",
         "injuryNotes": null
@@ -21300,7 +21310,7 @@
         "name": "Ja'Lynn Polk",
         "team": "NO",
         "position": "WR",
-        "depthChartPosition": "SWR",
+        "depthChartPosition": "RWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Shoulder",
         "injuryNotes": null
@@ -21310,7 +21320,7 @@
         "name": "Bub Means",
         "team": "NO",
         "position": "WR",
-        "depthChartPosition": "SWR",
+        "depthChartPosition": "RWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Lower Leg",
         "injuryNotes": null
@@ -21452,7 +21462,7 @@
         "name": "Sean Murphy-Bunting",
         "team": "ARI",
         "position": "CB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "LCB",
         "injuryStatus": "PUP",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -21472,7 +21482,7 @@
         "name": "Mack Wilson",
         "team": "ARI",
         "position": "LB",
-        "depthChartPosition": "LB",
+        "depthChartPosition": "RILB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Ribs",
         "injuryNotes": "Soreness"
@@ -21482,7 +21492,7 @@
         "name": "Andre Baccellia",
         "team": "ARI",
         "position": "WR",
-        "depthChartPosition": "SWR",
+        "depthChartPosition": "LWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Neck",
         "injuryNotes": null
@@ -21502,7 +21512,7 @@
         "name": "Simi Fehoko",
         "team": "ARI",
         "position": "WR",
-        "depthChartPosition": "LWR",
+        "depthChartPosition": "RWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Wrist",
         "injuryNotes": null
@@ -21532,7 +21542,7 @@
         "name": "Joey Blount",
         "team": "ARI",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "FS",
         "injuryStatus": "IR",
         "injuryBodyPart": "Neck",
         "injuryNotes": null
@@ -21542,7 +21552,7 @@
         "name": "J.J. Russell",
         "team": "ARI",
         "position": "LB",
-        "depthChartPosition": "LB",
+        "depthChartPosition": "LILB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Concussion",
         "injuryNotes": null
@@ -21572,7 +21582,7 @@
         "name": "Kei'Trel Clark",
         "team": "ARI",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "RCB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Back",
         "injuryNotes": null
@@ -21612,7 +21622,7 @@
         "name": "Marvin Harrison",
         "team": "ARI",
         "position": "WR",
-        "depthChartPosition": "SWR",
+        "depthChartPosition": "LWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
@@ -21632,7 +21642,7 @@
         "name": "Walter Nolen",
         "team": "ARI",
         "position": "DL",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "RDE",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -21794,7 +21804,7 @@
         "name": "Josh Paschal",
         "team": "DET",
         "position": "DL",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "LDE",
         "injuryStatus": "PUP",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -21814,7 +21824,7 @@
         "name": "Brian Branch",
         "team": "DET",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "SS",
         "injuryStatus": "IR",
         "injuryBodyPart": "Achilles",
         "injuryNotes": "Surgery"
@@ -21834,7 +21844,7 @@
         "name": "Terrion Arnold",
         "team": "DET",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "LCB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Shoulder",
         "injuryNotes": null
@@ -21988,7 +21998,7 @@
         "name": "Trey Hendrickson",
         "team": "CIN",
         "position": "DE",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "RDE",
         "injuryStatus": "IR",
         "injuryBodyPart": "Pelvis",
         "injuryNotes": "Surgery"
@@ -22028,7 +22038,7 @@
         "name": "Cam Taylor-Britt",
         "team": "CIN",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "RCB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
@@ -22088,7 +22098,7 @@
         "name": "Kris Jenkins",
         "team": "CIN",
         "position": "DL",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "RDT",
         "injuryStatus": "IR",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
@@ -22170,7 +22180,7 @@
         "name": "Zyon McCollum",
         "team": "TB",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "LCB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Hip",
         "injuryNotes": null
@@ -22210,7 +22220,7 @@
         "name": "David Walker",
         "team": "TB",
         "position": "LB",
-        "depthChartPosition": "LB",
+        "depthChartPosition": "RILB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -22220,7 +22230,7 @@
         "name": "Jayson Jones",
         "team": "TB",
         "position": "DL",
-        "depthChartPosition": "DL",
+        "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -22230,7 +22240,7 @@
         "name": "JJ Roberts",
         "team": "TB",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "SS",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -22404,7 +22414,7 @@
         "name": "Mike Hughes",
         "team": "ATL",
         "position": "CB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "LCB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
@@ -22474,7 +22484,7 @@
         "name": "Troy Andersen",
         "team": "ATL",
         "position": "LB",
-        "depthChartPosition": "LB",
+        "depthChartPosition": "RILB",
         "injuryStatus": "PUP",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -22494,7 +22504,7 @@
         "name": "Zach Harrison",
         "team": "ATL",
         "position": "DE",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "RDE",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -22504,7 +22514,7 @@
         "name": "Clark Phillips",
         "team": "ATL",
         "position": "CB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "RCB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Triceps",
         "injuryNotes": null
@@ -22544,7 +22554,7 @@
         "name": "Bralen Trice",
         "team": "ATL",
         "position": "DE",
-        "depthChartPosition": "LB",
+        "depthChartPosition": "LOLB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -22554,7 +22564,7 @@
         "name": "Brandon Dorlus",
         "team": "ATL",
         "position": "DE",
-        "depthChartPosition": "RDE",
+        "depthChartPosition": "NT",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Hamstring",
         "injuryNotes": null
@@ -22594,7 +22604,7 @@
         "name": "Malik Verdon",
         "team": "ATL",
         "position": "DB",
-        "depthChartPosition": "LB",
+        "depthChartPosition": "RILB",
         "injuryStatus": "PUP",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -22626,7 +22636,7 @@
         "name": "Nnamdi Madubuike",
         "team": "BAL",
         "position": "DT",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "RDE",
         "injuryStatus": "IR",
         "injuryBodyPart": "Neck",
         "injuryNotes": null
@@ -22696,7 +22706,7 @@
         "name": "Teddye Buchanan",
         "team": "BAL",
         "position": "LB",
-        "depthChartPosition": "LB",
+        "depthChartPosition": "LILB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee - ACL",
         "injuryNotes": "Surgery"
@@ -22706,7 +22716,7 @@
         "name": "Robert Longerbeam",
         "team": "BAL",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "NB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -22716,7 +22726,7 @@
         "name": "Bilhal Kone",
         "team": "BAL",
         "position": "CB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "NB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": "Strain"
@@ -23030,7 +23040,7 @@
         "name": "Jack Sanborn",
         "team": "DAL",
         "position": "LB",
-        "depthChartPosition": "LB",
+        "depthChartPosition": "LOLB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Groin",
         "injuryNotes": null
@@ -23070,7 +23080,7 @@
         "name": "DaRon Bland",
         "team": "DAL",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "NB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
@@ -23162,7 +23172,7 @@
         "name": "Ty Summers",
         "team": "CHI",
         "position": "LB",
-        "depthChartPosition": "MLB",
+        "depthChartPosition": null,
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
@@ -23465,7 +23475,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1129,
-    "lastUpdate": "2026-01-05T20:28:35.854Z"
+    "injuredPlayers": 1130,
+    "lastUpdate": "2026-01-05T20:43:19.327Z"
   }
 }
