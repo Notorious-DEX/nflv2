@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T22:00:57.186Z",
+  "lastUpdated": "2026-01-05T22:23:41.462Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18336,26 +18336,6 @@
         "injuryNotes": null
       },
       {
-        "id": "11113",
-        "name": "Joel Wilson",
-        "team": "TEN",
-        "position": "TE",
-        "depthChartPosition": null,
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "11568",
-        "name": "Blake Watson",
-        "team": "TEN",
-        "position": "RB",
-        "depthChartPosition": null,
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
         "id": "11847",
         "name": "James Williams",
         "team": "TEN",
@@ -23475,7 +23455,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1130,
-    "lastUpdate": "2026-01-05T22:00:57.186Z"
+    "injuredPlayers": 1128,
+    "lastUpdate": "2026-01-05T22:23:41.462Z"
   }
 }
