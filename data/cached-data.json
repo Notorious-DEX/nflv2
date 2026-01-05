@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T17:56:45.008Z",
+  "lastUpdated": "2026-01-05T18:24:32.904Z",
   "season": 2025,
   "gameStats": [
     {
@@ -23076,6 +23076,16 @@
         "injuryNotes": null
       },
       {
+        "id": "8449",
+        "name": "Tyler Smith",
+        "team": "DAL",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "8476",
         "name": "DaRon Bland",
         "team": "DAL",
@@ -23475,7 +23485,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1130,
-    "lastUpdate": "2026-01-05T17:56:45.008Z"
+    "injuredPlayers": 1131,
+    "lastUpdate": "2026-01-05T18:24:32.904Z"
   }
 }
