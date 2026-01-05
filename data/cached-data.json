@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T04:16:59.480Z",
+  "lastUpdated": "2026-01-05T05:36:16.699Z",
   "season": 2025,
   "gameStats": [
     {
@@ -10503,6 +10503,88 @@
       }
     },
     {
+      "id": "401772969",
+      "date": "2026-01-03T21:30Z",
+      "week": 18,
+      "homeTeam": "Tampa Bay Buccaneers",
+      "awayTeam": "Carolina Panthers",
+      "scores": {
+        "Tampa Bay Buccaneers": 16,
+        "Carolina Panthers": 14
+      },
+      "stats": {
+        "Carolina Panthers": {
+          "passingYards": 266,
+          "rushingYards": 19,
+          "totalYards": 285,
+          "turnovers": 3,
+          "thirdDownEff": {
+            "made": 1,
+            "attempts": 8,
+            "percentage": 12.5
+          },
+          "redZoneEff": null,
+          "possessionTime": 1355,
+          "sacks": 0
+        },
+        "Tampa Bay Buccaneers": {
+          "passingYards": 198,
+          "rushingYards": 140,
+          "totalYards": 338,
+          "turnovers": 1,
+          "thirdDownEff": {
+            "made": 8,
+            "attempts": 15,
+            "percentage": 53.333333333333336
+          },
+          "redZoneEff": null,
+          "possessionTime": 2245,
+          "sacks": 0
+        }
+      }
+    },
+    {
+      "id": "401772961",
+      "date": "2026-01-04T01:00Z",
+      "week": 18,
+      "homeTeam": "San Francisco 49ers",
+      "awayTeam": "Seattle Seahawks",
+      "scores": {
+        "San Francisco 49ers": 3,
+        "Seattle Seahawks": 13
+      },
+      "stats": {
+        "Seattle Seahawks": {
+          "passingYards": 181,
+          "rushingYards": 180,
+          "totalYards": 361,
+          "turnovers": 0,
+          "thirdDownEff": {
+            "made": 6,
+            "attempts": 13,
+            "percentage": 46.15384615384615
+          },
+          "redZoneEff": null,
+          "possessionTime": 2268,
+          "sacks": 0
+        },
+        "San Francisco 49ers": {
+          "passingYards": 120,
+          "rushingYards": 53,
+          "totalYards": 173,
+          "turnovers": 1,
+          "thirdDownEff": {
+            "made": 2,
+            "attempts": 9,
+            "percentage": 22.22222222222222
+          },
+          "redZoneEff": null,
+          "possessionTime": 1332,
+          "sacks": 0
+        }
+      }
+    },
+    {
       "id": "401772966",
       "date": "2026-01-04T18:00Z",
       "week": 18,
@@ -11040,83 +11122,42 @@
       }
     },
     {
-      "id": "401772969",
-      "date": "2026-01-03T21:30Z",
+      "id": "401772960",
+      "date": "2026-01-05T01:20Z",
       "week": 18,
-      "homeTeam": "Tampa Bay Buccaneers",
-      "awayTeam": "Carolina Panthers",
+      "homeTeam": "Pittsburgh Steelers",
+      "awayTeam": "Baltimore Ravens",
       "scores": {
-        "Tampa Bay Buccaneers": 16,
-        "Carolina Panthers": 14
+        "Pittsburgh Steelers": 26,
+        "Baltimore Ravens": 24
       },
       "stats": {
-        "Carolina Panthers": {
-          "passingYards": 266,
-          "rushingYards": 19,
-          "totalYards": 285,
-          "turnovers": 3,
-          "thirdDownEff": {
-            "made": 1,
-            "attempts": 8,
-            "percentage": 12.5
-          },
-          "redZoneEff": null,
-          "possessionTime": 1355,
-          "sacks": 0
-        },
-        "Tampa Bay Buccaneers": {
-          "passingYards": 198,
-          "rushingYards": 140,
-          "totalYards": 338,
+        "Baltimore Ravens": {
+          "passingYards": 222,
+          "rushingYards": 137,
+          "totalYards": 359,
           "turnovers": 1,
           "thirdDownEff": {
-            "made": 8,
-            "attempts": 15,
-            "percentage": 53.333333333333336
+            "made": 4,
+            "attempts": 12,
+            "percentage": 33.33333333333333
           },
           "redZoneEff": null,
-          "possessionTime": 2245,
+          "possessionTime": 1549,
           "sacks": 0
-        }
-      }
-    },
-    {
-      "id": "401772961",
-      "date": "2026-01-04T01:00Z",
-      "week": 18,
-      "homeTeam": "San Francisco 49ers",
-      "awayTeam": "Seattle Seahawks",
-      "scores": {
-        "San Francisco 49ers": 3,
-        "Seattle Seahawks": 13
-      },
-      "stats": {
-        "Seattle Seahawks": {
-          "passingYards": 181,
-          "rushingYards": 180,
-          "totalYards": 361,
+        },
+        "Pittsburgh Steelers": {
+          "passingYards": 290,
+          "rushingYards": 100,
+          "totalYards": 390,
           "turnovers": 0,
           "thirdDownEff": {
-            "made": 6,
-            "attempts": 13,
-            "percentage": 46.15384615384615
+            "made": 9,
+            "attempts": 16,
+            "percentage": 56.25
           },
           "redZoneEff": null,
-          "possessionTime": 2268,
-          "sacks": 0
-        },
-        "San Francisco 49ers": {
-          "passingYards": 120,
-          "rushingYards": 53,
-          "totalYards": 173,
-          "turnovers": 1,
-          "thirdDownEff": {
-            "made": 2,
-            "attempts": 9,
-            "percentage": 22.22222222222222
-          },
-          "redZoneEff": null,
-          "possessionTime": 1332,
+          "possessionTime": 2051,
           "sacks": 0
         }
       }
@@ -11174,29 +11215,29 @@
       "record": "8-9"
     },
     "Baltimore Ravens": {
-      "games": 16,
-      "passingYards": 2763,
-      "rushingYards": 2525,
-      "totalYards": 5288,
-      "turnovers": 22,
-      "thirdDownAttempts": 191,
-      "thirdDownConversions": 79,
+      "games": 17,
+      "passingYards": 2985,
+      "rushingYards": 2662,
+      "totalYards": 5647,
+      "turnovers": 23,
+      "thirdDownAttempts": 203,
+      "thirdDownConversions": 83,
       "redZoneAttempts": 0,
       "redZoneScores": 0,
-      "possessionTime": 28221,
+      "possessionTime": 29770,
       "sacks": 0,
-      "pointsFor": 400,
-      "pointsAgainst": 372,
+      "pointsFor": 424,
+      "pointsAgainst": 398,
       "wins": 8,
-      "losses": 8,
-      "avgPassingYards": 172.6875,
-      "avgRushingYards": 157.8125,
-      "avgTotalYards": 330.5,
-      "avgPointsFor": 25,
-      "avgPointsAgainst": 23.25,
-      "thirdDownPct": 41.361256544502616,
+      "losses": 9,
+      "avgPassingYards": 175.58823529411765,
+      "avgRushingYards": 156.58823529411765,
+      "avgTotalYards": 332.1764705882353,
+      "avgPointsFor": 24.941176470588236,
+      "avgPointsAgainst": 23.41176470588235,
+      "thirdDownPct": 40.88669950738916,
       "redZonePct": 0,
-      "record": "8-8"
+      "record": "8-9"
     },
     "Buffalo Bills": {
       "games": 17,
@@ -11774,29 +11815,29 @@
       "record": "11-6"
     },
     "Pittsburgh Steelers": {
-      "games": 16,
-      "passingYards": 3150,
-      "rushingYards": 1656,
-      "totalYards": 4806,
+      "games": 17,
+      "passingYards": 3440,
+      "rushingYards": 1756,
+      "totalYards": 5196,
       "turnovers": 15,
-      "thirdDownAttempts": 194,
-      "thirdDownConversions": 75,
+      "thirdDownAttempts": 210,
+      "thirdDownConversions": 84,
       "redZoneAttempts": 0,
       "redZoneScores": 0,
-      "possessionTime": 26937,
+      "possessionTime": 28988,
       "sacks": 0,
-      "pointsFor": 371,
-      "pointsAgainst": 363,
-      "wins": 9,
+      "pointsFor": 397,
+      "pointsAgainst": 387,
+      "wins": 10,
       "losses": 7,
-      "avgPassingYards": 196.875,
-      "avgRushingYards": 103.5,
-      "avgTotalYards": 300.375,
-      "avgPointsFor": 23.1875,
-      "avgPointsAgainst": 22.6875,
-      "thirdDownPct": 38.659793814432994,
+      "avgPassingYards": 202.35294117647058,
+      "avgRushingYards": 103.29411764705883,
+      "avgTotalYards": 305.6470588235294,
+      "avgPointsFor": 23.352941176470587,
+      "avgPointsAgainst": 22.764705882352942,
+      "thirdDownPct": 40,
       "redZonePct": 0,
-      "record": "9-7"
+      "record": "10-7"
     },
     "San Francisco 49ers": {
       "games": 17,
@@ -11950,8 +11991,8 @@
       "Washington Commanders": 22,
       "New Orleans Saints": 23,
       "Philadelphia Eagles": 24,
-      "Miami Dolphins": 25,
-      "Pittsburgh Steelers": 26,
+      "Pittsburgh Steelers": 25,
+      "Miami Dolphins": 26,
       "Carolina Panthers": 27,
       "Minnesota Vikings": 28,
       "New York Jets": 29,
@@ -12165,16 +12206,6 @@
         "injuryNotes": null
       },
       {
-        "id": "6039",
-        "name": "Ty Johnson",
-        "team": "BUF",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
         "id": "7042",
         "name": "Tyler Bass",
         "team": "BUF",
@@ -12250,7 +12281,7 @@
         "team": "BUF",
         "position": "DB",
         "depthChartPosition": "RCB",
-        "injuryStatus": "Doubtful",
+        "injuryStatus": "Questionable",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -17419,16 +17450,6 @@
         "injuryNotes": null
       },
       {
-        "id": "4053",
-        "name": "Garett Bolles",
-        "team": "DEN",
-        "position": "OT",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
         "id": "4579",
         "name": "Josh Banderas",
         "team": "DEN",
@@ -17587,16 +17608,6 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Foot",
         "injuryNotes": "Surgery"
-      },
-      {
-        "id": "11023",
-        "name": "Alex Forsyth",
-        "team": "DEN",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
       },
       {
         "id": "11325",
@@ -18824,7 +18835,7 @@
         "team": "TEN",
         "position": "G",
         "depthChartPosition": "OL",
-        "injuryStatus": "Out",
+        "injuryStatus": "Questionable",
         "injuryBodyPart": "Biceps",
         "injuryNotes": null
       },
@@ -18974,7 +18985,7 @@
         "team": "TEN",
         "position": "QB",
         "depthChartPosition": "QB",
-        "injuryStatus": "Out",
+        "injuryStatus": "Questionable",
         "injuryBodyPart": "Shoulder",
         "injuryNotes": null
       },
@@ -21139,16 +21150,6 @@
         "injuryNotes": null
       },
       {
-        "id": "7667",
-        "name": "Tyson Campbell",
-        "team": "CLE",
-        "position": "CB",
-        "depthChartPosition": "RCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Shoulder",
-        "injuryNotes": null
-      },
-      {
         "id": "7844",
         "name": "Sam Kamara",
         "team": "CLE",
@@ -21336,7 +21337,7 @@
         "team": "MIN",
         "position": "TE",
         "depthChartPosition": "TE",
-        "injuryStatus": "Out",
+        "injuryStatus": "Questionable",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -21543,16 +21544,6 @@
         "injuryNotes": null
       },
       {
-        "id": "7630",
-        "name": "Greg Newsome",
-        "team": "JAX",
-        "position": "CB",
-        "depthChartPosition": "RCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Shoulder",
-        "injuryNotes": null
-      },
-      {
         "id": "7785",
         "name": "Cole Van Lanen",
         "team": "JAX",
@@ -21580,16 +21571,6 @@
         "depthChartPosition": "OL",
         "injuryStatus": "PUP",
         "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "11631",
-        "name": "Brian Thomas",
-        "team": "JAX",
-        "position": "WR",
-        "depthChartPosition": "LWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Head",
         "injuryNotes": null
       },
       {
@@ -22266,7 +22247,7 @@
         "team": "NO",
         "position": "TE",
         "depthChartPosition": "QB",
-        "injuryStatus": "Out",
+        "injuryStatus": "Questionable",
         "injuryBodyPart": "Shoulder",
         "injuryNotes": null
       },
@@ -23571,6 +23552,16 @@
         "injuryNotes": "Concussion"
       },
       {
+        "id": "11045",
+        "name": "Andrew Vorhees",
+        "team": "BAL",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Foot",
+        "injuryNotes": null
+      },
+      {
         "id": "11722",
         "name": "Adisa Isaac",
         "team": "BAL",
@@ -23710,16 +23701,6 @@
         "depthChartPosition": "OL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Leg",
-        "injuryNotes": null
-      },
-      {
-        "id": "6864",
-        "name": "Khalid Kareem",
-        "team": "ATL",
-        "position": "DE",
-        "depthChartPosition": "RDE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Head",
         "injuryNotes": null
       },
       {
@@ -24562,9 +24543,9 @@
   },
   "upcomingGames": [],
   "summary": {
-    "totalGames": 271,
+    "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1243,
-    "lastUpdate": "2026-01-05T04:16:59.480Z"
+    "injuredPlayers": 1237,
+    "lastUpdate": "2026-01-05T05:36:16.699Z"
   }
 }
