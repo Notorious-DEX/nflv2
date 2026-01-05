@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T18:24:32.904Z",
+  "lastUpdated": "2026-01-05T18:36:53.170Z",
   "season": 2025,
   "gameStats": [
     {
@@ -20590,16 +20590,6 @@
         "injuryNotes": "Surgery"
       },
       {
-        "id": "5846",
-        "name": "DK Metcalf",
-        "team": "PIT",
-        "position": "WR",
-        "depthChartPosition": "LWR",
-        "injuryStatus": "Sus",
-        "injuryBodyPart": "Suspension",
-        "injuryNotes": null
-      },
-      {
         "id": "6074",
         "name": "Donald Parham",
         "team": "PIT",
@@ -23485,7 +23475,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1131,
-    "lastUpdate": "2026-01-05T18:24:32.904Z"
+    "injuredPlayers": 1130,
+    "lastUpdate": "2026-01-05T18:36:53.170Z"
   }
 }
