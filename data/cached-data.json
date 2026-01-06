@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-06T01:54:42.427Z",
+  "lastUpdated": "2026-01-06T03:09:07.214Z",
   "season": 2025,
   "gameStats": [
     {
@@ -12261,7 +12261,7 @@
         "team": "BUF",
         "position": "DB",
         "depthChartPosition": "RCB",
-        "injuryStatus": "Doubtful",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -22186,16 +22186,6 @@
         "injuryNotes": null
       },
       {
-        "id": "13020",
-        "name": "Jayson Jones",
-        "team": "TB",
-        "position": "DL",
-        "depthChartPosition": "DL",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
         "id": "13132",
         "name": "JJ Roberts",
         "team": "TB",
@@ -23445,7 +23435,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1127,
-    "lastUpdate": "2026-01-06T01:54:42.427Z"
+    "injuredPlayers": 1126,
+    "lastUpdate": "2026-01-06T03:09:07.214Z"
   }
 }
