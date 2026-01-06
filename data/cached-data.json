@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-06T14:25:51.342Z",
+  "lastUpdated": "2026-01-06T15:26:27.490Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22196,158 +22196,6 @@
         "injuryNotes": null
       }
     ],
-    "CAR": [
-      {
-        "id": "4274",
-        "name": "David Moore",
-        "team": "CAR",
-        "position": "WR",
-        "depthChartPosition": "LWR",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Elbow",
-        "injuryNotes": null
-      },
-      {
-        "id": "7041",
-        "name": "Robert Hunt",
-        "team": "CAR",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Biceps",
-        "injuryNotes": null
-      },
-      {
-        "id": "7301",
-        "name": "Tershawn Wharton",
-        "team": "CAR",
-        "position": "DT",
-        "depthChartPosition": "NT",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hamstring",
-        "injuryNotes": null
-      },
-      {
-        "id": "7674",
-        "name": "Patrick Jones",
-        "team": "CAR",
-        "position": "DE",
-        "depthChartPosition": "LB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Back",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "7697",
-        "name": "Brady Christensen",
-        "team": "CAR",
-        "position": "T",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Achilles",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "7712",
-        "name": "Robert Rochell",
-        "team": "CAR",
-        "position": "DB",
-        "depthChartPosition": "RCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Concussion",
-        "injuryNotes": null
-      },
-      {
-        "id": "7722",
-        "name": "Bobby Brown",
-        "team": "CAR",
-        "position": "DT",
-        "depthChartPosition": "NT",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Concussion",
-        "injuryNotes": null
-      },
-      {
-        "id": "8386",
-        "name": "Damarri Mathis",
-        "team": "CAR",
-        "position": "DB",
-        "depthChartPosition": "DB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "10953",
-        "name": "Chandler Zavala",
-        "team": "CAR",
-        "position": "G",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Calf",
-        "injuryNotes": null
-      },
-      {
-        "id": "11305",
-        "name": "Claudin Cherelus",
-        "team": "CAR",
-        "position": "LB",
-        "depthChartPosition": "LILB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Calf",
-        "injuryNotes": null
-      },
-      {
-        "id": "11583",
-        "name": "Jonathon Brooks",
-        "team": "CAR",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "PUP",
-        "injuryBodyPart": "Knee - ACL",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "11600",
-        "name": "Ja'Tavion Sanders",
-        "team": "CAR",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Lower Leg",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "11724",
-        "name": "Trevin Wallace",
-        "team": "CAR",
-        "position": "LB",
-        "depthChartPosition": "LB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Shoulder",
-        "injuryNotes": null
-      },
-      {
-        "id": "12010",
-        "name": "Popo Aumavae",
-        "team": "CAR",
-        "position": "DT",
-        "depthChartPosition": "DL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "12957",
-        "name": "Corey Thornton",
-        "team": "CAR",
-        "position": "CB",
-        "depthChartPosition": "DB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Lower Leg",
-        "injuryNotes": "Surgery"
-      }
-    ],
     "ATL": [
       {
         "id": "4598",
@@ -23429,13 +23277,155 @@
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
       }
+    ],
+    "CAR": [
+      {
+        "id": "7041",
+        "name": "Robert Hunt",
+        "team": "CAR",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Biceps",
+        "injuryNotes": null
+      },
+      {
+        "id": "7301",
+        "name": "Tershawn Wharton",
+        "team": "CAR",
+        "position": "DT",
+        "depthChartPosition": "NT",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
+        "id": "7674",
+        "name": "Patrick Jones",
+        "team": "CAR",
+        "position": "DE",
+        "depthChartPosition": "LB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Back",
+        "injuryNotes": "Surgery"
+      },
+      {
+        "id": "7697",
+        "name": "Brady Christensen",
+        "team": "CAR",
+        "position": "T",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Achilles",
+        "injuryNotes": "Surgery"
+      },
+      {
+        "id": "7712",
+        "name": "Robert Rochell",
+        "team": "CAR",
+        "position": "DB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Concussion",
+        "injuryNotes": null
+      },
+      {
+        "id": "7722",
+        "name": "Bobby Brown",
+        "team": "CAR",
+        "position": "DT",
+        "depthChartPosition": "NT",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Concussion",
+        "injuryNotes": null
+      },
+      {
+        "id": "8386",
+        "name": "Damarri Mathis",
+        "team": "CAR",
+        "position": "DB",
+        "depthChartPosition": "DB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": "Surgery"
+      },
+      {
+        "id": "10953",
+        "name": "Chandler Zavala",
+        "team": "CAR",
+        "position": "G",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Calf",
+        "injuryNotes": null
+      },
+      {
+        "id": "11305",
+        "name": "Claudin Cherelus",
+        "team": "CAR",
+        "position": "LB",
+        "depthChartPosition": "LILB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Calf",
+        "injuryNotes": null
+      },
+      {
+        "id": "11583",
+        "name": "Jonathon Brooks",
+        "team": "CAR",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "PUP",
+        "injuryBodyPart": "Knee - ACL",
+        "injuryNotes": "Surgery"
+      },
+      {
+        "id": "11600",
+        "name": "Ja'Tavion Sanders",
+        "team": "CAR",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Lower Leg",
+        "injuryNotes": "Surgery"
+      },
+      {
+        "id": "11724",
+        "name": "Trevin Wallace",
+        "team": "CAR",
+        "position": "LB",
+        "depthChartPosition": "LB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Shoulder",
+        "injuryNotes": null
+      },
+      {
+        "id": "12010",
+        "name": "Popo Aumavae",
+        "team": "CAR",
+        "position": "DT",
+        "depthChartPosition": "DL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "12957",
+        "name": "Corey Thornton",
+        "team": "CAR",
+        "position": "CB",
+        "depthChartPosition": "DB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Lower Leg",
+        "injuryNotes": "Surgery"
+      }
     ]
   },
   "upcomingGames": [],
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1126,
-    "lastUpdate": "2026-01-06T14:25:51.342Z"
+    "injuredPlayers": 1125,
+    "lastUpdate": "2026-01-06T15:26:27.490Z"
   }
 }
