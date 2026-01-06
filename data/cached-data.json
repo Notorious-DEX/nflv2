@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-06T20:27:31.240Z",
+  "lastUpdated": "2026-01-06T21:23:56.523Z",
   "season": 2025,
   "gameStats": [
     {
@@ -23162,7 +23162,7 @@
         "name": "Cody White",
         "team": "SEA",
         "position": "WR",
-        "depthChartPosition": "LWR",
+        "depthChartPosition": "KR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Groin",
         "injuryNotes": null
@@ -23416,6 +23416,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1124,
-    "lastUpdate": "2026-01-06T20:27:31.240Z"
+    "lastUpdate": "2026-01-06T21:23:56.523Z"
   }
 }
