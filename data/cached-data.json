@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-06T21:23:56.523Z",
+  "lastUpdated": "2026-01-06T22:24:08.494Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18944,16 +18944,6 @@
         "injuryNotes": null
       },
       {
-        "id": "8330",
-        "name": "Quentin Lake",
-        "team": "LAR",
-        "position": "DB",
-        "depthChartPosition": "FS",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Elbow",
-        "injuryNotes": "Surgery"
-      },
-      {
         "id": "8739",
         "name": "Keir Thomas",
         "team": "LAR",
@@ -19073,16 +19063,6 @@
         "depthChartPosition": "DL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Foot",
-        "injuryNotes": null
-      },
-      {
-        "id": "6910",
-        "name": "Darrell Taylor",
-        "team": "HOU",
-        "position": "DE",
-        "depthChartPosition": "LDE",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
       {
@@ -19568,16 +19548,6 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
-      },
-      {
-        "id": "12781",
-        "name": "Karene Reid",
-        "team": "DEN",
-        "position": "LB",
-        "depthChartPosition": "RILB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Hamstring",
-        "injuryNotes": null
       }
     ],
     "MIA": [
@@ -19870,16 +19840,6 @@
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Head",
         "injuryNotes": "Concussion"
-      },
-      {
-        "id": "12865",
-        "name": "AJ Henning",
-        "team": "MIA",
-        "position": "WR",
-        "depthChartPosition": null,
-        "injuryStatus": "Sus",
-        "injuryBodyPart": "Suspension",
-        "injuryNotes": null
       },
       {
         "id": "12866",
@@ -23350,16 +23310,6 @@
         "injuryNotes": null
       },
       {
-        "id": "11305",
-        "name": "Claudin Cherelus",
-        "team": "CAR",
-        "position": "LB",
-        "depthChartPosition": "LILB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Calf",
-        "injuryNotes": null
-      },
-      {
         "id": "11583",
         "name": "Jonathon Brooks",
         "team": "CAR",
@@ -23415,7 +23365,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1124,
-    "lastUpdate": "2026-01-06T21:23:56.523Z"
+    "injuredPlayers": 1119,
+    "lastUpdate": "2026-01-06T22:24:08.494Z"
   }
 }
