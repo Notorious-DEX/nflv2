@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-06T19:19:04.558Z",
+  "lastUpdated": "2026-01-06T20:27:31.240Z",
   "season": 2025,
   "gameStats": [
     {
@@ -21608,16 +21608,6 @@
         "injuryNotes": null
       },
       {
-        "id": "12565",
-        "name": "Will Johnson",
-        "team": "ARI",
-        "position": "DB",
-        "depthChartPosition": "LCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
         "id": "12736",
         "name": "Kitan Crawford",
         "team": "ARI",
@@ -23425,7 +23415,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1125,
-    "lastUpdate": "2026-01-06T19:19:04.558Z"
+    "injuredPlayers": 1124,
+    "lastUpdate": "2026-01-06T20:27:31.240Z"
   }
 }
