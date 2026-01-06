@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-06T15:26:27.490Z",
+  "lastUpdated": "2026-01-06T16:32:55.325Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22756,7 +22756,7 @@
         "name": "McCallan Castles",
         "team": "GB",
         "position": "TE",
-        "depthChartPosition": null,
+        "depthChartPosition": "TE",
         "injuryStatus": "Out",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -23426,6 +23426,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1125,
-    "lastUpdate": "2026-01-06T15:26:27.490Z"
+    "lastUpdate": "2026-01-06T16:32:55.325Z"
   }
 }
