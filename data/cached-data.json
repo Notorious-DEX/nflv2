@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-06T01:18:57.878Z",
+  "lastUpdated": "2026-01-06T01:54:42.427Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17998,7 +17998,7 @@
         "name": "Andre Cisco",
         "team": "NYJ",
         "position": "DB",
-        "depthChartPosition": null,
+        "depthChartPosition": "DB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Pectoral",
         "injuryNotes": "Surgery"
@@ -18432,7 +18432,7 @@
         "name": "Eddie Goldman",
         "team": "WAS",
         "position": "DT",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "LDT",
         "injuryStatus": "IR",
         "injuryBodyPart": "Concussion",
         "injuryNotes": null
@@ -18452,7 +18452,7 @@
         "name": "Marshon Lattimore",
         "team": "WAS",
         "position": "CB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "RCB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee - ACL",
         "injuryNotes": "Surgery"
@@ -18472,7 +18472,7 @@
         "name": "Noah Brown",
         "team": "WAS",
         "position": "WR",
-        "depthChartPosition": "SWR",
+        "depthChartPosition": "RWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Ribs",
         "injuryNotes": null
@@ -18492,7 +18492,7 @@
         "name": "Dorance Armstrong",
         "team": "WAS",
         "position": "DE",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "LDE",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -18562,7 +18562,7 @@
         "name": "Javontae Jean-Baptiste",
         "team": "WAS",
         "position": "DL",
-        "depthChartPosition": "LDE",
+        "depthChartPosition": "DL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Pectoral",
         "injuryNotes": "Surgery"
@@ -18572,7 +18572,7 @@
         "name": "Trey Amos",
         "team": "WAS",
         "position": "DB",
-        "depthChartPosition": "LCB",
+        "depthChartPosition": "DB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Lower Leg",
         "injuryNotes": "Fracture"
@@ -19596,7 +19596,7 @@
         "name": "Artie Burns",
         "team": "MIA",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "NB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -19616,7 +19616,7 @@
         "name": "Tyreek Hill",
         "team": "MIA",
         "position": "WR",
-        "depthChartPosition": "SWR",
+        "depthChartPosition": "RWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee - ACL",
         "injuryNotes": "Surgery"
@@ -19706,7 +19706,7 @@
         "name": "Benito Jones",
         "team": "MIA",
         "position": "DT",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "NT",
         "injuryStatus": "IR",
         "injuryBodyPart": "Back",
         "injuryNotes": null
@@ -19826,7 +19826,7 @@
         "name": "Storm Duck",
         "team": "MIA",
         "position": "CB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "LCB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -22190,7 +22190,7 @@
         "name": "Jayson Jones",
         "team": "TB",
         "position": "DL",
-        "depthChartPosition": null,
+        "depthChartPosition": "DL",
         "injuryStatus": "Out",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -23446,6 +23446,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1127,
-    "lastUpdate": "2026-01-06T01:18:57.878Z"
+    "lastUpdate": "2026-01-06T01:54:42.427Z"
   }
 }
