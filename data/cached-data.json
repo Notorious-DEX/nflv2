@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T23:57:47.883Z",
+  "lastUpdated": "2026-01-06T01:18:57.878Z",
   "season": 2025,
   "gameStats": [
     {
@@ -12186,6 +12186,16 @@
         "injuryNotes": null
       },
       {
+        "id": "6039",
+        "name": "Ty Johnson",
+        "team": "BUF",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
         "id": "7042",
         "name": "Tyler Bass",
         "team": "BUF",
@@ -19208,16 +19218,6 @@
         "injuryNotes": null
       },
       {
-        "id": "2353",
-        "name": "Denzel Perryman",
-        "team": "LAC",
-        "position": "LB",
-        "depthChartPosition": "LILB",
-        "injuryStatus": "Sus",
-        "injuryBodyPart": "Suspension",
-        "injuryNotes": null
-      },
-      {
         "id": "5051",
         "name": "Donte Jackson",
         "team": "LAC",
@@ -22954,179 +22954,17 @@
         "injuryNotes": null
       }
     ],
-    "DAL": [
+    "CHI": [
       {
-        "id": "6151",
-        "name": "Miles Sanders",
-        "team": "DAL",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "7588",
-        "name": "Javonte Williams",
-        "team": "DAL",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Shoulder",
-        "injuryNotes": null
-      },
-      {
-        "id": "7629",
-        "name": "Payton Turner",
-        "team": "DAL",
-        "position": "DE",
-        "depthChartPosition": "LDE",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Ribs",
-        "injuryNotes": "Fracture"
-      },
-      {
-        "id": "7923",
-        "name": "Rob Jones",
-        "team": "DAL",
-        "position": "G",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Neck",
-        "injuryNotes": "Fracture"
-      },
-      {
-        "id": "8363",
-        "name": "Jack Sanborn",
-        "team": "DAL",
-        "position": "LB",
-        "depthChartPosition": "LOLB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Groin",
-        "injuryNotes": null
-      },
-      {
-        "id": "8397",
-        "name": "Juanyeh Thomas",
-        "team": "DAL",
-        "position": "DB",
-        "depthChartPosition": "FS",
-        "injuryStatus": "PUP",
-        "injuryBodyPart": "Migraine",
-        "injuryNotes": null
-      },
-      {
-        "id": "8399",
-        "name": "Markquese Bell",
-        "team": "DAL",
-        "position": "DB",
-        "depthChartPosition": "SS",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Concussion",
-        "injuryNotes": null
-      },
-      {
-        "id": "8449",
-        "name": "Tyler Smith",
-        "team": "DAL",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "8476",
-        "name": "DaRon Bland",
-        "team": "DAL",
+        "id": "5893",
+        "name": "C.J. Gardner-Johnson",
+        "team": "CHI",
         "position": "DB",
         "depthChartPosition": "NB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Foot",
-        "injuryNotes": null
-      },
-      {
-        "id": "8800",
-        "name": "Malik Davis",
-        "team": "DAL",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Eye",
-        "injuryNotes": null
-      },
-      {
-        "id": "10933",
-        "name": "DeMarvion Overshown",
-        "team": "DAL",
-        "position": "LB",
-        "depthChartPosition": "LOLB",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Concussion",
         "injuryNotes": null
       },
-      {
-        "id": "11516",
-        "name": "T.J. Bass",
-        "team": "DAL",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "11657",
-        "name": "Tyler Guyton",
-        "team": "DAL",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": "Sprain"
-      },
-      {
-        "id": "11774",
-        "name": "Trevor Keegan",
-        "team": "DAL",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Neck",
-        "injuryNotes": null
-      },
-      {
-        "id": "12559",
-        "name": "Shavon Revel",
-        "team": "DAL",
-        "position": "DB",
-        "depthChartPosition": "LCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Concussion",
-        "injuryNotes": null
-      },
-      {
-        "id": "12698",
-        "name": "Ajani Cornelius",
-        "team": "DAL",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "12855",
-        "name": "Alijah Clark",
-        "team": "DAL",
-        "position": "DB",
-        "depthChartPosition": "FS",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Personal",
-        "injuryNotes": null
-      }
-    ],
-    "CHI": [
       {
         "id": "6294",
         "name": "Ty Summers",
@@ -23308,6 +23146,178 @@
         "injuryNotes": null
       }
     ],
+    "DAL": [
+      {
+        "id": "6151",
+        "name": "Miles Sanders",
+        "team": "DAL",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": "Surgery"
+      },
+      {
+        "id": "7588",
+        "name": "Javonte Williams",
+        "team": "DAL",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Shoulder",
+        "injuryNotes": null
+      },
+      {
+        "id": "7629",
+        "name": "Payton Turner",
+        "team": "DAL",
+        "position": "DE",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Ribs",
+        "injuryNotes": "Fracture"
+      },
+      {
+        "id": "7923",
+        "name": "Rob Jones",
+        "team": "DAL",
+        "position": "G",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Neck",
+        "injuryNotes": "Fracture"
+      },
+      {
+        "id": "8363",
+        "name": "Jack Sanborn",
+        "team": "DAL",
+        "position": "LB",
+        "depthChartPosition": "LOLB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Groin",
+        "injuryNotes": null
+      },
+      {
+        "id": "8397",
+        "name": "Juanyeh Thomas",
+        "team": "DAL",
+        "position": "DB",
+        "depthChartPosition": "FS",
+        "injuryStatus": "PUP",
+        "injuryBodyPart": "Migraine",
+        "injuryNotes": null
+      },
+      {
+        "id": "8399",
+        "name": "Markquese Bell",
+        "team": "DAL",
+        "position": "DB",
+        "depthChartPosition": "SS",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Concussion",
+        "injuryNotes": null
+      },
+      {
+        "id": "8449",
+        "name": "Tyler Smith",
+        "team": "DAL",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "8476",
+        "name": "DaRon Bland",
+        "team": "DAL",
+        "position": "DB",
+        "depthChartPosition": "NB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Foot",
+        "injuryNotes": null
+      },
+      {
+        "id": "8800",
+        "name": "Malik Davis",
+        "team": "DAL",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Eye",
+        "injuryNotes": null
+      },
+      {
+        "id": "10933",
+        "name": "DeMarvion Overshown",
+        "team": "DAL",
+        "position": "LB",
+        "depthChartPosition": "LOLB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Concussion",
+        "injuryNotes": null
+      },
+      {
+        "id": "11516",
+        "name": "T.J. Bass",
+        "team": "DAL",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "11657",
+        "name": "Tyler Guyton",
+        "team": "DAL",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": "Sprain"
+      },
+      {
+        "id": "11774",
+        "name": "Trevor Keegan",
+        "team": "DAL",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Neck",
+        "injuryNotes": null
+      },
+      {
+        "id": "12559",
+        "name": "Shavon Revel",
+        "team": "DAL",
+        "position": "DB",
+        "depthChartPosition": "LCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Concussion",
+        "injuryNotes": null
+      },
+      {
+        "id": "12698",
+        "name": "Ajani Cornelius",
+        "team": "DAL",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "12855",
+        "name": "Alijah Clark",
+        "team": "DAL",
+        "position": "DB",
+        "depthChartPosition": "FS",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Personal",
+        "injuryNotes": null
+      }
+    ],
     "SEA": [
       {
         "id": "7022",
@@ -23435,7 +23445,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1126,
-    "lastUpdate": "2026-01-05T23:57:47.883Z"
+    "injuredPlayers": 1127,
+    "lastUpdate": "2026-01-06T01:18:57.878Z"
   }
 }
