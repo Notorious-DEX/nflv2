@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-07T17:28:44.669Z",
+  "lastUpdated": "2026-01-07T18:36:56.429Z",
   "season": 2025,
   "gameStats": [
     {
@@ -12176,6 +12176,16 @@
         "injuryNotes": null
       },
       {
+        "id": "4191",
+        "name": "Matt Milano",
+        "team": "BUF",
+        "position": "LB",
+        "depthChartPosition": "LOLB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
+        "injuryNotes": null
+      },
+      {
         "id": "5841",
         "name": "Ed Oliver",
         "team": "BUF",
@@ -12243,6 +12253,16 @@
         "depthChartPosition": "MLB",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Calf",
+        "injuryNotes": null
+      },
+      {
+        "id": "10236",
+        "name": "Dalton Kincaid",
+        "team": "BUF",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
       {
@@ -22809,7 +22829,7 @@
         "team": "GB",
         "position": "WR",
         "depthChartPosition": "SWR",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -23405,7 +23425,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1123,
-    "lastUpdate": "2026-01-07T17:28:44.669Z"
+    "injuredPlayers": 1125,
+    "lastUpdate": "2026-01-07T18:36:56.429Z"
   }
 }
