@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-07T20:28:39.586Z",
+  "lastUpdated": "2026-01-07T21:23:59.192Z",
   "season": 2025,
   "gameStats": [
     {
@@ -12160,7 +12160,7 @@
         "name": "Jordan Phillips",
         "team": "BUF",
         "position": "DE",
-        "depthChartPosition": "LDT",
+        "depthChartPosition": "DL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
@@ -17916,7 +17916,7 @@
         "name": "Tatum Bethune",
         "team": "SF",
         "position": "LB",
-        "depthChartPosition": "MLB",
+        "depthChartPosition": "LB",
         "injuryStatus": "Out",
         "injuryBodyPart": "Groin",
         "injuryNotes": null
@@ -21892,6 +21892,16 @@
         "injuryNotes": null
       },
       {
+        "id": "7630",
+        "name": "Greg Newsome",
+        "team": "JAX",
+        "position": "CB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Shoulder",
+        "injuryNotes": null
+      },
+      {
         "id": "7785",
         "name": "Cole Van Lanen",
         "team": "JAX",
@@ -21902,6 +21912,16 @@
         "injuryNotes": null
       },
       {
+        "id": "8305",
+        "name": "Montaric Brown",
+        "team": "JAX",
+        "position": "DB",
+        "depthChartPosition": "LCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Nose",
+        "injuryNotes": null
+      },
+      {
         "id": "11048",
         "name": "Cooper Hodges",
         "team": "JAX",
@@ -21909,6 +21929,16 @@
         "depthChartPosition": "OL",
         "injuryStatus": "PUP",
         "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "11725",
+        "name": "Jarrian Jones",
+        "team": "JAX",
+        "position": "DB",
+        "depthChartPosition": "LCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
         "injuryNotes": null
       },
       {
@@ -21959,6 +21989,16 @@
         "depthChartPosition": "LOLB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Lower Body",
+        "injuryNotes": null
+      },
+      {
+        "id": "12900",
+        "name": "Danny Striggow",
+        "team": "JAX",
+        "position": "DL",
+        "depthChartPosition": "RDE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Elbow",
         "injuryNotes": null
       }
     ],
@@ -22612,6 +22652,16 @@
         "injuryNotes": "Surgery"
       },
       {
+        "id": "7936",
+        "name": "Amen Ogbongbemiga",
+        "team": "CHI",
+        "position": "LB",
+        "depthChartPosition": "LOLB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Concussion",
+        "injuryNotes": null
+      },
+      {
         "id": "8365",
         "name": "Kyler Gordon",
         "team": "CHI",
@@ -22629,6 +22679,16 @@
         "depthChartPosition": "OL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "8702",
+        "name": "Jaylon Jones",
+        "team": "CHI",
+        "position": "CB",
+        "depthChartPosition": "LCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
       {
@@ -22729,16 +22789,6 @@
         "depthChartPosition": "RCB",
         "injuryStatus": "PUP",
         "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "13079",
-        "name": "Jahdae Walker",
-        "team": "CHI",
-        "position": "WR",
-        "depthChartPosition": "LWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
         "injuryNotes": null
       },
       {
@@ -22848,7 +22898,7 @@
         "name": "Bo Melton",
         "team": "GB",
         "position": "WR",
-        "depthChartPosition": "SWR",
+        "depthChartPosition": "KR",
         "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -23445,7 +23495,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1127,
-    "lastUpdate": "2026-01-07T20:28:39.586Z"
+    "injuredPlayers": 1132,
+    "lastUpdate": "2026-01-07T21:23:59.192Z"
   }
 }
