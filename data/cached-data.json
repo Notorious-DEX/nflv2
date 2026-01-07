@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-07T19:22:08.493Z",
+  "lastUpdated": "2026-01-07T20:28:39.586Z",
   "season": 2025,
   "gameStats": [
     {
@@ -12146,6 +12146,16 @@
         "injuryNotes": null
       },
       {
+        "id": "2330",
+        "name": "Shaq Thompson",
+        "team": "BUF",
+        "position": "LB",
+        "depthChartPosition": "ROLB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Neck",
+        "injuryNotes": null
+      },
+      {
         "id": "2357",
         "name": "Jordan Phillips",
         "team": "BUF",
@@ -12153,16 +12163,6 @@
         "depthChartPosition": "LDT",
         "injuryStatus": "IR",
         "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
-        "id": "3156",
-        "name": "Joey Bosa",
-        "team": "BUF",
-        "position": "LB",
-        "depthChartPosition": "RDE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
       {
@@ -12234,6 +12234,16 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Achilles",
         "injuryNotes": "Surgery"
+      },
+      {
+        "id": "7670",
+        "name": "Joshua Palmer",
+        "team": "BUF",
+        "position": "WR",
+        "depthChartPosition": "LWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
       },
       {
         "id": "7787",
@@ -17852,6 +17862,16 @@
         "injuryNotes": null
       },
       {
+        "id": "10904",
+        "name": "Keion White",
+        "team": "SF",
+        "position": "DL",
+        "depthChartPosition": "RDE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
         "id": "10995",
         "name": "Tre Tomlinson",
         "team": "SF",
@@ -23425,7 +23445,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1125,
-    "lastUpdate": "2026-01-07T19:22:08.493Z"
+    "injuredPlayers": 1127,
+    "lastUpdate": "2026-01-07T20:28:39.586Z"
   }
 }
