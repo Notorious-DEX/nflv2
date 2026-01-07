@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-07T22:23:21.324Z",
+  "lastUpdated": "2026-01-07T23:23:22.222Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18700,16 +18700,6 @@
         "injuryNotes": null
       },
       {
-        "id": "7635",
-        "name": "Jaelan Phillips",
-        "team": "PHI",
-        "position": "LB",
-        "depthChartPosition": "LOLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
         "id": "7653",
         "name": "Azeez Ojulari",
         "team": "PHI",
@@ -23495,7 +23485,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1132,
-    "lastUpdate": "2026-01-07T22:23:21.324Z"
+    "injuredPlayers": 1131,
+    "lastUpdate": "2026-01-07T23:23:22.222Z"
   }
 }
