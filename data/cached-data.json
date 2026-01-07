@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-07T15:28:33.600Z",
+  "lastUpdated": "2026-01-07T16:34:22.729Z",
   "season": 2025,
   "gameStats": [
     {
@@ -12146,6 +12146,16 @@
         "injuryNotes": null
       },
       {
+        "id": "2357",
+        "name": "Jordan Phillips",
+        "team": "BUF",
+        "position": "DE",
+        "depthChartPosition": "LDT",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
         "id": "3156",
         "name": "Joey Bosa",
         "team": "BUF",
@@ -23395,7 +23405,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1122,
-    "lastUpdate": "2026-01-07T15:28:33.600Z"
+    "injuredPlayers": 1123,
+    "lastUpdate": "2026-01-07T16:34:22.729Z"
   }
 }
