@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-07T11:22:37.932Z",
+  "lastUpdated": "2026-01-07T12:51:42.769Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22884,6 +22884,16 @@
         "injuryNotes": null
       },
       {
+        "id": "11687",
+        "name": "Edgerrin Cooper",
+        "team": "GB",
+        "position": "LB",
+        "depthChartPosition": "ROLB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Shoulder",
+        "injuryNotes": null
+      },
+      {
         "id": "11787",
         "name": "Kamal Hadden",
         "team": "GB",
@@ -22940,6 +22950,16 @@
         "position": "WR",
         "depthChartPosition": "KR",
         "injuryStatus": "IR",
+        "injuryBodyPart": "Foot",
+        "injuryNotes": null
+      },
+      {
+        "id": "12704",
+        "name": "Warren Brinson",
+        "team": "GB",
+        "position": "DL",
+        "depthChartPosition": "LDT",
+        "injuryStatus": "Questionable",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
       },
@@ -23375,7 +23395,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1120,
-    "lastUpdate": "2026-01-07T11:22:37.932Z"
+    "injuredPlayers": 1122,
+    "lastUpdate": "2026-01-07T12:51:42.769Z"
   }
 }
