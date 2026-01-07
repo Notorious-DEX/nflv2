@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-07T21:23:59.192Z",
+  "lastUpdated": "2026-01-07T22:23:21.324Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22859,7 +22859,7 @@
         "team": "GB",
         "position": "LB",
         "depthChartPosition": "ROLB",
-        "injuryStatus": "IR",
+        "injuryStatus": "Questionable",
         "injuryBodyPart": "Pectoral",
         "injuryNotes": null
       },
@@ -22984,16 +22984,6 @@
         "injuryNotes": null
       },
       {
-        "id": "11687",
-        "name": "Edgerrin Cooper",
-        "team": "GB",
-        "position": "LB",
-        "depthChartPosition": "ROLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Shoulder",
-        "injuryNotes": null
-      },
-      {
         "id": "11787",
         "name": "Kamal Hadden",
         "team": "GB",
@@ -23070,6 +23060,16 @@
         "position": "OL",
         "depthChartPosition": "OL",
         "injuryStatus": "PUP",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "12788",
+        "name": "Will Sheppard",
+        "team": "GB",
+        "position": "WR",
+        "depthChartPosition": null,
+        "injuryStatus": "Out",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
       }
@@ -23496,6 +23496,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1132,
-    "lastUpdate": "2026-01-07T21:23:59.192Z"
+    "lastUpdate": "2026-01-07T22:23:21.324Z"
   }
 }
