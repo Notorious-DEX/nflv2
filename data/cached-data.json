@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-07T10:27:43.428Z",
+  "lastUpdated": "2026-01-07T11:22:37.932Z",
   "season": 2025,
   "gameStats": [
     {
@@ -15262,7 +15262,7 @@
         "name": "Baylen Buchanan",
         "team": null,
         "position": "CB",
-        "depthChartPosition": "LB",
+        "depthChartPosition": "SWR",
         "injuryStatus": "NA",
         "injuryBodyPart": null,
         "injuryNotes": null
@@ -23376,6 +23376,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1120,
-    "lastUpdate": "2026-01-07T10:27:43.428Z"
+    "lastUpdate": "2026-01-07T11:22:37.932Z"
   }
 }
