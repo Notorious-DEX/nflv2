@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-08T23:00:00.141Z",
+  "lastUpdated": "2026-01-08T23:18:59.780Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19438,26 +19438,6 @@
         "injuryNotes": null
       },
       {
-        "id": "5051",
-        "name": "Donte Jackson",
-        "team": "LAC",
-        "position": "CB",
-        "depthChartPosition": "LCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
-        "id": "5298",
-        "name": "Bradley Bozeman",
-        "team": "LAC",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Concussion",
-        "injuryNotes": null
-      },
-      {
         "id": "6348",
         "name": "Del'Shawn Phillips",
         "team": "LAC",
@@ -19493,16 +19473,6 @@
         "team": "LAC",
         "position": "CB",
         "depthChartPosition": "SS",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hamstring",
-        "injuryNotes": null
-      },
-      {
-        "id": "8480",
-        "name": "Jamaree Salyer",
-        "team": "LAC",
-        "position": "OL",
-        "depthChartPosition": "OL",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Hamstring",
         "injuryNotes": null
@@ -23535,7 +23505,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1136,
-    "lastUpdate": "2026-01-08T23:00:00.141Z"
+    "injuredPlayers": 1133,
+    "lastUpdate": "2026-01-08T23:18:59.780Z"
   }
 }
