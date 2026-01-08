@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-08T19:57:59.107Z",
+  "lastUpdated": "2026-01-08T20:16:43.319Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22969,7 +22969,7 @@
         "team": "CHI",
         "position": "DB",
         "depthChartPosition": "NB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Concussion",
         "injuryNotes": null
       },
@@ -22999,7 +22999,7 @@
         "team": "CHI",
         "position": "LB",
         "depthChartPosition": "RDE",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Concussion",
         "injuryNotes": null
       },
@@ -23019,7 +23019,7 @@
         "team": "CHI",
         "position": "LB",
         "depthChartPosition": "LOLB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Concussion",
         "injuryNotes": null
       },
@@ -23041,16 +23041,6 @@
         "depthChartPosition": "OL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "8702",
-        "name": "Jaylon Jones",
-        "team": "CHI",
-        "position": "CB",
-        "depthChartPosition": "LCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
       {
@@ -23111,16 +23101,6 @@
         "depthChartPosition": "TE",
         "injuryStatus": "Out",
         "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "12606",
-        "name": "Ozzy Trapilo",
-        "team": "CHI",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
       {
@@ -23575,7 +23555,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1140,
-    "lastUpdate": "2026-01-08T19:57:59.107Z"
+    "injuredPlayers": 1138,
+    "lastUpdate": "2026-01-08T20:16:43.319Z"
   }
 }
