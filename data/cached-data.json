@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-08T20:59:11.017Z",
+  "lastUpdated": "2026-01-08T21:19:29.927Z",
   "season": 2025,
   "gameStats": [
     {
@@ -20912,6 +20912,16 @@
         "injuryNotes": null
       },
       {
+        "id": "8228",
+        "name": "Jaylen Warren",
+        "team": "PIT",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
+        "injuryNotes": null
+      },
+      {
         "id": "9479",
         "name": "Darnell Washington",
         "team": "PIT",
@@ -23450,26 +23460,6 @@
         "injuryNotes": "Surgery"
       },
       {
-        "id": "7712",
-        "name": "Robert Rochell",
-        "team": "CAR",
-        "position": "DB",
-        "depthChartPosition": "RCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Concussion",
-        "injuryNotes": null
-      },
-      {
-        "id": "7722",
-        "name": "Bobby Brown",
-        "team": "CAR",
-        "position": "DT",
-        "depthChartPosition": "NT",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Concussion",
-        "injuryNotes": null
-      },
-      {
         "id": "8386",
         "name": "Damarri Mathis",
         "team": "CAR",
@@ -23545,7 +23535,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1137,
-    "lastUpdate": "2026-01-08T20:59:11.017Z"
+    "injuredPlayers": 1136,
+    "lastUpdate": "2026-01-08T21:19:29.927Z"
   }
 }
