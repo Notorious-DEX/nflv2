@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-08T17:29:00.330Z",
+  "lastUpdated": "2026-01-08T17:43:12.068Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22717,7 +22717,7 @@
         "team": "CHI",
         "position": "LB",
         "depthChartPosition": null,
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
       },
@@ -23596,6 +23596,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1142,
-    "lastUpdate": "2026-01-08T17:29:00.330Z"
+    "lastUpdate": "2026-01-08T17:43:12.068Z"
   }
 }
