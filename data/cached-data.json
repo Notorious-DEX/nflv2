@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-08T21:37:48.853Z",
+  "lastUpdated": "2026-01-08T21:48:59.333Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19620,16 +19620,6 @@
         "injuryNotes": null
       },
       {
-        "id": "3271",
-        "name": "Tyler Higbee",
-        "team": "LAR",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
         "id": "5308",
         "name": "Duplicate Player",
         "team": "LAR",
@@ -23535,7 +23525,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1136,
-    "lastUpdate": "2026-01-08T21:37:48.853Z"
+    "injuredPlayers": 1135,
+    "lastUpdate": "2026-01-08T21:48:59.333Z"
   }
 }
