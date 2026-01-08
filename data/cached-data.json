@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-08T22:26:31.364Z",
+  "lastUpdated": "2026-01-08T22:44:03.894Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18518,16 +18518,6 @@
         "injuryNotes": null
       },
       {
-        "id": "8267",
-        "name": "Nakobe Dean",
-        "team": "PHI",
-        "position": "LB",
-        "depthChartPosition": "RILB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hamstring",
-        "injuryNotes": null
-      },
-      {
         "id": "10888",
         "name": "Jalen Carter",
         "team": "PHI",
@@ -18984,6 +18974,16 @@
         "injuryNotes": null
       },
       {
+        "id": "3188",
+        "name": "Sheldon Rankins",
+        "team": "HOU",
+        "position": "DT",
+        "depthChartPosition": "LDT",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Elbow",
+        "injuryNotes": null
+      },
+      {
         "id": "4018",
         "name": "Joe Mixon",
         "team": "HOU",
@@ -19024,6 +19024,16 @@
         "injuryNotes": null
       },
       {
+        "id": "5901",
+        "name": "Tytus Howard",
+        "team": "HOU",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
         "id": "7568",
         "name": "Brevin Jordan",
         "team": "HOU",
@@ -19031,6 +19041,16 @@
         "depthChartPosition": "TE",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "8308",
+        "name": "Derek Stingley",
+        "team": "HOU",
+        "position": "DB",
+        "depthChartPosition": "LCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Oblique",
         "injuryNotes": null
       },
       {
@@ -23515,7 +23535,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1134,
-    "lastUpdate": "2026-01-08T22:26:31.364Z"
+    "injuredPlayers": 1136,
+    "lastUpdate": "2026-01-08T22:44:03.894Z"
   }
 }
