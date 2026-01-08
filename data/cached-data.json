@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-08T01:54:39.163Z",
+  "lastUpdated": "2026-01-08T03:41:34.884Z",
   "season": 2025,
   "gameStats": [
     {
@@ -6321,47 +6321,6 @@
       }
     },
     {
-      "id": "401772880",
-      "date": "2025-11-16T18:00Z",
-      "week": 11,
-      "homeTeam": "Minnesota Vikings",
-      "awayTeam": "Chicago Bears",
-      "scores": {
-        "Minnesota Vikings": 17,
-        "Chicago Bears": 19
-      },
-      "stats": {
-        "Chicago Bears": {
-          "passingYards": 180,
-          "rushingYards": 140,
-          "totalYards": 320,
-          "turnovers": 0,
-          "thirdDownEff": {
-            "made": 7,
-            "attempts": 18,
-            "percentage": 38.88888888888889
-          },
-          "redZoneEff": null,
-          "possessionTime": 2219,
-          "sacks": 0
-        },
-        "Minnesota Vikings": {
-          "passingYards": 150,
-          "rushingYards": 115,
-          "totalYards": 265,
-          "turnovers": 2,
-          "thirdDownEff": {
-            "made": 3,
-            "attempts": 11,
-            "percentage": 27.27272727272727
-          },
-          "redZoneEff": null,
-          "possessionTime": 1381,
-          "sacks": 0
-        }
-      }
-    },
-    {
       "id": "401772883",
       "date": "2025-11-16T18:00Z",
       "week": 11,
@@ -11290,29 +11249,29 @@
       "record": "8-9"
     },
     "Chicago Bears": {
-      "games": 17,
-      "passingYards": 3826,
-      "rushingYards": 2456,
-      "totalYards": 6282,
+      "games": 16,
+      "passingYards": 3646,
+      "rushingYards": 2316,
+      "totalYards": 5962,
       "turnovers": 11,
-      "thirdDownAttempts": 227,
-      "thirdDownConversions": 97,
+      "thirdDownAttempts": 209,
+      "thirdDownConversions": 90,
       "redZoneAttempts": 0,
       "redZoneScores": 0,
-      "possessionTime": 31596,
+      "possessionTime": 29377,
       "sacks": 0,
-      "pointsFor": 441,
-      "pointsAgainst": 415,
-      "wins": 11,
+      "pointsFor": 422,
+      "pointsAgainst": 398,
+      "wins": 10,
       "losses": 6,
-      "avgPassingYards": 225.05882352941177,
-      "avgRushingYards": 144.47058823529412,
-      "avgTotalYards": 369.52941176470586,
-      "avgPointsFor": 25.941176470588236,
-      "avgPointsAgainst": 24.41176470588235,
-      "thirdDownPct": 42.731277533039645,
+      "avgPassingYards": 227.875,
+      "avgRushingYards": 144.75,
+      "avgTotalYards": 372.625,
+      "avgPointsFor": 26.375,
+      "avgPointsAgainst": 24.875,
+      "thirdDownPct": 43.0622009569378,
       "redZonePct": 0,
-      "record": "11-6"
+      "record": "10-6"
     },
     "Cincinnati Bengals": {
       "games": 17,
@@ -11665,29 +11624,29 @@
       "record": "7-10"
     },
     "Minnesota Vikings": {
-      "games": 17,
-      "passingYards": 2834,
-      "rushingYards": 1841,
-      "totalYards": 4675,
-      "turnovers": 30,
-      "thirdDownAttempts": 195,
-      "thirdDownConversions": 62,
+      "games": 16,
+      "passingYards": 2684,
+      "rushingYards": 1726,
+      "totalYards": 4410,
+      "turnovers": 28,
+      "thirdDownAttempts": 184,
+      "thirdDownConversions": 59,
       "redZoneAttempts": 0,
       "redZoneScores": 0,
-      "possessionTime": 28893,
+      "possessionTime": 27512,
       "sacks": 0,
-      "pointsFor": 344,
-      "pointsAgainst": 333,
+      "pointsFor": 327,
+      "pointsAgainst": 314,
       "wins": 9,
-      "losses": 8,
-      "avgPassingYards": 166.7058823529412,
-      "avgRushingYards": 108.29411764705883,
-      "avgTotalYards": 275,
-      "avgPointsFor": 20.235294117647058,
-      "avgPointsAgainst": 19.58823529411765,
-      "thirdDownPct": 31.794871794871792,
+      "losses": 7,
+      "avgPassingYards": 167.75,
+      "avgRushingYards": 107.875,
+      "avgTotalYards": 275.625,
+      "avgPointsFor": 20.4375,
+      "avgPointsAgainst": 19.625,
+      "thirdDownPct": 32.065217391304344,
       "redZonePct": 0,
-      "record": "9-8"
+      "record": "9-7"
     },
     "New England Patriots": {
       "games": 17,
@@ -12071,8 +12030,8 @@
     "passDefense": {
       "Cleveland Browns": 1,
       "Tennessee Titans": 2,
-      "Minnesota Vikings": 3,
-      "Las Vegas Raiders": 4,
+      "Las Vegas Raiders": 3,
+      "Minnesota Vikings": 4,
       "Baltimore Ravens": 5,
       "Carolina Panthers": 6,
       "Miami Dolphins": 7,
@@ -12089,8 +12048,8 @@
       "New Orleans Saints": 18,
       "Jacksonville Jaguars": 19,
       "Denver Broncos": 20,
-      "Chicago Bears": 21,
-      "Indianapolis Colts": 22,
+      "Indianapolis Colts": 21,
+      "Chicago Bears": 22,
       "Seattle Seahawks": 23,
       "Arizona Cardinals": 24,
       "Cincinnati Bengals": 25,
@@ -23593,9 +23552,9 @@
   },
   "upcomingGames": [],
   "summary": {
-    "totalGames": 272,
+    "totalGames": 271,
     "upcomingGames": 0,
     "injuredPlayers": 1142,
-    "lastUpdate": "2026-01-08T01:54:39.163Z"
+    "lastUpdate": "2026-01-08T03:41:34.884Z"
   }
 }
