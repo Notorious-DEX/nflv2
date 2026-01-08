@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-08T21:55:19.369Z",
+  "lastUpdated": "2026-01-08T22:01:40.597Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19670,16 +19670,6 @@
         "injuryNotes": null
       },
       {
-        "id": "11677",
-        "name": "Braden Fiske",
-        "team": "LAR",
-        "position": "DL",
-        "depthChartPosition": "LDE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
         "id": "12132",
         "name": "Josh Wallace",
         "team": "LAR",
@@ -23525,7 +23515,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1135,
-    "lastUpdate": "2026-01-08T21:55:19.369Z"
+    "injuredPlayers": 1134,
+    "lastUpdate": "2026-01-08T22:01:40.597Z"
   }
 }
