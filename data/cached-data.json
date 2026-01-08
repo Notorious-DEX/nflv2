@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-08T23:49:17.986Z",
+  "lastUpdated": "2026-01-08T23:55:08.300Z",
   "season": 2025,
   "gameStats": [
     {
@@ -21034,6 +21034,16 @@
         "injuryNotes": null
       },
       {
+        "id": "9504",
+        "name": "Kayshon Boutte",
+        "team": "NE",
+        "position": "WR",
+        "depthChartPosition": "LWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
         "id": "10870",
         "name": "Deneric Prince",
         "team": "NE",
@@ -23465,7 +23475,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1129,
-    "lastUpdate": "2026-01-08T23:49:17.986Z"
+    "injuredPlayers": 1130,
+    "lastUpdate": "2026-01-08T23:55:08.300Z"
   }
 }
