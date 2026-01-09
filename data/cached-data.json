@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-09T19:21:56.202Z",
+  "lastUpdated": "2026-01-09T20:27:57.313Z",
   "season": 2025,
   "gameStats": [
     {
@@ -12116,16 +12116,6 @@
         "injuryNotes": null
       },
       {
-        "id": "1343",
-        "name": "Jordan Poyer",
-        "team": "BUF",
-        "position": "DB",
-        "depthChartPosition": "SS",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hamstring",
-        "injuryNotes": null
-      },
-      {
         "id": "1518",
         "name": "Darius Slay",
         "team": "BUF",
@@ -12133,16 +12123,6 @@
         "depthChartPosition": "LCB",
         "injuryStatus": "DNR",
         "injuryBodyPart": "Personal",
-        "injuryNotes": null
-      },
-      {
-        "id": "1932",
-        "name": "DaQuan Jones",
-        "team": "BUF",
-        "position": "DT",
-        "depthChartPosition": "RDT",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Calf",
         "injuryNotes": null
       },
       {
@@ -12253,16 +12233,6 @@
         "depthChartPosition": "MLB",
         "injuryStatus": "Out",
         "injuryBodyPart": "Calf",
-        "injuryNotes": null
-      },
-      {
-        "id": "10236",
-        "name": "Dalton Kincaid",
-        "team": "BUF",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
       {
@@ -19241,7 +19211,7 @@
         "team": "LAC",
         "position": "DB",
         "depthChartPosition": "FS",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -19281,7 +19251,7 @@
         "team": "LAC",
         "position": "WR",
         "depthChartPosition": "RWR",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
@@ -23475,7 +23445,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1130,
-    "lastUpdate": "2026-01-09T19:21:56.202Z"
+    "injuredPlayers": 1127,
+    "lastUpdate": "2026-01-09T20:27:57.313Z"
   }
 }
