@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-09T21:23:58.641Z",
+  "lastUpdated": "2026-01-09T22:23:59.503Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17732,16 +17732,6 @@
         "injuryNotes": null
       },
       {
-        "id": "4217",
-        "name": "George Kittle",
-        "team": "SF",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
         "id": "4218",
         "name": "Trent Taylor",
         "team": "SF",
@@ -17790,26 +17780,6 @@
         "injuryStatus": "DNR",
         "injuryBodyPart": "Knee - ACL + MCL",
         "injuryNotes": "Surgery"
-      },
-      {
-        "id": "6812",
-        "name": "Yetur Gross-Matos",
-        "team": "SF",
-        "position": "DE",
-        "depthChartPosition": "RDE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "6841",
-        "name": "Jordan Elliott",
-        "team": "SF",
-        "position": "DT",
-        "depthChartPosition": "LDT",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
       },
       {
         "id": "6963",
@@ -17889,6 +17859,16 @@
         "depthChartPosition": "LWR",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Knee - PCL",
+        "injuryNotes": null
+      },
+      {
+        "id": "11697",
+        "name": "Renardo Green",
+        "team": "SF",
+        "position": "DB",
+        "depthChartPosition": "LCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Foot",
         "injuryNotes": null
       },
       {
@@ -18904,16 +18884,6 @@
         "injuryNotes": null
       },
       {
-        "id": "3188",
-        "name": "Sheldon Rankins",
-        "team": "HOU",
-        "position": "DT",
-        "depthChartPosition": "LDT",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Elbow",
-        "injuryNotes": null
-      },
-      {
         "id": "4018",
         "name": "Joe Mixon",
         "team": "HOU",
@@ -18974,16 +18944,6 @@
         "injuryNotes": null
       },
       {
-        "id": "8308",
-        "name": "Derek Stingley",
-        "team": "HOU",
-        "position": "DB",
-        "depthChartPosition": "LCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Oblique",
-        "injuryNotes": null
-      },
-      {
         "id": "8349",
         "name": "Jake Hansen",
         "team": "HOU",
@@ -19041,16 +19001,6 @@
         "depthChartPosition": "RCB",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
-        "id": "11805",
-        "name": "Jamal Hill",
-        "team": "HOU",
-        "position": "LB",
-        "depthChartPosition": "LOLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Calf",
         "injuryNotes": null
       },
       {
@@ -20480,6 +20430,16 @@
         "injuryNotes": null
       },
       {
+        "id": "4144",
+        "name": "Jonnu Smith",
+        "team": "PIT",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Lower Body",
+        "injuryNotes": null
+      },
+      {
         "id": "5071",
         "name": "DeShon Elliott",
         "team": "PIT",
@@ -20547,16 +20507,6 @@
         "depthChartPosition": "QB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Hamstring",
-        "injuryNotes": null
-      },
-      {
-        "id": "8228",
-        "name": "Jaylen Warren",
-        "team": "PIT",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
         "injuryNotes": null
       },
       {
@@ -21839,16 +21789,6 @@
         "depthChartPosition": "OL",
         "injuryStatus": "PUP",
         "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "11725",
-        "name": "Jarrian Jones",
-        "team": "JAX",
-        "position": "DB",
-        "depthChartPosition": "LCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
         "injuryNotes": null
       },
       {
@@ -23325,7 +23265,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1115,
-    "lastUpdate": "2026-01-09T21:23:58.641Z"
+    "injuredPlayers": 1109,
+    "lastUpdate": "2026-01-09T22:23:59.503Z"
   }
 }
