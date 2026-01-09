@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-09T00:00:36.399Z",
+  "lastUpdated": "2026-01-09T01:06:39.061Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17066,16 +17066,6 @@
         "injuryNotes": null
       },
       {
-        "id": "13042",
-        "name": "Xavier Guillory",
-        "team": null,
-        "position": "WR",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Collarbone",
-        "injuryNotes": null
-      },
-      {
         "id": "13069",
         "name": "Kristian Williams",
         "team": null,
@@ -23475,7 +23465,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1130,
-    "lastUpdate": "2026-01-09T00:00:36.399Z"
+    "injuredPlayers": 1129,
+    "lastUpdate": "2026-01-09T01:06:39.061Z"
   }
 }
