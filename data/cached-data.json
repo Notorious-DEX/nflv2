@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-09T20:27:57.313Z",
+  "lastUpdated": "2026-01-09T21:23:58.641Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18630,16 +18630,6 @@
         "injuryNotes": "Sprain"
       },
       {
-        "id": "5022",
-        "name": "Dallas Goedert",
-        "team": "PHI",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
         "id": "5075",
         "name": "Ogbo Okoronkwo",
         "team": "PHI",
@@ -18647,16 +18637,6 @@
         "depthChartPosition": "ROLB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Triceps",
-        "injuryNotes": null
-      },
-      {
-        "id": "6284",
-        "name": "Marcus Epps",
-        "team": "PHI",
-        "position": "DB",
-        "depthChartPosition": "SS",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Concussion",
         "injuryNotes": null
       },
       {
@@ -18687,26 +18667,6 @@
         "depthChartPosition": "LOLB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Hamstring",
-        "injuryNotes": null
-      },
-      {
-        "id": "8177",
-        "name": "Grant Calcaterra",
-        "team": "PHI",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
-        "id": "10888",
-        "name": "Jalen Carter",
-        "team": "PHI",
-        "position": "DL",
-        "depthChartPosition": "RDE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hip",
         "injuryNotes": null
       },
       {
@@ -20914,16 +20874,6 @@
         "injuryNotes": null
       },
       {
-        "id": "5855",
-        "name": "Garrett Bradbury",
-        "team": "NE",
-        "position": "C",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
-        "injuryNotes": null
-      },
-      {
         "id": "6551",
         "name": "Darius Harris",
         "team": "NE",
@@ -20971,16 +20921,6 @@
         "depthChartPosition": "NT",
         "injuryStatus": "Out",
         "injuryBodyPart": "Foot",
-        "injuryNotes": null
-      },
-      {
-        "id": "8482",
-        "name": "Vederian Lowe",
-        "team": "NE",
-        "position": "OT",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
         "injuryNotes": null
       },
       {
@@ -21081,16 +21021,6 @@
         "depthChartPosition": "LDE",
         "injuryStatus": "IR",
         "injuryBodyPart": "Hamstring",
-        "injuryNotes": null
-      },
-      {
-        "id": "12592",
-        "name": "Jared Wilson",
-        "team": "NE",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Concussion",
         "injuryNotes": null
       },
       {
@@ -21892,26 +21822,6 @@
         "injuryNotes": null
       },
       {
-        "id": "6306",
-        "name": "Patrick Mekari",
-        "team": "JAX",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Back",
-        "injuryNotes": null
-      },
-      {
-        "id": "7630",
-        "name": "Greg Newsome",
-        "team": "JAX",
-        "position": "CB",
-        "depthChartPosition": "RCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Shoulder",
-        "injuryNotes": null
-      },
-      {
         "id": "7785",
         "name": "Cole Van Lanen",
         "team": "JAX",
@@ -21919,16 +21829,6 @@
         "depthChartPosition": "OL",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "8305",
-        "name": "Montaric Brown",
-        "team": "JAX",
-        "position": "DB",
-        "depthChartPosition": "LCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Nose",
         "injuryNotes": null
       },
       {
@@ -21999,16 +21899,6 @@
         "depthChartPosition": "LOLB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Lower Body",
-        "injuryNotes": null
-      },
-      {
-        "id": "12900",
-        "name": "Danny Striggow",
-        "team": "JAX",
-        "position": "DL",
-        "depthChartPosition": "RDE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Elbow",
         "injuryNotes": null
       }
     ],
@@ -22747,7 +22637,7 @@
         "team": "GB",
         "position": "WR",
         "depthChartPosition": "LWR",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Concussion",
         "injuryNotes": null
       },
@@ -23340,16 +23230,6 @@
     ],
     "CAR": [
       {
-        "id": "7041",
-        "name": "Robert Hunt",
-        "team": "CAR",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Biceps",
-        "injuryNotes": null
-      },
-      {
         "id": "7674",
         "name": "Patrick Jones",
         "team": "CAR",
@@ -23445,7 +23325,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1127,
-    "lastUpdate": "2026-01-09T20:27:57.313Z"
+    "injuredPlayers": 1115,
+    "lastUpdate": "2026-01-09T21:23:58.641Z"
   }
 }
