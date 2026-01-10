@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-10T20:25:22.453Z",
+  "lastUpdated": "2026-01-10T21:20:34.948Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18844,16 +18844,6 @@
     ],
     "HOU": [
       {
-        "id": "2027",
-        "name": "Denico Autry",
-        "team": "HOU",
-        "position": "DE",
-        "depthChartPosition": "RDE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
         "id": "2267",
         "name": "Jimmie Ward",
         "team": "HOU",
@@ -18872,16 +18862,6 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Pectoral",
         "injuryNotes": "Surgery"
-      },
-      {
-        "id": "2543",
-        "name": "Trent Brown",
-        "team": "HOU",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
       },
       {
         "id": "4018",
@@ -18921,16 +18901,6 @@
         "depthChartPosition": "DL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Foot",
-        "injuryNotes": null
-      },
-      {
-        "id": "5901",
-        "name": "Tytus Howard",
-        "team": "HOU",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
       {
@@ -18989,19 +18959,9 @@
         "team": "HOU",
         "position": "RB",
         "depthChartPosition": "RB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
-        "id": "11685",
-        "name": "Kamari Lassiter",
-        "team": "HOU",
-        "position": "DB",
-        "depthChartPosition": "RCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
+        "injuryNotes": "Sprain"
       },
       {
         "id": "12626",
@@ -19111,7 +19071,7 @@
         "team": "LAC",
         "position": "TE",
         "depthChartPosition": "TE",
-        "injuryStatus": "IR",
+        "injuryStatus": "Questionable",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -20457,16 +20417,6 @@
         "depthChartPosition": "DL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "4144",
-        "name": "Jonnu Smith",
-        "team": "PIT",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Lower Body",
         "injuryNotes": null
       },
       {
@@ -22890,7 +22840,7 @@
         "name": "Ty Summers",
         "team": "CHI",
         "position": "LB",
-        "depthChartPosition": "MLB",
+        "depthChartPosition": "LB",
         "injuryStatus": "Out",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
@@ -22941,7 +22891,7 @@
         "team": "CHI",
         "position": "DB",
         "depthChartPosition": "NB",
-        "injuryStatus": "IR",
+        "injuryStatus": "Questionable",
         "injuryBodyPart": "Groin",
         "injuryNotes": null
       },
@@ -23345,7 +23295,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1117,
-    "lastUpdate": "2026-01-10T20:25:22.453Z"
+    "injuredPlayers": 1112,
+    "lastUpdate": "2026-01-10T21:20:34.948Z"
   }
 }
