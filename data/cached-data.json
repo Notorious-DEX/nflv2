@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-10T21:20:34.948Z",
+  "lastUpdated": "2026-01-10T22:22:20.731Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22128,6 +22128,16 @@
         "injuryNotes": "Surgery"
       },
       {
+        "id": "8451",
+        "name": "Ikem Ekwonu",
+        "team": "CAR",
+        "position": "T",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "10953",
         "name": "Chandler Zavala",
         "team": "CAR",
@@ -23295,7 +23305,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1112,
-    "lastUpdate": "2026-01-10T21:20:34.948Z"
+    "injuredPlayers": 1113,
+    "lastUpdate": "2026-01-10T22:22:20.731Z"
   }
 }
