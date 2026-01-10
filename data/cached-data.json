@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-09T23:22:57.145Z",
+  "lastUpdated": "2026-01-10T01:51:28.150Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18978,7 +18978,7 @@
         "name": "Kaevon Merriweather",
         "team": "HOU",
         "position": "DB",
-        "depthChartPosition": "FS",
+        "depthChartPosition": "DB",
         "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -23266,6 +23266,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1109,
-    "lastUpdate": "2026-01-09T23:22:57.146Z"
+    "lastUpdate": "2026-01-10T01:51:28.150Z"
   }
 }
