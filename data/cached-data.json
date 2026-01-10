@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-10T22:22:20.731Z",
+  "lastUpdated": "2026-01-10T23:21:29.530Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19188,6 +19188,16 @@
         "injuryNotes": null
       },
       {
+        "id": "4124",
+        "name": "Ahkello Witherspoon",
+        "team": "LAR",
+        "position": "CB",
+        "depthChartPosition": "LCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Shoulder",
+        "injuryNotes": null
+      },
+      {
         "id": "5308",
         "name": "Duplicate Player",
         "team": "LAR",
@@ -22078,6 +22088,16 @@
         "injuryNotes": null
       },
       {
+        "id": "7041",
+        "name": "Robert Hunt",
+        "team": "CAR",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Pectoral",
+        "injuryNotes": null
+      },
+      {
         "id": "7268",
         "name": "Krys Barnes",
         "team": "CAR",
@@ -23305,7 +23325,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1113,
-    "lastUpdate": "2026-01-10T22:22:20.731Z"
+    "injuredPlayers": 1115,
+    "lastUpdate": "2026-01-10T23:21:29.530Z"
   }
 }
