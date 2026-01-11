@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T14:53:16.940Z",
+  "lastUpdated": "2026-01-11T15:14:01.245Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17398,6 +17398,148 @@
         "injuryNotes": null
       }
     ],
+    "LAR": [
+      {
+        "id": "421",
+        "name": "Matthew Stafford",
+        "team": "LAR",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Finger",
+        "injuryNotes": "Jammed"
+      },
+      {
+        "id": "2362",
+        "name": "Rob Havenstein",
+        "team": "LAR",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
+        "id": "4124",
+        "name": "Ahkello Witherspoon",
+        "team": "LAR",
+        "position": "CB",
+        "depthChartPosition": "LCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Shoulder",
+        "injuryNotes": null
+      },
+      {
+        "id": "5308",
+        "name": "Duplicate Player",
+        "team": "LAR",
+        "position": "DE",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": null,
+        "injuryNotes": null
+      },
+      {
+        "id": "5526",
+        "name": "Darious Williams",
+        "team": "LAR",
+        "position": "CB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "7116",
+        "name": "Kevin Dotson",
+        "team": "LAR",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": "Sprain"
+      },
+      {
+        "id": "7348",
+        "name": "Dayan Lake",
+        "team": "LAR",
+        "position": "DB",
+        "depthChartPosition": null,
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "8271",
+        "name": "Derion Kendrick",
+        "team": "LAR",
+        "position": "DB",
+        "depthChartPosition": "NB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "8739",
+        "name": "Keir Thomas",
+        "team": "LAR",
+        "position": "DE",
+        "depthChartPosition": "LB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "10857",
+        "name": "Stetson Bennett",
+        "team": "LAR",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "11623",
+        "name": "Jordan Whittington",
+        "team": "LAR",
+        "position": "WR",
+        "depthChartPosition": "RWR",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "12132",
+        "name": "Josh Wallace",
+        "team": "LAR",
+        "position": "DB",
+        "depthChartPosition": "NB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
+        "id": "12487",
+        "name": "Terrance Ferguson",
+        "team": "LAR",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
+        "id": "13000",
+        "name": "Shaun Dolac",
+        "team": "LAR",
+        "position": "LB",
+        "depthChartPosition": "RILB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      }
+    ],
     "NYG": [
       {
         "id": "503",
@@ -19405,138 +19547,6 @@
         "depthChartPosition": "DB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      }
-    ],
-    "LAR": [
-      {
-        "id": "2362",
-        "name": "Rob Havenstein",
-        "team": "LAR",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
-        "id": "4124",
-        "name": "Ahkello Witherspoon",
-        "team": "LAR",
-        "position": "CB",
-        "depthChartPosition": "LCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Shoulder",
-        "injuryNotes": null
-      },
-      {
-        "id": "5308",
-        "name": "Duplicate Player",
-        "team": "LAR",
-        "position": "DE",
-        "depthChartPosition": "LDE",
-        "injuryStatus": "Out",
-        "injuryBodyPart": null,
-        "injuryNotes": null
-      },
-      {
-        "id": "5526",
-        "name": "Darious Williams",
-        "team": "LAR",
-        "position": "CB",
-        "depthChartPosition": "RCB",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Coach's Decision",
-        "injuryNotes": null
-      },
-      {
-        "id": "7116",
-        "name": "Kevin Dotson",
-        "team": "LAR",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": "Sprain"
-      },
-      {
-        "id": "7348",
-        "name": "Dayan Lake",
-        "team": "LAR",
-        "position": "DB",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "8271",
-        "name": "Derion Kendrick",
-        "team": "LAR",
-        "position": "DB",
-        "depthChartPosition": "NB",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Coach's Decision",
-        "injuryNotes": null
-      },
-      {
-        "id": "8739",
-        "name": "Keir Thomas",
-        "team": "LAR",
-        "position": "DE",
-        "depthChartPosition": "LB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "10857",
-        "name": "Stetson Bennett",
-        "team": "LAR",
-        "position": "QB",
-        "depthChartPosition": "QB",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Coach's Decision",
-        "injuryNotes": null
-      },
-      {
-        "id": "11623",
-        "name": "Jordan Whittington",
-        "team": "LAR",
-        "position": "WR",
-        "depthChartPosition": "RWR",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "12132",
-        "name": "Josh Wallace",
-        "team": "LAR",
-        "position": "DB",
-        "depthChartPosition": "NB",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
-        "id": "12487",
-        "name": "Terrance Ferguson",
-        "team": "LAR",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Hamstring",
-        "injuryNotes": null
-      },
-      {
-        "id": "13000",
-        "name": "Shaun Dolac",
-        "team": "LAR",
-        "position": "LB",
-        "depthChartPosition": "RILB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
         "injuryNotes": null
       }
     ],
@@ -23395,7 +23405,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1122,
-    "lastUpdate": "2026-01-11T14:53:16.940Z"
+    "injuredPlayers": 1123,
+    "lastUpdate": "2026-01-11T15:14:01.245Z"
   }
 }
