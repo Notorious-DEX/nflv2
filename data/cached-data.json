@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T20:40:07.432Z",
+  "lastUpdated": "2026-01-11T20:52:36.257Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18812,6 +18812,16 @@
         "injuryNotes": null
       },
       {
+        "id": "6943",
+        "name": "Gabe Davis",
+        "team": "BUF",
+        "position": "WR",
+        "depthChartPosition": "LWR",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "7042",
         "name": "Tyler Bass",
         "team": "BUF",
@@ -23575,7 +23585,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1140,
-    "lastUpdate": "2026-01-11T20:40:07.432Z"
+    "injuredPlayers": 1141,
+    "lastUpdate": "2026-01-11T20:52:36.257Z"
   }
 }
