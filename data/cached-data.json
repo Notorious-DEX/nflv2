@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T23:09:34.246Z",
+  "lastUpdated": "2026-01-11T23:22:02.873Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17979,8 +17979,8 @@
         "team": "SF",
         "position": "TE",
         "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Lower Leg",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Achilles",
         "injuryNotes": null
       },
       {
@@ -23606,6 +23606,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1143,
-    "lastUpdate": "2026-01-11T23:09:34.246Z"
+    "lastUpdate": "2026-01-11T23:22:02.873Z"
   }
 }
