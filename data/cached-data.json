@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T19:18:03.655Z",
+  "lastUpdated": "2026-01-11T19:22:53.196Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18660,139 +18660,17 @@
         "injuryNotes": null
       }
     ],
-    "LV": [
+    "BUF": [
       {
-        "id": "1373",
-        "name": "Geno Smith",
-        "team": "LV",
-        "position": "QB",
-        "depthChartPosition": "QB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": "Sprain"
-      },
-      {
-        "id": "2749",
-        "name": "Raheem Mostert",
-        "team": "LV",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "4415",
-        "name": "Adam Butler",
-        "team": "LV",
-        "position": "DT",
-        "depthChartPosition": "LDT",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Biceps",
-        "injuryNotes": null
-      },
-      {
-        "id": "4986",
-        "name": "Kolton Miller",
-        "team": "LV",
-        "position": "T",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": "Sprain"
-      },
-      {
-        "id": "5991",
-        "name": "Maxx Crosby",
-        "team": "LV",
-        "position": "DE",
-        "depthChartPosition": "LDE",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "7016",
-        "name": "Jeremy Chinn",
-        "team": "LV",
-        "position": "DB",
-        "depthChartPosition": "NB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Back",
-        "injuryNotes": null
-      },
-      {
-        "id": "7873",
-        "name": "Jordan Meredith",
-        "team": "LV",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
-        "id": "8458",
-        "name": "Dylan Parham",
-        "team": "LV",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
-        "injuryNotes": null
-      },
-      {
-        "id": "8838",
-        "name": "Isaiah Pola-Mao",
-        "team": "LV",
+        "id": "1343",
+        "name": "Jordan Poyer",
+        "team": "BUF",
         "position": "DB",
         "depthChartPosition": "SS",
         "injuryStatus": "Questionable",
-        "injuryBodyPart": "Shoulder",
+        "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
-      {
-        "id": "10976",
-        "name": "Kyu Blu Kelly",
-        "team": "LV",
-        "position": "CB",
-        "depthChartPosition": "RCB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": "Ruptured"
-      },
-      {
-        "id": "11604",
-        "name": "Brock Bowers",
-        "team": "LV",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "11683",
-        "name": "Jackson Powers-Johnson",
-        "team": "LV",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
-        "id": "11751",
-        "name": "Brennan Jackson",
-        "team": "LV",
-        "position": "DE",
-        "depthChartPosition": "ROLB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Foot",
-        "injuryNotes": null
-      }
-    ],
-    "BUF": [
       {
         "id": "1518",
         "name": "Darius Slay",
@@ -18924,6 +18802,16 @@
         "injuryNotes": null
       },
       {
+        "id": "11377",
+        "name": "Tyrell Shavers",
+        "team": "BUF",
+        "position": "WR",
+        "depthChartPosition": "RWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "11706",
         "name": "DeWayne Carter",
         "team": "BUF",
@@ -19001,6 +18889,138 @@
         "depthChartPosition": "DB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      }
+    ],
+    "LV": [
+      {
+        "id": "1373",
+        "name": "Geno Smith",
+        "team": "LV",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": "Sprain"
+      },
+      {
+        "id": "2749",
+        "name": "Raheem Mostert",
+        "team": "LV",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "4415",
+        "name": "Adam Butler",
+        "team": "LV",
+        "position": "DT",
+        "depthChartPosition": "LDT",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Biceps",
+        "injuryNotes": null
+      },
+      {
+        "id": "4986",
+        "name": "Kolton Miller",
+        "team": "LV",
+        "position": "T",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": "Sprain"
+      },
+      {
+        "id": "5991",
+        "name": "Maxx Crosby",
+        "team": "LV",
+        "position": "DE",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "7016",
+        "name": "Jeremy Chinn",
+        "team": "LV",
+        "position": "DB",
+        "depthChartPosition": "NB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Back",
+        "injuryNotes": null
+      },
+      {
+        "id": "7873",
+        "name": "Jordan Meredith",
+        "team": "LV",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
+        "id": "8458",
+        "name": "Dylan Parham",
+        "team": "LV",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
+        "injuryNotes": null
+      },
+      {
+        "id": "8838",
+        "name": "Isaiah Pola-Mao",
+        "team": "LV",
+        "position": "DB",
+        "depthChartPosition": "SS",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Shoulder",
+        "injuryNotes": null
+      },
+      {
+        "id": "10976",
+        "name": "Kyu Blu Kelly",
+        "team": "LV",
+        "position": "CB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": "Ruptured"
+      },
+      {
+        "id": "11604",
+        "name": "Brock Bowers",
+        "team": "LV",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "11683",
+        "name": "Jackson Powers-Johnson",
+        "team": "LV",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
+        "id": "11751",
+        "name": "Brennan Jackson",
+        "team": "LV",
+        "position": "DE",
+        "depthChartPosition": "ROLB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Foot",
         "injuryNotes": null
       }
     ],
@@ -23485,7 +23505,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1131,
-    "lastUpdate": "2026-01-11T19:18:03.655Z"
+    "injuredPlayers": 1133,
+    "lastUpdate": "2026-01-11T19:22:53.196Z"
   }
 }
