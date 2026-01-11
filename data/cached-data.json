@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T10:24:07.469Z",
+  "lastUpdated": "2026-01-11T11:19:38.521Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22728,7 +22728,7 @@
         "name": "Bo Melton",
         "team": "GB",
         "position": "WR",
-        "depthChartPosition": "KR",
+        "depthChartPosition": "SWR",
         "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -22868,7 +22868,7 @@
         "name": "McCallan Castles",
         "team": "GB",
         "position": "TE",
-        "depthChartPosition": "TE",
+        "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -23396,6 +23396,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1122,
-    "lastUpdate": "2026-01-11T10:24:07.469Z"
+    "lastUpdate": "2026-01-11T11:19:38.521Z"
   }
 }
