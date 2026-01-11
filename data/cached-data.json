@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T18:59:20.774Z",
+  "lastUpdated": "2026-01-11T19:18:03.655Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19308,6 +19308,16 @@
         "injuryNotes": null
       },
       {
+        "id": "7585",
+        "name": "Davis Mills",
+        "team": "HOU",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Personal",
+        "injuryNotes": null
+      },
+      {
         "id": "8349",
         "name": "Jake Hansen",
         "team": "HOU",
@@ -20729,16 +20739,6 @@
         "depthChartPosition": "OL",
         "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "9487",
-        "name": "Parker Washington",
-        "team": "JAX",
-        "position": "WR",
-        "depthChartPosition": "SWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Head",
         "injuryNotes": null
       },
       {
@@ -23486,6 +23486,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1131,
-    "lastUpdate": "2026-01-11T18:59:20.774Z"
+    "lastUpdate": "2026-01-11T19:18:03.655Z"
   }
 }
