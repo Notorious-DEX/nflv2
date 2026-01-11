@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T07:22:52.527Z",
+  "lastUpdated": "2026-01-11T08:30:28.531Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22724,16 +22724,6 @@
         "injuryNotes": null
       },
       {
-        "id": "8159",
-        "name": "Desmond Ridder",
-        "team": "GB",
-        "position": "QB",
-        "depthChartPosition": "QB",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Coach's Decision",
-        "injuryNotes": null
-      },
-      {
         "id": "8204",
         "name": "Bo Melton",
         "team": "GB",
@@ -23405,7 +23395,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1123,
-    "lastUpdate": "2026-01-11T07:22:52.527Z"
+    "injuredPlayers": 1122,
+    "lastUpdate": "2026-01-11T08:30:28.531Z"
   }
 }
