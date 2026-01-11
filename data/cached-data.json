@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T18:46:07.878Z",
+  "lastUpdated": "2026-01-11T18:59:20.774Z",
   "season": 2025,
   "gameStats": [
     {
@@ -20732,6 +20732,16 @@
         "injuryNotes": null
       },
       {
+        "id": "9487",
+        "name": "Parker Washington",
+        "team": "JAX",
+        "position": "WR",
+        "depthChartPosition": "SWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Head",
+        "injuryNotes": null
+      },
+      {
         "id": "11048",
         "name": "Cooper Hodges",
         "team": "JAX",
@@ -23475,7 +23485,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1130,
-    "lastUpdate": "2026-01-11T18:46:07.878Z"
+    "injuredPlayers": 1131,
+    "lastUpdate": "2026-01-11T18:59:20.774Z"
   }
 }
