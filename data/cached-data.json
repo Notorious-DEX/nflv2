@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T19:54:19.416Z",
+  "lastUpdated": "2026-01-11T20:18:56.478Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18802,16 +18802,6 @@
         "injuryNotes": null
       },
       {
-        "id": "11377",
-        "name": "Tyrell Shavers",
-        "team": "BUF",
-        "position": "WR",
-        "depthChartPosition": "RWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
         "id": "11706",
         "name": "DeWayne Carter",
         "team": "BUF",
@@ -23505,7 +23495,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1133,
-    "lastUpdate": "2026-01-11T19:54:19.416Z"
+    "injuredPlayers": 1132,
+    "lastUpdate": "2026-01-11T20:18:56.478Z"
   }
 }
