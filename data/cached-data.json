@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T02:04:06.835Z",
+  "lastUpdated": "2026-01-11T04:10:47.151Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18854,6 +18854,16 @@
         "injuryNotes": null
       },
       {
+        "id": "3207",
+        "name": "Andrew Billings",
+        "team": "CHI",
+        "position": "DT",
+        "depthChartPosition": "RDT",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hip",
+        "injuryNotes": null
+      },
+      {
         "id": "5893",
         "name": "C.J. Gardner-Johnson",
         "team": "CHI",
@@ -18861,6 +18871,16 @@
         "depthChartPosition": "NB",
         "injuryStatus": "Out",
         "injuryBodyPart": "Concussion",
+        "injuryNotes": null
+      },
+      {
+        "id": "5960",
+        "name": "T.J. Edwards",
+        "team": "CHI",
+        "position": "LB",
+        "depthChartPosition": "LOLB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
       {
@@ -22956,6 +22976,16 @@
         "injuryNotes": null
       },
       {
+        "id": "11687",
+        "name": "Edgerrin Cooper",
+        "team": "GB",
+        "position": "LB",
+        "depthChartPosition": "ROLB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
         "id": "11775",
         "name": "Jaylin Simpson",
         "team": "GB",
@@ -22963,6 +22993,16 @@
         "depthChartPosition": "RCB",
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "11776",
+        "name": "Jacob Monk",
+        "team": "GB",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Biceps",
         "injuryNotes": null
       },
       {
@@ -23365,7 +23405,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1119,
-    "lastUpdate": "2026-01-11T02:04:06.835Z"
+    "injuredPlayers": 1123,
+    "lastUpdate": "2026-01-11T04:10:47.151Z"
   }
 }
