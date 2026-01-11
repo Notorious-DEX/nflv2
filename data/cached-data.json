@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T22:51:29.376Z",
+  "lastUpdated": "2026-01-11T23:09:34.246Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17974,6 +17974,16 @@
         "injuryNotes": null
       },
       {
+        "id": "4217",
+        "name": "George Kittle",
+        "team": "SF",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Lower Leg",
+        "injuryNotes": null
+      },
+      {
         "id": "4218",
         "name": "Trent Taylor",
         "team": "SF",
@@ -23595,7 +23605,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1142,
-    "lastUpdate": "2026-01-11T22:51:29.376Z"
+    "injuredPlayers": 1143,
+    "lastUpdate": "2026-01-11T23:09:34.246Z"
   }
 }
