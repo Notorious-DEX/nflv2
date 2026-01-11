@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T05:27:57.178Z",
+  "lastUpdated": "2026-01-11T06:35:43.628Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18879,8 +18879,8 @@
         "team": "CHI",
         "position": "LB",
         "depthChartPosition": "LOLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Lower Leg",
         "injuryNotes": null
       },
       {
@@ -19001,6 +19001,16 @@
         "depthChartPosition": "TE",
         "injuryStatus": "Out",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "12606",
+        "name": "Ozzy Trapilo",
+        "team": "CHI",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
       {
@@ -22298,178 +22308,6 @@
         "injuryNotes": null
       }
     ],
-    "CAR": [
-      {
-        "id": "4274",
-        "name": "David Moore",
-        "team": "CAR",
-        "position": "WR",
-        "depthChartPosition": "LWR",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Coach's Decision",
-        "injuryNotes": null
-      },
-      {
-        "id": "7268",
-        "name": "Krys Barnes",
-        "team": "CAR",
-        "position": "LB",
-        "depthChartPosition": "LILB",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Coach's Decision",
-        "injuryNotes": null
-      },
-      {
-        "id": "7301",
-        "name": "Tershawn Wharton",
-        "team": "CAR",
-        "position": "DT",
-        "depthChartPosition": "NT",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hamstring",
-        "injuryNotes": null
-      },
-      {
-        "id": "7642",
-        "name": "Jaycee Horn",
-        "team": "CAR",
-        "position": "CB",
-        "depthChartPosition": "RCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Head",
-        "injuryNotes": null
-      },
-      {
-        "id": "7674",
-        "name": "Patrick Jones",
-        "team": "CAR",
-        "position": "DE",
-        "depthChartPosition": "ROLB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Back",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "7697",
-        "name": "Brady Christensen",
-        "team": "CAR",
-        "position": "T",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Achilles",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "8274",
-        "name": "LaBryan Ray",
-        "team": "CAR",
-        "position": "DL",
-        "depthChartPosition": "LDE",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Coach's Decision",
-        "injuryNotes": null
-      },
-      {
-        "id": "8386",
-        "name": "Damarri Mathis",
-        "team": "CAR",
-        "position": "DB",
-        "depthChartPosition": "LCB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "8451",
-        "name": "Ikem Ekwonu",
-        "team": "CAR",
-        "position": "T",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "10953",
-        "name": "Chandler Zavala",
-        "team": "CAR",
-        "position": "G",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Calf",
-        "injuryNotes": null
-      },
-      {
-        "id": "11583",
-        "name": "Jonathon Brooks",
-        "team": "CAR",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "PUP",
-        "injuryBodyPart": "Knee - ACL",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "11600",
-        "name": "Ja'Tavion Sanders",
-        "team": "CAR",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Lower Leg",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "11724",
-        "name": "Trevin Wallace",
-        "team": "CAR",
-        "position": "LB",
-        "depthChartPosition": "LILB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Shoulder",
-        "injuryNotes": null
-      },
-      {
-        "id": "11840",
-        "name": "Nick Samac",
-        "team": "CAR",
-        "position": "C",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Coach's Decision",
-        "injuryNotes": null
-      },
-      {
-        "id": "12010",
-        "name": "Popo Aumavae",
-        "team": "CAR",
-        "position": "DT",
-        "depthChartPosition": null,
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "12957",
-        "name": "Corey Thornton",
-        "team": "CAR",
-        "position": "CB",
-        "depthChartPosition": "RCB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Lower Leg",
-        "injuryNotes": "Surgery"
-      },
-      {
-        "id": "13094",
-        "name": "Jared Harrison-Hunte",
-        "team": "CAR",
-        "position": "DT",
-        "depthChartPosition": "LDE",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Coach's Decision",
-        "injuryNotes": null
-      }
-    ],
     "ATL": [
       {
         "id": "4598",
@@ -23399,6 +23237,168 @@
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
       }
+    ],
+    "CAR": [
+      {
+        "id": "7268",
+        "name": "Krys Barnes",
+        "team": "CAR",
+        "position": "LB",
+        "depthChartPosition": "LILB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "7301",
+        "name": "Tershawn Wharton",
+        "team": "CAR",
+        "position": "DT",
+        "depthChartPosition": "NT",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
+        "id": "7642",
+        "name": "Jaycee Horn",
+        "team": "CAR",
+        "position": "CB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Head",
+        "injuryNotes": null
+      },
+      {
+        "id": "7674",
+        "name": "Patrick Jones",
+        "team": "CAR",
+        "position": "DE",
+        "depthChartPosition": "ROLB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Back",
+        "injuryNotes": "Surgery"
+      },
+      {
+        "id": "7697",
+        "name": "Brady Christensen",
+        "team": "CAR",
+        "position": "T",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Achilles",
+        "injuryNotes": "Surgery"
+      },
+      {
+        "id": "8274",
+        "name": "LaBryan Ray",
+        "team": "CAR",
+        "position": "DL",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "8386",
+        "name": "Damarri Mathis",
+        "team": "CAR",
+        "position": "DB",
+        "depthChartPosition": "LCB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": "Surgery"
+      },
+      {
+        "id": "8451",
+        "name": "Ikem Ekwonu",
+        "team": "CAR",
+        "position": "T",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "10953",
+        "name": "Chandler Zavala",
+        "team": "CAR",
+        "position": "G",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Calf",
+        "injuryNotes": null
+      },
+      {
+        "id": "11583",
+        "name": "Jonathon Brooks",
+        "team": "CAR",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "PUP",
+        "injuryBodyPart": "Knee - ACL",
+        "injuryNotes": "Surgery"
+      },
+      {
+        "id": "11600",
+        "name": "Ja'Tavion Sanders",
+        "team": "CAR",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Lower Leg",
+        "injuryNotes": "Surgery"
+      },
+      {
+        "id": "11724",
+        "name": "Trevin Wallace",
+        "team": "CAR",
+        "position": "LB",
+        "depthChartPosition": "LILB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Shoulder",
+        "injuryNotes": null
+      },
+      {
+        "id": "11840",
+        "name": "Nick Samac",
+        "team": "CAR",
+        "position": "C",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "12010",
+        "name": "Popo Aumavae",
+        "team": "CAR",
+        "position": "DT",
+        "depthChartPosition": null,
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "12957",
+        "name": "Corey Thornton",
+        "team": "CAR",
+        "position": "CB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Lower Leg",
+        "injuryNotes": "Surgery"
+      },
+      {
+        "id": "13094",
+        "name": "Jared Harrison-Hunte",
+        "team": "CAR",
+        "position": "DT",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      }
     ]
   },
   "upcomingGames": [],
@@ -23406,6 +23406,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1123,
-    "lastUpdate": "2026-01-11T05:27:57.178Z"
+    "lastUpdate": "2026-01-11T06:35:43.628Z"
   }
 }
