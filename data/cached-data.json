@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T22:38:27.114Z",
+  "lastUpdated": "2026-01-11T22:51:29.376Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18074,6 +18074,16 @@
         "injuryNotes": null
       },
       {
+        "id": "10936",
+        "name": "Ji'Ayir Brown",
+        "team": "SF",
+        "position": "DB",
+        "depthChartPosition": "SS",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
         "id": "10995",
         "name": "Tre Tomlinson",
         "team": "SF",
@@ -23585,7 +23595,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1141,
-    "lastUpdate": "2026-01-11T22:38:27.114Z"
+    "injuredPlayers": 1142,
+    "lastUpdate": "2026-01-11T22:51:29.376Z"
   }
 }
