@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T23:55:19.772Z",
+  "lastUpdated": "2026-01-12T01:45:08.106Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17979,7 +17979,7 @@
         "team": "SF",
         "position": "TE",
         "depthChartPosition": "TE",
-        "injuryStatus": "Out",
+        "injuryStatus": "Questionable",
         "injuryBodyPart": "Achilles",
         "injuryNotes": null
       },
@@ -18684,7 +18684,7 @@
         "name": "Johnny Wilson",
         "team": "PHI",
         "position": "WR",
-        "depthChartPosition": null,
+        "depthChartPosition": "SWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": "Surgery"
@@ -18724,7 +18724,7 @@
         "name": "Brandon Johnson",
         "team": "PHI",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "FS",
         "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
@@ -19515,18 +19515,18 @@
         "team": "LAC",
         "position": "LB",
         "depthChartPosition": "ROLB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
       {
-        "id": "6348",
-        "name": "Del'Shawn Phillips",
+        "id": "5133",
+        "name": "Tyler Conklin",
         "team": "LAC",
-        "position": "LB",
-        "depthChartPosition": "RILB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hamstring",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -19550,33 +19550,13 @@
         "injuryNotes": null
       },
       {
-        "id": "7682",
-        "name": "Elijah Molden",
-        "team": "LAC",
-        "position": "CB",
-        "depthChartPosition": "SS",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hamstring",
-        "injuryNotes": null
-      },
-      {
         "id": "8491",
         "name": "Austin Deculus",
         "team": "LAC",
         "position": "T",
         "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Oblique",
-        "injuryNotes": null
-      },
-      {
-        "id": "8885",
-        "name": "Tucker Fisk",
-        "team": "LAC",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
       {
@@ -19610,13 +19590,13 @@
         "injuryNotes": null
       },
       {
-        "id": "12507",
-        "name": "Omarion Hampton",
+        "id": "12643",
+        "name": "Kyle Kennard",
         "team": "LAC",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
+        "position": "DE",
+        "depthChartPosition": "ROLB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -19677,6 +19657,26 @@
         "depthChartPosition": "DB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "13131",
+        "name": "Isas Waxter",
+        "team": "LAC",
+        "position": "DB",
+        "depthChartPosition": "LCB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "13202",
+        "name": "Dalevon Campbell",
+        "team": "LAC",
+        "position": "WR",
+        "depthChartPosition": "RWR",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       }
     ],
@@ -20876,7 +20876,7 @@
         "name": "Joshua Cephus",
         "team": "JAX",
         "position": "WR",
-        "depthChartPosition": null,
+        "depthChartPosition": "RWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -20886,7 +20886,7 @@
         "name": "Travis Hunter",
         "team": "JAX",
         "position": "WR",
-        "depthChartPosition": null,
+        "depthChartPosition": "SWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -20896,7 +20896,7 @@
         "name": "Caleb Ransaw",
         "team": "JAX",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "SS",
         "injuryStatus": "IR",
         "injuryBodyPart": "Lower Body",
         "injuryNotes": null
@@ -21328,16 +21328,6 @@
         "injuryNotes": null
       },
       {
-        "id": "5030",
-        "name": "Harold Landry",
-        "team": "NE",
-        "position": "LB",
-        "depthChartPosition": "ROLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
         "id": "6551",
         "name": "Darius Harris",
         "team": "NE",
@@ -21388,16 +21378,6 @@
         "injuryNotes": null
       },
       {
-        "id": "8518",
-        "name": "Thayer Munford",
-        "team": "NE",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
         "id": "8924",
         "name": "Thomas Odukoya",
         "team": "NE",
@@ -21405,16 +21385,6 @@
         "depthChartPosition": "TE",
         "injuryStatus": "Out",
         "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "9504",
-        "name": "Kayshon Boutte",
-        "team": "NE",
-        "position": "WR",
-        "depthChartPosition": "LWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
       {
@@ -21445,6 +21415,26 @@
         "depthChartPosition": "RCB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "11292",
+        "name": "Tommy DeVito",
+        "team": "NE",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "11711",
+        "name": "Caedan Wallace",
+        "team": "NE",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -21488,6 +21478,26 @@
         "injuryNotes": null
       },
       {
+        "id": "12677",
+        "name": "Bradyn Swinson",
+        "team": "NE",
+        "position": "DE",
+        "depthChartPosition": "ROLB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "12728",
+        "name": "Marcus Bryant",
+        "team": "NE",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "12969",
         "name": "Lan Larison",
         "team": "NE",
@@ -21505,6 +21515,26 @@
         "depthChartPosition": "RB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "12984",
+        "name": "CJ Dippre",
+        "team": "NE",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "13124",
+        "name": "Jeremiah Webb",
+        "team": "NE",
+        "position": "WR",
+        "depthChartPosition": "RWR",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       }
     ],
@@ -22948,7 +22978,7 @@
         "name": "Devonte Wyatt",
         "team": "GB",
         "position": "DL",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "RDT",
         "injuryStatus": "IR",
         "injuryBodyPart": "Ankle",
         "injuryNotes": "Fracture"
@@ -23605,7 +23635,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1143,
-    "lastUpdate": "2026-01-11T23:55:19.772Z"
+    "injuredPlayers": 1146,
+    "lastUpdate": "2026-01-12T01:45:08.106Z"
   }
 }
