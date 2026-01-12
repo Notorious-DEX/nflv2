@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-12T02:28:55.742Z",
+  "lastUpdated": "2026-01-12T04:02:54.992Z",
   "season": 2025,
   "gameStats": [
     {
@@ -21398,6 +21398,16 @@
         "injuryNotes": null
       },
       {
+        "id": "10881",
+        "name": "Christian Gonzalez",
+        "team": "NE",
+        "position": "DB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Head",
+        "injuryNotes": null
+      },
+      {
         "id": "10989",
         "name": "Jaquelin Roy",
         "team": "NE",
@@ -23635,7 +23645,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1146,
-    "lastUpdate": "2026-01-12T02:28:55.742Z"
+    "injuredPlayers": 1147,
+    "lastUpdate": "2026-01-12T04:02:54.992Z"
   }
 }
