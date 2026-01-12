@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-12T16:18:11.812Z",
+  "lastUpdated": "2026-01-12T16:30:21.693Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17233,7 +17233,7 @@
         "team": "LAR",
         "position": "CB",
         "depthChartPosition": "LCB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Shoulder",
         "injuryNotes": null
       },
@@ -23226,6 +23226,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1105,
-    "lastUpdate": "2026-01-12T16:18:11.812Z"
+    "lastUpdate": "2026-01-12T16:30:21.693Z"
   }
 }
