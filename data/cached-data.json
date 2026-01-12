@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-12T22:10:13.262Z",
+  "lastUpdated": "2026-01-12T22:21:33.644Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22822,16 +22822,6 @@
         "injuryStatus": "PUP",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
-      },
-      {
-        "id": "12788",
-        "name": "Will Sheppard",
-        "team": "GB",
-        "position": "WR",
-        "depthChartPosition": null,
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
       }
     ],
     "DAL": [
@@ -23255,7 +23245,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1108,
-    "lastUpdate": "2026-01-12T22:10:13.262Z"
+    "injuredPlayers": 1107,
+    "lastUpdate": "2026-01-12T22:21:33.644Z"
   }
 }
