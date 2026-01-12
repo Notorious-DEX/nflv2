@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-12T17:55:24.348Z",
+  "lastUpdated": "2026-01-12T18:19:58.250Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22644,6 +22644,16 @@
         "injuryNotes": "Fracture"
       },
       {
+        "id": "8460",
+        "name": "Sean Rhyan",
+        "team": "GB",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": "Bruise"
+      },
+      {
         "id": "8463",
         "name": "Zach Tom",
         "team": "GB",
@@ -23225,7 +23235,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1105,
-    "lastUpdate": "2026-01-12T17:55:24.348Z"
+    "injuredPlayers": 1106,
+    "lastUpdate": "2026-01-12T18:19:58.250Z"
   }
 }
