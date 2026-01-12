@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-12T22:21:33.644Z",
+  "lastUpdated": "2026-01-12T22:32:44.530Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18762,16 +18762,6 @@
         "injuryNotes": null
       },
       {
-        "id": "6927",
-        "name": "Quez Watkins",
-        "team": "PHI",
-        "position": "WR",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
         "id": "7653",
         "name": "Azeez Ojulari",
         "team": "PHI",
@@ -23245,7 +23235,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1107,
-    "lastUpdate": "2026-01-12T22:21:33.644Z"
+    "injuredPlayers": 1106,
+    "lastUpdate": "2026-01-12T22:32:44.530Z"
   }
 }
