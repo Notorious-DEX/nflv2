@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-12T10:28:48.830Z",
+  "lastUpdated": "2026-01-12T11:23:43.482Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19584,7 +19584,7 @@
         "name": "Junior Colson",
         "team": "LAC",
         "position": "LB",
-        "depthChartPosition": "LB",
+        "depthChartPosition": "RILB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -19614,7 +19614,7 @@
         "name": "Josh Fuga",
         "team": "LAC",
         "position": "DL",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "LDE",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -19624,7 +19624,7 @@
         "name": "Jordan Oladokun",
         "team": "LAC",
         "position": "CB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "RCB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -19654,7 +19654,7 @@
         "name": "Eric Rogers",
         "team": "LAC",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "LCB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -19664,7 +19664,7 @@
         "name": "Isas Waxter",
         "team": "LAC",
         "position": "DB",
-        "depthChartPosition": "LCB",
+        "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
@@ -19674,7 +19674,7 @@
         "name": "Dalevon Campbell",
         "team": "LAC",
         "position": "WR",
-        "depthChartPosition": "RWR",
+        "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
@@ -23646,6 +23646,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1147,
-    "lastUpdate": "2026-01-12T10:28:48.830Z"
+    "lastUpdate": "2026-01-12T11:23:43.483Z"
   }
 }
