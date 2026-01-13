@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-13T20:28:29.022Z",
+  "lastUpdated": "2026-01-13T21:24:23.334Z",
   "season": 2025,
   "gameStats": [
     {
@@ -12190,7 +12190,7 @@
         "name": "Gabe Davis",
         "team": "BUF",
         "position": "WR",
-        "depthChartPosition": "LWR",
+        "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Knee - ACL",
         "injuryNotes": null
@@ -12261,9 +12261,9 @@
         "team": "BUF",
         "position": "WR",
         "depthChartPosition": "RWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Knee - ACL",
+        "injuryNotes": "Surgery"
       },
       {
         "id": "11706",
@@ -23226,6 +23226,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1105,
-    "lastUpdate": "2026-01-13T20:28:29.022Z"
+    "lastUpdate": "2026-01-13T21:24:23.334Z"
   }
 }
