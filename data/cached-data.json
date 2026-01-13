@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-13T01:16:05.081Z",
+  "lastUpdated": "2026-01-13T01:51:59.431Z",
   "season": 2025,
   "gameStats": [
     {
@@ -15263,9 +15263,9 @@
         "team": null,
         "position": "DB",
         "depthChartPosition": null,
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Forearm",
-        "injuryNotes": "Surgery"
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
       },
       {
         "id": "7051",
@@ -20626,7 +20626,7 @@
         "name": "Tre Flowers",
         "team": "PIT",
         "position": "CB",
-        "depthChartPosition": null,
+        "depthChartPosition": "RCB",
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
@@ -23336,6 +23336,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1116,
-    "lastUpdate": "2026-01-13T01:16:05.081Z"
+    "lastUpdate": "2026-01-13T01:51:59.431Z"
   }
 }
