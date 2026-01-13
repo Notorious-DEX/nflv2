@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-13T16:35:35.110Z",
+  "lastUpdated": "2026-01-13T17:28:48.259Z",
   "season": 2025,
   "gameStats": [
     {
@@ -14708,6 +14708,16 @@
         "injuryNotes": null
       },
       {
+        "id": "6211",
+        "name": "Sione Takitaki",
+        "team": null,
+        "position": "LB",
+        "depthChartPosition": null,
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
         "id": "6222",
         "name": "Ka'dar Hollman",
         "team": null,
@@ -16488,6 +16498,16 @@
         "injuryNotes": null
       },
       {
+        "id": "11039",
+        "name": "Ryan Hayes",
+        "team": null,
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
         "id": "11053",
         "name": "Antoine Green",
         "team": null,
@@ -16895,6 +16915,16 @@
         "depthChartPosition": null,
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "11908",
+        "name": "Gabriel Murphy",
+        "team": null,
+        "position": "DL",
+        "depthChartPosition": null,
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
       {
@@ -17336,6 +17366,16 @@
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
+      },
+      {
+        "id": "13155",
+        "name": "Chandler Martin",
+        "team": null,
+        "position": "LB",
+        "depthChartPosition": null,
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Knee - ACL",
+        "injuryNotes": "Surgery"
       },
       {
         "id": "13188",
@@ -20006,16 +20046,6 @@
         "injuryNotes": null
       },
       {
-        "id": "6211",
-        "name": "Sione Takitaki",
-        "team": "MIN",
-        "position": "LB",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
         "id": "6633",
         "name": "Matt Nelson",
         "team": "MIN",
@@ -20093,16 +20123,6 @@
         "depthChartPosition": "RCB",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Hip",
-        "injuryNotes": null
-      },
-      {
-        "id": "11908",
-        "name": "Gabriel Murphy",
-        "team": "MIN",
-        "position": "DL",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
       {
@@ -22340,16 +22360,6 @@
         "injuryNotes": null
       },
       {
-        "id": "11039",
-        "name": "Ryan Hayes",
-        "team": "ATL",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
         "id": "11050",
         "name": "DeMarcco Hellams",
         "team": "ATL",
@@ -22550,16 +22560,6 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": "Strain"
-      },
-      {
-        "id": "13155",
-        "name": "Chandler Martin",
-        "team": "BAL",
-        "position": "LB",
-        "depthChartPosition": null,
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Knee - ACL",
-        "injuryNotes": "Surgery"
       }
     ],
     "GB": [
@@ -23226,6 +23226,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1105,
-    "lastUpdate": "2026-01-13T16:35:35.110Z"
+    "lastUpdate": "2026-01-13T17:28:48.259Z"
   }
 }
