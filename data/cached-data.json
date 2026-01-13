@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-13T14:28:26.681Z",
+  "lastUpdated": "2026-01-13T15:28:37.838Z",
   "season": 2025,
   "gameStats": [
     {
@@ -15258,16 +15258,6 @@
         "injuryNotes": null
       },
       {
-        "id": "7046",
-        "name": "J.R. Reed",
-        "team": null,
-        "position": "DB",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
         "id": "7051",
         "name": "Grayland Arnold",
         "team": null,
@@ -23235,7 +23225,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1106,
-    "lastUpdate": "2026-01-13T14:28:26.681Z"
+    "injuredPlayers": 1105,
+    "lastUpdate": "2026-01-13T15:28:37.838Z"
   }
 }
