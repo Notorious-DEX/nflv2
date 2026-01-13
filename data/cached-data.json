@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-13T22:25:26.997Z",
+  "lastUpdated": "2026-01-13T23:22:05.568Z",
   "season": 2025,
   "gameStats": [
     {
@@ -12156,6 +12156,26 @@
         "injuryNotes": null
       },
       {
+        "id": "4191",
+        "name": "Matt Milano",
+        "team": "BUF",
+        "position": "LB",
+        "depthChartPosition": "LOLB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
+        "id": "4984",
+        "name": "Josh Allen",
+        "team": "BUF",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Foot",
+        "injuryNotes": "Soreness"
+      },
+      {
         "id": "5841",
         "name": "Ed Oliver",
         "team": "BUF",
@@ -12183,6 +12203,16 @@
         "depthChartPosition": "RB",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
+        "id": "6802",
+        "name": "A.J. Epenesa",
+        "team": "BUF",
+        "position": "DE",
+        "depthChartPosition": "RDE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Neck",
         "injuryNotes": null
       },
       {
@@ -12214,6 +12244,16 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Achilles",
         "injuryNotes": "Surgery"
+      },
+      {
+        "id": "7627",
+        "name": "Greg Rousseau",
+        "team": "BUF",
+        "position": "DE",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Back",
+        "injuryNotes": null
       },
       {
         "id": "7670",
@@ -19320,16 +19360,6 @@
         "injuryNotes": null
       },
       {
-        "id": "5466",
-        "name": "John Franklin-Myers",
-        "team": "DEN",
-        "position": "DT",
-        "depthChartPosition": "RDE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hip",
-        "injuryNotes": null
-      },
-      {
         "id": "6034",
         "name": "Donnie Lewis",
         "team": "DEN",
@@ -19347,16 +19377,6 @@
         "depthChartPosition": "LILB",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Hamstring",
-        "injuryNotes": null
-      },
-      {
-        "id": "6419",
-        "name": "P.J. Locke",
-        "team": "DEN",
-        "position": "DB",
-        "depthChartPosition": "SS",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Leg",
         "injuryNotes": null
       },
       {
@@ -23215,7 +23235,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1104,
-    "lastUpdate": "2026-01-13T22:25:26.997Z"
+    "injuredPlayers": 1106,
+    "lastUpdate": "2026-01-13T23:22:05.568Z"
   }
 }
