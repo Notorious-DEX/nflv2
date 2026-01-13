@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-13T03:40:03.959Z",
+  "lastUpdated": "2026-01-13T04:42:13.746Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19032,7 +19032,7 @@
         "position": "WR",
         "depthChartPosition": "LWR",
         "injuryStatus": "Questionable",
-        "injuryBodyPart": "Head",
+        "injuryBodyPart": "Concussion",
         "injuryNotes": null
       },
       {
@@ -19043,6 +19043,16 @@
         "depthChartPosition": "TE",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "7569",
+        "name": "Nico Collins",
+        "team": "HOU",
+        "position": "WR",
+        "depthChartPosition": "LWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Concussion",
         "injuryNotes": null
       },
       {
@@ -23345,7 +23355,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1117,
-    "lastUpdate": "2026-01-13T03:40:03.959Z"
+    "injuredPlayers": 1118,
+    "lastUpdate": "2026-01-13T04:42:13.746Z"
   }
 }
