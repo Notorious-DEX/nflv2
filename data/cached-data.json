@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-13T11:22:52.505Z",
+  "lastUpdated": "2026-01-13T12:53:05.624Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19006,16 +19006,6 @@
         "injuryNotes": null
       },
       {
-        "id": "5121",
-        "name": "Braxton Berrios",
-        "team": "HOU",
-        "position": "WR",
-        "depthChartPosition": "SWR",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Coach's Decision",
-        "injuryNotes": null
-      },
-      {
         "id": "5366",
         "name": "Tim Settle",
         "team": "HOU",
@@ -19056,16 +19046,6 @@
         "injuryNotes": null
       },
       {
-        "id": "8278",
-        "name": "Christian Harris",
-        "team": "HOU",
-        "position": "LB",
-        "depthChartPosition": "ROLB",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Coach's Decision",
-        "injuryNotes": null
-      },
-      {
         "id": "8349",
         "name": "Jake Hansen",
         "team": "HOU",
@@ -19096,16 +19076,6 @@
         "injuryNotes": "Surgery"
       },
       {
-        "id": "10893",
-        "name": "Juice Scruggs",
-        "team": "HOU",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Coach's Decision",
-        "injuryNotes": null
-      },
-      {
         "id": "11429",
         "name": "Kaevon Merriweather",
         "team": "HOU",
@@ -19121,7 +19091,7 @@
         "team": "HOU",
         "position": "RB",
         "depthChartPosition": "RB",
-        "injuryStatus": "Out",
+        "injuryStatus": "Questionable",
         "injuryBodyPart": "Ankle",
         "injuryNotes": "Sprain"
       },
@@ -19133,16 +19103,6 @@
         "depthChartPosition": "DB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "12705",
-        "name": "Graham Mertz",
-        "team": "HOU",
-        "position": "QB",
-        "depthChartPosition": "QB",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -19163,16 +19123,6 @@
         "depthChartPosition": "DL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Leg",
-        "injuryNotes": null
-      },
-      {
-        "id": "13049",
-        "name": "Alijah Huzzie",
-        "team": "HOU",
-        "position": "DB",
-        "depthChartPosition": "NB",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -20642,16 +20592,6 @@
         "injuryNotes": null
       },
       {
-        "id": "5379",
-        "name": "Tre Flowers",
-        "team": "PIT",
-        "position": "CB",
-        "depthChartPosition": null,
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Coach's Decision",
-        "injuryNotes": null
-      },
-      {
         "id": "5532",
         "name": "Daniel Ekuale",
         "team": "PIT",
@@ -20692,16 +20632,6 @@
         "injuryNotes": null
       },
       {
-        "id": "6942",
-        "name": "Jack Driscoll",
-        "team": "PIT",
-        "position": "T",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Coach's Decision",
-        "injuryNotes": null
-      },
-      {
         "id": "7833",
         "name": "Isaiahh Loudermilk",
         "team": "PIT",
@@ -20719,16 +20649,6 @@
         "depthChartPosition": "QB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Hamstring",
-        "injuryNotes": null
-      },
-      {
-        "id": "8297",
-        "name": "Jeremiah Moon",
-        "team": "PIT",
-        "position": "LB",
-        "depthChartPosition": "ROLB",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -20759,46 +20679,6 @@
         "depthChartPosition": "RCB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Hamstring",
-        "injuryNotes": null
-      },
-      {
-        "id": "11630",
-        "name": "Roman Wilson",
-        "team": "PIT",
-        "position": "WR",
-        "depthChartPosition": "RWR",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Coach's Decision",
-        "injuryNotes": null
-      },
-      {
-        "id": "11811",
-        "name": "Logan Lee",
-        "team": "PIT",
-        "position": "DL",
-        "depthChartPosition": "NT",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Coach's Decision",
-        "injuryNotes": null
-      },
-      {
-        "id": "12504",
-        "name": "Kaleb Johnson",
-        "team": "PIT",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Coach's Decision",
-        "injuryNotes": null
-      },
-      {
-        "id": "12511",
-        "name": "Will Howard",
-        "team": "PIT",
-        "position": "QB",
-        "depthChartPosition": "QB",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -23355,7 +23235,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1118,
-    "lastUpdate": "2026-01-13T11:22:52.505Z"
+    "injuredPlayers": 1106,
+    "lastUpdate": "2026-01-13T12:53:05.624Z"
   }
 }
