@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-13T10:27:46.130Z",
+  "lastUpdated": "2026-01-13T11:22:52.505Z",
   "season": 2025,
   "gameStats": [
     {
@@ -16612,7 +16612,7 @@
         "name": "Jacob Slade",
         "team": null,
         "position": "DL",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "NT",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -20626,7 +20626,7 @@
         "name": "Dean Lowry",
         "team": "PIT",
         "position": "DE",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "NT",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -20646,7 +20646,7 @@
         "name": "Tre Flowers",
         "team": "PIT",
         "position": "CB",
-        "depthChartPosition": "RCB",
+        "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
@@ -20656,7 +20656,7 @@
         "name": "Daniel Ekuale",
         "team": "PIT",
         "position": "DT",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "RDE",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee - ACL",
         "injuryNotes": "Surgery"
@@ -23356,6 +23356,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1118,
-    "lastUpdate": "2026-01-13T10:27:46.130Z"
+    "lastUpdate": "2026-01-13T11:22:52.505Z"
   }
 }
