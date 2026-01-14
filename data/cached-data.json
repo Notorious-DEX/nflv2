@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-14T22:25:57.631Z",
+  "lastUpdated": "2026-01-14T23:20:15.938Z",
   "season": 2025,
   "gameStats": [
     {
@@ -20874,6 +20874,26 @@
         "injuryNotes": null
       },
       {
+        "id": "4163",
+        "name": "Jalen Reeves-Maybin",
+        "team": "CHI",
+        "position": "LB",
+        "depthChartPosition": "LOLB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Back",
+        "injuryNotes": null
+      },
+      {
+        "id": "4983",
+        "name": "DJ Moore",
+        "team": "CHI",
+        "position": "WR",
+        "depthChartPosition": "RWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "5893",
         "name": "C.J. Gardner-Johnson",
         "team": "CHI",
@@ -20944,6 +20964,16 @@
         "injuryNotes": null
       },
       {
+        "id": "7974",
+        "name": "Nick McCloud",
+        "team": "CHI",
+        "position": "CB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Groin",
+        "injuryNotes": null
+      },
+      {
         "id": "10235",
         "name": "Roschon Johnson",
         "team": "CHI",
@@ -20981,6 +21011,16 @@
         "depthChartPosition": "MLB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Achilles",
+        "injuryNotes": null
+      },
+      {
+        "id": "11620",
+        "name": "Rome Odunze",
+        "team": "CHI",
+        "position": "WR",
+        "depthChartPosition": "LWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Foot",
         "injuryNotes": null
       },
       {
@@ -23395,7 +23435,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1122,
-    "lastUpdate": "2026-01-14T22:25:57.631Z"
+    "injuredPlayers": 1126,
+    "lastUpdate": "2026-01-14T23:20:15.938Z"
   }
 }
