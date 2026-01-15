@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-15T23:23:43.631Z",
+  "lastUpdated": "2026-01-15T23:34:29.995Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17902,16 +17902,6 @@
         "injuryNotes": "Surgery"
       },
       {
-        "id": "6812",
-        "name": "Yetur Gross-Matos",
-        "team": "SF",
-        "position": "DE",
-        "depthChartPosition": "RDE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
         "id": "6963",
         "name": "Patrick Taylor",
         "team": "SF",
@@ -17939,16 +17929,6 @@
         "depthChartPosition": "LB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "10904",
-        "name": "Keion White",
-        "team": "SF",
-        "position": "DL",
-        "depthChartPosition": "RDE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Groin",
         "injuryNotes": null
       },
       {
@@ -17999,16 +17979,6 @@
         "depthChartPosition": "LWR",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Knee - PCL",
-        "injuryNotes": null
-      },
-      {
-        "id": "11723",
-        "name": "Dominick Puni",
-        "team": "SF",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
       {
@@ -18862,6 +18832,88 @@
         "injuryNotes": null
       }
     ],
+    "LAR": [
+      {
+        "id": "1837",
+        "name": "Jimmy Garoppolo",
+        "team": "LAR",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Back",
+        "injuryNotes": null
+      },
+      {
+        "id": "2362",
+        "name": "Rob Havenstein",
+        "team": "LAR",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
+        "id": "4124",
+        "name": "Ahkello Witherspoon",
+        "team": "LAR",
+        "position": "CB",
+        "depthChartPosition": "LCB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Shoulder",
+        "injuryNotes": null
+      },
+      {
+        "id": "5308",
+        "name": "Duplicate Player",
+        "team": "LAR",
+        "position": "DE",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": null,
+        "injuryNotes": null
+      },
+      {
+        "id": "7116",
+        "name": "Kevin Dotson",
+        "team": "LAR",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": "Sprain"
+      },
+      {
+        "id": "7348",
+        "name": "Dayan Lake",
+        "team": "LAR",
+        "position": "DB",
+        "depthChartPosition": null,
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "8739",
+        "name": "Keir Thomas",
+        "team": "LAR",
+        "position": "DE",
+        "depthChartPosition": "LB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "13000",
+        "name": "Shaun Dolac",
+        "team": "LAR",
+        "position": "LB",
+        "depthChartPosition": "RILB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      }
+    ],
     "HOU": [
       {
         "id": "2027",
@@ -19455,88 +19507,6 @@
         "depthChartPosition": "LCB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      }
-    ],
-    "LAR": [
-      {
-        "id": "2362",
-        "name": "Rob Havenstein",
-        "team": "LAR",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
-        "id": "4124",
-        "name": "Ahkello Witherspoon",
-        "team": "LAR",
-        "position": "CB",
-        "depthChartPosition": "LCB",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Shoulder",
-        "injuryNotes": null
-      },
-      {
-        "id": "5226",
-        "name": "Poona Ford",
-        "team": "LAR",
-        "position": "DT",
-        "depthChartPosition": "NT",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Elbow",
-        "injuryNotes": null
-      },
-      {
-        "id": "5308",
-        "name": "Duplicate Player",
-        "team": "LAR",
-        "position": "DE",
-        "depthChartPosition": "LDE",
-        "injuryStatus": "Out",
-        "injuryBodyPart": null,
-        "injuryNotes": null
-      },
-      {
-        "id": "7116",
-        "name": "Kevin Dotson",
-        "team": "LAR",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": "Sprain"
-      },
-      {
-        "id": "7348",
-        "name": "Dayan Lake",
-        "team": "LAR",
-        "position": "DB",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "8739",
-        "name": "Keir Thomas",
-        "team": "LAR",
-        "position": "DE",
-        "depthChartPosition": "LB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "13000",
-        "name": "Shaun Dolac",
-        "team": "LAR",
-        "position": "LB",
-        "depthChartPosition": "RILB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
         "injuryNotes": null
       }
     ],
@@ -22532,16 +22502,6 @@
         "injuryNotes": null
       },
       {
-        "id": "7672",
-        "name": "Ernest Jones",
-        "team": "SEA",
-        "position": "LB",
-        "depthChartPosition": "RILB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
-        "injuryNotes": null
-      },
-      {
         "id": "7673",
         "name": "Chazz Surratt",
         "team": "SEA",
@@ -23285,7 +23245,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1111,
-    "lastUpdate": "2026-01-15T23:23:43.631Z"
+    "injuredPlayers": 1107,
+    "lastUpdate": "2026-01-15T23:34:29.995Z"
   }
 }
