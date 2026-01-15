@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-15T22:24:50.350Z",
+  "lastUpdated": "2026-01-15T22:41:50.626Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19538,16 +19538,6 @@
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
-      },
-      {
-        "id": "13001",
-        "name": "Mario Williams",
-        "team": "LAR",
-        "position": "WR",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
       }
     ],
     "DEN": [
@@ -19579,16 +19569,6 @@
         "depthChartPosition": null,
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "6056",
-        "name": "Dre Greenlaw",
-        "team": "DEN",
-        "position": "LB",
-        "depthChartPosition": "LILB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
       {
@@ -22572,26 +22552,6 @@
         "injuryNotes": null
       },
       {
-        "id": "8374",
-        "name": "Riq Woolen",
-        "team": "SEA",
-        "position": "DB",
-        "depthChartPosition": "LCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Oblique",
-        "injuryNotes": null
-      },
-      {
-        "id": "8446",
-        "name": "Charles Cross",
-        "team": "SEA",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
         "id": "10216",
         "name": "Kenny McIntosh",
         "team": "SEA",
@@ -22609,16 +22569,6 @@
         "depthChartPosition": "DB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "11734",
-        "name": "Tyrice Knight",
-        "team": "SEA",
-        "position": "LB",
-        "depthChartPosition": "LILB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Shoulder",
         "injuryNotes": null
       },
       {
@@ -23335,7 +23285,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1116,
-    "lastUpdate": "2026-01-15T22:24:50.350Z"
+    "injuredPlayers": 1111,
+    "lastUpdate": "2026-01-15T22:41:50.626Z"
   }
 }
