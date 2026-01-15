@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-15T20:43:53.711Z",
+  "lastUpdated": "2026-01-15T20:56:20.752Z",
   "season": 2025,
   "gameStats": [
     {
@@ -20642,16 +20642,6 @@
         "injuryNotes": null
       },
       {
-        "id": "4163",
-        "name": "Jalen Reeves-Maybin",
-        "team": "CHI",
-        "position": "LB",
-        "depthChartPosition": "LOLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Back",
-        "injuryNotes": null
-      },
-      {
         "id": "4983",
         "name": "DJ Moore",
         "team": "CHI",
@@ -23355,7 +23345,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1118,
-    "lastUpdate": "2026-01-15T20:43:53.711Z"
+    "injuredPlayers": 1117,
+    "lastUpdate": "2026-01-15T20:56:20.752Z"
   }
 }
