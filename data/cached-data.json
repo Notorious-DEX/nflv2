@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-15T21:24:41.795Z",
+  "lastUpdated": "2026-01-15T21:33:54.030Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19136,16 +19136,6 @@
         "injuryNotes": null
       },
       {
-        "id": "3214",
-        "name": "Hunter Henry",
-        "team": "NE",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
         "id": "3692",
         "name": "Alex Redmond",
         "team": "NE",
@@ -19223,16 +19213,6 @@
         "depthChartPosition": "OL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "7756",
-        "name": "Khyiris Tonga",
-        "team": "NE",
-        "position": "DT",
-        "depthChartPosition": "NT",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Foot",
         "injuryNotes": null
       },
       {
@@ -23345,7 +23325,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1117,
-    "lastUpdate": "2026-01-15T21:24:41.795Z"
+    "injuredPlayers": 1115,
+    "lastUpdate": "2026-01-15T21:33:54.030Z"
   }
 }
