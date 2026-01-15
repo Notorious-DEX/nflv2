@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-15T19:26:55.383Z",
+  "lastUpdated": "2026-01-15T19:40:53.272Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18560,16 +18560,6 @@
         "injuryNotes": null
       },
       {
-        "id": "2330",
-        "name": "Shaq Thompson",
-        "team": "BUF",
-        "position": "LB",
-        "depthChartPosition": "ROLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Neck",
-        "injuryNotes": null
-      },
-      {
         "id": "2357",
         "name": "Jordan Phillips",
         "team": "BUF",
@@ -18587,16 +18577,6 @@
         "depthChartPosition": "KR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Elbow",
-        "injuryNotes": null
-      },
-      {
-        "id": "4191",
-        "name": "Matt Milano",
-        "team": "BUF",
-        "position": "LB",
-        "depthChartPosition": "LOLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
       {
@@ -18630,16 +18610,6 @@
         "injuryNotes": null
       },
       {
-        "id": "6802",
-        "name": "A.J. Epenesa",
-        "team": "BUF",
-        "position": "DE",
-        "depthChartPosition": "RDE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Neck",
-        "injuryNotes": null
-      },
-      {
         "id": "6943",
         "name": "Gabe Davis",
         "team": "BUF",
@@ -18670,16 +18640,6 @@
         "injuryNotes": "Surgery"
       },
       {
-        "id": "7627",
-        "name": "Greg Rousseau",
-        "team": "BUF",
-        "position": "DE",
-        "depthChartPosition": "LDE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Back",
-        "injuryNotes": null
-      },
-      {
         "id": "7670",
         "name": "Joshua Palmer",
         "team": "BUF",
@@ -18707,16 +18667,6 @@
         "depthChartPosition": "MLB",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Calf",
-        "injuryNotes": null
-      },
-      {
-        "id": "10236",
-        "name": "Dalton Kincaid",
-        "team": "BUF",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Lower Leg",
         "injuryNotes": null
       },
       {
@@ -23405,7 +23355,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1123,
-    "lastUpdate": "2026-01-15T19:26:55.383Z"
+    "injuredPlayers": 1118,
+    "lastUpdate": "2026-01-15T19:40:53.272Z"
   }
 }
