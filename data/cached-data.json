@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-16T21:23:51.609Z",
+  "lastUpdated": "2026-01-16T22:24:01.876Z",
   "season": 2025,
   "gameStats": [
     {
@@ -16686,16 +16686,6 @@
         "injuryNotes": null
       },
       {
-        "id": "11908",
-        "name": "Gabriel Murphy",
-        "team": null,
-        "position": "DL",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
         "id": "11914",
         "name": "Jeremy Flax",
         "team": null,
@@ -18874,16 +18864,6 @@
         "injuryNotes": null
       },
       {
-        "id": "7116",
-        "name": "Kevin Dotson",
-        "team": "LAR",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": "Sprain"
-      },
-      {
         "id": "7348",
         "name": "Dayan Lake",
         "team": "LAR",
@@ -18901,6 +18881,16 @@
         "depthChartPosition": "LB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "11021",
+        "name": "Desjuan Johnson",
+        "team": "LAR",
+        "position": "DT",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
         "injuryNotes": null
       },
       {
@@ -23095,7 +23085,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1092,
-    "lastUpdate": "2026-01-16T21:23:51.609Z"
+    "injuredPlayers": 1091,
+    "lastUpdate": "2026-01-16T22:24:01.876Z"
   }
 }
