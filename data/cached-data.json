@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-17T20:24:56.374Z",
+  "lastUpdated": "2026-01-17T21:20:33.434Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17856,7 +17856,7 @@
         "name": "Fred Warner",
         "team": "SF",
         "position": "LB",
-        "depthChartPosition": "LB",
+        "depthChartPosition": "MLB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Ankle",
         "injuryNotes": "Dislocated"
@@ -18520,26 +18520,6 @@
         "injuryNotes": null
       },
       {
-        "id": "4082",
-        "name": "Curtis Samuel",
-        "team": "BUF",
-        "position": "WR",
-        "depthChartPosition": "RWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Elbow",
-        "injuryNotes": null
-      },
-      {
-        "id": "5841",
-        "name": "Ed Oliver",
-        "team": "BUF",
-        "position": "DT",
-        "depthChartPosition": "LDT",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Biceps",
-        "injuryNotes": "Surgery"
-      },
-      {
         "id": "5882",
         "name": "Taylor Rapp",
         "team": "BUF",
@@ -18555,7 +18535,7 @@
         "team": "BUF",
         "position": "RB",
         "depthChartPosition": "RB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -18610,12 +18590,22 @@
         "injuryNotes": null
       },
       {
+        "id": "8273",
+        "name": "Phidarian Mathis",
+        "team": "BUF",
+        "position": "DL",
+        "depthChartPosition": "RDT",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "8311",
         "name": "Terrel Bernard",
         "team": "BUF",
         "position": "LB",
         "depthChartPosition": "MLB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Calf",
         "injuryNotes": null
       },
@@ -18638,6 +18628,16 @@
         "injuryStatus": "IR",
         "injuryBodyPart": "Achilles",
         "injuryNotes": "Surgery"
+      },
+      {
+        "id": "11791",
+        "name": "Tylan Grable",
+        "team": "BUF",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
       },
       {
         "id": "12580",
@@ -18677,6 +18677,16 @@
         "depthChartPosition": "LCB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Neck",
+        "injuryNotes": null
+      },
+      {
+        "id": "12765",
+        "name": "Keleki Latu",
+        "team": "BUF",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -19300,6 +19310,26 @@
         "injuryNotes": null
       },
       {
+        "id": "7583",
+        "name": "Sam Ehlinger",
+        "team": "DEN",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "7596",
+        "name": "Elijah Moore",
+        "team": "DEN",
+        "position": "WR",
+        "depthChartPosition": "RWR",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "8249",
         "name": "Lucas Krull",
         "team": "DEN",
@@ -19350,6 +19380,16 @@
         "injuryNotes": "Surgery"
       },
       {
+        "id": "11325",
+        "name": "Reese Taylor",
+        "team": "DEN",
+        "position": "CB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "11833",
         "name": "Nick Gargiulo",
         "team": "DEN",
@@ -19360,6 +19400,36 @@
         "injuryNotes": null
       },
       {
+        "id": "12628",
+        "name": "Sai'vion Jones",
+        "team": "DEN",
+        "position": "DE",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "12636",
+        "name": "Que Robinson",
+        "team": "DEN",
+        "position": "LB",
+        "depthChartPosition": "ROLB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "12735",
+        "name": "Caleb Lohner",
+        "team": "DEN",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "12770",
         "name": "Johnny Walker",
         "team": "DEN",
@@ -19367,6 +19437,16 @@
         "depthChartPosition": "LB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "12781",
+        "name": "Karene Reid",
+        "team": "DEN",
+        "position": "LB",
+        "depthChartPosition": "RILB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       }
     ],
@@ -20749,8 +20829,8 @@
         "team": "NE",
         "position": "DB",
         "depthChartPosition": "RCB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Undisclosed",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Wrist",
         "injuryNotes": null
       },
       {
@@ -23085,7 +23165,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1091,
-    "lastUpdate": "2026-01-17T20:24:56.374Z"
+    "injuredPlayers": 1099,
+    "lastUpdate": "2026-01-17T21:20:33.434Z"
   }
 }
