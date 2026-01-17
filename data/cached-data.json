@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-17T22:22:11.000Z",
+  "lastUpdated": "2026-01-17T23:21:24.193Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18540,6 +18540,16 @@
         "injuryNotes": null
       },
       {
+        "id": "6314",
+        "name": "Cam Lewis",
+        "team": "BUF",
+        "position": "CB",
+        "depthChartPosition": "NB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": "Cramps"
+      },
+      {
         "id": "6943",
         "name": "Gabe Davis",
         "team": "BUF",
@@ -19397,6 +19407,16 @@
         "depthChartPosition": "RCB",
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "11627",
+        "name": "Troy Franklin",
+        "team": "DEN",
+        "position": "WR",
+        "depthChartPosition": "SWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
       {
@@ -20841,16 +20861,6 @@
         "depthChartPosition": "DL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "11027",
-        "name": "Alex Austin",
-        "team": "NE",
-        "position": "DB",
-        "depthChartPosition": "RCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Wrist",
         "injuryNotes": null
       },
       {
@@ -23185,7 +23195,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1101,
-    "lastUpdate": "2026-01-17T22:22:11.000Z"
+    "injuredPlayers": 1102,
+    "lastUpdate": "2026-01-17T23:21:24.193Z"
   }
 }
