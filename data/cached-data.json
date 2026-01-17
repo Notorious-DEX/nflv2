@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-16T23:22:31.896Z",
+  "lastUpdated": "2026-01-17T01:50:18.681Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18524,7 +18524,7 @@
         "name": "Curtis Samuel",
         "team": "BUF",
         "position": "WR",
-        "depthChartPosition": "KR",
+        "depthChartPosition": "RWR",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Elbow",
         "injuryNotes": null
@@ -18980,7 +18980,7 @@
         "name": "Justin Watson",
         "team": "HOU",
         "position": "WR",
-        "depthChartPosition": "LWR",
+        "depthChartPosition": "RWR",
         "injuryStatus": "Out",
         "injuryBodyPart": "Concussion",
         "injuryNotes": null
@@ -23086,6 +23086,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1091,
-    "lastUpdate": "2026-01-16T23:22:31.896Z"
+    "lastUpdate": "2026-01-17T01:50:18.681Z"
   }
 }
