@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-17T21:20:33.434Z",
+  "lastUpdated": "2026-01-17T22:22:11.000Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18610,6 +18610,16 @@
         "injuryNotes": null
       },
       {
+        "id": "10923",
+        "name": "Dorian Williams",
+        "team": "BUF",
+        "position": "LB",
+        "depthChartPosition": "LOLB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Neck",
+        "injuryNotes": null
+      },
+      {
         "id": "11377",
         "name": "Tyrell Shavers",
         "team": "BUF",
@@ -19397,6 +19407,16 @@
         "depthChartPosition": "OL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "12492",
+        "name": "Pat Bryant",
+        "team": "DEN",
+        "position": "WR",
+        "depthChartPosition": "RWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Concussion",
         "injuryNotes": null
       },
       {
@@ -23165,7 +23185,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1099,
-    "lastUpdate": "2026-01-17T21:20:33.434Z"
+    "injuredPlayers": 1101,
+    "lastUpdate": "2026-01-17T22:22:11.000Z"
   }
 }
