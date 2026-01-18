@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-18T22:53:24.646Z",
+  "lastUpdated": "2026-01-18T23:14:16.690Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19256,6 +19256,16 @@
         "injuryNotes": null
       },
       {
+        "id": "11599",
+        "name": "Cade Stover",
+        "team": "HOU",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "12626",
         "name": "Jaylin Smith",
         "team": "HOU",
@@ -21133,6 +21143,16 @@
         "depthChartPosition": "RWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Abdomen",
+        "injuryNotes": null
+      },
+      {
+        "id": "5054",
+        "name": "Carlton Davis",
+        "team": "NE",
+        "position": "CB",
+        "depthChartPosition": "LCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Head",
         "injuryNotes": null
       },
       {
@@ -23495,7 +23515,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1132,
-    "lastUpdate": "2026-01-18T22:53:24.646Z"
+    "injuredPlayers": 1134,
+    "lastUpdate": "2026-01-18T23:14:16.690Z"
   }
 }
