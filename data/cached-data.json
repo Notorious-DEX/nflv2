@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-18T23:21:59.373Z",
+  "lastUpdated": "2026-01-18T23:33:12.248Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19141,7 +19141,7 @@
         "team": "HOU",
         "position": "TE",
         "depthChartPosition": "TE",
-        "injuryStatus": "Out",
+        "injuryStatus": "Questionable",
         "injuryBodyPart": "Calf",
         "injuryNotes": null
       },
@@ -23516,6 +23516,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1134,
-    "lastUpdate": "2026-01-18T23:21:59.373Z"
+    "lastUpdate": "2026-01-18T23:33:12.248Z"
   }
 }
