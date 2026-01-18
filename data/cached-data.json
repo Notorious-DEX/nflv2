@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-18T21:37:04.679Z",
+  "lastUpdated": "2026-01-18T21:47:31.586Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19021,7 +19021,7 @@
         "team": "HOU",
         "position": "TE",
         "depthChartPosition": "TE",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Calf",
         "injuryNotes": null
       },
@@ -20921,6 +20921,16 @@
         "depthChartPosition": "OL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "7611",
+        "name": "Rhamondre Stevenson",
+        "team": "NE",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Eye",
         "injuryNotes": null
       },
       {
@@ -23415,7 +23425,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1124,
-    "lastUpdate": "2026-01-18T21:37:04.679Z"
+    "injuredPlayers": 1125,
+    "lastUpdate": "2026-01-18T21:47:31.586Z"
   }
 }
