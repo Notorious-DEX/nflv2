@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-18T18:37:15.070Z",
+  "lastUpdated": "2026-01-18T18:54:17.281Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19001,7 +19001,7 @@
         "team": "HOU",
         "position": "OL",
         "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -19116,6 +19116,16 @@
         "injuryNotes": null
       },
       {
+        "id": "11588",
+        "name": "Jawhar Jordan",
+        "team": "HOU",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "12626",
         "name": "Jaylin Smith",
         "team": "HOU",
@@ -19123,6 +19133,16 @@
         "depthChartPosition": "DB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "12705",
+        "name": "Graham Mertz",
+        "team": "HOU",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -19143,6 +19163,16 @@
         "depthChartPosition": "DL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Leg",
+        "injuryNotes": null
+      },
+      {
+        "id": "13049",
+        "name": "Alijah Huzzie",
+        "team": "HOU",
+        "position": "DB",
+        "depthChartPosition": "NB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -20844,16 +20874,6 @@
         "injuryNotes": null
       },
       {
-        "id": "5030",
-        "name": "Harold Landry",
-        "team": "NE",
-        "position": "LB",
-        "depthChartPosition": "ROLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
         "id": "6551",
         "name": "Darius Harris",
         "team": "NE",
@@ -20924,6 +20944,26 @@
         "injuryNotes": null
       },
       {
+        "id": "11292",
+        "name": "Tommy DeVito",
+        "team": "NE",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "11711",
+        "name": "Caedan Wallace",
+        "team": "NE",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "11809",
         "name": "Marcellas Dial",
         "team": "NE",
@@ -20964,6 +21004,46 @@
         "injuryNotes": null
       },
       {
+        "id": "12677",
+        "name": "Bradyn Swinson",
+        "team": "NE",
+        "position": "DE",
+        "depthChartPosition": "ROLB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "12726",
+        "name": "Kobee Minor",
+        "team": "NE",
+        "position": "DB",
+        "depthChartPosition": "LCB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "12728",
+        "name": "Marcus Bryant",
+        "team": "NE",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "12752",
+        "name": "Eric Gregory",
+        "team": "NE",
+        "position": "DT",
+        "depthChartPosition": "NT",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "12969",
         "name": "Lan Larison",
         "team": "NE",
@@ -20981,6 +21061,16 @@
         "depthChartPosition": "RB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "12984",
+        "name": "CJ Dippre",
+        "team": "NE",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       }
     ],
@@ -23315,7 +23405,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1114,
-    "lastUpdate": "2026-01-18T18:37:15.070Z"
+    "injuredPlayers": 1123,
+    "lastUpdate": "2026-01-18T18:54:17.281Z"
   }
 }
