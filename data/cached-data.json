@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-18T20:57:39.369Z",
+  "lastUpdated": "2026-01-18T21:20:21.997Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19016,6 +19016,16 @@
         "injuryNotes": null
       },
       {
+        "id": "5001",
+        "name": "Dalton Schultz",
+        "team": "HOU",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Calf",
+        "injuryNotes": null
+      },
+      {
         "id": "5055",
         "name": "M.J. Stewart",
         "team": "HOU",
@@ -20871,16 +20881,6 @@
         "depthChartPosition": "RWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Abdomen",
-        "injuryNotes": null
-      },
-      {
-        "id": "5726",
-        "name": "Robert Spillane",
-        "team": "NE",
-        "position": "LB",
-        "depthChartPosition": "LILB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Thumb",
         "injuryNotes": null
       },
       {
@@ -23416,6 +23416,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1124,
-    "lastUpdate": "2026-01-18T20:57:39.369Z"
+    "lastUpdate": "2026-01-18T21:20:21.997Z"
   }
 }
