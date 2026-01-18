@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-18T10:24:16.715Z",
+  "lastUpdated": "2026-01-18T11:18:49.740Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17846,7 +17846,7 @@
         "name": "Trent Taylor",
         "team": "SF",
         "position": "WR",
-        "depthChartPosition": null,
+        "depthChartPosition": "RWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -17866,7 +17866,7 @@
         "name": "Brandon Parker",
         "team": "SF",
         "position": "T",
-        "depthChartPosition": "OL",
+        "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
@@ -17876,7 +17876,7 @@
         "name": "Nick Bosa",
         "team": "SF",
         "position": "DE",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "LDE",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee - ACL",
         "injuryNotes": "Surgery"
@@ -17896,7 +17896,7 @@
         "name": "Brandon Aiyuk",
         "team": "SF",
         "position": "WR",
-        "depthChartPosition": null,
+        "depthChartPosition": "SWR",
         "injuryStatus": "DNR",
         "injuryBodyPart": "Knee - ACL + MCL",
         "injuryNotes": "Surgery"
@@ -17926,7 +17926,7 @@
         "name": "Tarron Jackson",
         "team": "SF",
         "position": "DE",
-        "depthChartPosition": "LB",
+        "depthChartPosition": "LOLB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -17966,7 +17966,7 @@
         "name": "Tre Tomlinson",
         "team": "SF",
         "position": "CB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "RCB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -17996,7 +17996,7 @@
         "name": "Tatum Bethune",
         "team": "SF",
         "position": "LB",
-        "depthChartPosition": "LB",
+        "depthChartPosition": "LOLB",
         "injuryStatus": "Out",
         "injuryBodyPart": "Groin",
         "injuryNotes": null
@@ -18016,7 +18016,7 @@
         "name": "Mykel Williams",
         "team": "SF",
         "position": "DL",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "LDT",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee - ACL",
         "injuryNotes": "Surgery"
@@ -18036,7 +18036,7 @@
         "name": "Jakob Robinson",
         "team": "SF",
         "position": "CB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "LCB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Forearm",
         "injuryNotes": null
@@ -18046,7 +18046,7 @@
         "name": "Sebastian Valdez",
         "team": "SF",
         "position": "DL",
-        "depthChartPosition": "RDT",
+        "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
@@ -18554,7 +18554,7 @@
         "name": "Jordan Phillips",
         "team": "BUF",
         "position": "DE",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "RDT",
         "injuryStatus": "IR",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
@@ -18594,7 +18594,7 @@
         "name": "Gabe Davis",
         "team": "BUF",
         "position": "WR",
-        "depthChartPosition": null,
+        "depthChartPosition": "SWR",
         "injuryStatus": "Out",
         "injuryBodyPart": "Knee - ACL",
         "injuryNotes": null
@@ -18614,7 +18614,7 @@
         "name": "Michael Hoecht",
         "team": "BUF",
         "position": "DT",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "LDE",
         "injuryStatus": "IR",
         "injuryBodyPart": "Achilles",
         "injuryNotes": "Surgery"
@@ -18624,7 +18624,7 @@
         "name": "Joshua Palmer",
         "team": "BUF",
         "position": "WR",
-        "depthChartPosition": null,
+        "depthChartPosition": "LWR",
         "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
@@ -18674,7 +18674,7 @@
         "name": "Tyrell Shavers",
         "team": "BUF",
         "position": "WR",
-        "depthChartPosition": null,
+        "depthChartPosition": "SWR",
         "injuryStatus": "Out",
         "injuryBodyPart": "Knee - ACL",
         "injuryNotes": "Surgery"
@@ -18684,7 +18684,7 @@
         "name": "DeWayne Carter",
         "team": "BUF",
         "position": "DT",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "LDT",
         "injuryStatus": "IR",
         "injuryBodyPart": "Achilles",
         "injuryNotes": "Surgery"
@@ -18754,7 +18754,7 @@
         "name": "Wande Owens",
         "team": "BUF",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "SS",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -23316,6 +23316,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1114,
-    "lastUpdate": "2026-01-18T10:24:16.715Z"
+    "lastUpdate": "2026-01-18T11:18:49.740Z"
   }
 }
