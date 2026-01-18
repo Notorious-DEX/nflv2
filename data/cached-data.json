@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-17T23:21:24.193Z",
+  "lastUpdated": "2026-01-18T02:02:51.027Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17862,6 +17862,16 @@
         "injuryNotes": "Dislocated"
       },
       {
+        "id": "5065",
+        "name": "Brandon Parker",
+        "team": "SF",
+        "position": "T",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "5816",
         "name": "Nick Bosa",
         "team": "SF",
@@ -17872,13 +17882,13 @@
         "injuryNotes": "Surgery"
       },
       {
-        "id": "6612",
-        "name": "Luke Gifford",
+        "id": "6005",
+        "name": "Kevin Givens",
         "team": "SF",
-        "position": "LB",
-        "depthChartPosition": "LOLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Quadriceps",
+        "position": "DT",
+        "depthChartPosition": "LDT",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -17932,6 +17942,16 @@
         "injuryNotes": null
       },
       {
+        "id": "10966",
+        "name": "Robert Beal",
+        "team": "SF",
+        "position": "LB",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "10995",
         "name": "Tre Tomlinson",
         "team": "SF",
@@ -17939,16 +17959,6 @@
         "depthChartPosition": "DB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "11017",
-        "name": "Dee Winters",
-        "team": "SF",
-        "position": "LB",
-        "depthChartPosition": "ROLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
       {
@@ -17962,13 +17972,13 @@
         "injuryNotes": null
       },
       {
-        "id": "11638",
-        "name": "Ricky Pearsall",
+        "id": "11651",
+        "name": "Isaac Guerendo",
         "team": "SF",
-        "position": "WR",
-        "depthChartPosition": "LWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee - PCL",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -18002,6 +18012,16 @@
         "injuryNotes": "Surgery"
       },
       {
+        "id": "12634",
+        "name": "Jordan Watkins",
+        "team": "SF",
+        "position": "WR",
+        "depthChartPosition": "SWR",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "12763",
         "name": "Jakob Robinson",
         "team": "SF",
@@ -18009,6 +18029,16 @@
         "depthChartPosition": "DB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Forearm",
+        "injuryNotes": null
+      },
+      {
+        "id": "13073",
+        "name": "Sebastian Valdez",
+        "team": "SF",
+        "position": "DL",
+        "depthChartPosition": "RDT",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       }
     ],
@@ -18520,6 +18550,16 @@
         "injuryNotes": null
       },
       {
+        "id": "5841",
+        "name": "Ed Oliver",
+        "team": "BUF",
+        "position": "DT",
+        "depthChartPosition": "LDT",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "5882",
         "name": "Taylor Rapp",
         "team": "BUF",
@@ -18538,16 +18578,6 @@
         "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
-      },
-      {
-        "id": "6314",
-        "name": "Cam Lewis",
-        "team": "BUF",
-        "position": "CB",
-        "depthChartPosition": "NB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": "Cramps"
       },
       {
         "id": "6943",
@@ -19400,6 +19430,16 @@
         "injuryNotes": "Surgery"
       },
       {
+        "id": "11023",
+        "name": "Alex Forsyth",
+        "team": "DEN",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
         "id": "11325",
         "name": "Reese Taylor",
         "team": "DEN",
@@ -19415,7 +19455,7 @@
         "team": "DEN",
         "position": "WR",
         "depthChartPosition": "SWR",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
@@ -19435,7 +19475,7 @@
         "team": "DEN",
         "position": "WR",
         "depthChartPosition": "RWR",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Concussion",
         "injuryNotes": null
       },
@@ -22410,128 +22450,6 @@
         "injuryNotes": null
       }
     ],
-    "SEA": [
-      {
-        "id": "4943",
-        "name": "Sam Darnold",
-        "team": "SEA",
-        "position": "QB",
-        "depthChartPosition": "QB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Oblique",
-        "injuryNotes": null
-      },
-      {
-        "id": "6808",
-        "name": "Josh Jones",
-        "team": "SEA",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "7022",
-        "name": "Shane Lemieux",
-        "team": "SEA",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "7039",
-        "name": "Cody White",
-        "team": "SEA",
-        "position": "WR",
-        "depthChartPosition": "KR",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Groin",
-        "injuryNotes": null
-      },
-      {
-        "id": "7673",
-        "name": "Chazz Surratt",
-        "team": "SEA",
-        "position": "LB",
-        "depthChartPosition": "RILB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
-        "id": "10216",
-        "name": "Kenny McIntosh",
-        "team": "SEA",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee - ACL",
-        "injuryNotes": null
-      },
-      {
-        "id": "11121",
-        "name": "AJ Finley",
-        "team": "SEA",
-        "position": "DB",
-        "depthChartPosition": "DB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "12048",
-        "name": "George Holani",
-        "team": "SEA",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Hamstring",
-        "injuryNotes": null
-      },
-      {
-        "id": "12497",
-        "name": "Tory Horton",
-        "team": "SEA",
-        "position": "WR",
-        "depthChartPosition": "PR",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Shin",
-        "injuryNotes": null
-      },
-      {
-        "id": "12521",
-        "name": "Elijah Arroyo",
-        "team": "SEA",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "13034",
-        "name": "Tyrone Broden",
-        "team": "SEA",
-        "position": "WR",
-        "depthChartPosition": null,
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "13047",
-        "name": "Jacardia Wright",
-        "team": "SEA",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      }
-    ],
     "BAL": [
       {
         "id": "4975",
@@ -23068,6 +22986,168 @@
         "injuryNotes": null
       }
     ],
+    "SEA": [
+      {
+        "id": "6808",
+        "name": "Josh Jones",
+        "team": "SEA",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "7022",
+        "name": "Shane Lemieux",
+        "team": "SEA",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "7039",
+        "name": "Cody White",
+        "team": "SEA",
+        "position": "WR",
+        "depthChartPosition": "KR",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Groin",
+        "injuryNotes": null
+      },
+      {
+        "id": "7673",
+        "name": "Chazz Surratt",
+        "team": "SEA",
+        "position": "LB",
+        "depthChartPosition": "RILB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
+        "id": "10216",
+        "name": "Kenny McIntosh",
+        "team": "SEA",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee - ACL",
+        "injuryNotes": null
+      },
+      {
+        "id": "11121",
+        "name": "AJ Finley",
+        "team": "SEA",
+        "position": "DB",
+        "depthChartPosition": "DB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "12048",
+        "name": "George Holani",
+        "team": "SEA",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
+        "id": "12497",
+        "name": "Tory Horton",
+        "team": "SEA",
+        "position": "WR",
+        "depthChartPosition": "PR",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Shin",
+        "injuryNotes": null
+      },
+      {
+        "id": "12510",
+        "name": "Jalen Milroe",
+        "team": "SEA",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "12521",
+        "name": "Elijah Arroyo",
+        "team": "SEA",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "12680",
+        "name": "Rylie Mills",
+        "team": "SEA",
+        "position": "DL",
+        "depthChartPosition": "RDE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "12685",
+        "name": "Bryce Cabeldue",
+        "team": "SEA",
+        "position": "OT",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "12719",
+        "name": "Mason Richman",
+        "team": "SEA",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "13034",
+        "name": "Tyrone Broden",
+        "team": "SEA",
+        "position": "WR",
+        "depthChartPosition": null,
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "13047",
+        "name": "Jacardia Wright",
+        "team": "SEA",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "13048",
+        "name": "Jared Ivey",
+        "team": "SEA",
+        "position": "DE",
+        "depthChartPosition": "LOLB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      }
+    ],
     "CAR": [
       {
         "id": "7301",
@@ -23195,7 +23275,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1102,
-    "lastUpdate": "2026-01-17T23:21:24.193Z"
+    "injuredPlayers": 1110,
+    "lastUpdate": "2026-01-18T02:02:51.027Z"
   }
 }
