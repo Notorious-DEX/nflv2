@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-18T02:02:51.027Z",
+  "lastUpdated": "2026-01-18T04:06:54.013Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17932,6 +17932,16 @@
         "injuryNotes": null
       },
       {
+        "id": "8698",
+        "name": "Jake Tonges",
+        "team": "SF",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Foot",
+        "injuryNotes": null
+      },
+      {
         "id": "10936",
         "name": "Ji'Ayir Brown",
         "team": "SF",
@@ -19450,12 +19460,22 @@
         "injuryNotes": null
       },
       {
+        "id": "11563",
+        "name": "Bo Nix",
+        "team": "DEN",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
         "id": "11627",
         "name": "Troy Franklin",
         "team": "DEN",
         "position": "WR",
         "depthChartPosition": "SWR",
-        "injuryStatus": "Out",
+        "injuryStatus": "Questionable",
         "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
@@ -19475,7 +19495,7 @@
         "team": "DEN",
         "position": "WR",
         "depthChartPosition": "RWR",
-        "injuryStatus": "Out",
+        "injuryStatus": "Questionable",
         "injuryBodyPart": "Concussion",
         "injuryNotes": null
       },
@@ -23028,6 +23048,26 @@
         "injuryNotes": null
       },
       {
+        "id": "8446",
+        "name": "Charles Cross",
+        "team": "SEA",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Foot",
+        "injuryNotes": null
+      },
+      {
+        "id": "9753",
+        "name": "Zach Charbonnet",
+        "team": "SEA",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "10216",
         "name": "Kenny McIntosh",
         "team": "SEA",
@@ -23275,7 +23315,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1110,
-    "lastUpdate": "2026-01-18T02:02:51.027Z"
+    "injuredPlayers": 1114,
+    "lastUpdate": "2026-01-18T04:06:54.013Z"
   }
 }
