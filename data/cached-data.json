@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-19T02:28:58.145Z",
+  "lastUpdated": "2026-01-19T04:04:05.239Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19034,6 +19034,16 @@
         "injuryNotes": null
       },
       {
+        "id": "12517",
+        "name": "Colston Loveland",
+        "team": "CHI",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Concussion",
+        "injuryNotes": null
+      },
+      {
         "id": "12606",
         "name": "Ozzy Trapilo",
         "team": "CHI",
@@ -23525,7 +23535,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1135,
-    "lastUpdate": "2026-01-19T02:28:58.145Z"
+    "injuredPlayers": 1136,
+    "lastUpdate": "2026-01-19T04:04:05.239Z"
   }
 }
