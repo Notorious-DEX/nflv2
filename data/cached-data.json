@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-19T17:59:58.301Z",
+  "lastUpdated": "2026-01-19T18:36:04.746Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22903,7 +22903,7 @@
         "team": "SEA",
         "position": "RB",
         "depthChartPosition": "RB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -23106,6 +23106,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1093,
-    "lastUpdate": "2026-01-19T17:59:58.301Z"
+    "lastUpdate": "2026-01-19T18:36:04.746Z"
   }
 }
