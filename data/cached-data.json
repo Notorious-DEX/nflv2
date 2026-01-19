@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-19T10:32:34.895Z",
+  "lastUpdated": "2026-01-19T11:24:12.328Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18918,7 +18918,7 @@
         "name": "Ty Summers",
         "team": "CHI",
         "position": "LB",
-        "depthChartPosition": "LB",
+        "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
@@ -18948,7 +18948,7 @@
         "name": "Dayo Odeyingbo",
         "team": "CHI",
         "position": "DE",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "LDE",
         "injuryStatus": "IR",
         "injuryBodyPart": "Achilles",
         "injuryNotes": "Surgery"
@@ -18988,7 +18988,7 @@
         "name": "Ricky Stromberg",
         "team": "CHI",
         "position": "OL",
-        "depthChartPosition": "OL",
+        "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -18998,7 +18998,7 @@
         "name": "Terell Smith",
         "team": "CHI",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "RCB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -19028,7 +19028,7 @@
         "name": "Qadir Ismail",
         "team": "CHI",
         "position": "WR",
-        "depthChartPosition": "TE",
+        "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -19058,7 +19058,7 @@
         "name": "Shemar Turner",
         "team": "CHI",
         "position": "DE",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "LDT",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee - ACL",
         "injuryNotes": null
@@ -23536,6 +23536,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1136,
-    "lastUpdate": "2026-01-19T10:32:34.895Z"
+    "lastUpdate": "2026-01-19T11:24:12.328Z"
   }
 }
