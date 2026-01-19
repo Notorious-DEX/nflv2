@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-19T22:19:15.588Z",
+  "lastUpdated": "2026-01-19T22:24:27.458Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19198,6 +19198,16 @@
         "injuryNotes": null
       },
       {
+        "id": "10917",
+        "name": "Byron Young",
+        "team": "LAR",
+        "position": "LB",
+        "depthChartPosition": "LOLB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "13000",
         "name": "Shaun Dolac",
         "team": "LAR",
@@ -23105,7 +23115,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1093,
-    "lastUpdate": "2026-01-19T22:19:15.588Z"
+    "injuredPlayers": 1094,
+    "lastUpdate": "2026-01-19T22:24:27.458Z"
   }
 }
