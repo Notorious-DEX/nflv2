@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-18T23:56:38.311Z",
+  "lastUpdated": "2026-01-19T01:59:46.013Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19110,7 +19110,7 @@
         "name": "Mario Edwards",
         "team": "HOU",
         "position": "DE",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "RDT",
         "injuryStatus": "IR",
         "injuryBodyPart": "Pectoral",
         "injuryNotes": "Surgery"
@@ -19150,7 +19150,7 @@
         "name": "M.J. Stewart",
         "team": "HOU",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "FS",
         "injuryStatus": "IR",
         "injuryBodyPart": "Quadriceps",
         "injuryNotes": "Surgery"
@@ -19170,7 +19170,7 @@
         "name": "Tim Settle",
         "team": "HOU",
         "position": "DT",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "LDT",
         "injuryStatus": "IR",
         "injuryBodyPart": "Foot",
         "injuryNotes": null
@@ -19230,7 +19230,7 @@
         "name": "Tank Dell",
         "team": "HOU",
         "position": "WR",
-        "depthChartPosition": null,
+        "depthChartPosition": "RWR",
         "injuryStatus": "PUP",
         "injuryBodyPart": "Knee - ACL + MCL",
         "injuryNotes": "Surgery"
@@ -19240,7 +19240,7 @@
         "name": "Kaevon Merriweather",
         "team": "HOU",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -19270,7 +19270,7 @@
         "name": "Jaylin Smith",
         "team": "HOU",
         "position": "CB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": "RCB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -19300,7 +19300,7 @@
         "name": "Kyonte Hamilton",
         "team": "HOU",
         "position": "DL",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "RDT",
         "injuryStatus": "IR",
         "injuryBodyPart": "Leg",
         "injuryNotes": null
@@ -19557,6 +19557,16 @@
         "depthChartPosition": "QB",
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "10882",
+        "name": "Emmanuel Forbes",
+        "team": "LAR",
+        "position": "CB",
+        "depthChartPosition": "RCB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Shoulder",
         "injuryNotes": null
       },
       {
@@ -23515,7 +23525,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1134,
-    "lastUpdate": "2026-01-18T23:56:38.311Z"
+    "injuredPlayers": 1135,
+    "lastUpdate": "2026-01-19T01:59:46.013Z"
   }
 }
