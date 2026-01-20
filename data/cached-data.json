@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-20T22:25:42.267Z",
+  "lastUpdated": "2026-01-20T23:25:50.370Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18944,16 +18944,6 @@
         "injuryNotes": "Surgery"
       },
       {
-        "id": "11429",
-        "name": "Kaevon Merriweather",
-        "team": "HOU",
-        "position": "DB",
-        "depthChartPosition": null,
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
         "id": "11599",
         "name": "Cade Stover",
         "team": "HOU",
@@ -23125,7 +23115,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1095,
-    "lastUpdate": "2026-01-20T22:25:42.267Z"
+    "injuredPlayers": 1094,
+    "lastUpdate": "2026-01-20T23:25:50.370Z"
   }
 }
