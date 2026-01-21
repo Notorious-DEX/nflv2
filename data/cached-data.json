@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-20T23:25:50.370Z",
+  "lastUpdated": "2026-01-21T01:58:22.978Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17066,16 +17066,6 @@
         "injuryNotes": null
       },
       {
-        "id": "13081",
-        "name": "Xavier Carlton",
-        "team": null,
-        "position": "LB",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
         "id": "13105",
         "name": "Justin Osborne",
         "team": null,
@@ -23115,7 +23105,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1094,
-    "lastUpdate": "2026-01-20T23:25:50.370Z"
+    "injuredPlayers": 1093,
+    "lastUpdate": "2026-01-21T01:58:22.978Z"
   }
 }
