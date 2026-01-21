@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-21T21:31:07.305Z",
+  "lastUpdated": "2026-01-21T22:27:55.562Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22766,16 +22766,6 @@
         "injuryNotes": null
       },
       {
-        "id": "12267",
-        "name": "Qadir Ismail",
-        "team": "CHI",
-        "position": "WR",
-        "depthChartPosition": null,
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
         "id": "12517",
         "name": "Colston Loveland",
         "team": "CHI",
@@ -23125,7 +23115,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1095,
-    "lastUpdate": "2026-01-21T21:31:07.305Z"
+    "injuredPlayers": 1094,
+    "lastUpdate": "2026-01-21T22:27:55.562Z"
   }
 }
