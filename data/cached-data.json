@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-21T20:34:56.066Z",
+  "lastUpdated": "2026-01-21T21:31:07.305Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19168,6 +19168,16 @@
         "injuryNotes": null
       },
       {
+        "id": "8330",
+        "name": "Quentin Lake",
+        "team": "LAR",
+        "position": "DB",
+        "depthChartPosition": "NB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
+        "injuryNotes": null
+      },
+      {
         "id": "8739",
         "name": "Keir Thomas",
         "team": "LAR",
@@ -23115,7 +23125,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1094,
-    "lastUpdate": "2026-01-21T20:34:56.066Z"
+    "injuredPlayers": 1095,
+    "lastUpdate": "2026-01-21T21:31:07.305Z"
   }
 }
