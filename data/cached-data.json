@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-21T16:54:17.041Z",
+  "lastUpdated": "2026-01-21T17:56:18.364Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18490,6 +18490,16 @@
         "injuryNotes": null
       },
       {
+        "id": "4984",
+        "name": "Josh Allen",
+        "team": "BUF",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Foot",
+        "injuryNotes": null
+      },
+      {
         "id": "5841",
         "name": "Ed Oliver",
         "team": "BUF",
@@ -23105,7 +23115,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1093,
-    "lastUpdate": "2026-01-21T16:54:17.041Z"
+    "injuredPlayers": 1094,
+    "lastUpdate": "2026-01-21T17:56:18.364Z"
   }
 }
