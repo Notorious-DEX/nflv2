@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-22T22:38:02.741Z",
+  "lastUpdated": "2026-01-22T22:53:03.504Z",
   "season": 2025,
   "gameStats": [
     {
@@ -20724,6 +20724,16 @@
         "injuryNotes": null
       },
       {
+        "id": "5855",
+        "name": "Garrett Bradbury",
+        "team": "NE",
+        "position": "C",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
+        "injuryNotes": null
+      },
+      {
         "id": "6551",
         "name": "Darius Harris",
         "team": "NE",
@@ -23185,7 +23195,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1101,
-    "lastUpdate": "2026-01-22T22:38:02.741Z"
+    "injuredPlayers": 1102,
+    "lastUpdate": "2026-01-22T22:53:03.504Z"
   }
 }
