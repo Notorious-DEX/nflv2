@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-21T23:28:38.917Z",
+  "lastUpdated": "2026-01-22T01:59:23.950Z",
   "season": 2025,
   "gameStats": [
     {
@@ -20704,6 +20704,16 @@
         "injuryNotes": null
       },
       {
+        "id": "5030",
+        "name": "Harold Landry",
+        "team": "NE",
+        "position": "LB",
+        "depthChartPosition": "ROLB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "5054",
         "name": "Carlton Davis",
         "team": "NE",
@@ -20754,6 +20764,26 @@
         "injuryNotes": null
       },
       {
+        "id": "7921",
+        "name": "Christian Elliss",
+        "team": "NE",
+        "position": "LB",
+        "depthChartPosition": "RILB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hip",
+        "injuryNotes": null
+      },
+      {
+        "id": "8518",
+        "name": "Thayer Munford",
+        "team": "NE",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "8924",
         "name": "Thomas Odukoya",
         "team": "NE",
@@ -20771,6 +20801,16 @@
         "depthChartPosition": "RB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "10926",
+        "name": "Marte Mapu",
+        "team": "NE",
+        "position": "DB",
+        "depthChartPosition": "LILB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hip",
         "injuryNotes": null
       },
       {
@@ -22170,6 +22210,16 @@
         "injuryNotes": null
       },
       {
+        "id": "5061",
+        "name": "Uchenna Nwosu",
+        "team": "SEA",
+        "position": "LB",
+        "depthChartPosition": "ROLB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
         "id": "6808",
         "name": "Josh Jones",
         "team": "SEA",
@@ -22276,6 +22326,26 @@
         "position": "TE",
         "depthChartPosition": "TE",
         "injuryStatus": "IR",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "12656",
+        "name": "Robbie Ouzts",
+        "team": "SEA",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Neck",
+        "injuryNotes": null
+      },
+      {
+        "id": "12685",
+        "name": "Bryce Cabeldue",
+        "team": "SEA",
+        "position": "OT",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Questionable",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -23115,7 +23185,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1094,
-    "lastUpdate": "2026-01-21T23:28:38.917Z"
+    "injuredPlayers": 1101,
+    "lastUpdate": "2026-01-22T01:59:23.950Z"
   }
 }
