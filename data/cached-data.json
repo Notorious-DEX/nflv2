@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-23T22:20:38.057Z",
+  "lastUpdated": "2026-01-23T23:23:53.663Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19188,16 +19188,6 @@
         "injuryNotes": null
       },
       {
-        "id": "10882",
-        "name": "Emmanuel Forbes",
-        "team": "LAR",
-        "position": "CB",
-        "depthChartPosition": "RCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Shoulder",
-        "injuryNotes": null
-      },
-      {
         "id": "10917",
         "name": "Byron Young",
         "team": "LAR",
@@ -19350,6 +19340,16 @@
         "injuryNotes": "Surgery"
       },
       {
+        "id": "11011",
+        "name": "JL Skinner",
+        "team": "DEN",
+        "position": "DB",
+        "depthChartPosition": "SS",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Quadriceps",
+        "injuryNotes": null
+      },
+      {
         "id": "11023",
         "name": "Alex Forsyth",
         "team": "DEN",
@@ -19387,16 +19387,6 @@
         "depthChartPosition": "OL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "12492",
-        "name": "Pat Bryant",
-        "team": "DEN",
-        "position": "WR",
-        "depthChartPosition": "RWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Concussion",
         "injuryNotes": null
       },
       {
@@ -20714,26 +20704,6 @@
         "injuryNotes": null
       },
       {
-        "id": "5054",
-        "name": "Carlton Davis",
-        "team": "NE",
-        "position": "CB",
-        "depthChartPosition": "LCB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Head",
-        "injuryNotes": null
-      },
-      {
-        "id": "5855",
-        "name": "Garrett Bradbury",
-        "team": "NE",
-        "position": "C",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
-        "injuryNotes": null
-      },
-      {
         "id": "6551",
         "name": "Darius Harris",
         "team": "NE",
@@ -20771,26 +20741,6 @@
         "depthChartPosition": "OL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "7921",
-        "name": "Christian Elliss",
-        "team": "NE",
-        "position": "LB",
-        "depthChartPosition": "RILB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hip",
-        "injuryNotes": null
-      },
-      {
-        "id": "8518",
-        "name": "Thayer Munford",
-        "team": "NE",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
       {
@@ -23155,7 +23105,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1098,
-    "lastUpdate": "2026-01-23T22:20:38.058Z"
+    "injuredPlayers": 1093,
+    "lastUpdate": "2026-01-23T23:23:53.663Z"
   }
 }
