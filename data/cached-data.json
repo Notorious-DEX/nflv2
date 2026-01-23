@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-23T21:24:19.958Z",
+  "lastUpdated": "2026-01-23T22:20:38.057Z",
   "season": 2025,
   "gameStats": [
     {
@@ -23008,6 +23008,16 @@
         "injuryNotes": null
       },
       {
+        "id": "13035",
+        "name": "Amari Kight",
+        "team": "SEA",
+        "position": "OT",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Doubtful",
+        "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
         "id": "13047",
         "name": "Jacardia Wright",
         "team": "SEA",
@@ -23145,7 +23155,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1097,
-    "lastUpdate": "2026-01-23T21:24:19.958Z"
+    "injuredPlayers": 1098,
+    "lastUpdate": "2026-01-23T22:20:38.058Z"
   }
 }
