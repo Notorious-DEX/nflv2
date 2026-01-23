@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-23T19:26:40.784Z",
+  "lastUpdated": "2026-01-23T20:29:17.610Z",
   "season": 2025,
   "gameStats": [
     {
@@ -18590,6 +18590,16 @@
         "injuryNotes": null
       },
       {
+        "id": "10236",
+        "name": "Dalton Kincaid",
+        "team": "BUF",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Knee - PCL",
+        "injuryNotes": null
+      },
+      {
         "id": "10923",
         "name": "Dorian Williams",
         "team": "BUF",
@@ -23155,7 +23165,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1098,
-    "lastUpdate": "2026-01-23T19:26:40.784Z"
+    "injuredPlayers": 1099,
+    "lastUpdate": "2026-01-23T20:29:17.610Z"
   }
 }
