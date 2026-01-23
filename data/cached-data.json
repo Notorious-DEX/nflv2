@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-22T23:55:47.259Z",
+  "lastUpdated": "2026-01-23T00:54:11.502Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19168,16 +19168,6 @@
         "injuryNotes": null
       },
       {
-        "id": "8330",
-        "name": "Quentin Lake",
-        "team": "LAR",
-        "position": "DB",
-        "depthChartPosition": "NB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Illness",
-        "injuryNotes": null
-      },
-      {
         "id": "8739",
         "name": "Keir Thomas",
         "team": "LAR",
@@ -22220,16 +22210,6 @@
         "injuryNotes": null
       },
       {
-        "id": "5061",
-        "name": "Uchenna Nwosu",
-        "team": "SEA",
-        "position": "LB",
-        "depthChartPosition": "ROLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hamstring",
-        "injuryNotes": null
-      },
-      {
         "id": "6808",
         "name": "Josh Jones",
         "team": "SEA",
@@ -23195,7 +23175,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1102,
-    "lastUpdate": "2026-01-22T23:55:47.259Z"
+    "injuredPlayers": 1100,
+    "lastUpdate": "2026-01-23T00:54:11.502Z"
   }
 }
