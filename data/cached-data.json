@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-23T18:37:46.008Z",
+  "lastUpdated": "2026-01-23T19:26:40.784Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22290,16 +22290,6 @@
         "injuryNotes": null
       },
       {
-        "id": "12048",
-        "name": "George Holani",
-        "team": "SEA",
-        "position": "RB",
-        "depthChartPosition": "RB",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Hamstring",
-        "injuryNotes": null
-      },
-      {
         "id": "12497",
         "name": "Tory Horton",
         "team": "SEA",
@@ -22307,16 +22297,6 @@
         "depthChartPosition": "PR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Shin",
-        "injuryNotes": null
-      },
-      {
-        "id": "12521",
-        "name": "Elijah Arroyo",
-        "team": "SEA",
-        "position": "TE",
-        "depthChartPosition": "TE",
-        "injuryStatus": "IR",
-        "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
       {
@@ -23175,7 +23155,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1100,
-    "lastUpdate": "2026-01-23T18:37:46.008Z"
+    "injuredPlayers": 1098,
+    "lastUpdate": "2026-01-23T19:26:40.784Z"
   }
 }
