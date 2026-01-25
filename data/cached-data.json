@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T20:58:29.524Z",
+  "lastUpdated": "2026-01-25T21:22:00.562Z",
   "season": 2025,
   "gameStats": [
     {
@@ -20724,6 +20724,16 @@
         "injuryNotes": null
       },
       {
+        "id": "5726",
+        "name": "Robert Spillane",
+        "team": "NE",
+        "position": "LB",
+        "depthChartPosition": "LILB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
         "id": "6551",
         "name": "Darius Harris",
         "team": "NE",
@@ -23185,7 +23195,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1101,
-    "lastUpdate": "2026-01-25T20:58:29.524Z"
+    "injuredPlayers": 1102,
+    "lastUpdate": "2026-01-25T21:22:00.562Z"
   }
 }
