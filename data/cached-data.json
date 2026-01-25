@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-24T23:22:14.443Z",
+  "lastUpdated": "2026-01-25T02:06:20.250Z",
   "season": 2025,
   "gameStats": [
     {
@@ -20828,7 +20828,7 @@
         "name": "Eric Gregory",
         "team": "NE",
         "position": "DT",
-        "depthChartPosition": "NT",
+        "depthChartPosition": "DL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -23116,6 +23116,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1094,
-    "lastUpdate": "2026-01-24T23:22:14.443Z"
+    "lastUpdate": "2026-01-25T02:06:20.250Z"
   }
 }
