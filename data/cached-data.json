@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T22:36:22.756Z",
+  "lastUpdated": "2026-01-25T22:51:15.410Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19465,7 +19465,7 @@
         "team": "DEN",
         "position": "WR",
         "depthChartPosition": "RWR",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
@@ -23306,6 +23306,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1113,
-    "lastUpdate": "2026-01-25T22:36:22.756Z"
+    "lastUpdate": "2026-01-25T22:51:15.410Z"
   }
 }
