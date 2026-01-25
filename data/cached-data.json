@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T18:33:29.357Z",
+  "lastUpdated": "2026-01-25T18:49:09.619Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19290,6 +19290,16 @@
         "injuryNotes": null
       },
       {
+        "id": "8076",
+        "name": "Michael Bandy",
+        "team": "DEN",
+        "position": "WR",
+        "depthChartPosition": "SWR",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "8249",
         "name": "Lucas Krull",
         "team": "DEN",
@@ -19310,13 +19320,13 @@
         "injuryNotes": null
       },
       {
-        "id": "8474",
-        "name": "Luke Wattenberg",
+        "id": "8370",
+        "name": "Jordan Jackson",
         "team": "DEN",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Shoulder",
+        "position": "DL",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -19345,7 +19355,7 @@
         "team": "DEN",
         "position": "DB",
         "depthChartPosition": "SS",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Quadriceps",
         "injuryNotes": null
       },
@@ -19355,7 +19365,7 @@
         "team": "DEN",
         "position": "OL",
         "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
@@ -19375,7 +19385,7 @@
         "team": "DEN",
         "position": "WR",
         "depthChartPosition": "SWR",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Hamstring",
         "injuryNotes": null
       },
@@ -19390,6 +19400,16 @@
         "injuryNotes": null
       },
       {
+        "id": "12628",
+        "name": "Sai'vion Jones",
+        "team": "DEN",
+        "position": "DE",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "12770",
         "name": "Johnny Walker",
         "team": "DEN",
@@ -19397,6 +19417,16 @@
         "depthChartPosition": "LB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "12781",
+        "name": "Karene Reid",
+        "team": "DEN",
+        "position": "LB",
+        "depthChartPosition": "RILB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       }
     ],
@@ -20684,16 +20714,6 @@
         "injuryNotes": null
       },
       {
-        "id": "4177",
-        "name": "Mack Hollins",
-        "team": "NE",
-        "position": "WR",
-        "depthChartPosition": "RWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Abdomen",
-        "injuryNotes": null
-      },
-      {
         "id": "5030",
         "name": "Harold Landry",
         "team": "NE",
@@ -20764,16 +20784,6 @@
         "injuryNotes": null
       },
       {
-        "id": "10926",
-        "name": "Marte Mapu",
-        "team": "NE",
-        "position": "DB",
-        "depthChartPosition": "LILB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hip",
-        "injuryNotes": null
-      },
-      {
         "id": "10989",
         "name": "Jaquelin Roy",
         "team": "NE",
@@ -20781,6 +20791,26 @@
         "depthChartPosition": "DL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "11292",
+        "name": "Tommy DeVito",
+        "team": "NE",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "11711",
+        "name": "Caedan Wallace",
+        "team": "NE",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -20814,6 +20844,16 @@
         "injuryNotes": null
       },
       {
+        "id": "12542",
+        "name": "Efton Chism",
+        "team": "NE",
+        "position": "WR",
+        "depthChartPosition": "LWR",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "12587",
         "name": "Joshua Farmer",
         "team": "NE",
@@ -20821,6 +20861,26 @@
         "depthChartPosition": "LDE",
         "injuryStatus": "IR",
         "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
+        "id": "12726",
+        "name": "Kobee Minor",
+        "team": "NE",
+        "position": "DB",
+        "depthChartPosition": "LCB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "12728",
+        "name": "Marcus Bryant",
+        "team": "NE",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -20851,6 +20911,16 @@
         "depthChartPosition": "RB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "12984",
+        "name": "CJ Dippre",
+        "team": "NE",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       }
     ],
@@ -23115,7 +23185,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1094,
-    "lastUpdate": "2026-01-25T18:33:29.357Z"
+    "injuredPlayers": 1101,
+    "lastUpdate": "2026-01-25T18:49:09.619Z"
   }
 }
