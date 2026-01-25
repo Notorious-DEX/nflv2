@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T22:10:45.685Z",
+  "lastUpdated": "2026-01-25T22:23:09.941Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19148,6 +19148,16 @@
         "injuryNotes": null
       },
       {
+        "id": "3258",
+        "name": "Nick Vannett",
+        "team": "LAR",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "4124",
         "name": "Ahkello Witherspoon",
         "team": "LAR",
@@ -19168,6 +19178,16 @@
         "injuryNotes": null
       },
       {
+        "id": "6887",
+        "name": "Larrell Murchison",
+        "team": "LAR",
+        "position": "DT",
+        "depthChartPosition": "LDE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "7348",
         "name": "Dayan Lake",
         "team": "LAR",
@@ -19175,6 +19195,26 @@
         "depthChartPosition": null,
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "7562",
+        "name": "Tutu Atwell",
+        "team": "LAR",
+        "position": "WR",
+        "depthChartPosition": "SWR",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "8271",
+        "name": "Derion Kendrick",
+        "team": "LAR",
+        "position": "DB",
+        "depthChartPosition": "NB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -19188,13 +19228,33 @@
         "injuryNotes": null
       },
       {
-        "id": "10917",
-        "name": "Byron Young",
+        "id": "10857",
+        "name": "Stetson Bennett",
         "team": "LAR",
-        "position": "LB",
-        "depthChartPosition": "LOLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "11569",
+        "name": "Jarquez Hunter",
+        "team": "LAR",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "11782",
+        "name": "Beaux Limmer",
+        "team": "LAR",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -22948,16 +23008,6 @@
     ],
     "SEA": [
       {
-        "id": "6808",
-        "name": "Josh Jones",
-        "team": "SEA",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
         "id": "7022",
         "name": "Shane Lemieux",
         "team": "SEA",
@@ -22985,6 +23035,16 @@
         "depthChartPosition": "RILB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Ankle",
+        "injuryNotes": null
+      },
+      {
+        "id": "8223",
+        "name": "Velus Jones",
+        "team": "SEA",
+        "position": "WR",
+        "depthChartPosition": "RB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -23018,6 +23078,16 @@
         "injuryNotes": null
       },
       {
+        "id": "11704",
+        "name": "Christian Haynes",
+        "team": "SEA",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "12497",
         "name": "Tory Horton",
         "team": "SEA",
@@ -23028,12 +23098,32 @@
         "injuryNotes": null
       },
       {
+        "id": "12510",
+        "name": "Jalen Milroe",
+        "team": "SEA",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "12521",
+        "name": "Elijah Arroyo",
+        "team": "SEA",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "12656",
         "name": "Robbie Ouzts",
         "team": "SEA",
         "position": "RB",
         "depthChartPosition": "RB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Neck",
         "injuryNotes": null
       },
@@ -23063,7 +23153,7 @@
         "team": "SEA",
         "position": "OT",
         "depthChartPosition": "OL",
-        "injuryStatus": "Doubtful",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
       },
@@ -23075,6 +23165,16 @@
         "depthChartPosition": "RB",
         "injuryStatus": "Out",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "13048",
+        "name": "Jared Ivey",
+        "team": "SEA",
+        "position": "DE",
+        "depthChartPosition": "LOLB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       }
     ],
@@ -23205,7 +23305,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1103,
-    "lastUpdate": "2026-01-25T22:10:45.685Z"
+    "injuredPlayers": 1113,
+    "lastUpdate": "2026-01-25T22:23:09.941Z"
   }
 }
