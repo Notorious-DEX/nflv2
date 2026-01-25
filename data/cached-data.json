@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T21:22:00.562Z",
+  "lastUpdated": "2026-01-25T21:26:18.341Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19400,6 +19400,16 @@
         "injuryNotes": null
       },
       {
+        "id": "12492",
+        "name": "Pat Bryant",
+        "team": "DEN",
+        "position": "WR",
+        "depthChartPosition": "RWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
         "id": "12628",
         "name": "Sai'vion Jones",
         "team": "DEN",
@@ -23195,7 +23205,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1102,
-    "lastUpdate": "2026-01-25T21:22:00.562Z"
+    "injuredPlayers": 1103,
+    "lastUpdate": "2026-01-25T21:26:18.341Z"
   }
 }
