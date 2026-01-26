@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T02:10:25.533Z",
+  "lastUpdated": "2026-01-26T02:34:39.112Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19238,6 +19238,16 @@
         "injuryNotes": null
       },
       {
+        "id": "10916",
+        "name": "Kobie Turner",
+        "team": "LAR",
+        "position": "DT",
+        "depthChartPosition": "RDE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
         "id": "11569",
         "name": "Jarquez Hunter",
         "team": "LAR",
@@ -19245,6 +19255,16 @@
         "depthChartPosition": "RB",
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "11623",
+        "name": "Jordan Whittington",
+        "team": "LAR",
+        "position": "WR",
+        "depthChartPosition": "RWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Chest",
         "injuryNotes": null
       },
       {
@@ -23305,7 +23325,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1113,
-    "lastUpdate": "2026-01-26T02:10:25.533Z"
+    "injuredPlayers": 1115,
+    "lastUpdate": "2026-01-26T02:34:39.112Z"
   }
 }
