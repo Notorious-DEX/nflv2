@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T10:30:27.510Z",
+  "lastUpdated": "2026-01-26T11:23:08.169Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19182,7 +19182,7 @@
         "name": "Larrell Murchison",
         "team": "LAR",
         "position": "DT",
-        "depthChartPosition": "LDE",
+        "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
@@ -19222,7 +19222,7 @@
         "name": "Keir Thomas",
         "team": "LAR",
         "position": "DE",
-        "depthChartPosition": "LB",
+        "depthChartPosition": "ROLB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -19374,7 +19374,7 @@
         "name": "Michael Bandy",
         "team": "DEN",
         "position": "WR",
-        "depthChartPosition": "SWR",
+        "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
@@ -19394,7 +19394,7 @@
         "name": "Delarrin Turner-Yell",
         "team": "DEN",
         "position": "DB",
-        "depthChartPosition": "DB",
+        "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Knee",
         "injuryNotes": null
@@ -19504,7 +19504,7 @@
         "name": "Johnny Walker",
         "team": "DEN",
         "position": "DE",
-        "depthChartPosition": "LB",
+        "depthChartPosition": "LOLB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -23336,6 +23336,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1116,
-    "lastUpdate": "2026-01-26T10:30:27.510Z"
+    "lastUpdate": "2026-01-26T11:23:08.169Z"
   }
 }
