@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T02:34:39.112Z",
+  "lastUpdated": "2026-01-26T04:09:52.781Z",
   "season": 2025,
   "gameStats": [
     {
@@ -23098,6 +23098,16 @@
         "injuryNotes": null
       },
       {
+        "id": "11470",
+        "name": "Drake Thomas",
+        "team": "SEA",
+        "position": "LB",
+        "depthChartPosition": "LILB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Shoulder",
+        "injuryNotes": null
+      },
+      {
         "id": "11704",
         "name": "Christian Haynes",
         "team": "SEA",
@@ -23325,7 +23335,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1115,
-    "lastUpdate": "2026-01-26T02:34:39.112Z"
+    "injuredPlayers": 1116,
+    "lastUpdate": "2026-01-26T04:09:52.781Z"
   }
 }
