@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T20:26:57.438Z",
+  "lastUpdated": "2026-01-27T21:20:18.008Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22922,7 +22922,7 @@
         "name": "Tory Horton",
         "team": "SEA",
         "position": "WR",
-        "depthChartPosition": "PR",
+        "depthChartPosition": "RWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Shin",
         "injuryNotes": null
@@ -23084,7 +23084,7 @@
         "name": "Popo Aumavae",
         "team": "CAR",
         "position": "DT",
-        "depthChartPosition": null,
+        "depthChartPosition": "DL",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -23106,6 +23106,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1093,
-    "lastUpdate": "2026-01-27T20:26:57.438Z"
+    "lastUpdate": "2026-01-27T21:20:18.008Z"
   }
 }
