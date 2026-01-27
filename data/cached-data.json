@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T02:02:03.733Z",
+  "lastUpdated": "2026-01-27T03:20:56.573Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19198,16 +19198,6 @@
         "injuryNotes": null
       },
       {
-        "id": "11623",
-        "name": "Jordan Whittington",
-        "team": "LAR",
-        "position": "WR",
-        "depthChartPosition": "RWR",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Chest",
-        "injuryNotes": null
-      },
-      {
         "id": "13000",
         "name": "Shaun Dolac",
         "team": "LAR",
@@ -23115,7 +23105,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1094,
-    "lastUpdate": "2026-01-27T02:02:03.733Z"
+    "injuredPlayers": 1093,
+    "lastUpdate": "2026-01-27T03:20:56.573Z"
   }
 }
