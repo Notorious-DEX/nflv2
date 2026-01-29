@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T23:28:59.182Z",
+  "lastUpdated": "2026-01-29T23:32:51.975Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17056,16 +17056,6 @@
         "injuryNotes": null
       },
       {
-        "id": "13069",
-        "name": "Kristian Williams",
-        "team": null,
-        "position": "DT",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
         "id": "13105",
         "name": "Justin Osborne",
         "team": null,
@@ -23215,7 +23205,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1104,
-    "lastUpdate": "2026-01-29T23:28:59.182Z"
+    "injuredPlayers": 1103,
+    "lastUpdate": "2026-01-29T23:32:51.975Z"
   }
 }
