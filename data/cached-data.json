@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-03T15:52:47.524Z",
+  "lastUpdated": "2026-02-03T16:56:37.494Z",
   "season": 2025,
   "gameStats": [
     {
@@ -12566,16 +12566,6 @@
         "injuryNotes": null
       },
       {
-        "id": "2405",
-        "name": "Angelo Blackson",
-        "team": null,
-        "position": "DE",
-        "depthChartPosition": null,
-        "injuryStatus": "Out",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
         "id": "2406",
         "name": "Trey Flowers",
         "team": null,
@@ -12686,16 +12676,6 @@
         "injuryNotes": null
       },
       {
-        "id": "2751",
-        "name": "Daniel Brown",
-        "team": null,
-        "position": "TE",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hip",
-        "injuryNotes": null
-      },
-      {
         "id": "2801",
         "name": "DeAndrew White",
         "team": null,
@@ -12763,16 +12743,6 @@
         "depthChartPosition": null,
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Shoulder",
-        "injuryNotes": null
-      },
-      {
-        "id": "3183",
-        "name": "Vernon Butler",
-        "team": null,
-        "position": "DT",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
       },
       {
@@ -12904,16 +12874,6 @@
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Back",
         "injuryNotes": null
-      },
-      {
-        "id": "3339",
-        "name": "Devante Bond",
-        "team": null,
-        "position": "LB",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": "Surgery"
       },
       {
         "id": "3345",
@@ -13266,16 +13226,6 @@
         "injuryNotes": null
       },
       {
-        "id": "4220",
-        "name": "Jayon Brown",
-        "team": null,
-        "position": "LB",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Hand",
-        "injuryNotes": null
-      },
-      {
         "id": "4221",
         "name": "Jeremy Sprinkle",
         "team": null,
@@ -13383,16 +13333,6 @@
         "depthChartPosition": null,
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Back",
-        "injuryNotes": null
-      },
-      {
-        "id": "4558",
-        "name": "B.J. Bello",
-        "team": null,
-        "position": "LB",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
       {
@@ -14636,16 +14576,6 @@
         "injuryNotes": null
       },
       {
-        "id": "6535",
-        "name": "Nate Becker",
-        "team": null,
-        "position": "TE",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
         "id": "6546",
         "name": "Kenny Bigelow",
         "team": null,
@@ -14873,16 +14803,6 @@
         "depthChartPosition": null,
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Neck",
-        "injuryNotes": null
-      },
-      {
-        "id": "6846",
-        "name": "Hunter Bryant",
-        "team": null,
-        "position": "TE",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
       },
       {
@@ -15886,16 +15806,6 @@
         "injuryNotes": null
       },
       {
-        "id": "8317",
-        "name": "Leon O'Neal",
-        "team": null,
-        "position": "DB",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
         "id": "8327",
         "name": "Amare Barno",
         "team": null,
@@ -16073,16 +15983,6 @@
         "depthChartPosition": null,
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "8598",
-        "name": "Akial Byers",
-        "team": null,
-        "position": "DT",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
       },
       {
@@ -16430,16 +16330,6 @@
         "name": "Trevor Reid",
         "team": null,
         "position": "OT",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "11293",
-        "name": "Troy Brown",
-        "team": null,
-        "position": "LB",
         "depthChartPosition": null,
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Undisclosed",
@@ -16853,16 +16743,6 @@
         "depthChartPosition": null,
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Undisclosed",
-        "injuryNotes": null
-      },
-      {
-        "id": "12253",
-        "name": "Bo Bauer",
-        "team": null,
-        "position": "LB",
-        "depthChartPosition": null,
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Leg",
         "injuryNotes": null
       },
       {
@@ -23145,7 +23025,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1097,
-    "lastUpdate": "2026-02-03T15:52:47.524Z"
+    "injuredPlayers": 1085,
+    "lastUpdate": "2026-02-03T16:56:37.494Z"
   }
 }
