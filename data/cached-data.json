@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-06T01:17:01.164Z",
+  "lastUpdated": "2026-02-06T02:22:21.740Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22698,16 +22698,6 @@
     ],
     "SEA": [
       {
-        "id": "6808",
-        "name": "Josh Jones",
-        "team": "SEA",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
         "id": "7022",
         "name": "Shane Lemieux",
         "team": "SEA",
@@ -22725,16 +22715,6 @@
         "depthChartPosition": "KR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Groin",
-        "injuryNotes": null
-      },
-      {
-        "id": "7673",
-        "name": "Chazz Surratt",
-        "team": "SEA",
-        "position": "LB",
-        "depthChartPosition": "RILB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
       {
@@ -22975,7 +22955,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1080,
-    "lastUpdate": "2026-02-06T01:17:01.164Z"
+    "injuredPlayers": 1078,
+    "lastUpdate": "2026-02-06T02:22:21.740Z"
   }
 }
