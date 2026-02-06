@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-06T02:22:21.740Z",
+  "lastUpdated": "2026-02-06T03:40:49.326Z",
   "season": 2025,
   "gameStats": [
     {
@@ -19160,6 +19160,16 @@
         "injuryNotes": null
       },
       {
+        "id": "8280",
+        "name": "Nik Bonitto",
+        "team": "DEN",
+        "position": "LB",
+        "depthChartPosition": "ROLB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Wrist",
+        "injuryNotes": null
+      },
+      {
         "id": "8282",
         "name": "Delarrin Turner-Yell",
         "team": "DEN",
@@ -22955,7 +22965,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1078,
-    "lastUpdate": "2026-02-06T02:22:21.740Z"
+    "injuredPlayers": 1079,
+    "lastUpdate": "2026-02-06T03:40:49.326Z"
   }
 }
