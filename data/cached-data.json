@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-06T22:27:38.875Z",
+  "lastUpdated": "2026-02-06T23:28:25.912Z",
   "season": 2025,
   "gameStats": [
     {
@@ -20604,16 +20604,6 @@
         "injuryNotes": null
       },
       {
-        "id": "8518",
-        "name": "Thayer Munford",
-        "team": "NE",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
         "id": "8924",
         "name": "Thomas Odukoya",
         "team": "NE",
@@ -22728,16 +22718,6 @@
         "injuryNotes": null
       },
       {
-        "id": "8446",
-        "name": "Charles Cross",
-        "team": "SEA",
-        "position": "OL",
-        "depthChartPosition": "OL",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Foot",
-        "injuryNotes": null
-      },
-      {
         "id": "9753",
         "name": "Zach Charbonnet",
         "team": "SEA",
@@ -22775,16 +22755,6 @@
         "depthChartPosition": "RWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Shin",
-        "injuryNotes": null
-      },
-      {
-        "id": "12597",
-        "name": "Nick Emmanwori",
-        "team": "SEA",
-        "position": "DB",
-        "depthChartPosition": "NB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
         "injuryNotes": null
       },
       {
@@ -22965,7 +22935,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1079,
-    "lastUpdate": "2026-02-06T22:27:38.875Z"
+    "injuredPlayers": 1076,
+    "lastUpdate": "2026-02-06T23:28:25.912Z"
   }
 }
