@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-08T22:00:59.452Z",
+  "lastUpdated": "2026-02-08T22:30:23.340Z",
   "season": 2025,
   "gameStats": [
     {
@@ -20544,26 +20544,6 @@
         "injuryNotes": null
       },
       {
-        "id": "5030",
-        "name": "Harold Landry",
-        "team": "NE",
-        "position": "LB",
-        "depthChartPosition": "ROLB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Knee",
-        "injuryNotes": null
-      },
-      {
-        "id": "5726",
-        "name": "Robert Spillane",
-        "team": "NE",
-        "position": "LB",
-        "depthChartPosition": "LILB",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Ankle",
-        "injuryNotes": null
-      },
-      {
         "id": "6551",
         "name": "Darius Harris",
         "team": "NE",
@@ -20634,6 +20614,26 @@
         "injuryNotes": null
       },
       {
+        "id": "11292",
+        "name": "Tommy DeVito",
+        "team": "NE",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "11711",
+        "name": "Caedan Wallace",
+        "team": "NE",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "11809",
         "name": "Marcellas Dial",
         "team": "NE",
@@ -20664,6 +20664,16 @@
         "injuryNotes": null
       },
       {
+        "id": "12542",
+        "name": "Efton Chism",
+        "team": "NE",
+        "position": "WR",
+        "depthChartPosition": "LWR",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "12587",
         "name": "Joshua Farmer",
         "team": "NE",
@@ -20671,6 +20681,36 @@
         "depthChartPosition": "LDE",
         "injuryStatus": "IR",
         "injuryBodyPart": "Hamstring",
+        "injuryNotes": null
+      },
+      {
+        "id": "12677",
+        "name": "Bradyn Swinson",
+        "team": "NE",
+        "position": "DE",
+        "depthChartPosition": "ROLB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "12726",
+        "name": "Kobee Minor",
+        "team": "NE",
+        "position": "DB",
+        "depthChartPosition": "LCB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "12728",
+        "name": "Marcus Bryant",
+        "team": "NE",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -20701,6 +20741,16 @@
         "depthChartPosition": "RB",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "12984",
+        "name": "CJ Dippre",
+        "team": "NE",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       }
     ],
@@ -22718,6 +22768,16 @@
         "injuryNotes": null
       },
       {
+        "id": "7673",
+        "name": "Chazz Surratt",
+        "team": "SEA",
+        "position": "LB",
+        "depthChartPosition": "RILB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "9753",
         "name": "Zach Charbonnet",
         "team": "SEA",
@@ -22748,6 +22808,16 @@
         "injuryNotes": null
       },
       {
+        "id": "11396",
+        "name": "Brandon Pili",
+        "team": "SEA",
+        "position": "DT",
+        "depthChartPosition": "NT",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "12497",
         "name": "Tory Horton",
         "team": "SEA",
@@ -22758,12 +22828,22 @@
         "injuryNotes": null
       },
       {
+        "id": "12510",
+        "name": "Jalen Milroe",
+        "team": "SEA",
+        "position": "QB",
+        "depthChartPosition": "QB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
         "id": "12656",
         "name": "Robbie Ouzts",
         "team": "SEA",
         "position": "RB",
         "depthChartPosition": "RB",
-        "injuryStatus": "Questionable",
+        "injuryStatus": "Out",
         "injuryBodyPart": "Neck",
         "injuryNotes": null
       },
@@ -22775,6 +22855,16 @@
         "depthChartPosition": "OL",
         "injuryStatus": "Questionable",
         "injuryBodyPart": "Knee",
+        "injuryNotes": null
+      },
+      {
+        "id": "12719",
+        "name": "Mason Richman",
+        "team": "SEA",
+        "position": "OL",
+        "depthChartPosition": "OL",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       },
       {
@@ -22805,6 +22895,26 @@
         "depthChartPosition": "RB",
         "injuryStatus": "Out",
         "injuryBodyPart": "Undisclosed",
+        "injuryNotes": null
+      },
+      {
+        "id": "13048",
+        "name": "Jared Ivey",
+        "team": "SEA",
+        "position": "DE",
+        "depthChartPosition": "LOLB",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
+        "injuryNotes": null
+      },
+      {
+        "id": "13151",
+        "name": "Nick Kallerup",
+        "team": "SEA",
+        "position": "TE",
+        "depthChartPosition": "TE",
+        "injuryStatus": "Out",
+        "injuryBodyPart": "Coach's Decision",
         "injuryNotes": null
       }
     ],
@@ -22935,7 +23045,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1076,
-    "lastUpdate": "2026-02-08T22:00:59.452Z"
+    "injuredPlayers": 1087,
+    "lastUpdate": "2026-02-08T22:30:23.340Z"
   }
 }
