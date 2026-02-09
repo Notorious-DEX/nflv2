@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-09T02:29:55.751Z",
+  "lastUpdated": "2026-02-09T02:55:09.347Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22778,6 +22778,16 @@
         "injuryNotes": null
       },
       {
+        "id": "9488",
+        "name": "Jaxon Smith-Njigba",
+        "team": "SEA",
+        "position": "WR",
+        "depthChartPosition": "LWR",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Head",
+        "injuryNotes": null
+      },
+      {
         "id": "9753",
         "name": "Zach Charbonnet",
         "team": "SEA",
@@ -23055,7 +23065,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1088,
-    "lastUpdate": "2026-02-09T02:29:55.751Z"
+    "injuredPlayers": 1089,
+    "lastUpdate": "2026-02-09T02:55:09.347Z"
   }
 }
