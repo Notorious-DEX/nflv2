@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-09T14:55:14.681Z",
+  "lastUpdated": "2026-02-09T15:59:16.609Z",
   "season": 2025,
   "gameStats": [
     {
@@ -20548,7 +20548,7 @@
         "name": "Darius Harris",
         "team": "NE",
         "position": "LB",
-        "depthChartPosition": "LB",
+        "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -20718,7 +20718,7 @@
         "name": "Eric Gregory",
         "team": "NE",
         "position": "DT",
-        "depthChartPosition": "DL",
+        "depthChartPosition": "NT",
         "injuryStatus": "IR",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -22752,7 +22752,7 @@
         "name": "Shane Lemieux",
         "team": "SEA",
         "position": "OL",
-        "depthChartPosition": "OL",
+        "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -22762,7 +22762,7 @@
         "name": "Cody White",
         "team": "SEA",
         "position": "WR",
-        "depthChartPosition": "KR",
+        "depthChartPosition": "SWR",
         "injuryStatus": "IR",
         "injuryBodyPart": "Groin",
         "injuryNotes": null
@@ -22902,7 +22902,7 @@
         "name": "Jacardia Wright",
         "team": "SEA",
         "position": "RB",
-        "depthChartPosition": "RB",
+        "depthChartPosition": null,
         "injuryStatus": "Out",
         "injuryBodyPart": "Undisclosed",
         "injuryNotes": null
@@ -23056,6 +23056,6 @@
     "totalGames": 272,
     "upcomingGames": 0,
     "injuredPlayers": 1088,
-    "lastUpdate": "2026-02-09T14:55:14.681Z"
+    "lastUpdate": "2026-02-09T15:59:16.609Z"
   }
 }
