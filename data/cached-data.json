@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-08T23:59:50.642Z",
+  "lastUpdated": "2026-02-09T02:29:55.751Z",
   "season": 2025,
   "gameStats": [
     {
@@ -22818,6 +22818,16 @@
         "injuryNotes": null
       },
       {
+        "id": "11734",
+        "name": "Tyrice Knight",
+        "team": "SEA",
+        "position": "LB",
+        "depthChartPosition": "LILB",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Concussion",
+        "injuryNotes": null
+      },
+      {
         "id": "12497",
         "name": "Tory Horton",
         "team": "SEA",
@@ -23045,7 +23055,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1087,
-    "lastUpdate": "2026-02-08T23:59:50.642Z"
+    "injuredPlayers": 1088,
+    "lastUpdate": "2026-02-09T02:29:55.751Z"
   }
 }
