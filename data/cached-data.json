@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-10T00:05:44.230Z",
+  "lastUpdated": "2026-02-10T02:01:11.768Z",
   "season": 2025,
   "gameStats": [
     {
@@ -17782,6 +17782,16 @@
         "injuryNotes": null
       },
       {
+        "id": "10904",
+        "name": "Keion White",
+        "team": "SF",
+        "position": "DL",
+        "depthChartPosition": "RDE",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": "Surgery"
+      },
+      {
         "id": "10936",
         "name": "Ji'Ayir Brown",
         "team": "SF",
@@ -23055,7 +23065,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 1088,
-    "lastUpdate": "2026-02-10T00:05:44.230Z"
+    "injuredPlayers": 1089,
+    "lastUpdate": "2026-02-10T02:01:11.768Z"
   }
 }
