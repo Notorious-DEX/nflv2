@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-18T23:32:49.286Z",
+  "lastUpdated": "2026-02-19T02:27:20.671Z",
   "season": 2025,
   "gameStats": [
     {
@@ -12894,6 +12894,18 @@
         "injuryNotes": null
       }
     ],
+    "SEA": [
+      {
+        "id": "9753",
+        "name": "Zach Charbonnet",
+        "team": "SEA",
+        "position": "RB",
+        "depthChartPosition": "RB",
+        "injuryStatus": "IR",
+        "injuryBodyPart": null,
+        "injuryNotes": null
+      }
+    ],
     "HOU": [
       {
         "id": "12710",
@@ -12911,7 +12923,7 @@
   "summary": {
     "totalGames": 272,
     "upcomingGames": 0,
-    "injuredPlayers": 79,
-    "lastUpdate": "2026-02-18T23:32:49.286Z"
+    "injuredPlayers": 80,
+    "lastUpdate": "2026-02-19T02:27:20.671Z"
   }
 }
